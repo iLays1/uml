@@ -1,0 +1,3978 @@
+[
+	{
+		"jammer": "chiyeon",
+		"jammer_link": "https://chiyeon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "ANIMA",
+				"title_link": "https://chiyeon.itch.io/anima",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601525",
+				"by": [
+					"chiyeon"
+				],
+				"by_link": [
+					"https://chiyeon.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.571
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "1-99",
+				"title_link": "https://chiyeon.itch.io/1-99",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592787",
+				"by": [
+					"chiyeon"
+				],
+				"by_link": [
+					"https://chiyeon.itch.io/"
+				],
+				"rank": 113,
+				"ratings": 2,
+				"score": 1.667
+			}
+		]
+	},
+	{
+		"jammer": "ralh",
+		"jammer_link": "https://ralh.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 35,
+				"jam_name": "Vikings",
+				"jam_link": "https://itch.io/jam/mini-jam-35-vikings",
+				"title": "Ragnarok Fishing",
+				"title_link": "https://ralh.itch.io/ragnarok-fishing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-35-vikings/rate/473572",
+				"by": [
+					"ralh"
+				],
+				"by_link": [
+					"https://ralh.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.295
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Labyrinth",
+				"title_link": "https://ralh.itch.io/the-labyrinth",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/575279",
+				"by": [
+					"ralh"
+				],
+				"by_link": [
+					"https://ralh.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 4.153
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"title": "The Labyrinth",
+				"title_link": "https://ralh.itch.io/the-labyrinth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575279",
+				"by": [
+					"ralh"
+				],
+				"by_link": [
+					"https://ralh.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.04
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 29,
+				"jam_name": "Ninjas",
+				"jam_link": "https://itch.io/jam/mini-jam-29-ninjas",
+				"title": "Ronja",
+				"title_link": "https://ralh.itch.io/ronja",
+				"submission_page_link": "https://itch.io/jam/mini-jam-29-ninjas/rate/432075",
+				"by": [
+					"ralh"
+				],
+				"by_link": [
+					"https://ralh.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 14,
+				"score": 3.286
+			}
+		]
+	},
+	{
+		"jammer": "Haiyoooo | Artist",
+		"jammer_link": "https://haiyoooo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Your Better Intro-version",
+				"title_link": "https://haiyoooo.itch.io/major-jam-isolated",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600066",
+				"by": [
+					"Haiyoooo | Artist",
+					"validbit",
+					"Kartsu",
+					"Lyrcaxis"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://validbit.itch.io/",
+					"https://kartsuu.itch.io/",
+					"https://lyrcaxis.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 6,
+				"score": 4.125
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"title": "Catinder",
+				"title_link": "https://nyunesu.itch.io/catinder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/646401",
+				"by": [
+					"nyunesu",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://nyunesu.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 28,
+				"score": 3.814
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"title": "Little Starfish",
+				"title_link": "https://skinner-space.itch.io/little-starfish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062854",
+				"by": [
+					"Skinner Space",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://skinner-space.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 3.294
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Turtle Island Defense",
+				"title_link": "https://nocity.itch.io/turtle-island-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592806",
+				"by": [
+					"Nocity",
+					"quweert",
+					"FarBeyond Studio",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://nocity.itch.io/",
+					"https://quweert.itch.io/",
+					"https://farbeyond-studio.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.489
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"title": "Icy Ships",
+				"title_link": "https://erizux.itch.io/icy-ships",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449709",
+				"by": [
+					"Erizux",
+					"Haiyoooo | Artist",
+					"Mantis",
+					"AdamMorton",
+					"Unnamed Collective"
+				],
+				"by_link": [
+					"https://erizux.itch.io/",
+					"https://haiyoooo.itch.io/",
+					"https://mantis.itch.io/",
+					"https://adammorton.itch.io/",
+					"https://unnamed-collective.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 13,
+				"score": 2.519
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"title": "Too-Many-Bunny",
+				"title_link": "https://ash-badas.itch.io/bunny",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430133",
+				"by": [
+					"Ash Badas",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://ash-badas.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 10,
+				"score": 3.425
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"title": "Half-Life",
+				"title_link": "https://haiyoooo.itch.io/half-life",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/965407",
+				"by": [
+					"Haiyoooo | Artist",
+					"mrzepisko"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://mrzepisko.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 8,
+				"score": 3.25
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"title": "Weapon Merge",
+				"title_link": "https://haiyoooo.itch.io/weapon-merge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913114",
+				"by": [
+					"Haiyoooo | Artist",
+					"BugOnDesk"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://bugondesk.itch.io/"
+				],
+				"rank": 104,
+				"ratings": 10,
+				"score": 2.775
+			}
+		]
+	},
+	{
+		"jammer": "validbit",
+		"jammer_link": "https://validbit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Your Better Intro-version",
+				"title_link": "https://haiyoooo.itch.io/major-jam-isolated",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600066",
+				"by": [
+					"Haiyoooo | Artist",
+					"validbit",
+					"Kartsu",
+					"Lyrcaxis"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://validbit.itch.io/",
+					"https://kartsuu.itch.io/",
+					"https://lyrcaxis.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 6,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "Kartsu",
+		"jammer_link": "https://kartsuu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Your Better Intro-version",
+				"title_link": "https://haiyoooo.itch.io/major-jam-isolated",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600066",
+				"by": [
+					"Haiyoooo | Artist",
+					"validbit",
+					"Kartsu",
+					"Lyrcaxis"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://validbit.itch.io/",
+					"https://kartsuu.itch.io/",
+					"https://lyrcaxis.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 6,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "Lyrcaxis",
+		"jammer_link": "https://lyrcaxis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Your Better Intro-version",
+				"title_link": "https://haiyoooo.itch.io/major-jam-isolated",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600066",
+				"by": [
+					"Haiyoooo | Artist",
+					"validbit",
+					"Kartsu",
+					"Lyrcaxis"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://validbit.itch.io/",
+					"https://kartsuu.itch.io/",
+					"https://lyrcaxis.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 6,
+				"score": 4.125
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 12,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-12-heroes-",
+				"title": "KnightWall",
+				"title_link": "https://lyrcaxis.itch.io/knightwall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-12-heroes-/rate/313544",
+				"by": [
+					"Lyrcaxis"
+				],
+				"by_link": [
+					"https://lyrcaxis.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.25
+			}
+		]
+	},
+	{
+		"jammer": "Kinesix",
+		"jammer_link": "https://xkindredkinesis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "64bitpandas",
+		"jammer_link": "https://64bitpandas.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "Epicrider",
+		"jammer_link": "https://epicrider.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "star-wolf",
+		"jammer_link": "https://star-wolf.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "aganesh",
+		"jammer_link": "https://aganesh.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "EnumC",
+		"jammer_link": "https://enumc.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			}
+		]
+	},
+	{
+		"jammer": "draketrought",
+		"jammer_link": "https://draketrought.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Fruit of the Spirit",
+				"title_link": "https://draketrought.itch.io/the-fruit-of-the-spirit",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599423",
+				"by": [
+					"draketrought"
+				],
+				"by_link": [
+					"https://draketrought.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 4.1
+			}
+		]
+	},
+	{
+		"jammer": "Gini Wren",
+		"jammer_link": "https://giniwren.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "No Need For Best",
+				"title_link": "https://giniwren.itch.io/no-need-for-best",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/595397",
+				"by": [
+					"Gini Wren"
+				],
+				"by_link": [
+					"https://giniwren.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 19,
+				"score": 4.053
+			}
+		]
+	},
+	{
+		"jammer": "Artemio Morales",
+		"jammer_link": "https://artemiosans.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Rooombra to the Rescue (Isolation Jam)",
+				"title_link": "https://artemiosans.itch.io/rooombra-to-the-rescue",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601412",
+				"by": [
+					"Artemio Morales",
+					"jonmorales",
+					"Rocketpark"
+				],
+				"by_link": [
+					"https://artemiosans.itch.io/",
+					"https://jonmorales.itch.io/",
+					"https://rocketpark.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 7,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "jonmorales",
+		"jammer_link": "https://jonmorales.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Rooombra to the Rescue (Isolation Jam)",
+				"title_link": "https://artemiosans.itch.io/rooombra-to-the-rescue",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601412",
+				"by": [
+					"Artemio Morales",
+					"jonmorales",
+					"Rocketpark"
+				],
+				"by_link": [
+					"https://artemiosans.itch.io/",
+					"https://jonmorales.itch.io/",
+					"https://rocketpark.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 7,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "Rocketpark",
+		"jammer_link": "https://rocketpark.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Rooombra to the Rescue (Isolation Jam)",
+				"title_link": "https://artemiosans.itch.io/rooombra-to-the-rescue",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601412",
+				"by": [
+					"Artemio Morales",
+					"jonmorales",
+					"Rocketpark"
+				],
+				"by_link": [
+					"https://artemiosans.itch.io/",
+					"https://jonmorales.itch.io/",
+					"https://rocketpark.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 7,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "Bredstickxxx",
+		"jammer_link": "https://bredstickxxx.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Personal Space(ship)",
+				"title_link": "https://bredstickxxx.itch.io/personal-space",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599777",
+				"by": [
+					"Bredstickxxx"
+				],
+				"by_link": [
+					"https://bredstickxxx.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 4,
+				"score": 3.938
+			}
+		]
+	},
+	{
+		"jammer": "riks",
+		"jammer_link": "https://riks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Juniper Jazz, The Great Ghost Detective! Case: 00",
+				"title_link": "https://riks.itch.io/juniper-jazz-the-great-ghost-detective-case-00",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601243",
+				"by": [
+					"riks"
+				],
+				"by_link": [
+					"https://riks.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.917
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"title": "Donut Drop Delivery",
+				"title_link": "https://riks.itch.io/donut-drop-delivery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672058",
+				"by": [
+					"riks",
+					"Harold Air Conditioner",
+					"Blast",
+					"garbagebag"
+				],
+				"by_link": [
+					"https://riks.itch.io/",
+					"https://harold-ac.itch.io/",
+					"https://cameron-connolly.itch.io/",
+					"https://garbagebag.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 10,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "cookiecrayon",
+		"jammer_link": "https://cookiecrayon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 52,
+				"jam_name": "Summit",
+				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
+				"title": "Pikwip",
+				"title_link": "https://cookiecrayon.itch.io/pikwip",
+				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/613121",
+				"by": [
+					"cookiecrayon"
+				],
+				"by_link": [
+					"https://cookiecrayon.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 38,
+				"score": 4.237
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Quiet Space",
+				"title_link": "https://cookiecrayon.itch.io/quiet-space",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598566",
+				"by": [
+					"cookiecrayon"
+				],
+				"by_link": [
+					"https://cookiecrayon.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 24,
+				"score": 3.896
+			}
+		]
+	},
+	{
+		"jammer": "Adam Allsebrook",
+		"jammer_link": "https://adszads.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "5 Second Fuse",
+				"title_link": "https://adszads.itch.io/5-second-fuse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450432",
+				"by": [
+					"Adam Allsebrook"
+				],
+				"by_link": [
+					"https://adszads.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 13,
+				"score": 3.923
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 15,
+				"jam_name": "Technology",
+				"jam_link": "https://itch.io/jam/mini-jam-15-technology",
+				"title": "MultiGun",
+				"title_link": "https://adszads.itch.io/multigun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-15-technology/rate/332296",
+				"by": [
+					"Adam Allsebrook"
+				],
+				"by_link": [
+					"https://adszads.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 3.695
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Detached",
+				"title_link": "https://adszads.itch.io/detached",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600545",
+				"by": [
+					"Adam Allsebrook"
+				],
+				"by_link": [
+					"https://adszads.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 3.857
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 14,
+				"jam_name": "Elements",
+				"jam_link": "https://itch.io/jam/mini-jam-14-elements-",
+				"title": "Out Of Its Element",
+				"title_link": "https://adszads.itch.io/out-of-its-element",
+				"submission_page_link": "https://itch.io/jam/mini-jam-14-elements-/rate/325989",
+				"by": [
+					"Adam Allsebrook"
+				],
+				"by_link": [
+					"https://adszads.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 6,
+				"score": 3.487
+			}
+		]
+	},
+	{
+		"jammer": "TaliOS",
+		"jammer_link": "https://talios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"title": "THUNDERBALL",
+				"title_link": "https://talios.itch.io/thunderball",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912737",
+				"by": [
+					"TaliOS"
+				],
+				"by_link": [
+					"https://talios.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 11,
+				"score": 4.091
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Cough, Marry, Kill",
+				"title_link": "https://talios.itch.io/cough-marry-kill",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601481",
+				"by": [
+					"TaliOS",
+					"InkAndAmaranth",
+					"August",
+					"mbg180"
+				],
+				"by_link": [
+					"https://talios.itch.io/",
+					"https://inkandamaranth.itch.io/",
+					"https://augustapril.itch.io/",
+					"https://mbg180.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 5,
+				"score": 3.85
+			}
+		]
+	},
+	{
+		"jammer": "InkAndAmaranth",
+		"jammer_link": "https://inkandamaranth.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Cough, Marry, Kill",
+				"title_link": "https://talios.itch.io/cough-marry-kill",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601481",
+				"by": [
+					"TaliOS",
+					"InkAndAmaranth",
+					"August",
+					"mbg180"
+				],
+				"by_link": [
+					"https://talios.itch.io/",
+					"https://inkandamaranth.itch.io/",
+					"https://augustapril.itch.io/",
+					"https://mbg180.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 5,
+				"score": 3.85
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"title": "Pareidolia",
+				"title_link": "https://inkandamaranth.itch.io/pareidolia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105162",
+				"by": [
+					"InkAndAmaranth",
+					"Wylli"
+				],
+				"by_link": [
+					"https://inkandamaranth.itch.io/",
+					"https://wylli.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 12,
+				"score": 2.5
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Boxed in the Island",
+				"title_link": "https://augustapril.itch.io/boxed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592731",
+				"by": [
+					"August",
+					"AlexOnTheMoon",
+					"mbg180",
+					"InkAndAmaranth"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://alexonthemoon.itch.io/",
+					"https://mbg180.itch.io/",
+					"https://inkandamaranth.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 2,
+				"score": 1.6
+			}
+		]
+	},
+	{
+		"jammer": "August",
+		"jammer_link": "https://augustapril.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Televerse",
+				"title_link": "https://augustapril.itch.io/televerse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444906",
+				"by": [
+					"August",
+					"Tom Ciccone",
+					"Zomzo"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://tomciccone.itch.io/",
+					"https://zomzo.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 6,
+				"score": 2.778
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Cough, Marry, Kill",
+				"title_link": "https://talios.itch.io/cough-marry-kill",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601481",
+				"by": [
+					"TaliOS",
+					"InkAndAmaranth",
+					"August",
+					"mbg180"
+				],
+				"by_link": [
+					"https://talios.itch.io/",
+					"https://inkandamaranth.itch.io/",
+					"https://augustapril.itch.io/",
+					"https://mbg180.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 5,
+				"score": 3.85
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"title": "Mage Battle!",
+				"title_link": "https://augustapril.itch.io/mage-battle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063123",
+				"by": [
+					"August",
+					"Outer Lives",
+					"Ahmet Kamil Keleş"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://outer-lives.itch.io/",
+					"https://aslangames.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 18,
+				"score": 3.347
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Bombard",
+				"title_link": "https://augustapril.itch.io/bombard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450309",
+				"by": [
+					"August",
+					"Zomzo",
+					"Tom Ciccone"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://zomzo.itch.io/",
+					"https://tomciccone.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 6,
+				"score": 2.835
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"title": "Jammy and the Jelly Invasion",
+				"title_link": "https://augustapril.itch.io/jammy-and-the-jelly-invasion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418437",
+				"by": [
+					"August"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 2,
+				"score": 1.333
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 25,
+				"jam_name": "Spirits",
+				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
+				"title": "Spirit Travel",
+				"title_link": "https://c9-y20-50763.itch.io/proyect-spirit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401655",
+				"by": [
+					"c9_y20_50763",
+					"juunishi master",
+					"August"
+				],
+				"by_link": [
+					"https://c9-y20-50763.itch.io/",
+					"https://juunishi-master.itch.io/",
+					"https://augustapril.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 6,
+				"score": 2.087
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Boxed in the Island",
+				"title_link": "https://augustapril.itch.io/boxed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592731",
+				"by": [
+					"August",
+					"AlexOnTheMoon",
+					"mbg180",
+					"InkAndAmaranth"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://alexonthemoon.itch.io/",
+					"https://mbg180.itch.io/",
+					"https://inkandamaranth.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 2,
+				"score": 1.6
+			}
+		]
+	},
+	{
+		"jammer": "mbg180",
+		"jammer_link": "https://mbg180.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Cough, Marry, Kill",
+				"title_link": "https://talios.itch.io/cough-marry-kill",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601481",
+				"by": [
+					"TaliOS",
+					"InkAndAmaranth",
+					"August",
+					"mbg180"
+				],
+				"by_link": [
+					"https://talios.itch.io/",
+					"https://inkandamaranth.itch.io/",
+					"https://augustapril.itch.io/",
+					"https://mbg180.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 5,
+				"score": 3.85
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Boxed in the Island",
+				"title_link": "https://augustapril.itch.io/boxed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592731",
+				"by": [
+					"August",
+					"AlexOnTheMoon",
+					"mbg180",
+					"InkAndAmaranth"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://alexonthemoon.itch.io/",
+					"https://mbg180.itch.io/",
+					"https://inkandamaranth.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 2,
+				"score": 1.6
+			}
+		]
+	},
+	{
+		"jammer": "Eaz_games",
+		"jammer_link": "https://eaz-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 43,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
+				"title": "OtherSide",
+				"title_link": "https://eaz-games.itch.io/otherside",
+				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/535734",
+				"by": [
+					"Eaz_games"
+				],
+				"by_link": [
+					"https://eaz-games.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 8,
+				"score": 3.344
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "SpaceCraft: War In The Void",
+				"title_link": "https://eaz-games.itch.io/spacecraft-in-the-void",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601356",
+				"by": [
+					"Eaz_games"
+				],
+				"by_link": [
+					"https://eaz-games.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 9,
+				"score": 3.833
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 34,
+				"jam_name": "Balance",
+				"jam_link": "https://itch.io/jam/mini-jam-34-balance",
+				"title": "Rolla Rokka",
+				"title_link": "https://eaz-games.itch.io/rolla-rokka",
+				"submission_page_link": "https://itch.io/jam/mini-jam-34-balance/rate/467345",
+				"by": [
+					"Eaz_games"
+				],
+				"by_link": [
+					"https://eaz-games.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 2.821
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "SeaWars: Naval Blockade",
+				"title_link": "https://eaz-games.itch.io/seawars-naval-blockade",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592712",
+				"by": [
+					"Eaz_games"
+				],
+				"by_link": [
+					"https://eaz-games.itch.io/"
+				],
+				"rank": 100,
+				"ratings": 3,
+				"score": 1.905
+			}
+		]
+	},
+	{
+		"jammer": "Jon Topielski",
+		"jammer_link": "https://jontopielski.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "A Midclubber Night's Dream",
+				"title_link": "https://jontopielski.itch.io/a-midclubber-nights-dream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683582",
+				"by": [
+					"Jon Topielski",
+					"beardy",
+					"Thoof",
+					"mafgar"
+				],
+				"by_link": [
+					"https://jontopielski.itch.io/",
+					"https://beardyyy.itch.io/",
+					"https://thoof.itch.io/",
+					"https://mafgar.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 15,
+				"score": 4.267
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Ghost Roulette",
+				"title_link": "https://jontopielski.itch.io/ghost-roulette",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601618",
+				"by": [
+					"Jon Topielski"
+				],
+				"by_link": [
+					"https://jontopielski.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 5,
+				"score": 3.8
+			}
+		]
+	},
+	{
+		"jammer": "Nycelly",
+		"jammer_link": "https://nycelly.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Legend of Teddy Plubo",
+				"title_link": "https://nycelly.itch.io/the-legend-of-teddy-plubo",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601587",
+				"by": [
+					"Nycelly",
+					"jacktheslayer5",
+					"ULion"
+				],
+				"by_link": [
+					"https://nycelly.itch.io/",
+					"https://jacktheslayer5.itch.io/",
+					"https://ulion.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 10,
+				"score": 3.725
+			}
+		]
+	},
+	{
+		"jammer": "jacktheslayer5",
+		"jammer_link": "https://jacktheslayer5.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Legend of Teddy Plubo",
+				"title_link": "https://nycelly.itch.io/the-legend-of-teddy-plubo",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601587",
+				"by": [
+					"Nycelly",
+					"jacktheslayer5",
+					"ULion"
+				],
+				"by_link": [
+					"https://nycelly.itch.io/",
+					"https://jacktheslayer5.itch.io/",
+					"https://ulion.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 10,
+				"score": 3.725
+			}
+		]
+	},
+	{
+		"jammer": "ULion",
+		"jammer_link": "https://ulion.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Legend of Teddy Plubo",
+				"title_link": "https://nycelly.itch.io/the-legend-of-teddy-plubo",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601587",
+				"by": [
+					"Nycelly",
+					"jacktheslayer5",
+					"ULion"
+				],
+				"by_link": [
+					"https://nycelly.itch.io/",
+					"https://jacktheslayer5.itch.io/",
+					"https://ulion.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 10,
+				"score": 3.725
+			}
+		]
+	},
+	{
+		"jammer": "Carpyn",
+		"jammer_link": "https://carpyn.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Lone Recorder",
+				"title_link": "https://carpyn.itch.io/lone-recorder",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600231",
+				"by": [
+					"Carpyn"
+				],
+				"by_link": [
+					"https://carpyn.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 15,
+				"score": 3.7
+			}
+		]
+	},
+	{
+		"jammer": "FlamingSparrow",
+		"jammer_link": "https://flamingsparrow.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "MegaVoid",
+				"title_link": "https://flamingsparrow.itch.io/megavoid",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601523",
+				"by": [
+					"FlamingSparrow"
+				],
+				"by_link": [
+					"https://flamingsparrow.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 10,
+				"score": 3.7
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Buccaneer Bodyguard",
+				"title_link": "https://flamingsparrow.itch.io/buccaneer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592775",
+				"by": [
+					"FlamingSparrow",
+					"marisoljang",
+					"The nush"
+				],
+				"by_link": [
+					"https://flamingsparrow.itch.io/",
+					"https://marisoljang.itch.io/",
+					"https://the-nush.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 8,
+				"score": 3.225
+			}
+		]
+	},
+	{
+		"jammer": "Thomas",
+		"jammer_link": "https://atavismus.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Yersisland",
+				"title_link": "https://atavismus.itch.io/yersisland",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/592710",
+				"by": [
+					"Thomas"
+				],
+				"by_link": [
+					"https://atavismus.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 13,
+				"score": 3.692
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Yersisland",
+				"title_link": "https://atavismus.itch.io/yersisland",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592710",
+				"by": [
+					"Thomas"
+				],
+				"by_link": [
+					"https://atavismus.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 5,
+				"score": 2.76
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 62,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-62",
+				"title": "Ponglor",
+				"title_link": "https://yonderbread.itch.io/ponglor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751731",
+				"by": [
+					"3u41c",
+					"Thomas"
+				],
+				"by_link": [
+					"https://yonderbread.itch.io/",
+					"https://atavismus.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 6,
+				"score": 3.202
+			}
+		]
+	},
+	{
+		"jammer": "muggio",
+		"jammer_link": "https://muggio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Final Words",
+				"title_link": "https://muggio.itch.io/final-words",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600824",
+				"by": [
+					"muggio"
+				],
+				"by_link": [
+					"https://muggio.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 3,
+				"score": 3.681
+			}
+		]
+	},
+	{
+		"jammer": "Brandon JS Lea",
+		"jammer_link": "https://b-random9.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dead Pit",
+				"title_link": "https://b-random9.itch.io/dead-pit",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601632",
+				"by": [
+					"Brandon JS Lea"
+				],
+				"by_link": [
+					"https://b-random9.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 6,
+				"score": 3.667
+			}
+		]
+	},
+	{
+		"jammer": "Catsoft Works",
+		"jammer_link": "https://catsoft-works.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Deathbed",
+				"title_link": "https://catsoft-works.itch.io/deathbed",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599440",
+				"by": [
+					"Catsoft Works"
+				],
+				"by_link": [
+					"https://catsoft-works.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 10,
+				"score": 3.65
+			}
+		]
+	},
+	{
+		"jammer": "thejoun",
+		"jammer_link": "https://thejoun.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 34,
+				"jam_name": "Balance",
+				"jam_link": "https://itch.io/jam/mini-jam-34-balance",
+				"title": "In Hope Of Peace",
+				"title_link": "https://thejoun.itch.io/inhopeofpeace",
+				"submission_page_link": "https://itch.io/jam/mini-jam-34-balance/rate/466325",
+				"by": [
+					"thejoun"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.604
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"title": "Kaiju Walking Simulator",
+				"title_link": "https://thejoun.itch.io/kaiju",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062717",
+				"by": [
+					"thejoun",
+					"Shichimi",
+					"jakooste"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/",
+					"https://shichimi.itch.io/",
+					"https://jakooste.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 3.69
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "We All Are Game Boys",
+				"title_link": "https://thejoun.itch.io/we-all-are-game-boys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438524",
+				"by": [
+					"thejoun"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 12,
+				"score": 2.979
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 28,
+				"jam_name": "Pirates",
+				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
+				"title": "The Skirmish",
+				"title_link": "https://thejoun.itch.io/the-skirmish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/424509",
+				"by": [
+					"thejoun"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 6,
+				"score": 2.542
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Lifeline",
+				"title_link": "https://thejoun.itch.io/lifeline",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/592451",
+				"by": [
+					"thejoun"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 8,
+				"score": 3.625
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Lifeline",
+				"title_link": "https://thejoun.itch.io/lifeline",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592451",
+				"by": [
+					"thejoun"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 7,
+				"score": 2.829
+			}
+		]
+	},
+	{
+		"jammer": "olaff",
+		"jammer_link": "https://olaff.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "TP vs CV",
+				"title_link": "https://olaff.itch.io/tp-vs-cv",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/594473",
+				"by": [
+					"olaff"
+				],
+				"by_link": [
+					"https://olaff.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 5,
+				"score": 3.55
+			}
+		]
+	},
+	{
+		"jammer": "AkkiPen",
+		"jammer_link": "https://akkipen.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Last Robot Heart",
+				"title_link": "https://akkipen.itch.io/last-robot-heart",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600391",
+				"by": [
+					"AkkiPen"
+				],
+				"by_link": [
+					"https://akkipen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 5,
+				"score": 3.55
+			}
+		]
+	},
+	{
+		"jammer": "Amerigo Gazaway",
+		"jammer_link": "https://amerigo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 29,
+				"jam_name": "Ninjas",
+				"jam_link": "https://itch.io/jam/mini-jam-29-ninjas",
+				"title": "Flute Ninja",
+				"title_link": "https://toriously.itch.io/fluteninja",
+				"submission_page_link": "https://itch.io/jam/mini-jam-29-ninjas/rate/431647",
+				"by": [
+					"Toriously",
+					"Amerigo Gazaway"
+				],
+				"by_link": [
+					"https://toriously.itch.io/",
+					"https://amerigo.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 17,
+				"score": 3.397
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Paper Trail",
+				"title_link": "https://amerigo.itch.io/paper-trail",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601628",
+				"by": [
+					"Amerigo Gazaway"
+				],
+				"by_link": [
+					"https://amerigo.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 7,
+				"score": 3.536
+			}
+		]
+	},
+	{
+		"jammer": "CrispyPear",
+		"jammer_link": "https://crispypear.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dead and Alive",
+				"title_link": "https://crispypear.itch.io/deadlife",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598545",
+				"by": [
+					"CrispyPear"
+				],
+				"by_link": [
+					"https://crispypear.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 8,
+				"score": 3.531
+			}
+		]
+	},
+	{
+		"jammer": "Kiwi",
+		"jammer_link": "https://kiwigamedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Isolated Mind",
+				"title_link": "https://kiwigamedev.itch.io/isolated-mind",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599176",
+				"by": [
+					"Kiwi"
+				],
+				"by_link": [
+					"https://kiwigamedev.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 9,
+				"score": 3.528
+			}
+		]
+	},
+	{
+		"jammer": "ItsNotSimon",
+		"jammer_link": "https://itsnotsimon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Lone Sentry",
+				"title_link": "https://itsnotsimon.itch.io/lone-sentry",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/597626",
+				"by": [
+					"ItsNotSimon"
+				],
+				"by_link": [
+					"https://itsnotsimon.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 11,
+				"score": 3.523
+			}
+		]
+	},
+	{
+		"jammer": "quandangv",
+		"jammer_link": "https://quandangv.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Dinosaurs",
+				"title_link": "https://quandangv.itch.io/dinosaurs",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/580240",
+				"by": [
+					"quandangv"
+				],
+				"by_link": [
+					"https://quandangv.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 8,
+				"score": 3.625
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dinosaurs",
+				"title_link": "https://quandangv.itch.io/dinosaurs",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/580240",
+				"by": [
+					"quandangv"
+				],
+				"by_link": [
+					"https://quandangv.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 13,
+				"score": 3.519
+			}
+		]
+	},
+	{
+		"jammer": "Dilaxer",
+		"jammer_link": "https://dilaxer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Plátano",
+				"title_link": "https://dilaxer.itch.io/platano",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600269",
+				"by": [
+					"Dilaxer"
+				],
+				"by_link": [
+					"https://dilaxer.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 7,
+				"score": 3.464
+			}
+		]
+	},
+	{
+		"jammer": "unknown_patterns",
+		"jammer_link": "https://unknown-patterns.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "ANTIVIRAL: VIROPHAGE",
+				"title_link": "https://unknown-patterns.itch.io/virophage",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598125",
+				"by": [
+					"unknown_patterns"
+				],
+				"by_link": [
+					"https://unknown-patterns.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 5,
+				"score": 3.45
+			}
+		]
+	},
+	{
+		"jammer": "oliverrrr",
+		"jammer_link": "https://oliverrrr.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Totally Normal Island Survival",
+				"title_link": "https://oliverrrr.itch.io/totally-normal-island-survival",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601499",
+				"by": [
+					"oliverrrr"
+				],
+				"by_link": [
+					"https://oliverrrr.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 17,
+				"score": 3.426
+			}
+		]
+	},
+	{
+		"jammer": "hogon2099",
+		"jammer_link": "https://hogon2099.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Tropical Survivor",
+				"title_link": "https://hogon2099.itch.io/tropical-survivor",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/592599",
+				"by": [
+					"hogon2099"
+				],
+				"by_link": [
+					"https://hogon2099.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 9,
+				"score": 3.306
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Tropical Survivor",
+				"title_link": "https://hogon2099.itch.io/tropical-survivor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592599",
+				"by": [
+					"hogon2099"
+				],
+				"by_link": [
+					"https://hogon2099.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 13,
+				"score": 3.046
+			}
+		]
+	},
+	{
+		"jammer": "TaintedFlameGames",
+		"jammer_link": "https://taintedflamegames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "ISO-lation",
+				"title_link": "https://taintedflamegames.itch.io/isolation",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601626",
+				"by": [
+					"TaintedFlameGames"
+				],
+				"by_link": [
+					"https://taintedflamegames.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 6,
+				"score": 3.292
+			}
+		]
+	},
+	{
+		"jammer": "CheeseBaron2",
+		"jammer_link": "https://cheesebaron2.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Stay Dead",
+				"title_link": "https://cheesebaron2.itch.io/stay-dead",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598345",
+				"by": [
+					"CheeseBaron2"
+				],
+				"by_link": [
+					"https://cheesebaron2.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 6,
+				"score": 3.25
+			}
+		]
+	},
+	{
+		"jammer": "ReveVoodoo",
+		"jammer_link": "https://revevoodoo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "METAL.IK VOL I",
+				"title_link": "https://revevoodoo.itch.io/metalik",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/596728",
+				"by": [
+					"ReveVoodoo"
+				],
+				"by_link": [
+					"https://revevoodoo.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 3,
+				"score": 3.248
+			}
+		]
+	},
+	{
+		"jammer": "Elia Coan",
+		"jammer_link": "https://eliacoan.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "You were the keeper",
+				"title_link": "https://eliacoan.itch.io/ywtk",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600930",
+				"by": [
+					"Elia Coan"
+				],
+				"by_link": [
+					"https://eliacoan.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 14,
+				"score": 3.196
+			}
+		]
+	},
+	{
+		"jammer": "IMWgms",
+		"jammer_link": "https://imwgms.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Covid, The Isolation",
+				"title_link": "https://imwgms.itch.io/covidisolation",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/594194",
+				"by": [
+					"IMWgms"
+				],
+				"by_link": [
+					"https://imwgms.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 4,
+				"score": 3.188
+			}
+		]
+	},
+	{
+		"jammer": "LiJingmao",
+		"jammer_link": "https://lijingmao.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Beyond Isolation",
+				"title_link": "https://lijingmao.itch.io/beyondisolation",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600345",
+				"by": [
+					"LiJingmao"
+				],
+				"by_link": [
+					"https://lijingmao.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 8,
+				"score": 3.094
+			}
+		]
+	},
+	{
+		"jammer": "Szivacs",
+		"jammer_link": "https://szivacs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Isolated Worlds",
+				"title_link": "https://szivacs.itch.io/isolated-worlds",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601429",
+				"by": [
+					"Szivacs"
+				],
+				"by_link": [
+					"https://szivacs.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 2,
+				"score": 3.094
+			}
+		]
+	},
+	{
+		"jammer": "NPick",
+		"jammer_link": "https://npick.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dodge and Explode!",
+				"title_link": "https://npick.itch.io/dodge-and-explode",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601456",
+				"by": [
+					"NPick"
+				],
+				"by_link": [
+					"https://npick.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 13,
+				"score": 3.058
+			}
+		]
+	},
+	{
+		"jammer": "basaOnly",
+		"jammer_link": "https://basaonly.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Bob02 In Apocalypse World",
+				"title_link": "https://basaonly.itch.io/bob02-in-apocalypse-world",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600593",
+				"by": [
+					"basaOnly"
+				],
+				"by_link": [
+					"https://basaonly.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 3,
+				"score": 3.031
+			}
+		]
+	},
+	{
+		"jammer": "des1gnerw1tch",
+		"jammer_link": "https://des1gnerw1tch.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Computers have feelings too",
+				"title_link": "https://des1gnerw1tch.itch.io/isolation",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601555",
+				"by": [
+					"des1gnerw1tch"
+				],
+				"by_link": [
+					"https://des1gnerw1tch.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 4,
+				"score": 3
+			}
+		]
+	},
+	{
+		"jammer": "PM34",
+		"jammer_link": "https://pm34.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Drowning Island",
+				"title_link": "https://pm34.itch.io/drowning-island",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592857",
+				"by": [
+					"PM34"
+				],
+				"by_link": [
+					"https://pm34.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 9,
+				"score": 3.311
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Operation: Haunted",
+				"title_link": "https://pm34.itch.io/operation-haunted",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601621",
+				"by": [
+					"PM34"
+				],
+				"by_link": [
+					"https://pm34.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 7,
+				"score": 2.964
+			}
+		]
+	},
+	{
+		"jammer": "Never Given Games",
+		"jammer_link": "https://never-given-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "NGG Parking Game 1.1",
+				"title_link": "https://never-given-games.itch.io/ngg-parking-game",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/594817",
+				"by": [
+					"Never Given Games"
+				],
+				"by_link": [
+					"https://never-given-games.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 5,
+				"score": 2.95
+			}
+		]
+	},
+	{
+		"jammer": "Mick Sengers",
+		"jammer_link": "https://micksengers.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Lonely Bot",
+				"title_link": "https://micksengers.itch.io/lonelybot",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599190",
+				"by": [
+					"Mick Sengers"
+				],
+				"by_link": [
+					"https://micksengers.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 3,
+				"score": 2.887
+			}
+		]
+	},
+	{
+		"jammer": "aycauynk",
+		"jammer_link": "https://aycauynk.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"title": "HellCape",
+				"title_link": "https://ensareray.itch.io/hellcape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854287",
+				"by": [
+					"ensareray",
+					"aycauynk"
+				],
+				"by_link": [
+					"https://ensareray.itch.io/",
+					"https://aycauynk.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 8,
+				"score": 3.031
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Solo Square",
+				"title_link": "https://aycauynk.itch.io/solo-square",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600191",
+				"by": [
+					"aycauynk"
+				],
+				"by_link": [
+					"https://aycauynk.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 12,
+				"score": 2.854
+			}
+		]
+	},
+	{
+		"jammer": "Bluto",
+		"jammer_link": "https://planet-bluto.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Chip, Bit, &amp; Byte - ALPHA 1",
+				"title_link": "https://planet-bluto.itch.io/chip-bit-byte",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/594111",
+				"by": [
+					"Bluto"
+				],
+				"by_link": [
+					"https://planet-bluto.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 3,
+				"score": 2.815
+			}
+		]
+	},
+	{
+		"jammer": "Crypt!c",
+		"jammer_link": "https://cryptc.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Afterlife",
+				"title_link": "https://cryptc.itch.io/gameplay-1",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599824",
+				"by": [
+					"Crypt!c",
+					"Teshia Bennett",
+					"Crase da Crise"
+				],
+				"by_link": [
+					"https://cryptc.itch.io/",
+					"https://serbus.itch.io/",
+					"https://crasedacrise.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 3,
+				"score": 2.815
+			}
+		]
+	},
+	{
+		"jammer": "Teshia Bennett",
+		"jammer_link": "https://serbus.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 45,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-45-dungeons",
+				"title": "Cheating Death",
+				"title_link": "https://pseudofed.itch.io/cheating-death",
+				"submission_page_link": "https://itch.io/jam/mini-jam-45-dungeons/rate/548912",
+				"by": [
+					"Pseudofed",
+					"Teshia Bennett",
+					"ludo9808"
+				],
+				"by_link": [
+					"https://pseudofed.itch.io/",
+					"https://serbus.itch.io/",
+					"https://ludo9808.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 12,
+				"score": 3.117
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 107,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-107-music",
+				"title": "Gravity Beats",
+				"title_link": "https://silvyger.itch.io/gravity-beats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1550981",
+				"by": [
+					"Silvyger",
+					"Teshia Bennett",
+					"ChriztiUit",
+					"Tony Cable"
+				],
+				"by_link": [
+					"https://silvyger.itch.io/",
+					"https://serbus.itch.io/",
+					"https://chriztiuit.itch.io/",
+					"https://ez-munny.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 18,
+				"score": 3.208
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"title": "Oneness",
+				"title_link": "https://leoreth.itch.io/oneness",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632785",
+				"by": [
+					"Elisa Corbeau",
+					"przebot",
+					"Kd1042",
+					"Pixel Lifetime",
+					"Lox.exe",
+					"Teshia Bennett"
+				],
+				"by_link": [
+					"https://leoreth.itch.io/",
+					"https://przebot.itch.io/",
+					"https://kd1042.itch.io/",
+					"https://pixel-lifetime.itch.io/",
+					"https://lox-exe.itch.io/",
+					"https://serbus.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 12,
+				"score": 3.771
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Afterlife",
+				"title_link": "https://cryptc.itch.io/gameplay-1",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599824",
+				"by": [
+					"Crypt!c",
+					"Teshia Bennett",
+					"Crase da Crise"
+				],
+				"by_link": [
+					"https://cryptc.itch.io/",
+					"https://serbus.itch.io/",
+					"https://crasedacrise.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 3,
+				"score": 2.815
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"title": "I'm almost there, my dudes!",
+				"title_link": "https://serbus.itch.io/almost-there-my-dudes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530867",
+				"by": [
+					"Teshia Bennett"
+				],
+				"by_link": [
+					"https://serbus.itch.io/"
+				],
+				"rank": 199,
+				"ratings": 3,
+				"score": 2.346
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"title": "Bees In Arms",
+				"title_link": "https://serbus.itch.io/bees-in-arms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1607994",
+				"by": [
+					"Teshia Bennett"
+				],
+				"by_link": [
+					"https://serbus.itch.io/"
+				],
+				"rank": 213,
+				"ratings": 3,
+				"score": 1.2
+			}
+		]
+	},
+	{
+		"jammer": "Crase da Crise",
+		"jammer_link": "https://crasedacrise.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 61,
+				"jam_name": "Ancient Egypt",
+				"jam_link": "https://itch.io/jam/mini-jam-61",
+				"title": "ArtifactEscape",
+				"title_link": "https://crychair.itch.io/artifactescape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/737333",
+				"by": [
+					"Crychair",
+					"Crase da Crise",
+					"Emmitt Spliff"
+				],
+				"by_link": [
+					"https://crychair.itch.io/",
+					"https://crasedacrise.itch.io/",
+					"https://emmitt-spliff.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 15,
+				"score": 3.35
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Afterlife",
+				"title_link": "https://cryptc.itch.io/gameplay-1",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599824",
+				"by": [
+					"Crypt!c",
+					"Teshia Bennett",
+					"Crase da Crise"
+				],
+				"by_link": [
+					"https://cryptc.itch.io/",
+					"https://serbus.itch.io/",
+					"https://crasedacrise.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 3,
+				"score": 2.815
+			}
+		]
+	},
+	{
+		"jammer": "guizero",
+		"jammer_link": "https://guizero.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 7,
+				"jam_name": "Greek Mythology",
+				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
+				"title": "Greek Gods Race",
+				"title_link": "https://guizero.itch.io/greekgodsrace",
+				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285188",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 6,
+				"score": 2.315
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 11,
+				"jam_name": "Harvest",
+				"jam_link": "https://itch.io/jam/mini-jam-11-",
+				"title": "😠✖🐭",
+				"title_link": "https://guizero.itch.io/protectyourharvest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308566",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 2.394
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 22,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-22-anime",
+				"title": "The SuperNyan",
+				"title_link": "https://guizero.itch.io/the-supernyan",
+				"submission_page_link": "https://itch.io/jam/mini-jam-22-anime/rate/376823",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 6,
+				"score": 1.667
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 37,
+				"jam_name": "Engineering",
+				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
+				"title": "Walls Against The Weather",
+				"title_link": "https://guizero.itch.io/walls-against-the-weather",
+				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487034",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 4,
+				"score": 1.286
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 12,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-12-heroes-",
+				"title": "Different Machine",
+				"title_link": "https://guizero.itch.io/different-machine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-12-heroes-/rate/314089",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 5,
+				"score": 3.165
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 34,
+				"jam_name": "Balance",
+				"jam_link": "https://itch.io/jam/mini-jam-34-balance",
+				"title": "The Sage of Equilibrium",
+				"title_link": "https://guizero.itch.io/the-sage-of-equilibrium",
+				"submission_page_link": "https://itch.io/jam/mini-jam-34-balance/rate/467032",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 10,
+				"score": 2.741
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 42,
+				"jam_name": "Snow",
+				"jam_link": "https://itch.io/jam/mini-jam-42-snow",
+				"title": "X-mas Quest",
+				"title_link": "https://guizero.itch.io/x-mas-quest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-42-snow/rate/527142",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 10,
+				"score": 2.925
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 52,
+				"jam_name": "Summit",
+				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
+				"title": "Steps to The Shooting Star",
+				"title_link": "https://guizero.itch.io/steps-to-the-shooting-star",
+				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/616009",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 8,
+				"score": 3.05
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Deliveries In The Empty City",
+				"title_link": "https://guizero.itch.io/deliveries-in-the-empty-city",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599921",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 5,
+				"score": 2.8
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 62,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-62",
+				"title": "Colorful Walkers",
+				"title_link": "https://guizero.itch.io/colorful-walkers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751986",
+				"by": [
+					"guizero"
+				],
+				"by_link": [
+					"https://guizero.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 6,
+				"score": 2.893
+			}
+		]
+	},
+	{
+		"jammer": "guilgui51",
+		"jammer_link": "https://guilgui51.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Lonely Meteor",
+				"title_link": "https://guilgui51.itch.io/lonely-meteor",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600804",
+				"by": [
+					"guilgui51"
+				],
+				"by_link": [
+					"https://guilgui51.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 5,
+				"score": 2.75
+			}
+		]
+	},
+	{
+		"jammer": "Anton",
+		"jammer_link": "https://afilthy-casual.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Lonely Planet Trading Co.",
+				"title_link": "https://afilthy-casual.itch.io/the-lonely-planet-trading-co",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600146",
+				"by": [
+					"Anton"
+				],
+				"by_link": [
+					"https://afilthy-casual.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 3,
+				"score": 2.742
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"title": "Disengage The Simulator",
+				"title_link": "https://afilthy-casual.itch.io/disengage-the-simulator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1345698",
+				"by": [
+					"Anton"
+				],
+				"by_link": [
+					"https://afilthy-casual.itch.io/"
+				],
+				"rank": 101,
+				"ratings": 5,
+				"score": 1.863
+			}
+		]
+	},
+	{
+		"jammer": "miazelement",
+		"jammer_link": "https://miazelement.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 93,
+				"jam_name": "Vacation",
+				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
+				"title": "VTA Vacation Getaway",
+				"title_link": "https://miazelement.itch.io/vta-vacation-getaway",
+				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1277682",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 11,
+				"score": 2.568
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"title": "Heart Reaper",
+				"title_link": "https://miazelement.itch.io/heart-reaper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1257438",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 17,
+				"score": 3.338
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"title": "Time Wizard OF The West",
+				"title_link": "https://miazelement.itch.io/time-wizard-of-the-west",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930823",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 9,
+				"score": 2.806
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"title": "Oasis Tower Defense",
+				"title_link": "https://miazelement.itch.io/oasis-tower-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632847",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 9,
+				"score": 2.4
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"title": "OvenEscape",
+				"title_link": "https://miazelement.itch.io/ovenescape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1295289",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 18,
+				"score": 2.972
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "CoronaRoids",
+				"title_link": "https://miazelement.itch.io/coronaroids",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/593268",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 5,
+				"score": 2.7
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 72,
+				"jam_name": "Adventure",
+				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
+				"title": "Cube Adventure Die Edition",
+				"title_link": "https://miazelement.itch.io/cube-adventure-die-edition",
+				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894215",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 10,
+				"score": 2.05
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"title": "Cascading Shadow",
+				"title_link": "https://miazelement.itch.io/cascading-shadow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490952",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 8,
+				"score": 2.681
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"title": "Booty In A Bottle",
+				"title_link": "https://miazelement.itch.io/booty-in-a-bottle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/911721",
+				"by": [
+					"miazelement",
+					"David Caldarella"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/",
+					"https://dcal55.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 14,
+				"score": 3.214
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"title": "FuturZZ",
+				"title_link": "https://miazelement.itch.io/futurzz",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/764424",
+				"by": [
+					"miazelement"
+				],
+				"by_link": [
+					"https://miazelement.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 9,
+				"score": 2.556
+			}
+		]
+	},
+	{
+		"jammer": "Baŝto",
+		"jammer_link": "https://basxto.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dessert on a vegan island",
+				"title_link": "https://basxto.itch.io/doavi",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/597166",
+				"by": [
+					"Baŝto"
+				],
+				"by_link": [
+					"https://basxto.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 9,
+				"score": 2.694
+			}
+		]
+	},
+	{
+		"jammer": "Sammy Flemington",
+		"jammer_link": "https://skizzal.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "[NO SIGNAL]",
+				"title_link": "https://skizzal.itch.io/nosignal",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601313",
+				"by": [
+					"Sammy Flemington"
+				],
+				"by_link": [
+					"https://skizzal.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 2,
+				"score": 2.652
+			}
+		]
+	},
+	{
+		"jammer": "MikaelStudios",
+		"jammer_link": "https://mikaelstudios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Robo Isolation",
+				"title_link": "https://mikaelstudios.itch.io/robo-isolation",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601571",
+				"by": [
+					"MikaelStudios"
+				],
+				"by_link": [
+					"https://mikaelstudios.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 2,
+				"score": 2.652
+			}
+		]
+	},
+	{
+		"jammer": "Pat Tompkins",
+		"jammer_link": "https://rompkins.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Toilet Paperboy",
+				"title_link": "https://rompkins.itch.io/toilet-paperboy",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599877",
+				"by": [
+					"Pat Tompkins"
+				],
+				"by_link": [
+					"https://rompkins.itch.io/"
+				],
+				"rank": 59,
+				"ratings": 8,
+				"score": 2.625
+			}
+		]
+	},
+	{
+		"jammer": "FERALBRO",
+		"jammer_link": "https://feralbro.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Tentin Quarantino",
+				"title_link": "https://feralbro.itch.io/tentin-quarantino",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/597843",
+				"by": [
+					"FERALBRO"
+				],
+				"by_link": [
+					"https://feralbro.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 3,
+				"score": 2.598
+			}
+		]
+	},
+	{
+		"jammer": "B_Mark",
+		"jammer_link": "https://b-mark.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "V.I.R.U.S",
+				"title_link": "https://b-mark.itch.io/virus",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601450",
+				"by": [
+					"B_Mark"
+				],
+				"by_link": [
+					"https://b-mark.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 11,
+				"score": 2.591
+			}
+		]
+	},
+	{
+		"jammer": "ohmlet",
+		"jammer_link": "https://ohmlet.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 82,
+				"jam_name": "Doodle",
+				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
+				"title": "Unwanted Roommate",
+				"title_link": "https://ohmlet.itch.io/unwanted-roommate",
+				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1087276",
+				"by": [
+					"ohmlet"
+				],
+				"by_link": [
+					"https://ohmlet.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 14,
+				"score": 3.625
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "PaperRoll",
+				"title_link": "https://ohmlet.itch.io/paperroll",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601474",
+				"by": [
+					"ohmlet"
+				],
+				"by_link": [
+					"https://ohmlet.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 6,
+				"score": 2.542
+			}
+		]
+	},
+	{
+		"jammer": "Kilo Pascal",
+		"jammer_link": "https://kilopascal.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Remnants",
+				"title_link": "https://kilopascal.itch.io/remnants",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599400",
+				"by": [
+					"Kilo Pascal"
+				],
+				"by_link": [
+					"https://kilopascal.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 3,
+				"score": 2.454
+			}
+		]
+	},
+	{
+		"jammer": "huascarelvicioso",
+		"jammer_link": "https://huascarelvicioso.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "robot vs zombie",
+				"title_link": "https://huascarelvicioso.itch.io/robot-vs-zombie",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601589",
+				"by": [
+					"huascarelvicioso"
+				],
+				"by_link": [
+					"https://huascarelvicioso.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 5,
+				"score": 2.45
+			}
+		]
+	},
+	{
+		"jammer": "geojax",
+		"jammer_link": "https://geojax.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Move the E's",
+				"title_link": "https://geojax.itch.io/move-the-es",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444861",
+				"by": [
+					"geojax"
+				],
+				"by_link": [
+					"https://geojax.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 2.409
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 61,
+				"jam_name": "Ancient Egypt",
+				"jam_link": "https://itch.io/jam/mini-jam-61",
+				"title": "NileNile",
+				"title_link": "https://geojax.itch.io/nilenile",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738702",
+				"by": [
+					"geojax"
+				],
+				"by_link": [
+					"https://geojax.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 12,
+				"score": 3.063
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Grand Pong",
+				"title_link": "https://geojax.itch.io/grand-pong",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601260",
+				"by": [
+					"geojax"
+				],
+				"by_link": [
+					"https://geojax.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 6,
+				"score": 2.417
+			}
+		]
+	},
+	{
+		"jammer": "stencil chris",
+		"jammer_link": "https://stencil-chris.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Bound and Determined",
+				"title_link": "https://stencil-chris.itch.io/bound-and-determined",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601623",
+				"by": [
+					"stencil chris"
+				],
+				"by_link": [
+					"https://stencil-chris.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 3,
+				"score": 2.309
+			}
+		]
+	},
+	{
+		"jammer": "Tormarlin",
+		"jammer_link": "https://tormarlin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Memory Isolation: The Game!",
+				"title_link": "https://tormarlin.itch.io/memory-isolation-the-game",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601593",
+				"by": [
+					"Tormarlin"
+				],
+				"by_link": [
+					"https://tormarlin.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 2,
+				"score": 2.298
+			}
+		]
+	},
+	{
+		"jammer": "MRHARU",
+		"jammer_link": "https://mrharu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "I NEED TO GET OUT OF THE BUNKER",
+				"title_link": "https://mrharu.itch.io/ineedtogetoutofthebunker",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598486",
+				"by": [
+					"MRHARU"
+				],
+				"by_link": [
+					"https://mrharu.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 1,
+				"score": 2.25
+			}
+		]
+	},
+	{
+		"jammer": "BlueLlama",
+		"jammer_link": "https://bluellama.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "A Night in Guntown",
+				"title_link": "https://bluellama.itch.io/a-night-in-guntown",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601400",
+				"by": [
+					"BlueLlama"
+				],
+				"by_link": [
+					"https://bluellama.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 3,
+				"score": 2.237
+			}
+		]
+	},
+	{
+		"jammer": "Marty Shambles",
+		"jammer_link": "https://int-litstudio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Charles Bukowski Simulator",
+				"title_link": "https://int-litstudio.itch.io/bukowski-simulator",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/595097",
+				"by": [
+					"Marty Shambles"
+				],
+				"by_link": [
+					"https://int-litstudio.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 4,
+				"score": 2.188
+			}
+		]
+	},
+	{
+		"jammer": "UltimateProGrammer",
+		"jammer_link": "https://ultimateprogrammer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 52,
+				"jam_name": "Summit",
+				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
+				"title": "Finger Dance",
+				"title_link": "https://ultimateprogrammer.itch.io/finger-dance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/617042",
+				"by": [
+					"UltimateProGrammer"
+				],
+				"by_link": [
+					"https://ultimateprogrammer.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 9,
+				"score": 2.8
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "A Lonely Life: Diary of Soul (Major Jam: Isolation)",
+				"title_link": "https://ultimateprogrammer.itch.io/a-lonely-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598120",
+				"by": [
+					"UltimateProGrammer"
+				],
+				"by_link": [
+					"https://ultimateprogrammer.itch.io/"
+				],
+				"rank": 73,
+				"ratings": 6,
+				"score": 2.167
+			}
+		]
+	},
+	{
+		"jammer": "Luka Kldiashili",
+		"jammer_link": "https://lukakldiashvili.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dronehem",
+				"title_link": "https://lukakldiashvili.itch.io/dronehem",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600109",
+				"by": [
+					"Luka Kldiashili",
+					"Beksy"
+				],
+				"by_link": [
+					"https://lukakldiashvili.itch.io/",
+					"https://beksy.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 3,
+				"score": 2.165
+			}
+		]
+	},
+	{
+		"jammer": "Beksy",
+		"jammer_link": "https://beksy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Dronehem",
+				"title_link": "https://lukakldiashvili.itch.io/dronehem",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600109",
+				"by": [
+					"Luka Kldiashili",
+					"Beksy"
+				],
+				"by_link": [
+					"https://lukakldiashvili.itch.io/",
+					"https://beksy.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 3,
+				"score": 2.165
+			}
+		]
+	},
+	{
+		"jammer": "POtO Software",
+		"jammer_link": "https://poto-software.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "None Left",
+				"title_link": "https://poto-software.itch.io/none-left",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/597195",
+				"by": [
+					"POtO Software"
+				],
+				"by_link": [
+					"https://poto-software.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 2,
+				"score": 2.033
+			}
+		]
+	},
+	{
+		"jammer": "Less Loops",
+		"jammer_link": "https://lessloops.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Corona Caper: A  Covideo Game",
+				"title_link": "https://lessloops.itch.io/corona-caper",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/595692",
+				"by": [
+					"Less Loops"
+				],
+				"by_link": [
+					"https://lessloops.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 1,
+				"score": 2
+			}
+		]
+	},
+	{
+		"jammer": "pchitnis",
+		"jammer_link": "https://pchitnis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Tank Fight",
+				"title_link": "https://pchitnis.itch.io/tank-fight",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601558",
+				"by": [
+					"pchitnis"
+				],
+				"by_link": [
+					"https://pchitnis.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 8,
+				"score": 2
+			}
+		]
+	},
+	{
+		"jammer": "TurtleMaster326",
+		"jammer_link": "https://turtlemaster326.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Isolation Island",
+				"title_link": "https://turtlemaster326.itch.io/isolation-island",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601583",
+				"by": [
+					"TurtleMaster326"
+				],
+				"by_link": [
+					"https://turtlemaster326.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 1,
+				"score": 2
+			}
+		]
+	},
+	{
+		"jammer": "ScribblGames",
+		"jammer_link": "https://scribblgames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Orbiter three",
+				"title_link": "https://scribblgames.itch.io/orbiter-three",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/595226",
+				"by": [
+					"ScribblGames"
+				],
+				"by_link": [
+					"https://scribblgames.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 7,
+				"score": 1.964
+			}
+		]
+	},
+	{
+		"jammer": "Toby Yasha",
+		"jammer_link": "https://toby-yasha.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Lost in my Flames[Jam Edition]",
+				"title_link": "https://toby-yasha.itch.io/lost-in-my-flamesjam-edition",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601465",
+				"by": [
+					"Toby Yasha"
+				],
+				"by_link": [
+					"https://toby-yasha.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 2,
+				"score": 1.945
+			}
+		]
+	},
+	{
+		"jammer": "spiellabor",
+		"jammer_link": "https://spiellabor.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "V-Space Disconnected",
+				"title_link": "https://spiellabor.itch.io/v-space-disconnected",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601503",
+				"by": [
+					"spiellabor"
+				],
+				"by_link": [
+					"https://spiellabor.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 2,
+				"score": 1.945
+			}
+		]
+	},
+	{
+		"jammer": "First Inversion",
+		"jammer_link": "https://firstinversion.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Remnants",
+				"title_link": "https://firstinversion.itch.io/remnants",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601347",
+				"by": [
+					"First Inversion"
+				],
+				"by_link": [
+					"https://firstinversion.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 3,
+				"score": 1.876
+			}
+		]
+	},
+	{
+		"jammer": "Nebaj",
+		"jammer_link": "https://nebaj.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Lone Light",
+				"title_link": "https://nebaj.itch.io/the-lone-light",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601476",
+				"by": [
+					"Nebaj"
+				],
+				"by_link": [
+					"https://nebaj.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 1,
+				"score": 1.875
+			}
+		]
+	},
+	{
+		"jammer": "Drunko",
+		"jammer_link": "https://drunko.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Bobbo: The Isolated Robo",
+				"title_link": "https://drunko.itch.io/bobbo-the-isolated-robo",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601395",
+				"by": [
+					"Drunko"
+				],
+				"by_link": [
+					"https://drunko.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 2,
+				"score": 1.856
+			}
+		]
+	},
+	{
+		"jammer": "F1dg3t",
+		"jammer_link": "https://f1dg3t.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Fairies and Isolation",
+				"title_link": "https://f1dg3t.itch.io/fairies-and-isolation",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/593326",
+				"by": [
+					"F1dg3t"
+				],
+				"by_link": [
+					"https://f1dg3t.itch.io/"
+				],
+				"rank": 85,
+				"ratings": 5,
+				"score": 1.85
+			}
+		]
+	},
+	{
+		"jammer": "BazzaGibbs",
+		"jammer_link": "https://bazzagibbs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "Newton's Third",
+				"title_link": "https://bazzagibbs.itch.io/newtons-third",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601845",
+				"by": [
+					"BazzaGibbs",
+					"Kownur"
+				],
+				"by_link": [
+					"https://bazzagibbs.itch.io/",
+					"https://kownur.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 3,
+				"score": 1.804
+			}
+		]
+	}
+]

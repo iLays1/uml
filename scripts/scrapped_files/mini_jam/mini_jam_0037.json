@@ -1,0 +1,600 @@
+[
+	{
+		"title": "Channel 1",
+		"title_link": "https://ashvinr.itch.io/channel-1",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486759",
+		"by": [
+			"AshvinR"
+		],
+		"by_link": [
+			"https://ashvinr.itch.io/"
+		],
+		"rank": 1,
+		"ratings": 5,
+		"score": 3.15,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 1,
+				"score": 4,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Art",
+				"rank": 1,
+				"score": 3.6,
+				"raw_score": 3.6
+			},
+			{
+				"criteria": "Overall",
+				"rank": 1,
+				"score": 3.15,
+				"raw_score": 3.15
+			},
+			{
+				"criteria": "Audio",
+				"rank": 6,
+				"score": 2.2,
+				"raw_score": 2.2
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 8,
+				"score": 2.8,
+				"raw_score": 2.8
+			}
+		]
+	},
+	{
+		"title": "SODA MILLONAIRE",
+		"title_link": "https://funkadelician.itch.io/soda-millonaire",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487133",
+		"by": [
+			"funkadelician"
+		],
+		"by_link": [
+			"https://funkadelician.itch.io/"
+		],
+		"rank": 2,
+		"ratings": 6,
+		"score": 2.958,
+		"table_data": [
+			{
+				"criteria": "Overall",
+				"rank": 2,
+				"score": 2.958,
+				"raw_score": 2.958
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 2,
+				"score": 3.167,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Art",
+				"rank": 3,
+				"score": 3.167,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Audio",
+				"rank": 4,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 7,
+				"score": 2.5,
+				"raw_score": 2.5
+			}
+		]
+	},
+	{
+		"title": "Snapshots of Styx",
+		"title_link": "https://corrade.itch.io/snapshots-of-styx",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487107",
+		"by": [
+			"Corrade"
+		],
+		"by_link": [
+			"https://corrade.itch.io/"
+		],
+		"rank": 3,
+		"ratings": 5,
+		"score": 2.95,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 1,
+				"score": 3.4,
+				"raw_score": 3.4
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 1,
+				"score": 3.2,
+				"raw_score": 3.2
+			},
+			{
+				"criteria": "Art",
+				"rank": 2,
+				"score": 3.2,
+				"raw_score": 3.2
+			},
+			{
+				"criteria": "Overall",
+				"rank": 3,
+				"score": 2.95,
+				"raw_score": 2.95
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 9,
+				"score": 2,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "Super Menu Maker",
+		"title_link": "https://baggie.itch.io/super-menu-maker",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486515",
+		"by": [
+			"Baggie"
+		],
+		"by_link": [
+			"https://baggie.itch.io/"
+		],
+		"rank": 4,
+		"ratings": 5,
+		"score": 2.85,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 2,
+				"score": 3.2,
+				"raw_score": 3.2
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 3,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 4,
+				"score": 2.85,
+				"raw_score": 2.85
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 5,
+				"score": 2.8,
+				"raw_score": 2.8
+			},
+			{
+				"criteria": "Art",
+				"rank": 9,
+				"score": 2.4,
+				"raw_score": 2.4
+			}
+		]
+	},
+	{
+		"title": "Softwar",
+		"title_link": "https://honeytheyellowbear.itch.io/softwar",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487039",
+		"by": [
+			"honeytheyellowbear"
+		],
+		"by_link": [
+			"https://honeytheyellowbear.itch.io/"
+		],
+		"rank": 5,
+		"ratings": 6,
+		"score": 2.833,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 3,
+				"score": 3.333,
+				"raw_score": 3.333
+			},
+			{
+				"criteria": "Audio",
+				"rank": 3,
+				"score": 3.167,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 5,
+				"score": 2.833,
+				"raw_score": 2.833
+			},
+			{
+				"criteria": "Overall",
+				"rank": 5,
+				"score": 2.833,
+				"raw_score": 2.833
+			},
+			{
+				"criteria": "Art",
+				"rank": 11,
+				"score": 2,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "Ice cream factory machines",
+		"title_link": "https://ninomocos.itch.io/ice-cream-factory-machines",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486834",
+		"by": [
+			"Ninomocos"
+		],
+		"by_link": [
+			"https://ninomocos.itch.io/"
+		],
+		"rank": 6,
+		"ratings": 6,
+		"score": 2.75,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 2,
+				"score": 3.667,
+				"raw_score": 3.667
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 5,
+				"score": 2.833,
+				"raw_score": 2.833
+			},
+			{
+				"criteria": "Overall",
+				"rank": 6,
+				"score": 2.75,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Art",
+				"rank": 7,
+				"score": 2.5,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Audio",
+				"rank": 8,
+				"score": 2,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "It can move things",
+		"title_link": "https://random-villain.itch.io/it-can-move-things",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487111",
+		"by": [
+			"random villain"
+		],
+		"by_link": [
+			"https://random-villain.itch.io/"
+		],
+		"rank": 7,
+		"ratings": 4,
+		"score": 2.683,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 4,
+				"score": 3.13,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 4,
+				"score": 2.907,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Audio",
+				"rank": 5,
+				"score": 2.46,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Overall",
+				"rank": 7,
+				"score": 2.683,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Art",
+				"rank": 10,
+				"score": 2.236,
+				"raw_score": 2.5
+			}
+		]
+	},
+	{
+		"title": "Mineglobe",
+		"title_link": "https://manugamesdev.itch.io/mineglobe",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486730",
+		"by": [
+			"ManuGamesDev"
+		],
+		"by_link": [
+			"https://manugamesdev.itch.io/"
+		],
+		"rank": 8,
+		"ratings": 6,
+		"score": 2.583,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 3,
+				"score": 3.167,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 5,
+				"score": 2.833,
+				"raw_score": 2.833
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 6,
+				"score": 2.667,
+				"raw_score": 2.667
+			},
+			{
+				"criteria": "Overall",
+				"rank": 8,
+				"score": 2.583,
+				"raw_score": 2.583
+			},
+			{
+				"criteria": "Audio",
+				"rank": 12,
+				"score": 1.667,
+				"raw_score": 1.667
+			}
+		]
+	},
+	{
+		"title": "Anarchy Creation",
+		"title_link": "https://kevincatlettgames.itch.io/anarchy-creation",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486422",
+		"by": [
+			"Kevin Catlett Games"
+		],
+		"by_link": [
+			"https://kevincatlettgames.itch.io/"
+		],
+		"rank": 9,
+		"ratings": 4,
+		"score": 2.236,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 7,
+				"score": 2.012,
+				"raw_score": 2.25
+			},
+			{
+				"criteria": "Art",
+				"rank": 8,
+				"score": 2.46,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 8,
+				"score": 2.46,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Overall",
+				"rank": 9,
+				"score": 2.236,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 10,
+				"score": 2.012,
+				"raw_score": 2.25
+			}
+		]
+	},
+	{
+		"title": "Get Home",
+		"title_link": "https://yeti-kid.itch.io/get-home",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486936",
+		"by": [
+			"Yeti Kid"
+		],
+		"by_link": [
+			"https://yeti-kid.itch.io/"
+		],
+		"rank": 9,
+		"ratings": 4,
+		"score": 2.236,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 5,
+				"score": 3.13,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Overall",
+				"rank": 9,
+				"score": 2.236,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 9,
+				"score": 2.236,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Audio",
+				"rank": 9,
+				"score": 1.789,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 10,
+				"score": 1.789,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "Medieval Mechanics",
+		"title_link": "https://fydar.itch.io/medieval-mechanics",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486916",
+		"by": [
+			"Anthony Marmont"
+		],
+		"by_link": [
+			"https://fydar.itch.io/"
+		],
+		"rank": 11,
+		"ratings": 4,
+		"score": 1.957,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 6,
+				"score": 2.683,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Audio",
+				"rank": 9,
+				"score": 1.789,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 11,
+				"score": 1.789,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 11,
+				"score": 1.565,
+				"raw_score": 1.75
+			},
+			{
+				"criteria": "Overall",
+				"rank": 11,
+				"score": 1.957,
+				"raw_score": 2.188
+			}
+		]
+	},
+	{
+		"title": "Ghost Hijanks",
+		"title_link": "https://dk5000p.itch.io/ghost-hijanks",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487104",
+		"by": [
+			"dk5000p"
+		],
+		"by_link": [
+			"https://dk5000p.itch.io/"
+		],
+		"rank": 12,
+		"ratings": 7,
+		"score": 1.429,
+		"table_data": [
+			{
+				"criteria": "Overall",
+				"rank": 12,
+				"score": 1.429,
+				"raw_score": 1.429
+			},
+			{
+				"criteria": "Art",
+				"rank": 12,
+				"score": 1.286,
+				"raw_score": 1.286
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 12,
+				"score": 1.714,
+				"raw_score": 1.714
+			},
+			{
+				"criteria": "Audio",
+				"rank": 13,
+				"score": 1.429,
+				"raw_score": 1.429
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 13,
+				"score": 1.286,
+				"raw_score": 1.286
+			}
+		]
+	},
+	{
+		"title": "Walls Against The Weather",
+		"title_link": "https://guizero.itch.io/walls-against-the-weather",
+		"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487034",
+		"by": [
+			"guizero"
+		],
+		"by_link": [
+			"https://guizero.itch.io/"
+		],
+		"rank": 13,
+		"ratings": 4,
+		"score": 1.286,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 9,
+				"score": 1.789,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 12,
+				"score": 1.342,
+				"raw_score": 1.5
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 13,
+				"score": 0.894,
+				"raw_score": 1
+			},
+			{
+				"criteria": "Art",
+				"rank": 13,
+				"score": 1.118,
+				"raw_score": 1.25
+			},
+			{
+				"criteria": "Overall",
+				"rank": 13,
+				"score": 1.286,
+				"raw_score": 1.438
+			}
+		]
+	}
+]

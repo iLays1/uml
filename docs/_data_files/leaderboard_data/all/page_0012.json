@@ -1,0 +1,3328 @@
+[
+	{
+		"jammer": "Treecki",
+		"jammer_link": "https://treecki.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Auster",
+				"title_link": "https://treecki.itch.io/auster",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438652",
+				"by": [
+					"Treecki"
+				],
+				"by_link": [
+					"https://treecki.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 3.174
+			}
+		]
+	},
+	{
+		"jammer": "Luke Mayo",
+		"jammer_link": "https://lukemayo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Cosmic Chain",
+				"title_link": "https://lukemayo.itch.io/gb-jam-entry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/437955",
+				"by": [
+					"Luke Mayo"
+				],
+				"by_link": [
+					"https://lukemayo.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.167
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"title": "Bombadill",
+				"title_link": "https://lukemayo.itch.io/dice-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1103491",
+				"by": [
+					"Luke Mayo",
+					"Slaps"
+				],
+				"by_link": [
+					"https://lukemayo.itch.io/",
+					"https://s1aps.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 13,
+				"score": 3.558
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"title": "Goblin Grotto",
+				"title_link": "https://lukemayo.itch.io/goblin-grotto",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1365584",
+				"by": [
+					"Luke Mayo"
+				],
+				"by_link": [
+					"https://lukemayo.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 4,
+				"score": 2.412
+			}
+		]
+	},
+	{
+		"jammer": "Raychop",
+		"jammer_link": "https://raychop.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Crabs In Troubles",
+				"title_link": "https://raychop.itch.io/crabs-in-trouble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438640",
+				"by": [
+					"Raychop",
+					"Seb_gamedev",
+					"Vincent Pettineo"
+				],
+				"by_link": [
+					"https://raychop.itch.io/",
+					"https://seb-gamedev.itch.io/",
+					"https://vincent-pettineo.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 7,
+				"score": 3.14
+			}
+		]
+	},
+	{
+		"jammer": "Seb_gamedev",
+		"jammer_link": "https://seb-gamedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Crabs In Troubles",
+				"title_link": "https://raychop.itch.io/crabs-in-trouble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438640",
+				"by": [
+					"Raychop",
+					"Seb_gamedev",
+					"Vincent Pettineo"
+				],
+				"by_link": [
+					"https://raychop.itch.io/",
+					"https://seb-gamedev.itch.io/",
+					"https://vincent-pettineo.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 7,
+				"score": 3.14
+			}
+		]
+	},
+	{
+		"jammer": "Vincent Pettineo",
+		"jammer_link": "https://vincent-pettineo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Crabs In Troubles",
+				"title_link": "https://raychop.itch.io/crabs-in-trouble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438640",
+				"by": [
+					"Raychop",
+					"Seb_gamedev",
+					"Vincent Pettineo"
+				],
+				"by_link": [
+					"https://raychop.itch.io/",
+					"https://seb-gamedev.itch.io/",
+					"https://vincent-pettineo.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 7,
+				"score": 3.14
+			}
+		]
+	},
+	{
+		"jammer": "TheXaver",
+		"jammer_link": "https://thexaver.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Deep Breath",
+				"title_link": "https://thexaver.itch.io/deepbreath",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438535",
+				"by": [
+					"TheXaver"
+				],
+				"by_link": [
+					"https://thexaver.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 8,
+				"score": 2.938
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Light Ride",
+				"title_link": "https://thexaver.itch.io/light-ride",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450430",
+				"by": [
+					"TheXaver"
+				],
+				"by_link": [
+					"https://thexaver.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 11,
+				"score": 2.636
+			}
+		]
+	},
+	{
+		"jammer": "rrrffw",
+		"jammer_link": "https://rrrffw.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Super Volcano Escape",
+				"title_link": "https://rrrffw.itch.io/super-volcano-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438514",
+				"by": [
+					"rrrffw"
+				],
+				"by_link": [
+					"https://rrrffw.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 8,
+				"score": 2.906
+			}
+		]
+	},
+	{
+		"jammer": "DomBeE",
+		"jammer_link": "https://dombee.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Eye &amp; I",
+				"title_link": "https://dombee.itch.io/eye-i",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438581",
+				"by": [
+					"DomBeE"
+				],
+				"by_link": [
+					"https://dombee.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 12,
+				"score": 2.896
+			}
+		]
+	},
+	{
+		"jammer": "Marinosa",
+		"jammer_link": "https://marinosa.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Dice Dungeon",
+				"title_link": "https://marinosa.itch.io/dice-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438591",
+				"by": [
+					"Marinosa"
+				],
+				"by_link": [
+					"https://marinosa.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 2.786
+			}
+		]
+	},
+	{
+		"jammer": "eseal",
+		"jammer_link": "https://eseal.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Knife Fight - Demo",
+				"title_link": "https://eseal.itch.io/knife-fight-demo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438507",
+				"by": [
+					"eseal"
+				],
+				"by_link": [
+					"https://eseal.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 10,
+				"score": 2.725
+			}
+		]
+	},
+	{
+		"jammer": "birdsofafeather",
+		"jammer_link": "https://birdsofafeather.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "The Animalcule Piglets ov Firmament",
+				"title_link": "https://birdsofafeather.itch.io/the-animalcule-piglets-ov-firmament",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438479",
+				"by": [
+					"birdsofafeather"
+				],
+				"by_link": [
+					"https://birdsofafeather.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 8,
+				"score": 2.563
+			}
+		]
+	},
+	{
+		"jammer": "odybee",
+		"jammer_link": "https://odybee.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "BLOCK BLOCK",
+				"title_link": "https://odybee.itch.io/block-block",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438666",
+				"by": [
+					"odybee"
+				],
+				"by_link": [
+					"https://odybee.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 4,
+				"score": 2.298
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Water Ninja",
+				"title_link": "https://odybee.itch.io/water-ninja",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457497",
+				"by": [
+					"odybee"
+				],
+				"by_link": [
+					"https://odybee.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 2,
+				"score": 1.118
+			}
+		]
+	},
+	{
+		"jammer": "Noone",
+		"jammer_link": "https://n-one.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "MultiSoloGame",
+				"title_link": "https://n-one.itch.io/multisologame",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/437861",
+				"by": [
+					"Noone"
+				],
+				"by_link": [
+					"https://n-one.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 7,
+				"score": 2.272
+			}
+		]
+	},
+	{
+		"jammer": "Quagraine",
+		"jammer_link": "https://quagraine.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"title": "Umbrella fall",
+				"title_link": "https://quagraine.itch.io/umbrella-fall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438519",
+				"by": [
+					"Quagraine"
+				],
+				"by_link": [
+					"https://quagraine.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 7,
+				"score": 2.238
+			}
+		]
+	},
+	{
+		"jammer": "TheCodeMaster",
+		"jammer_link": "https://thecodemaster.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "MovieJam!",
+				"title_link": "https://thecodemaster.itch.io/moviejam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444983",
+				"by": [
+					"TheCodeMaster"
+				],
+				"by_link": [
+					"https://thecodemaster.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 4.232
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Air Raid - World War II",
+				"title_link": "https://thecodemaster.itch.io/air-raid-world-war-ii",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450688",
+				"by": [
+					"TheCodeMaster"
+				],
+				"by_link": [
+					"https://thecodemaster.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 7,
+				"score": 3.062
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Don't Drown Jared",
+				"title_link": "https://thecodemaster.itch.io/dont-drown-jared",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457488",
+				"by": [
+					"TheCodeMaster"
+				],
+				"by_link": [
+					"https://thecodemaster.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 15,
+				"score": 2.467
+			}
+		]
+	},
+	{
+		"jammer": "Rowen Horbach",
+		"jammer_link": "https://rowenh.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "ZooM",
+				"title_link": "https://j3ns-00.itch.io/zoom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444333",
+				"by": [
+					"Jens Steenmetz",
+					"Rowen Horbach",
+					"Mufaya"
+				],
+				"by_link": [
+					"https://j3ns-00.itch.io/",
+					"https://rowenh.itch.io/",
+					"https://mufaya.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 10,
+				"score": 3.875
+			}
+		]
+	},
+	{
+		"jammer": "Mufaya",
+		"jammer_link": "https://mufaya.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "ZooM",
+				"title_link": "https://j3ns-00.itch.io/zoom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444333",
+				"by": [
+					"Jens Steenmetz",
+					"Rowen Horbach",
+					"Mufaya"
+				],
+				"by_link": [
+					"https://j3ns-00.itch.io/",
+					"https://rowenh.itch.io/",
+					"https://mufaya.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 10,
+				"score": 3.875
+			}
+		]
+	},
+	{
+		"jammer": "Thandoros",
+		"jammer_link": "https://thandoros.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Jam to the future",
+				"title_link": "https://thandoros.itch.io/jam-to-the-future",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444986",
+				"by": [
+					"Thandoros"
+				],
+				"by_link": [
+					"https://thandoros.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 3.781
+			}
+		]
+	},
+	{
+		"jammer": "blondeman",
+		"jammer_link": "https://blondeman.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Gladiators",
+				"title_link": "https://blondeman.itch.io/gladiators",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444934",
+				"by": [
+					"blondeman"
+				],
+				"by_link": [
+					"https://blondeman.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 12,
+				"score": 3.146
+			}
+		]
+	},
+	{
+		"jammer": "Tom Ciccone",
+		"jammer_link": "https://tomciccone.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Televerse",
+				"title_link": "https://augustapril.itch.io/televerse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444906",
+				"by": [
+					"August",
+					"Tom Ciccone",
+					"Zomzo"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://tomciccone.itch.io/",
+					"https://zomzo.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 6,
+				"score": 2.778
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Bombard",
+				"title_link": "https://augustapril.itch.io/bombard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450309",
+				"by": [
+					"August",
+					"Zomzo",
+					"Tom Ciccone"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://zomzo.itch.io/",
+					"https://tomciccone.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 6,
+				"score": 2.835
+			}
+		]
+	},
+	{
+		"jammer": "Zomzo",
+		"jammer_link": "https://zomzo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Televerse",
+				"title_link": "https://augustapril.itch.io/televerse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444906",
+				"by": [
+					"August",
+					"Tom Ciccone",
+					"Zomzo"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://tomciccone.itch.io/",
+					"https://zomzo.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 6,
+				"score": 2.778
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Bombard",
+				"title_link": "https://augustapril.itch.io/bombard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450309",
+				"by": [
+					"August",
+					"Zomzo",
+					"Tom Ciccone"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://zomzo.itch.io/",
+					"https://tomciccone.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 6,
+				"score": 2.835
+			}
+		]
+	},
+	{
+		"jammer": "EcStatic Games",
+		"jammer_link": "https://ecstatic-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Agile and Angry",
+				"title_link": "https://ecstatic-games.itch.io/agile-and-angry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444935",
+				"by": [
+					"EcStatic Games"
+				],
+				"by_link": [
+					"https://ecstatic-games.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 9,
+				"score": 2.639
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 40,
+				"jam_name": "Hunters",
+				"jam_link": "https://itch.io/jam/mini-jam-40-hunters",
+				"title": "The Approach",
+				"title_link": "https://ecstatic-games.itch.io/the-approach",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510475",
+				"by": [
+					"EcStatic Games"
+				],
+				"by_link": [
+					"https://ecstatic-games.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 9,
+				"score": 3.111
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"title": "Bobble Construccioni",
+				"title_link": "https://ecstatic-games.itch.io/bobble-construccioni",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121651",
+				"by": [
+					"EcStatic Games"
+				],
+				"by_link": [
+					"https://ecstatic-games.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 9,
+				"score": 3.639
+			}
+		]
+	},
+	{
+		"jammer": "mintmosaic",
+		"jammer_link": "https://mintmosaic.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Royal Silver Tin Cinema",
+				"title_link": "https://mintmosaic.itch.io/royal-silver-tin-cinema",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444979",
+				"by": [
+					"mintmosaic"
+				],
+				"by_link": [
+					"https://mintmosaic.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 2.5
+			}
+		]
+	},
+	{
+		"jammer": "rroni",
+		"jammer_link": "https://rroni.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "kaBOOM",
+				"title_link": "https://rroni.itch.io/kaboom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444834",
+				"by": [
+					"rroni"
+				],
+				"by_link": [
+					"https://rroni.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 4,
+				"score": 2.386
+			}
+		]
+	},
+	{
+		"jammer": "NORWAY",
+		"jammer_link": "https://norway.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "The Clapper",
+				"title_link": "https://norway.itch.io/theclapper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444742",
+				"by": [
+					"NORWAY"
+				],
+				"by_link": [
+					"https://norway.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 6,
+				"score": 1.876
+			}
+		]
+	},
+	{
+		"jammer": "Partially",
+		"jammer_link": "https://partially0.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Fight Scrub",
+				"title_link": "https://partially0.itch.io/fight-scrub",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444891",
+				"by": [
+					"Partially"
+				],
+				"by_link": [
+					"https://partially0.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 1.732
+			}
+		]
+	},
+	{
+		"jammer": "kallum72",
+		"jammer_link": "https://kallum72.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "Movie Maker",
+				"title_link": "https://kallum72.itch.io/movie-maker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/443991",
+				"by": [
+					"kallum72"
+				],
+				"by_link": [
+					"https://kallum72.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 6,
+				"score": 1.624
+			}
+		]
+	},
+	{
+		"jammer": "salube",
+		"jammer_link": "https://salube.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "13. Friday",
+				"title_link": "https://salube.itch.io/13-friday",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444943",
+				"by": [
+					"salube"
+				],
+				"by_link": [
+					"https://salube.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 4,
+				"score": 1.37
+			}
+		]
+	},
+	{
+		"jammer": "amasuri",
+		"jammer_link": "https://amasuri.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Banjo Battie",
+				"title_link": "https://amasuri.itch.io/banjo-battie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450527",
+				"by": [
+					"amasuri",
+					"YoukaiDrawing",
+					"sat9"
+				],
+				"by_link": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://sat9.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 3.909
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"title": "Witchy",
+				"title_link": "https://amasuri.itch.io/witchy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999138",
+				"by": [
+					"amasuri",
+					"YoukaiDrawing",
+					"anivire"
+				],
+				"by_link": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://anivire.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 28,
+				"score": 3.75
+			}
+		]
+	},
+	{
+		"jammer": "YoukaiDrawing",
+		"jammer_link": "https://youkaidrawing.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Banjo Battie",
+				"title_link": "https://amasuri.itch.io/banjo-battie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450527",
+				"by": [
+					"amasuri",
+					"YoukaiDrawing",
+					"sat9"
+				],
+				"by_link": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://sat9.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 3.909
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"title": "Witchy",
+				"title_link": "https://amasuri.itch.io/witchy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999138",
+				"by": [
+					"amasuri",
+					"YoukaiDrawing",
+					"anivire"
+				],
+				"by_link": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://anivire.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 28,
+				"score": 3.75
+			}
+		]
+	},
+	{
+		"jammer": "sat9",
+		"jammer_link": "https://sat9.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Banjo Battie",
+				"title_link": "https://amasuri.itch.io/banjo-battie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450527",
+				"by": [
+					"amasuri",
+					"YoukaiDrawing",
+					"sat9"
+				],
+				"by_link": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://sat9.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 3.909
+			}
+		]
+	},
+	{
+		"jammer": "Matin",
+		"jammer_link": "https://matin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "BomBit",
+				"title_link": "https://matin.itch.io/bombit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450599",
+				"by": [
+					"Matin"
+				],
+				"by_link": [
+					"https://matin.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 3.886
+			}
+		]
+	},
+	{
+		"jammer": "GuyGershon",
+		"jammer_link": "https://guygershon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Rain Of Bombs",
+				"title_link": "https://guygershon.itch.io/rain-of-bombs",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450671",
+				"by": [
+					"GuyGershon"
+				],
+				"by_link": [
+					"https://guygershon.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 12,
+				"score": 3.708
+			}
+		]
+	},
+	{
+		"jammer": "Madmanden",
+		"jammer_link": "https://madmandendk.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "The Boring City",
+				"title_link": "https://madmandendk.itch.io/the-boring-city",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450475",
+				"by": [
+					"Madmanden"
+				],
+				"by_link": [
+					"https://madmandendk.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.6
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Lightbringer",
+				"title_link": "https://madmandendk.itch.io/lightbringer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457146",
+				"by": [
+					"Madmanden"
+				],
+				"by_link": [
+					"https://madmandendk.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 6,
+				"score": 2.743
+			}
+		]
+	},
+	{
+		"jammer": "sefan",
+		"jammer_link": "https://sefan.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Bomb it",
+				"title_link": "https://sefan.itch.io/bomb-it",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450392",
+				"by": [
+					"sefan"
+				],
+				"by_link": [
+					"https://sefan.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 14,
+				"score": 3.5
+			}
+		]
+	},
+	{
+		"jammer": "M. Biernat",
+		"jammer_link": "https://m-biernat.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"title": "Splash It!",
+				"title_link": "https://m-biernat.itch.io/splash-it",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575090",
+				"by": [
+					"M. Biernat"
+				],
+				"by_link": [
+					"https://m-biernat.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 11,
+				"score": 3.764
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 34,
+				"jam_name": "Balance",
+				"jam_link": "https://itch.io/jam/mini-jam-34-balance",
+				"title": "PILE UP!",
+				"title_link": "https://m-biernat.itch.io/pile-up",
+				"submission_page_link": "https://itch.io/jam/mini-jam-34-balance/rate/467460",
+				"by": [
+					"M. Biernat"
+				],
+				"by_link": [
+					"https://m-biernat.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 12,
+				"score": 3.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "BOMBSITE",
+				"title_link": "https://m-biernat.itch.io/bombsite",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450449",
+				"by": [
+					"M. Biernat"
+				],
+				"by_link": [
+					"https://m-biernat.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 12,
+				"score": 3.313
+			}
+		]
+	},
+	{
+		"jammer": "ikuti",
+		"jammer_link": "https://ikuti.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Area 51: To the rescue",
+				"title_link": "https://ikuti.itch.io/area-51-to-the-rescue",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450523",
+				"by": [
+					"ikuti",
+					"Frost"
+				],
+				"by_link": [
+					"https://ikuti.itch.io/",
+					"https://frost-gdv.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 10,
+				"score": 3.196
+			}
+		]
+	},
+	{
+		"jammer": "Frost",
+		"jammer_link": "https://frost-gdv.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Area 51: To the rescue",
+				"title_link": "https://ikuti.itch.io/area-51-to-the-rescue",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450523",
+				"by": [
+					"ikuti",
+					"Frost"
+				],
+				"by_link": [
+					"https://ikuti.itch.io/",
+					"https://frost-gdv.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 10,
+				"score": 3.196
+			}
+		]
+	},
+	{
+		"jammer": "x17Boy",
+		"jammer_link": "https://x17boy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "The Little Bomb",
+				"title_link": "https://x17boy.itch.io/the-little-bomb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450706",
+				"by": [
+					"x17Boy"
+				],
+				"by_link": [
+					"https://x17boy.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 14,
+				"score": 3.071
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Call of Dungeons | Harmless Weapons",
+				"title_link": "https://x17boy.itch.io/callofdungeons-harmless-weapons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247713",
+				"by": [
+					"x17Boy"
+				],
+				"by_link": [
+					"https://x17boy.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 10,
+				"score": 2.975
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"title": "Heart Hunter x Ice",
+				"title_link": "https://x17boy.itch.io/heart-hunter-x-ice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2361840",
+				"by": [
+					"x17Boy"
+				],
+				"by_link": [
+					"https://x17boy.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 11,
+				"score": 3.318
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"title": "Ninja Nightmare - A Gdevelop Story",
+				"title_link": "https://x17boy.itch.io/ninja-nightmare-a-gdevelop-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341279",
+				"by": [
+					"x17Boy"
+				],
+				"by_link": [
+					"https://x17boy.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 7,
+				"score": 2.94
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"title": "Pinball Pong Master",
+				"title_link": "https://x17boy.itch.io/pinball-pong-master",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268298",
+				"by": [
+					"x17Boy"
+				],
+				"by_link": [
+					"https://x17boy.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 13,
+				"score": 2.385
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"title": "Don'tStopBird [PROTOTYPE]",
+				"title_link": "https://x17boy.itch.io/dontstopbird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389299",
+				"by": [
+					"x17Boy"
+				],
+				"by_link": [
+					"https://x17boy.itch.io/"
+				],
+				"rank": 199,
+				"ratings": 7,
+				"score": 2.142
+			}
+		]
+	},
+	{
+		"jammer": "MADiFold Studio",
+		"jammer_link": "https://madifold.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Boom!Tube",
+				"title_link": "https://madifold.itch.io/boomtube",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450465",
+				"by": [
+					"MADiFold Studio"
+				],
+				"by_link": [
+					"https://madifold.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.025
+			}
+		]
+	},
+	{
+		"jammer": "Beth333",
+		"jammer_link": "https://beth333.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Demolition Pig",
+				"title_link": "https://beth333.itch.io/demolition-pig",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450638",
+				"by": [
+					"Beth333"
+				],
+				"by_link": [
+					"https://beth333.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 17,
+				"score": 2.765
+			}
+		]
+	},
+	{
+		"jammer": "Firelord Bob",
+		"jammer_link": "https://firelord-bob.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"title": "The Magic Lance",
+				"title_link": "https://firelord-bob.itch.io/the-magic-lance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/503077",
+				"by": [
+					"Firelord Bob"
+				],
+				"by_link": [
+					"https://firelord-bob.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 3.575
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Trainger Danger!",
+				"title_link": "https://firelord-bob.itch.io/trainger-danger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450730",
+				"by": [
+					"Firelord Bob"
+				],
+				"by_link": [
+					"https://firelord-bob.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 6,
+				"score": 2.709
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 72,
+				"jam_name": "Adventure",
+				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
+				"title": "Little Death",
+				"title_link": "https://firelord-bob.itch.io/little-death",
+				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894100",
+				"by": [
+					"Firelord Bob"
+				],
+				"by_link": [
+					"https://firelord-bob.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 10,
+				"score": 3.2
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 52,
+				"jam_name": "Summit",
+				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
+				"title": "Surmount The Summit",
+				"title_link": "https://firelord-bob.itch.io/surmount-the-summit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/617086",
+				"by": [
+					"Firelord Bob"
+				],
+				"by_link": [
+					"https://firelord-bob.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 3,
+				"score": 2.041
+			}
+		]
+	},
+	{
+		"jammer": "Jorres",
+		"jammer_link": "https://jorres.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Explode With Me",
+				"title_link": "https://jorres.itch.io/explode-with-me",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450454",
+				"by": [
+					"Jorres"
+				],
+				"by_link": [
+					"https://jorres.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 12,
+				"score": 2.333
+			}
+		]
+	},
+	{
+		"jammer": "jellycake222",
+		"jammer_link": "https://jellycake222.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Bubble Fish",
+				"title_link": "https://jellycake222.itch.io/bubble-fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457438",
+				"by": [
+					"jellycake222"
+				],
+				"by_link": [
+					"https://jellycake222.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 9,
+				"score": 2.741
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Bombs N' Gems",
+				"title_link": "https://jellycake222.itch.io/bombs-n-gems",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450692",
+				"by": [
+					"jellycake222"
+				],
+				"by_link": [
+					"https://jellycake222.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 11,
+				"score": 2.068
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"title": "Space Exploration",
+				"title_link": "https://jellycake222.itch.io/space-exploration",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763684",
+				"by": [
+					"jellycake222"
+				],
+				"by_link": [
+					"https://jellycake222.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 14,
+				"score": 3.107
+			}
+		]
+	},
+	{
+		"jammer": "SybatronBAKA",
+		"jammer_link": "https://sybatronbaka.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "God's judgement",
+				"title_link": "https://sybatronbaka.itch.io/gods-judgement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450618",
+				"by": [
+					"SybatronBAKA"
+				],
+				"by_link": [
+					"https://sybatronbaka.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 12,
+				"score": 2.063
+			}
+		]
+	},
+	{
+		"jammer": "clockupstudio",
+		"jammer_link": "https://clockupstudio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "DrillerBomber",
+				"title_link": "https://clockupstudio.itch.io/drillerbomber",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450399",
+				"by": [
+					"clockupstudio"
+				],
+				"by_link": [
+					"https://clockupstudio.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 10,
+				"score": 2.001
+			}
+		]
+	},
+	{
+		"jammer": "Mathurin",
+		"jammer_link": "https://mathurin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Minesweeper Remake",
+				"title_link": "https://mathurin.itch.io/minesweeper-remake",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450619",
+				"by": [
+					"Mathurin"
+				],
+				"by_link": [
+					"https://mathurin.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 6,
+				"score": 1.89
+			}
+		]
+	},
+	{
+		"jammer": "reals",
+		"jammer_link": "https://reals.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Crash Corp.",
+				"title_link": "https://reals.itch.io/crash-corp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450673",
+				"by": [
+					"reals"
+				],
+				"by_link": [
+					"https://reals.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 5,
+				"score": 1.553
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 65,
+				"jam_name": "Abandoned",
+				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
+				"title": "MOON 55897 - M31 GALAXY",
+				"title_link": "https://reals.itch.io/moon-55897-m31-galaxy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/794109",
+				"by": [
+					"reals"
+				],
+				"by_link": [
+					"https://reals.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 2,
+				"score": 2.004
+			}
+		]
+	},
+	{
+		"jammer": "NeoMaximus",
+		"jammer_link": "https://neomaximus.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Boom Out",
+				"title_link": "https://neomaximus.itch.io/boom-out",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450461",
+				"by": [
+					"NeoMaximus"
+				],
+				"by_link": [
+					"https://neomaximus.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 6,
+				"score": 1.354
+			}
+		]
+	},
+	{
+		"jammer": "Surprise!_Crabs?",
+		"jammer_link": "https://surprise-crabs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "DECON Co.",
+				"title_link": "https://surprise-crabs.itch.io/decon-co",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450520",
+				"by": [
+					"Surprise!_Crabs?"
+				],
+				"by_link": [
+					"https://surprise-crabs.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 6,
+				"score": 1.323
+			}
+		]
+	},
+	{
+		"jammer": "snufflesrea",
+		"jammer_link": "https://snufflesrea.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"title": "Galaxy Shooter",
+				"title_link": "https://snufflesrea.itch.io/galaxy-shooter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/449067",
+				"by": [
+					"snufflesrea"
+				],
+				"by_link": [
+					"https://snufflesrea.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 1.134
+			}
+		]
+	},
+	{
+		"jammer": "Bobby_The_Goblin",
+		"jammer_link": "https://bobbythegoblin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			}
+		]
+	},
+	{
+		"jammer": "VikS",
+		"jammer_link": "https://viks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"title": "Monster Slayer",
+				"title_link": "https://nithinmuthukumar.itch.io/monster-slayer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/503088",
+				"by": [
+					"nithinmuthukumar",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://nithinmuthukumar.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 5,
+				"score": 1.752
+			}
+		]
+	},
+	{
+		"jammer": "HeroOfSkies",
+		"jammer_link": "https://heroofskies.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			}
+		]
+	},
+	{
+		"jammer": "Jenny Shen",
+		"jammer_link": "https://jennyshencomposer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"title": "Monster Slayer",
+				"title_link": "https://nithinmuthukumar.itch.io/monster-slayer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/503088",
+				"by": [
+					"nithinmuthukumar",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://nithinmuthukumar.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 5,
+				"score": 1.752
+			}
+		]
+	},
+	{
+		"jammer": "Walker Perkins",
+		"jammer_link": "https://walker-p.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Bibbledy Pip",
+				"title_link": "https://walker-p.itch.io/bibbledy-pip",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456779",
+				"by": [
+					"Walker Perkins"
+				],
+				"by_link": [
+					"https://walker-p.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.333
+			}
+		]
+	},
+	{
+		"jammer": "Trixie",
+		"jammer_link": "https://trixelized.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "ZEE Classic",
+				"title_link": "https://trixelized.itch.io/zee",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456398",
+				"by": [
+					"Trixie"
+				],
+				"by_link": [
+					"https://trixelized.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 13,
+				"score": 4.115
+			}
+		]
+	},
+	{
+		"jammer": "GoldGleam Studio",
+		"jammer_link": "https://goldgleam-studio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Bubble Dash",
+				"title_link": "https://goldgleam-studio.itch.io/bubble-dash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457479",
+				"by": [
+					"GoldGleam Studio"
+				],
+				"by_link": [
+					"https://goldgleam-studio.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 18,
+				"score": 3.986
+			}
+		]
+	},
+	{
+		"jammer": "qst0",
+		"jammer_link": "https://qst0.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Bubble Fishies",
+				"title_link": "https://qst0.itch.io/bubble-fishies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456964",
+				"by": [
+					"qst0"
+				],
+				"by_link": [
+					"https://qst0.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 15,
+				"score": 3.633
+			}
+		]
+	},
+	{
+		"jammer": "Desmazio",
+		"jammer_link": "https://desmazio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "1847: Underwater Threat",
+				"title_link": "https://desmazio.itch.io/1847-underwater-threat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457252",
+				"by": [
+					"Desmazio"
+				],
+				"by_link": [
+					"https://desmazio.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 3.545
+			}
+		]
+	},
+	{
+		"jammer": "CherryDrink Games",
+		"jammer_link": "https://cherrydrink-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Physalis",
+				"title_link": "https://cherrydrink-games.itch.io/physalis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457103",
+				"by": [
+					"CherryDrink Games"
+				],
+				"by_link": [
+					"https://cherrydrink-games.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.482
+			}
+		]
+	},
+	{
+		"jammer": "Jesse Eisenbart",
+		"jammer_link": "https://jesseeisenbart.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 49,
+				"jam_name": "Seasons",
+				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
+				"title": "4 Seasons Journey",
+				"title_link": "https://jesseeisenbart.itch.io/4-seasons-journey",
+				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/584362",
+				"by": [
+					"Jesse Eisenbart"
+				],
+				"by_link": [
+					"https://jesseeisenbart.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 6,
+				"score": 3.642
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Little Pink Submarine (Jam Version)",
+				"title_link": "https://jesseeisenbart.itch.io/little-pink-submarine-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457495",
+				"by": [
+					"Jesse Eisenbart"
+				],
+				"by_link": [
+					"https://jesseeisenbart.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 7,
+				"score": 3.466
+			}
+		]
+	},
+	{
+		"jammer": "Alfenhose",
+		"jammer_link": "https://alfenhose.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "Color5",
+				"title_link": "https://alfenhose.itch.io/color5",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556670",
+				"by": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.586
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Janky's Underwater Adventure",
+				"title_link": "https://alfenhose.itch.io/jankys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457483",
+				"by": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.452
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "PiraSea",
+				"title_link": "https://k0cc4.itch.io/pirasea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592692",
+				"by": [
+					"k0cc4",
+					"Alfenhose"
+				],
+				"by_link": [
+					"https://k0cc4.itch.io/",
+					"https://alfenhose.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 3,
+				"score": 2.776
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"title": "Limitation Voter 3000",
+				"title_link": "https://alfenhose.itch.io/limitation-voter-3000",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/927392",
+				"by": [
+					"Alfenhose"
+				],
+				"by_link": [
+					"https://alfenhose.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 2,
+				"score": 1.938
+			}
+		]
+	},
+	{
+		"jammer": "k0cc4",
+		"jammer_link": "https://k0cc4.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "Color5",
+				"title_link": "https://alfenhose.itch.io/color5",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556670",
+				"by": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.586
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Janky's Underwater Adventure",
+				"title_link": "https://alfenhose.itch.io/jankys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457483",
+				"by": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.452
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"title": "Monster Hunter Land",
+				"title_link": "https://k0cc4.itch.io/monster-hunter-land",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/502941",
+				"by": [
+					"k0cc4"
+				],
+				"by_link": [
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 9,
+				"score": 2.417
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "PiraSea",
+				"title_link": "https://k0cc4.itch.io/pirasea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592692",
+				"by": [
+					"k0cc4",
+					"Alfenhose"
+				],
+				"by_link": [
+					"https://k0cc4.itch.io/",
+					"https://alfenhose.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 3,
+				"score": 2.776
+			}
+		]
+	},
+	{
+		"jammer": "Puddlehead Creations",
+		"jammer_link": "https://puddlehead-creations.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Sentient Sink Bubble",
+				"title_link": "https://puddlehead-creations.itch.io/sentient-sink-bubble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457418",
+				"by": [
+					"Puddlehead Creations"
+				],
+				"by_link": [
+					"https://puddlehead-creations.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 7,
+				"score": 3.197
+			}
+		]
+	},
+	{
+		"jammer": "tadashibashi",
+		"jammer_link": "https://tadashibashi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Reel 'Em In!",
+				"title_link": "https://tadashibashi.itch.io/reel-em-in",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456878",
+				"by": [
+					"tadashibashi",
+					"NucMahp"
+				],
+				"by_link": [
+					"https://tadashibashi.itch.io/",
+					"https://nucmahp.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 17,
+				"score": 3.176
+			}
+		]
+	},
+	{
+		"jammer": "NucMahp",
+		"jammer_link": "https://nucmahp.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Reel 'Em In!",
+				"title_link": "https://tadashibashi.itch.io/reel-em-in",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456878",
+				"by": [
+					"tadashibashi",
+					"NucMahp"
+				],
+				"by_link": [
+					"https://tadashibashi.itch.io/",
+					"https://nucmahp.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 17,
+				"score": 3.176
+			}
+		]
+	},
+	{
+		"jammer": "abababbb",
+		"jammer_link": "https://abababbb.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Fish.",
+				"title_link": "https://abababbb.itch.io/fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457152",
+				"by": [
+					"abababbb"
+				],
+				"by_link": [
+					"https://abababbb.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 16,
+				"score": 3.094
+			}
+		]
+	},
+	{
+		"jammer": "Allus Interactive",
+		"jammer_link": "https://allusinteractive.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Scuba Dive Danger",
+				"title_link": "https://allusinteractive.itch.io/scuba-dive-danger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456997",
+				"by": [
+					"Allus Interactive"
+				],
+				"by_link": [
+					"https://allusinteractive.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 12,
+				"score": 2.896
+			}
+		]
+	},
+	{
+		"jammer": "Mastrix",
+		"jammer_link": "https://mastrix.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Turtle Survival",
+				"title_link": "https://mastrix.itch.io/turtle-survival",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456871",
+				"by": [
+					"Mastrix"
+				],
+				"by_link": [
+					"https://mastrix.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 9,
+				"score": 2.846
+			}
+		]
+	},
+	{
+		"jammer": "Wei Jiun",
+		"jammer_link": "https://weijiunlim.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Sleeping with the Fishes",
+				"title_link": "https://weijiunlim.itch.io/sleeping-with-the-fishes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457419",
+				"by": [
+					"Wei Jiun"
+				],
+				"by_link": [
+					"https://weijiunlim.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 5,
+				"score": 2.793
+			}
+		]
+	},
+	{
+		"jammer": "Dei-bit",
+		"jammer_link": "https://dei-bit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Corrupted sea",
+				"title_link": "https://dei-bit.itch.io/corrupted-sea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457077",
+				"by": [
+					"Dei-bit"
+				],
+				"by_link": [
+					"https://dei-bit.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 12,
+				"score": 2.667
+			}
+		]
+	},
+	{
+		"jammer": "Plukers",
+		"jammer_link": "https://plukers.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Fishfists",
+				"title_link": "https://plukers.itch.io/fishfists",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457357",
+				"by": [
+					"Plukers",
+					"Joschi"
+				],
+				"by_link": [
+					"https://plukers.itch.io/",
+					"https://joschi1212.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 13,
+				"score": 2.558
+			}
+		]
+	},
+	{
+		"jammer": "Joschi",
+		"jammer_link": "https://joschi1212.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Fishfists",
+				"title_link": "https://plukers.itch.io/fishfists",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457357",
+				"by": [
+					"Plukers",
+					"Joschi"
+				],
+				"by_link": [
+					"https://plukers.itch.io/",
+					"https://joschi1212.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 13,
+				"score": 2.558
+			}
+		]
+	},
+	{
+		"jammer": "HeroTeddy",
+		"jammer_link": "https://heroteddy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Water Ninja",
+				"title_link": "https://heroteddy.itch.io/water-ninja",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457804",
+				"by": [
+					"HeroTeddy",
+					"GalaxyWarrior4999"
+				],
+				"by_link": [
+					"https://heroteddy.itch.io/",
+					"https://galaxywarrior4999.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 16,
+				"score": 2.469
+			}
+		]
+	},
+	{
+		"jammer": "GalaxyWarrior4999",
+		"jammer_link": "https://galaxywarrior4999.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Water Ninja",
+				"title_link": "https://heroteddy.itch.io/water-ninja",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457804",
+				"by": [
+					"HeroTeddy",
+					"GalaxyWarrior4999"
+				],
+				"by_link": [
+					"https://heroteddy.itch.io/",
+					"https://galaxywarrior4999.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 16,
+				"score": 2.469
+			}
+		]
+	},
+	{
+		"jammer": "Amanda Duarte",
+		"jammer_link": "https://malory-womandev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Rockson",
+				"title_link": "https://malory-womandev.itch.io/rockson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457420",
+				"by": [
+					"Amanda Duarte",
+					"FTWRahul",
+					"Janegamedev",
+					"Kaspo_Gamedev",
+					"stevenmira",
+					"Pedro Avilla"
+				],
+				"by_link": [
+					"https://malory-womandev.itch.io/",
+					"https://ftwrahul.itch.io/",
+					"https://janegamedev.itch.io/",
+					"https://kaspo-gamedev.itch.io/",
+					"https://stevenmira.itch.io/",
+					"https://p3droavilla.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 5,
+				"score": 2.44
+			}
+		]
+	},
+	{
+		"jammer": "FTWRahul",
+		"jammer_link": "https://ftwrahul.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Rockson",
+				"title_link": "https://malory-womandev.itch.io/rockson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457420",
+				"by": [
+					"Amanda Duarte",
+					"FTWRahul",
+					"Janegamedev",
+					"Kaspo_Gamedev",
+					"stevenmira",
+					"Pedro Avilla"
+				],
+				"by_link": [
+					"https://malory-womandev.itch.io/",
+					"https://ftwrahul.itch.io/",
+					"https://janegamedev.itch.io/",
+					"https://kaspo-gamedev.itch.io/",
+					"https://stevenmira.itch.io/",
+					"https://p3droavilla.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 5,
+				"score": 2.44
+			}
+		]
+	},
+	{
+		"jammer": "Janegamedev",
+		"jammer_link": "https://janegamedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Rockson",
+				"title_link": "https://malory-womandev.itch.io/rockson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457420",
+				"by": [
+					"Amanda Duarte",
+					"FTWRahul",
+					"Janegamedev",
+					"Kaspo_Gamedev",
+					"stevenmira",
+					"Pedro Avilla"
+				],
+				"by_link": [
+					"https://malory-womandev.itch.io/",
+					"https://ftwrahul.itch.io/",
+					"https://janegamedev.itch.io/",
+					"https://kaspo-gamedev.itch.io/",
+					"https://stevenmira.itch.io/",
+					"https://p3droavilla.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 5,
+				"score": 2.44
+			}
+		]
+	},
+	{
+		"jammer": "Kaspo_Gamedev",
+		"jammer_link": "https://kaspo-gamedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Rockson",
+				"title_link": "https://malory-womandev.itch.io/rockson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457420",
+				"by": [
+					"Amanda Duarte",
+					"FTWRahul",
+					"Janegamedev",
+					"Kaspo_Gamedev",
+					"stevenmira",
+					"Pedro Avilla"
+				],
+				"by_link": [
+					"https://malory-womandev.itch.io/",
+					"https://ftwrahul.itch.io/",
+					"https://janegamedev.itch.io/",
+					"https://kaspo-gamedev.itch.io/",
+					"https://stevenmira.itch.io/",
+					"https://p3droavilla.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 5,
+				"score": 2.44
+			}
+		]
+	},
+	{
+		"jammer": "stevenmira",
+		"jammer_link": "https://stevenmira.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Rockson",
+				"title_link": "https://malory-womandev.itch.io/rockson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457420",
+				"by": [
+					"Amanda Duarte",
+					"FTWRahul",
+					"Janegamedev",
+					"Kaspo_Gamedev",
+					"stevenmira",
+					"Pedro Avilla"
+				],
+				"by_link": [
+					"https://malory-womandev.itch.io/",
+					"https://ftwrahul.itch.io/",
+					"https://janegamedev.itch.io/",
+					"https://kaspo-gamedev.itch.io/",
+					"https://stevenmira.itch.io/",
+					"https://p3droavilla.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 5,
+				"score": 2.44
+			}
+		]
+	},
+	{
+		"jammer": "Pedro Avilla",
+		"jammer_link": "https://p3droavilla.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Rockson",
+				"title_link": "https://malory-womandev.itch.io/rockson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457420",
+				"by": [
+					"Amanda Duarte",
+					"FTWRahul",
+					"Janegamedev",
+					"Kaspo_Gamedev",
+					"stevenmira",
+					"Pedro Avilla"
+				],
+				"by_link": [
+					"https://malory-womandev.itch.io/",
+					"https://ftwrahul.itch.io/",
+					"https://janegamedev.itch.io/",
+					"https://kaspo-gamedev.itch.io/",
+					"https://stevenmira.itch.io/",
+					"https://p3droavilla.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 5,
+				"score": 2.44
+			}
+		]
+	},
+	{
+		"jammer": "Shockaedit",
+		"jammer_link": "https://shockaedit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Octopearl",
+				"title_link": "https://shockaedit.itch.io/octopearl",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457565",
+				"by": [
+					"Shockaedit"
+				],
+				"by_link": [
+					"https://shockaedit.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 4,
+				"score": 2.293
+			}
+		]
+	},
+	{
+		"jammer": "bobbilyking",
+		"jammer_link": "https://bobbilyking.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Propogation Evacuation",
+				"title_link": "https://bobbilyking.itch.io/evacuation-propogation",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457451",
+				"by": [
+					"bobbilyking"
+				],
+				"by_link": [
+					"https://bobbilyking.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 11,
+				"score": 2.091
+			}
+		]
+	},
+	{
+		"jammer": "GhostHugo",
+		"jammer_link": "https://ghosthugo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Nemo Nemo",
+				"title_link": "https://ghosthugo.itch.io/nemo-nemo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457480",
+				"by": [
+					"GhostHugo"
+				],
+				"by_link": [
+					"https://ghosthugo.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 9,
+				"score": 2.003
+			}
+		]
+	},
+	{
+		"jammer": "cubecrafter360",
+		"jammer_link": "https://cubecrafter360.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "The Bubble Keeper",
+				"title_link": "https://cubecrafter360.itch.io/the-bubble-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456145",
+				"by": [
+					"cubecrafter360"
+				],
+				"by_link": [
+					"https://cubecrafter360.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 12,
+				"score": 1.917
+			}
+		]
+	},
+	{
+		"jammer": "Edmanbosch",
+		"jammer_link": "https://edmanbosch.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Bubbler",
+				"title_link": "https://edmanbosch.itch.io/bubbler",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457492",
+				"by": [
+					"Edmanbosch"
+				],
+				"by_link": [
+					"https://edmanbosch.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 5,
+				"score": 1.909
+			}
+		]
+	},
+	{
+		"jammer": "Zivix",
+		"jammer_link": "https://zivix.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Zomfish",
+				"title_link": "https://zivix.itch.io/zomfish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457470",
+				"by": [
+					"Zivix"
+				],
+				"by_link": [
+					"https://zivix.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 3,
+				"score": 1.734
+			}
+		]
+	},
+	{
+		"jammer": "lettucepie",
+		"jammer_link": "https://lettucepie.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Pufferfish",
+				"title_link": "https://lettucepie.itch.io/pufferfish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456580",
+				"by": [
+					"lettucepie"
+				],
+				"by_link": [
+					"https://lettucepie.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 3,
+				"score": 1.643
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"title": "Flicky Bee",
+				"title_link": "https://lettucepie.itch.io/flicky-bee",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977212",
+				"by": [
+					"lettucepie"
+				],
+				"by_link": [
+					"https://lettucepie.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 3,
+				"score": 1.5
+			}
+		]
+	},
+	{
+		"jammer": "Eurritimia",
+		"jammer_link": "https://eurritz.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "underwater",
+				"title_link": "https://eurritz.itch.io/underwater",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/455817",
+				"by": [
+					"Eurritimia"
+				],
+				"by_link": [
+					"https://eurritz.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 11,
+				"score": 1.591
+			}
+		]
+	},
+	{
+		"jammer": "RenatoGamer",
+		"jammer_link": "https://renatogamer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Marines Quest",
+				"title_link": "https://renatogamer.itch.io/marines-quest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457456",
+				"by": [
+					"RenatoGamer"
+				],
+				"by_link": [
+					"https://renatogamer.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 2,
+				"score": 1.453
+			}
+		]
+	},
+	{
+		"jammer": "Regression",
+		"jammer_link": "https://regressionworks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Finding Your Friend",
+				"title_link": "https://regressionworks.itch.io/finding-your-friend",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457371",
+				"by": [
+					"Regression"
+				],
+				"by_link": [
+					"https://regressionworks.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 2,
+				"score": 1.342
+			}
+		]
+	},
+	{
+		"jammer": "Ghostbreze",
+		"jammer_link": "https://ghostbreze.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Finair",
+				"title_link": "https://ghostbreze.itch.io/finair",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457474",
+				"by": [
+					"Ghostbreze"
+				],
+				"by_link": [
+					"https://ghostbreze.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 2,
+				"score": 1.174
+			}
+		]
+	},
+	{
+		"jammer": "Nilq",
+		"jammer_link": "https://nilq.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Squid Defence",
+				"title_link": "https://nilq.itch.io/squid-defender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457172",
+				"by": [
+					"Nilq",
+					"RegsaGC"
+				],
+				"by_link": [
+					"https://nilq.itch.io/",
+					"https://regsagc.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 3,
+				"score": 1.095
+			}
+		]
+	},
+	{
+		"jammer": "RegsaGC",
+		"jammer_link": "https://regsagc.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Squid Defence",
+				"title_link": "https://nilq.itch.io/squid-defender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457172",
+				"by": [
+					"Nilq",
+					"RegsaGC"
+				],
+				"by_link": [
+					"https://nilq.itch.io/",
+					"https://regsagc.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 3,
+				"score": 1.095
+			}
+		]
+	},
+	{
+		"jammer": "Dreaming381",
+		"jammer_link": "https://dreaming381.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Density Discrepencies",
+				"title_link": "https://dreaming381.itch.io/density-discrepencies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457493",
+				"by": [
+					"Dreaming381"
+				],
+				"by_link": [
+					"https://dreaming381.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 2,
+				"score": 1.062
+			}
+		]
+	},
+	{
+		"jammer": "Shynif",
+		"jammer_link": "https://shynif.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Metal Bubbles : Bubbles of Liberty",
+				"title_link": "https://shynif.itch.io/metal-bubbles-bubbles-of-liberty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457305",
+				"by": [
+					"Shynif"
+				],
+				"by_link": [
+					"https://shynif.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 3,
+				"score": 1.05
+			}
+		]
+	},
+	{
+		"jammer": "Enio Lotero",
+		"jammer_link": "https://eniolotero.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Water Well",
+				"title_link": "https://eniolotero.itch.io/waterwell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/449762",
+				"by": [
+					"Enio Lotero"
+				],
+				"by_link": [
+					"https://eniolotero.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 3,
+				"score": 1.004
+			}
+		]
+	},
+	{
+		"jammer": "karim2989",
+		"jammer_link": "https://karim2989.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Stealth Mania",
+				"title_link": "https://karim2989.itch.io/stealth-mania",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457426",
+				"by": [
+					"karim2989"
+				],
+				"by_link": [
+					"https://karim2989.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 3,
+				"score": 0.867
+			}
+		]
+	},
+	{
+		"jammer": "Balush",
+		"jammer_link": "https://balush.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Pollution Protector!",
+				"title_link": "https://balush.itch.io/pollution-protector",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457473",
+				"by": [
+					"Balush"
+				],
+				"by_link": [
+					"https://balush.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 2,
+				"score": 0.727
+			}
+		]
+	}
+]

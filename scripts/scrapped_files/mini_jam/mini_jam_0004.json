@@ -1,0 +1,466 @@
+[
+	{
+		"title": "Equinox",
+		"title_link": "https://keyo.itch.io/equinox",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/270051",
+		"by": [
+			"keyo"
+		],
+		"by_link": [
+			"https://keyo.itch.io/"
+		],
+		"rank": 1,
+		"ratings": 10,
+		"score": 0.643,
+		"table_data": [
+			{
+				"criteria": "Deliciousness",
+				"rank": 1,
+				"score": 4.5,
+				"raw_score": 4.5
+			},
+			{
+				"criteria": "Music",
+				"rank": 1,
+				"score": 4.2,
+				"raw_score": 4.2
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 1,
+				"score": 4.2,
+				"raw_score": 4.2
+			},
+			{
+				"criteria": "Game design",
+				"rank": 1,
+				"score": 4.6,
+				"raw_score": 4.6
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 1,
+				"score": 4.8,
+				"raw_score": 4.8
+			},
+			{
+				"criteria": "Game play",
+				"rank": 1,
+				"score": 4.6,
+				"raw_score": 4.6
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 1,
+				"score": 4.4,
+				"raw_score": 4.4
+			}
+		]
+	},
+	{
+		"title": "Season Jump (MiniJam Entry)",
+		"title_link": "https://fishbert.itch.io/season-jump",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/269870",
+		"by": [
+			"fishbert"
+		],
+		"by_link": [
+			"https://fishbert.itch.io/"
+		],
+		"rank": 2,
+		"ratings": 11,
+		"score": 0.558,
+		"table_data": [
+			{
+				"criteria": "Deliciousness",
+				"rank": 2,
+				"score": 3.909,
+				"raw_score": 3.909
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 2,
+				"score": 3.273,
+				"raw_score": 3.273
+			},
+			{
+				"criteria": "Game play",
+				"rank": 2,
+				"score": 4.091,
+				"raw_score": 4.091
+			},
+			{
+				"criteria": "Game design",
+				"rank": 2,
+				"score": 4,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 2,
+				"score": 4.364,
+				"raw_score": 4.364
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 2,
+				"score": 4.545,
+				"raw_score": 4.545
+			},
+			{
+				"criteria": "Music",
+				"rank": 4,
+				"score": 3.182,
+				"raw_score": 3.182
+			}
+		]
+	},
+	{
+		"title": "Gerblie's Autumn (GameJam game)",
+		"title_link": "https://skeletontruck.itch.io/gerblies-autumn",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/270003",
+		"by": [
+			"SkeletonTruck"
+		],
+		"by_link": [
+			"https://skeletontruck.itch.io/"
+		],
+		"rank": 3,
+		"ratings": 7,
+		"score": 0.535,
+		"table_data": [
+			{
+				"criteria": "Deliciousness",
+				"rank": 3,
+				"score": 3.742,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 3,
+				"score": 4.276,
+				"raw_score": 4.571
+			},
+			{
+				"criteria": "Game play",
+				"rank": 4,
+				"score": 3.341,
+				"raw_score": 3.571
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 4,
+				"score": 3.608,
+				"raw_score": 3.857
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 5,
+				"score": 2.806,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Game design",
+				"rank": 6,
+				"score": 2.94,
+				"raw_score": 3.143
+			},
+			{
+				"criteria": "Music",
+				"rank": 8,
+				"score": 1.069,
+				"raw_score": 1.143
+			}
+		]
+	},
+	{
+		"title": "Sea Sons",
+		"title_link": "https://jumpghost.itch.io/sea-sons",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/269771",
+		"by": [
+			"jumpghost"
+		],
+		"by_link": [
+			"https://jumpghost.itch.io/"
+		],
+		"rank": 4,
+		"ratings": 8,
+		"score": 0.5,
+		"table_data": [
+			{
+				"criteria": "Graphics",
+				"rank": 3,
+				"score": 3.875,
+				"raw_score": 3.875
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 3,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Game play",
+				"rank": 3,
+				"score": 3.375,
+				"raw_score": 3.375
+			},
+			{
+				"criteria": "Game design",
+				"rank": 3,
+				"score": 3.25,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Deliciousness",
+				"rank": 4,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 5,
+				"score": 3.875,
+				"raw_score": 3.875
+			},
+			{
+				"criteria": "Music",
+				"rank": 6,
+				"score": 1.375,
+				"raw_score": 1.375
+			}
+		]
+	},
+	{
+		"title": "Raging Flame",
+		"title_link": "https://pkgames.itch.io/raging-flame",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/269678",
+		"by": [
+			"PKGames"
+		],
+		"by_link": [
+			"https://pkgames.itch.io/"
+		],
+		"rank": 5,
+		"ratings": 7,
+		"score": 0.496,
+		"table_data": [
+			{
+				"criteria": "Game design",
+				"rank": 4,
+				"score": 3.207,
+				"raw_score": 3.429
+			},
+			{
+				"criteria": "Deliciousness",
+				"rank": 5,
+				"score": 3.474,
+				"raw_score": 3.714
+			},
+			{
+				"criteria": "Game play",
+				"rank": 6,
+				"score": 3.207,
+				"raw_score": 3.429
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 7,
+				"score": 2.94,
+				"raw_score": 3.143
+			},
+			{
+				"criteria": "Music",
+				"rank": 7,
+				"score": 1.336,
+				"raw_score": 1.429
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 7,
+				"score": 2.94,
+				"raw_score": 3.143
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 8,
+				"score": 2.272,
+				"raw_score": 2.429
+			}
+		]
+	},
+	{
+		"title": "The Boomerang Sword In The Season Forest",
+		"title_link": "https://game-dev-villager.itch.io/the-boomerang-sword-in-the-season-forest",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/269591",
+		"by": [
+			"Game Dev Villager"
+		],
+		"by_link": [
+			"https://game-dev-villager.itch.io/"
+		],
+		"rank": 6,
+		"ratings": 8,
+		"score": 0.464,
+		"table_data": [
+			{
+				"criteria": "Game design",
+				"rank": 5,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Music",
+				"rank": 5,
+				"score": 2.375,
+				"raw_score": 2.375
+			},
+			{
+				"criteria": "Game play",
+				"rank": 5,
+				"score": 3.25,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Deliciousness",
+				"rank": 6,
+				"score": 3.25,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 6,
+				"score": 3.125,
+				"raw_score": 3.125
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 7,
+				"score": 2.625,
+				"raw_score": 2.625
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 8,
+				"score": 2.875,
+				"raw_score": 2.875
+			}
+		]
+	},
+	{
+		"title": "A thief who stole a moon",
+		"title_link": "https://ango.itch.io/music",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/270024",
+		"by": [
+			"Ango"
+		],
+		"by_link": [
+			"https://ango.itch.io/"
+		],
+		"rank": 7,
+		"ratings": 9,
+		"score": 0.444,
+		"table_data": [
+			{
+				"criteria": "Music",
+				"rank": 2,
+				"score": 3.667,
+				"raw_score": 3.667
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 4,
+				"score": 2.889,
+				"raw_score": 2.889
+			},
+			{
+				"criteria": "Deliciousness",
+				"rank": 7,
+				"score": 3.111,
+				"raw_score": 3.111
+			},
+			{
+				"criteria": "Game design",
+				"rank": 8,
+				"score": 2.667,
+				"raw_score": 2.667
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 8,
+				"score": 2.556,
+				"raw_score": 2.556
+			},
+			{
+				"criteria": "Game play",
+				"rank": 8,
+				"score": 2.222,
+				"raw_score": 2.222
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 9,
+				"score": 1.556,
+				"raw_score": 1.556
+			}
+		]
+	},
+	{
+		"title": "Dying Flame",
+		"title_link": "https://copyoflegos.itch.io/dying-flame",
+		"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/270040",
+		"by": [
+			"Copyoflegos"
+		],
+		"by_link": [
+			"https://copyoflegos.itch.io/"
+		],
+		"rank": 8,
+		"ratings": 7,
+		"score": 0.382,
+		"table_data": [
+			{
+				"criteria": "Music",
+				"rank": 3,
+				"score": 3.608,
+				"raw_score": 3.857
+			},
+			{
+				"criteria": "Respect of the theme",
+				"rank": 4,
+				"score": 3.875,
+				"raw_score": 4.143
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 5,
+				"score": 3.474,
+				"raw_score": 3.714
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 5,
+				"score": 2.806,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Game design",
+				"rank": 7,
+				"score": 2.806,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Game play",
+				"rank": 7,
+				"score": 3.074,
+				"raw_score": 3.286
+			},
+			{
+				"criteria": "Deliciousness",
+				"rank": 8,
+				"score": 2.673,
+				"raw_score": 2.857
+			}
+		]
+	}
+]

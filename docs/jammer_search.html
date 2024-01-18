@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Unofficial Mini Jam Leaderboard</title>
+
+	<link rel="stylesheet" href="./_css/main.css">
+	<link rel="stylesheet" href="./_css/jammer_search.css">
+
+	<link rel="shortcut icon" href="#">
+</head>
+<body>
+	<div id="content">
+		<div id="nav">
+			<a href="./leaderboard/leaderboard_10_page_0000.html">Leaderboard</a>
+			<a href="./jam_list/mini_jam_page_0000.html">Jam list</a>
+			<a href="./jammer_search.html">Jammer search</a>
+			<a href="./stats/stats.html">Stats</a>
+		</div>
+		<h1>Jammer search</h1>
+		<input type="text" id="search_box" onkeypress="on_key_press_search_box(event)"/>
+		<button id="search_button" onclick="search()">Search</button>
+		<div id="result"></div>
+	</div>
+
+	<script src="./_js/jammer_search.js"></script>
+</body>
+</html>

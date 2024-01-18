@@ -1,0 +1,1826 @@
+[
+	{
+		"id": 6,
+		"jam_name": "Major Jam 6: Life",
+		"link": "https://itch.io/jam/major-jam-6-life",
+		"list": [
+			{
+				"title": "THIS DOOR MUST NOT BE OPENED",
+				"title_link": "https://purechito.itch.io/thisdoorshouldnotbeopened",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195137",
+				"by": [
+					"Purechito"
+				],
+				"by_link": [
+					"https://purechito.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 9,
+				"score": 4.75
+			},
+			{
+				"title": "E.V.I.L.",
+				"title_link": "https://creeperbob16.itch.io/evil",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195254",
+				"by": [
+					"Creeperbob16",
+					"Magi"
+				],
+				"by_link": [
+					"https://creeperbob16.itch.io/",
+					"https://magiguy789.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 19,
+				"score": 4.355
+			},
+			{
+				"title": "Apart",
+				"title_link": "https://hmanhere.itch.io/life-jam",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2187144",
+				"by": [
+					"HmanHere",
+					"John johnson music"
+				],
+				"by_link": [
+					"https://hmanhere.itch.io/",
+					"https://john-johnson-music.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 4.298
+			},
+			{
+				"title": "Digital Garden",
+				"title_link": "https://triplecubes.itch.io/digital-garden",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196699",
+				"by": [
+					"TripleCubes"
+				],
+				"by_link": [
+					"https://triplecubes.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 13,
+				"score": 4.038
+			},
+			{
+				"title": "The lost Eternity",
+				"title_link": "https://darngeek.itch.io/thelosteternity",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2191413",
+				"by": [
+					"darngeek",
+					"hurles",
+					"seniltai",
+					"Conquintor"
+				],
+				"by_link": [
+					"https://darngeek.itch.io/",
+					"https://hurles.itch.io/",
+					"https://seniltai.itch.io/",
+					"https://conquintor.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 21,
+				"score": 4.012
+			},
+			{
+				"title": "UNWIND",
+				"title_link": "https://cat2x.itch.io/unwind",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192236",
+				"by": [
+					"cat2x"
+				],
+				"by_link": [
+					"https://cat2x.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 3.955
+			},
+			{
+				"title": "Terminal Conquest",
+				"title_link": "https://venuxx.itch.io/terminal-conquest",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196822",
+				"by": [
+					"Venuxx"
+				],
+				"by_link": [
+					"https://venuxx.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 9,
+				"score": 3.944
+			},
+			{
+				"title": "The 3 Of Life",
+				"title_link": "https://coincidentally.itch.io/the-3-of-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196020",
+				"by": [
+					"coincidentally"
+				],
+				"by_link": [
+					"https://coincidentally.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 18,
+				"score": 3.903
+			},
+			{
+				"title": "Critical Clinic Coordinator",
+				"title_link": "https://max-westerlund.itch.io/criticalcliniccoordinator",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196291",
+				"by": [
+					"Max Westerlund",
+					"lomstfer"
+				],
+				"by_link": [
+					"https://max-westerlund.itch.io/",
+					"https://lomstfer.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 7,
+				"score": 3.875
+			},
+			{
+				"title": "Skill Garden",
+				"title_link": "https://okai.itch.io/skill-garden",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197052",
+				"by": [
+					"okAi"
+				],
+				"by_link": [
+					"https://okai.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.862
+			},
+			{
+				"title": "Half of a Platformer - Part 2",
+				"title_link": "https://bonsaipropaganda.itch.io/half-of-a-platformer-p2",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194010",
+				"by": [
+					"bonsaipropaganda"
+				],
+				"by_link": [
+					"https://bonsaipropaganda.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.788
+			},
+			{
+				"title": "Into Oblivion",
+				"title_link": "https://aerial301.itch.io/into-oblivion",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195505",
+				"by": [
+					"aerial301"
+				],
+				"by_link": [
+					"https://aerial301.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 15,
+				"score": 3.75
+			},
+			{
+				"title": "Lithium + Ferrum",
+				"title_link": "https://kami14.itch.io/lithium-ferrum",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195611",
+				"by": [
+					"Kami",
+					"Deinol",
+					"Picodaddy"
+				],
+				"by_link": [
+					"https://kami14.itch.io/",
+					"https://deinol.itch.io/",
+					"https://picodaddy.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 9,
+				"score": 3.75
+			},
+			{
+				"title": "Digital Diffusal",
+				"title_link": "https://edroz.itch.io/digital-diffusal",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196181",
+				"by": [
+					"EDRO",
+					"MotionPhoenix",
+					"Social Illusion"
+				],
+				"by_link": [
+					"https://edroz.itch.io/",
+					"https://phoenix99125.itch.io/",
+					"https://social-illusion.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 13,
+				"score": 3.75
+			},
+			{
+				"title": "Happy culture",
+				"title_link": "https://deraju.itch.io/happy-culture",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2187493",
+				"by": [
+					"deraju",
+					"lolupenza"
+				],
+				"by_link": [
+					"https://deraju.itch.io/",
+					"https://lolupenza.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 27,
+				"score": 3.741
+			},
+			{
+				"title": "It's All Coming Together",
+				"title_link": "https://quaak.itch.io/its-all-coming-together",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195805",
+				"by": [
+					"Quaak"
+				],
+				"by_link": [
+					"https://quaak.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 10,
+				"score": 3.725
+			},
+			{
+				"title": "Life Anew",
+				"title_link": "https://nikohnoo.itch.io/life-anew",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2185872",
+				"by": [
+					"NikOhNoo",
+					"unimeno",
+					"Charmie",
+					"GarrickChiu"
+				],
+				"by_link": [
+					"https://nikohnoo.itch.io/",
+					"https://unimeno.itch.io/",
+					"https://charmiedev.itch.io/",
+					"https://garrickchiu.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.705
+			},
+			{
+				"title": "Knight Antivirus",
+				"title_link": "https://derpiestdude.itch.io/knight-antivirus",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192260",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 38,
+				"score": 3.697
+			},
+			{
+				"title": "BumbleKey",
+				"title_link": "https://kitchen-games.itch.io/bumblekey",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197026",
+				"by": [
+					"Kitchen Games"
+				],
+				"by_link": [
+					"https://kitchen-games.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 20,
+				"score": 3.675
+			},
+			{
+				"title": "BRUTAL RECOIL",
+				"title_link": "https://alambik.itch.io/brutal-recoil",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197112",
+				"by": [
+					"Alambik"
+				],
+				"by_link": [
+					"https://alambik.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 28,
+				"score": 3.67
+			}
+		]
+	},
+	{
+		"id": 5,
+		"jam_name": "Major Jam 5: Legends",
+		"link": "https://itch.io/jam/major-jam-5",
+		"list": [
+			{
+				"title": "Hero of Legend",
+				"title_link": "https://tracex.itch.io/hero-of-legend",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683788",
+				"by": [
+					"TrAceX",
+					"Sodoj"
+				],
+				"by_link": [
+					"https://tracex.itch.io/",
+					"https://sodoj.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.179
+			},
+			{
+				"title": "Window Warfare",
+				"title_link": "https://froghood.itch.io/window-warfare",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1682781",
+				"by": [
+					"Frog"
+				],
+				"by_link": [
+					"https://froghood.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 6,
+				"score": 4
+			},
+			{
+				"title": "Turtle Revolution",
+				"title_link": "https://swiftmakesgames.itch.io/turtle-revolution",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1677584",
+				"by": [
+					"SwiftMakesGames"
+				],
+				"by_link": [
+					"https://swiftmakesgames.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 5,
+				"score": 3.5
+			},
+			{
+				"title": "Mirage Watchers: Train Sim",
+				"title_link": "https://bug-fish.itch.io/mirage-watchers-train-sim",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683962",
+				"by": [
+					"bug•fish"
+				],
+				"by_link": [
+					"https://bug-fish.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 3,
+				"score": 3.402
+			},
+			{
+				"title": "Jammy-Like (Major-jam Entry)",
+				"title_link": "https://bertie00.itch.io/jammy-like-major-jam-entry",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1682161",
+				"by": [
+					"Bertie"
+				],
+				"by_link": [
+					"https://bertie00.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 12,
+				"score": 3.208
+			},
+			{
+				"title": "Will Of The Spiders",
+				"title_link": "https://kaasnake.itch.io/will-of-the-spiders",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683682",
+				"by": [
+					"KaaSnake"
+				],
+				"by_link": [
+					"https://kaasnake.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 2.972
+			},
+			{
+				"title": "Ruff Seas - A Pirate Treasure Map Adventure",
+				"title_link": "https://caseyscreamsback.itch.io/ruff-seas",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683673",
+				"by": [
+					"caseyscreamsback"
+				],
+				"by_link": [
+					"https://caseyscreamsback.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 10,
+				"score": 2.875
+			},
+			{
+				"title": "Legend of the Werecat",
+				"title_link": "https://punkweight.itch.io/legend-of-the-werecat",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1676879",
+				"by": [
+					"punkweight"
+				],
+				"by_link": [
+					"https://punkweight.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 9,
+				"score": 2.583
+			},
+			{
+				"title": "Curupira",
+				"title_link": "https://mairon-carvallho.itch.io/curupira",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683313",
+				"by": [
+					"Mairon_Carvallho"
+				],
+				"by_link": [
+					"https://mairon-carvallho.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 5,
+				"score": 2.5
+			},
+			{
+				"title": "TheFighters",
+				"title_link": "https://skullsameh.itch.io/thefighters",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1677498",
+				"by": [
+					"SkullSameh"
+				],
+				"by_link": [
+					"https://skullsameh.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 4,
+				"score": 2.298
+			},
+			{
+				"title": "The Grave of Thorns",
+				"title_link": "https://tis2k.itch.io/grave-thorns",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1673852",
+				"by": [
+					"tis2k"
+				],
+				"by_link": [
+					"https://tis2k.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 3,
+				"score": 2.109
+			},
+			{
+				"title": "Sleeping Legends",
+				"title_link": "https://m77mdsd.itch.io/sleeping-legends",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1678963",
+				"by": [
+					"M77mdsD",
+					"Liam",
+					"Bakobiibizo",
+					"kafe6345",
+					"bone9001"
+				],
+				"by_link": [
+					"https://m77mdsd.itch.io/",
+					"https://liam-swift.itch.io/",
+					"https://bakobiibizo.itch.io/",
+					"https://kafe6345.itch.io/",
+					"https://bone9001.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 3,
+				"score": 2.109
+			},
+			{
+				"title": "ASTRONUT",
+				"title_link": "https://feligameland.itch.io/astronut",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1678768",
+				"by": [
+					"Feligameland"
+				],
+				"by_link": [
+					"https://feligameland.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 5,
+				"score": 2
+			},
+			{
+				"title": "The Legend of Sword",
+				"title_link": "https://admin-gk.itch.io/the-legend-of-sword",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1675813",
+				"by": [
+					"GK Games_"
+				],
+				"by_link": [
+					"https://admin-gk.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 3,
+				"score": 1.973
+			},
+			{
+				"title": "Am I Pretty?",
+				"title_link": "https://truthseeker18.itch.io/am-i-pretty",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1682942",
+				"by": [
+					"truthseeker18"
+				],
+				"by_link": [
+					"https://truthseeker18.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 3,
+				"score": 1.973
+			},
+			{
+				"title": "Not Space Invaders",
+				"title_link": "https://whaleshark-noises.itch.io/not-space-invaders",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683993",
+				"by": [
+					"Whaleshark Noises"
+				],
+				"by_link": [
+					"https://whaleshark-noises.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 3,
+				"score": 1.837
+			},
+			{
+				"title": "Ad Astra",
+				"title_link": "https://poyrazbahcivan.itch.io/ad-astra",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1683798",
+				"by": [
+					"poyrazbahcivan"
+				],
+				"by_link": [
+					"https://poyrazbahcivan.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 1,
+				"score": 1.296
+			},
+			{
+				"title": "rein's worst game",
+				"title_link": "https://heyimrein.itch.io/bad-game",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1682274",
+				"by": [
+					"rein"
+				],
+				"by_link": [
+					"https://heyimrein.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 4,
+				"score": 1.12
+			}
+		]
+	},
+	{
+		"id": 4,
+		"jam_name": "Major Jam 4: Cosmic",
+		"link": "https://itch.io/jam/major-jam-4-cosmic",
+		"list": [
+			{
+				"title": "Galaclick",
+				"title_link": "https://pixelmochii.itch.io/galaclick",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160560",
+				"by": [
+					"Mochii🌺"
+				],
+				"by_link": [
+					"https://pixelmochii.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.208
+			},
+			{
+				"title": "Intergalactic Exam",
+				"title_link": "https://warbledev.itch.io/intergalactic-exam",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160352",
+				"by": [
+					"warbledev"
+				],
+				"by_link": [
+					"https://warbledev.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 11,
+				"score": 4.159
+			},
+			{
+				"title": "Friendship Tests",
+				"title_link": "https://felipe-peticov.itch.io/friendship-tests",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160712",
+				"by": [
+					"Felipe Peticov"
+				],
+				"by_link": [
+					"https://felipe-peticov.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 19,
+				"score": 4.118
+			},
+			{
+				"title": "Starlight Overdrive",
+				"title_link": "https://zwt3.itch.io/starlight-overdrive",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160794",
+				"by": [
+					"ZWT3"
+				],
+				"by_link": [
+					"https://zwt3.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 18,
+				"score": 4.097
+			},
+			{
+				"title": "What do vacuums dream?",
+				"title_link": "https://sandrofigo.itch.io/what-do-vacuums-dream",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160441",
+				"by": [
+					"Sandro Figo",
+					"Iris Trummer",
+					"clockworkjellyfish"
+				],
+				"by_link": [
+					"https://sandrofigo.itch.io/",
+					"https://iris-trummer.itch.io/",
+					"https://clockworkjellyfish.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 4.083
+			},
+			{
+				"title": "Time Traveller",
+				"title_link": "https://puetsua.itch.io/time-traveller",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1159771",
+				"by": [
+					"Pue-Tsuâ🌠"
+				],
+				"by_link": [
+					"https://puetsua.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 13,
+				"score": 4.019
+			},
+			{
+				"title": "Double Cheat Burger",
+				"title_link": "https://monowiz.itch.io/doublecheatburger",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160909",
+				"by": [
+					"MonoWiZ",
+					"ctoma",
+					"nattyboyz"
+				],
+				"by_link": [
+					"https://monowiz.itch.io/",
+					"https://ctoma.itch.io/",
+					"https://nattyboyz.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 18,
+				"score": 4
+			},
+			{
+				"title": "Night Heist",
+				"title_link": "https://ericbomb.itch.io/night-heist",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160835",
+				"by": [
+					"Ericbomb"
+				],
+				"by_link": [
+					"https://ericbomb.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 23,
+				"score": 3.989
+			},
+			{
+				"title": "StarCat Major",
+				"title_link": "https://elyon.itch.io/starcat-major",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1158886",
+				"by": [
+					"Elyon"
+				],
+				"by_link": [
+					"https://elyon.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 19,
+				"score": 3.934
+			},
+			{
+				"title": "How I met my spaceship",
+				"title_link": "https://alekpinel.itch.io/how-i-met-my-spaceship",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1157665",
+				"by": [
+					"Alekpinel"
+				],
+				"by_link": [
+					"https://alekpinel.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 14,
+				"score": 3.911
+			},
+			{
+				"title": "Albie's Adventure",
+				"title_link": "https://dw3nt.itch.io/albies-adventure",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160890",
+				"by": [
+					"dw3nt"
+				],
+				"by_link": [
+					"https://dw3nt.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 16,
+				"score": 3.891
+			},
+			{
+				"title": "Earthling Quota",
+				"title_link": "https://viigames.itch.io/earthling-quota",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1154377",
+				"by": [
+					"Gorethumb",
+					"tornado cub"
+				],
+				"by_link": [
+					"https://viigames.itch.io/",
+					"https://tornadocub.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 22,
+				"score": 3.875
+			},
+			{
+				"title": "Galacards",
+				"title_link": "https://reinoangelo.itch.io/galacards",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160961",
+				"by": [
+					"ReinoAngelo"
+				],
+				"by_link": [
+					"https://reinoangelo.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 24,
+				"score": 3.854
+			},
+			{
+				"title": "Illegal Alien Trafficking",
+				"title_link": "https://timbuhrs.itch.io/illegal-alien-trafficing",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160875",
+				"by": [
+					"Tim Buhrs",
+					"Josh Lee"
+				],
+				"by_link": [
+					"https://timbuhrs.itch.io/",
+					"https://josh-lee.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 18,
+				"score": 3.792
+			},
+			{
+				"title": "Chemical Chaos",
+				"title_link": "https://jameswilson404.itch.io/chemical-chaos",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160830",
+				"by": [
+					"JamesWilson404",
+					"HChacks"
+				],
+				"by_link": [
+					"https://jameswilson404.itch.io/",
+					"https://hchacks.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 24,
+				"score": 3.792
+			},
+			{
+				"title": "Space Miner TD",
+				"title_link": "https://aquaduckstudio.itch.io/space-miner-td",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1157916",
+				"by": [
+					"AquaduckStudio"
+				],
+				"by_link": [
+					"https://aquaduckstudio.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 8,
+				"score": 3.781
+			},
+			{
+				"title": "Cosmic Corp. LLC",
+				"title_link": "https://ii3the0.itch.io/cosmic-corp-llc",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1156901",
+				"by": [
+					"ii3the0",
+					"dis_da_moe",
+					"Jan Seidel",
+					"lazycatdev",
+					"rodrigopetunio",
+					"Sachin Kishan",
+					"Robin De Paepe"
+				],
+				"by_link": [
+					"https://ii3the0.itch.io/",
+					"https://dis-da-moe.itch.io/",
+					"https://jan-seidel.itch.io/",
+					"https://lazycatdev.itch.io/",
+					"https://rodrigopetunio.itch.io/",
+					"https://sachin-kishan.itch.io/",
+					"https://robindepaepe.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 26,
+				"score": 3.74
+			},
+			{
+				"title": "Cosmic Golf",
+				"title_link": "https://evindor.itch.io/cosmicgolf",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160913",
+				"by": [
+					"evindor"
+				],
+				"by_link": [
+					"https://evindor.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 29,
+				"score": 3.733
+			},
+			{
+				"title": "Major Jam Trainer",
+				"title_link": "https://therealwlad.itch.io/major-jam-trainer",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1158200",
+				"by": [
+					"TheRealWlad"
+				],
+				"by_link": [
+					"https://therealwlad.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 13,
+				"score": 3.654
+			},
+			{
+				"title": "Grow To Hell",
+				"title_link": "https://bouncingturtlegames.itch.io/grow-to-hell",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160894",
+				"by": [
+					"Bouncing Turtle",
+					"ben nissimov"
+				],
+				"by_link": [
+					"https://bouncingturtlegames.itch.io/",
+					"https://bennissimov.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 23,
+				"score": 3.652
+			}
+		]
+	},
+	{
+		"id": 3,
+		"jam_name": "Major Jam 3: Retro",
+		"link": "https://itch.io/jam/major-jam-3",
+		"list": [
+			{
+				"title": "STARLOCK",
+				"title_link": "https://denis-grenier.itch.io/starlock",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844444",
+				"by": [
+					"Denis_Grenier"
+				],
+				"by_link": [
+					"https://denis-grenier.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.344
+			},
+			{
+				"title": "AV",
+				"title_link": "https://zander-games.itch.io/av",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844574",
+				"by": [
+					"Zander_Games"
+				],
+				"by_link": [
+					"https://zander-games.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.292
+			},
+			{
+				"title": "Paysanne",
+				"title_link": "https://atlou.itch.io/paysanne",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844455",
+				"by": [
+					"atlou",
+					"Xynthala"
+				],
+				"by_link": [
+					"https://atlou.itch.io/",
+					"https://xynthala.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.25
+			},
+			{
+				"title": "Shotgun Slime",
+				"title_link": "https://dawsonlied.itch.io/shotgun-slime",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/845926",
+				"by": [
+					"dawsonLIED"
+				],
+				"by_link": [
+					"https://dawsonlied.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 17,
+				"score": 4.235
+			},
+			{
+				"title": "Mini Monsters",
+				"title_link": "https://gc95000.itch.io/mini-monsters",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/843826",
+				"by": [
+					"GC95000"
+				],
+				"by_link": [
+					"https://gc95000.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 11,
+				"score": 4.114
+			},
+			{
+				"title": "Slice of Ice",
+				"title_link": "https://knitwitstudios.itch.io/slice-of-ice",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/846000",
+				"by": [
+					"Knitwit Studios",
+					"Azivar"
+				],
+				"by_link": [
+					"https://knitwitstudios.itch.io/",
+					"https://azivar.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 12,
+				"score": 4.104
+			},
+			{
+				"title": "Hookshot Tower",
+				"title_link": "https://blue05.itch.io/hookshot-tower",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/845920",
+				"by": [
+					"Blue05"
+				],
+				"by_link": [
+					"https://blue05.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 13,
+				"score": 4.077
+			},
+			{
+				"title": "Yeet the Robots",
+				"title_link": "https://lightninga.itch.io/destroy-the-robots",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/846076",
+				"by": [
+					"Lightning_A"
+				],
+				"by_link": [
+					"https://lightninga.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 26,
+				"score": 4.019
+			},
+			{
+				"title": "Confiscated!",
+				"title_link": "https://seanss.itch.io/confiscated",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844825",
+				"by": [
+					"SeanSS"
+				],
+				"by_link": [
+					"https://seanss.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.932
+			},
+			{
+				"title": "Super Bitly Blast",
+				"title_link": "https://dunderonion.itch.io/super-bitly-blast",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844162",
+				"by": [
+					"Dunderonion",
+					"raptor9999",
+					"ciarandiver"
+				],
+				"by_link": [
+					"https://dunderonion.itch.io/",
+					"https://raptor9999.itch.io/",
+					"https://ciarandiver.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.913
+			},
+			{
+				"title": "Color Out In Space",
+				"title_link": "https://scalphamission.itch.io/color-out-in-space",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/845964",
+				"by": [
+					"ScalphaMission"
+				],
+				"by_link": [
+					"https://scalphamission.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.904
+			},
+			{
+				"title": "Goat on Boat",
+				"title_link": "https://doyoufloss.itch.io/goat-on-boat",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/841518",
+				"by": [
+					"Doyoufloss?"
+				],
+				"by_link": [
+					"https://doyoufloss.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 16,
+				"score": 3.859
+			},
+			{
+				"title": "Bong &amp; Boom",
+				"title_link": "https://awesomeredflare.itch.io/bong-boom",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/842447",
+				"by": [
+					"AwesomeRedflare"
+				],
+				"by_link": [
+					"https://awesomeredflare.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 24,
+				"score": 3.781
+			},
+			{
+				"title": "Resize Runner",
+				"title_link": "https://weed-snorkeler.itch.io/resize-runner",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844403",
+				"by": [
+					"weed_snorkeler"
+				],
+				"by_link": [
+					"https://weed-snorkeler.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 16,
+				"score": 3.781
+			},
+			{
+				"title": "Energy not included",
+				"title_link": "https://saturn91.itch.io/energy-not-included",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/843953",
+				"by": [
+					"Saturn91"
+				],
+				"by_link": [
+					"https://saturn91.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 26,
+				"score": 3.76
+			},
+			{
+				"title": "Let's Break The Tetris",
+				"title_link": "https://mateuszsabat.itch.io/lets-break-the-tetris",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/843444",
+				"by": [
+					"mateusz.sabat"
+				],
+				"by_link": [
+					"https://mateuszsabat.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 3.75
+			},
+			{
+				"title": "Blood Blossom",
+				"title_link": "https://binaryclone.itch.io/blood-blossom",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/840451",
+				"by": [
+					"Kyle Lueptow",
+					"Neil",
+					"HueyLeone",
+					"Nasr Bin Safwan",
+					"Zora"
+				],
+				"by_link": [
+					"https://binaryclone.itch.io/",
+					"https://neilquillenaudio.itch.io/",
+					"https://hueyleone.itch.io/",
+					"https://temp-void.itch.io/",
+					"https://zozierosie.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 18,
+				"score": 3.722
+			},
+			{
+				"title": "Back N´ Time",
+				"title_link": "https://benjatk.itch.io/back-n-time",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/845804",
+				"by": [
+					"BenjaTK",
+					"Markositta",
+					"IamHaPPy"
+				],
+				"by_link": [
+					"https://benjatk.itch.io/",
+					"https://markositta.itch.io/",
+					"https://iamhappy.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 17,
+				"score": 3.721
+			},
+			{
+				"title": "RocketFire",
+				"title_link": "https://josdav.itch.io/rocketfire",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/845438",
+				"by": [
+					"josdav"
+				],
+				"by_link": [
+					"https://josdav.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 23,
+				"score": 3.685
+			},
+			{
+				"title": "Badaboom",
+				"title_link": "https://dotmobo.itch.io/badaboom",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/838164",
+				"by": [
+					".mobo"
+				],
+				"by_link": [
+					"https://dotmobo.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 15,
+				"score": 3.65
+			}
+		]
+	},
+	{
+		"id": 2,
+		"jam_name": "Major Jam 2: Love",
+		"link": "https://itch.io/jam/major-jam-2",
+		"list": [
+			{
+				"title": "Heart 2 Beat",
+				"title_link": "https://andrelimaesilva.itch.io/heart-2-beat",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685286",
+				"by": [
+					"André Lima e Silva",
+					"matgraz",
+					"phantompauer"
+				],
+				"by_link": [
+					"https://andrelimaesilva.itch.io/",
+					"https://matgraz.itch.io/",
+					"https://phantompauer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 19,
+				"score": 4.289
+			},
+			{
+				"title": "Dragon Heart",
+				"title_link": "https://ventkazemaru.itch.io/dragon-heart",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688960",
+				"by": [
+					"VentKazemaru"
+				],
+				"by_link": [
+					"https://ventkazemaru.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 13,
+				"score": 4.231
+			},
+			{
+				"title": "Haiku Fangirl",
+				"title_link": "https://curtastic.itch.io/haiku-fangirl",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689356",
+				"by": [
+					"curtastic"
+				],
+				"by_link": [
+					"https://curtastic.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 10,
+				"score": 4.15
+			},
+			{
+				"title": "Love Bowling",
+				"title_link": "https://johnperes.itch.io/love-bowling",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689250",
+				"by": [
+					"John Peres"
+				],
+				"by_link": [
+					"https://johnperes.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 4.075
+			},
+			{
+				"title": "Antiamor",
+				"title_link": "https://chirpyz.itch.io/antiamor",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685087",
+				"by": [
+					"Chirpy"
+				],
+				"by_link": [
+					"https://chirpyz.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 12,
+				"score": 4.063
+			},
+			{
+				"title": "Love Island: Cats vs Monsters",
+				"title_link": "https://brunosupremo.itch.io/love-island-cats-vs-monsters",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/686098",
+				"by": [
+					"BrunoSupremo"
+				],
+				"by_link": [
+					"https://brunosupremo.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 14,
+				"score": 3.946
+			},
+			{
+				"title": "Wiz",
+				"title_link": "https://ddollz.itch.io/wiz",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688605",
+				"by": [
+					"Ddollz"
+				],
+				"by_link": [
+					"https://ddollz.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.875
+			},
+			{
+				"title": "WhatSheWants",
+				"title_link": "https://pitiit.itch.io/whatshewants",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688823",
+				"by": [
+					"PitiIT"
+				],
+				"by_link": [
+					"https://pitiit.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 22,
+				"score": 3.875
+			},
+			{
+				"title": "Love from xx",
+				"title_link": "https://cutelyn.itch.io/love-from-xx",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687524",
+				"by": [
+					"cutelyn"
+				],
+				"by_link": [
+					"https://cutelyn.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 8,
+				"score": 3.844
+			},
+			{
+				"title": "The Curse of Cupid (Major Jam &amp; 8x8 Jam 2)",
+				"title_link": "https://helpcomputer.itch.io/the-curse-of-cupid",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689132",
+				"by": [
+					"helpcomputer0"
+				],
+				"by_link": [
+					"https://helpcomputer.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 15,
+				"score": 3.833
+			},
+			{
+				"title": "If You Love Me",
+				"title_link": "https://louisdutton.itch.io/if-you-love-me",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689205",
+				"by": [
+					"Louis Dutton"
+				],
+				"by_link": [
+					"https://louisdutton.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 12,
+				"score": 3.833
+			},
+			{
+				"title": "Serendipity",
+				"title_link": "https://peaqueueare.itch.io/serendipity",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
+				"by": [
+					"PeaQueueAre",
+					"Anthony",
+					"accessednull"
+				],
+				"by_link": [
+					"https://peaqueueare.itch.io/",
+					"https://anthony-c.itch.io/",
+					"https://accessednull.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 8,
+				"score": 3.813
+			},
+			{
+				"title": "Ebb and Flow",
+				"title_link": "https://unhooman.itch.io/ebb-and-flow",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685530",
+				"by": [
+					"unhooman"
+				],
+				"by_link": [
+					"https://unhooman.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 8,
+				"score": 3.75
+			},
+			{
+				"title": "Three Faces - Trei fețe",
+				"title_link": "https://maddiecorn.itch.io/three-faces",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688192",
+				"by": [
+					"Maddiecorn"
+				],
+				"by_link": [
+					"https://maddiecorn.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 8,
+				"score": 3.719
+			},
+			{
+				"title": "You've Got Mail",
+				"title_link": "https://zenpj.itch.io/youve-got-mail",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688736",
+				"by": [
+					"zenpj",
+					"joot"
+				],
+				"by_link": [
+					"https://zenpj.itch.io/",
+					"https://joot.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 13,
+				"score": 3.654
+			},
+			{
+				"title": "A Very Typical Farm?",
+				"title_link": "https://simoncurtis.itch.io/test01905627345",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688039",
+				"by": [
+					"SimonCurtis"
+				],
+				"by_link": [
+					"https://simoncurtis.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.643
+			},
+			{
+				"title": "Sneaky Snacks",
+				"title_link": "https://team-leaf.itch.io/sneaky-snacks",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689226",
+				"by": [
+					"Team Leaf",
+					"Rivercloud",
+					"IronFeatherGames"
+				],
+				"by_link": [
+					"https://team-leaf.itch.io/",
+					"https://rivercloud.itch.io/",
+					"https://ironfeathergames.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.583
+			},
+			{
+				"title": "Love5",
+				"title_link": "https://alexflowers.itch.io/love5",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689232",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 11,
+				"score": 3.455
+			},
+			{
+				"title": "Hug  Force",
+				"title_link": "https://ayo-ose.itch.io/hug-force",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688652",
+				"by": [
+					"Ose"
+				],
+				"by_link": [
+					"https://ayo-ose.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 6,
+				"score": 3.392
+			},
+			{
+				"title": "LovePark",
+				"title_link": "https://nedryz.itch.io/lovepark",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688062",
+				"by": [
+					"nedryz"
+				],
+				"by_link": [
+					"https://nedryz.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"id": 1,
+		"jam_name": "Major Jam: Isolation",
+		"link": "https://itch.io/jam/major-jam-isolation",
+		"list": [
+			{
+				"title": "ANIMA",
+				"title_link": "https://chiyeon.itch.io/anima",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601525",
+				"by": [
+					"chiyeon"
+				],
+				"by_link": [
+					"https://chiyeon.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.571
+			},
+			{
+				"title": "The Labyrinth",
+				"title_link": "https://ralh.itch.io/the-labyrinth",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/575279",
+				"by": [
+					"ralh"
+				],
+				"by_link": [
+					"https://ralh.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 4.153
+			},
+			{
+				"title": "Your Better Intro-version",
+				"title_link": "https://haiyoooo.itch.io/major-jam-isolated",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600066",
+				"by": [
+					"Haiyoooo | Artist",
+					"validbit",
+					"Kartsu",
+					"Lyrcaxis"
+				],
+				"by_link": [
+					"https://haiyoooo.itch.io/",
+					"https://validbit.itch.io/",
+					"https://kartsuu.itch.io/",
+					"https://lyrcaxis.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 6,
+				"score": 4.125
+			},
+			{
+				"title": "C:\\ONVERGENCE",
+				"title_link": "https://xkindredkinesis.itch.io/convergence",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601620",
+				"by": [
+					"Kinesix",
+					"64bitpandas",
+					"Epicrider",
+					"star-wolf",
+					"aganesh",
+					"EnumC"
+				],
+				"by_link": [
+					"https://xkindredkinesis.itch.io/",
+					"https://64bitpandas.itch.io/",
+					"https://epicrider.itch.io/",
+					"https://star-wolf.itch.io/",
+					"https://aganesh.itch.io/",
+					"https://enumc.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 4,
+				"score": 4.125
+			},
+			{
+				"title": "The Fruit of the Spirit",
+				"title_link": "https://draketrought.itch.io/the-fruit-of-the-spirit",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599423",
+				"by": [
+					"draketrought"
+				],
+				"by_link": [
+					"https://draketrought.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 4.1
+			},
+			{
+				"title": "No Need For Best",
+				"title_link": "https://giniwren.itch.io/no-need-for-best",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/595397",
+				"by": [
+					"Gini Wren"
+				],
+				"by_link": [
+					"https://giniwren.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 19,
+				"score": 4.053
+			},
+			{
+				"title": "Rooombra to the Rescue (Isolation Jam)",
+				"title_link": "https://artemiosans.itch.io/rooombra-to-the-rescue",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601412",
+				"by": [
+					"Artemio Morales",
+					"jonmorales",
+					"Rocketpark"
+				],
+				"by_link": [
+					"https://artemiosans.itch.io/",
+					"https://jonmorales.itch.io/",
+					"https://rocketpark.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 7,
+				"score": 4
+			},
+			{
+				"title": "Personal Space(ship)",
+				"title_link": "https://bredstickxxx.itch.io/personal-space",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599777",
+				"by": [
+					"Bredstickxxx"
+				],
+				"by_link": [
+					"https://bredstickxxx.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 4,
+				"score": 3.938
+			},
+			{
+				"title": "Juniper Jazz, The Great Ghost Detective! Case: 00",
+				"title_link": "https://riks.itch.io/juniper-jazz-the-great-ghost-detective-case-00",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601243",
+				"by": [
+					"riks"
+				],
+				"by_link": [
+					"https://riks.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.917
+			},
+			{
+				"title": "Quiet Space",
+				"title_link": "https://cookiecrayon.itch.io/quiet-space",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598566",
+				"by": [
+					"cookiecrayon"
+				],
+				"by_link": [
+					"https://cookiecrayon.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 24,
+				"score": 3.896
+			},
+			{
+				"title": "Detached",
+				"title_link": "https://adszads.itch.io/detached",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600545",
+				"by": [
+					"Adam Allsebrook"
+				],
+				"by_link": [
+					"https://adszads.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 3.857
+			},
+			{
+				"title": "Cough, Marry, Kill",
+				"title_link": "https://talios.itch.io/cough-marry-kill",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601481",
+				"by": [
+					"TaliOS",
+					"InkAndAmaranth",
+					"August",
+					"mbg180"
+				],
+				"by_link": [
+					"https://talios.itch.io/",
+					"https://inkandamaranth.itch.io/",
+					"https://augustapril.itch.io/",
+					"https://mbg180.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 5,
+				"score": 3.85
+			},
+			{
+				"title": "SpaceCraft: War In The Void",
+				"title_link": "https://eaz-games.itch.io/spacecraft-in-the-void",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601356",
+				"by": [
+					"Eaz_games"
+				],
+				"by_link": [
+					"https://eaz-games.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 9,
+				"score": 3.833
+			},
+			{
+				"title": "Ghost Roulette",
+				"title_link": "https://jontopielski.itch.io/ghost-roulette",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601618",
+				"by": [
+					"Jon Topielski"
+				],
+				"by_link": [
+					"https://jontopielski.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 5,
+				"score": 3.8
+			},
+			{
+				"title": "The Legend of Teddy Plubo",
+				"title_link": "https://nycelly.itch.io/the-legend-of-teddy-plubo",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601587",
+				"by": [
+					"Nycelly",
+					"jacktheslayer5",
+					"ULion"
+				],
+				"by_link": [
+					"https://nycelly.itch.io/",
+					"https://jacktheslayer5.itch.io/",
+					"https://ulion.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 10,
+				"score": 3.725
+			},
+			{
+				"title": "Lone Recorder",
+				"title_link": "https://carpyn.itch.io/lone-recorder",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600231",
+				"by": [
+					"Carpyn"
+				],
+				"by_link": [
+					"https://carpyn.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 15,
+				"score": 3.7
+			},
+			{
+				"title": "MegaVoid",
+				"title_link": "https://flamingsparrow.itch.io/megavoid",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601523",
+				"by": [
+					"FlamingSparrow"
+				],
+				"by_link": [
+					"https://flamingsparrow.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 10,
+				"score": 3.7
+			},
+			{
+				"title": "Yersisland",
+				"title_link": "https://atavismus.itch.io/yersisland",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/592710",
+				"by": [
+					"Thomas"
+				],
+				"by_link": [
+					"https://atavismus.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 13,
+				"score": 3.692
+			},
+			{
+				"title": "Final Words",
+				"title_link": "https://muggio.itch.io/final-words",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/600824",
+				"by": [
+					"muggio"
+				],
+				"by_link": [
+					"https://muggio.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 3,
+				"score": 3.681
+			},
+			{
+				"title": "Dead Pit",
+				"title_link": "https://b-random9.itch.io/dead-pit",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601632",
+				"by": [
+					"Brandon JS Lea"
+				],
+				"by_link": [
+					"https://b-random9.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 6,
+				"score": 3.667
+			}
+		]
+	}
+]

@@ -1,0 +1,4130 @@
+[
+	{
+		"jammer": "unimeno",
+		"jammer_link": "https://unimeno.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Life Anew",
+				"title_link": "https://nikohnoo.itch.io/life-anew",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2185872",
+				"by": [
+					"NikOhNoo",
+					"unimeno",
+					"Charmie",
+					"GarrickChiu"
+				],
+				"by_link": [
+					"https://nikohnoo.itch.io/",
+					"https://unimeno.itch.io/",
+					"https://charmiedev.itch.io/",
+					"https://garrickchiu.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.705
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"title": "Dance Dance Armageddon",
+				"title_link": "https://nikohnoo.itch.io/dance-dance-armageddon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672986",
+				"by": [
+					"NikOhNoo",
+					"unimeno",
+					"Genysys"
+				],
+				"by_link": [
+					"https://nikohnoo.itch.io/",
+					"https://unimeno.itch.io/",
+					"https://genysys.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 17,
+				"score": 3.485
+			}
+		]
+	},
+	{
+		"jammer": "Charmie",
+		"jammer_link": "https://charmiedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Life Anew",
+				"title_link": "https://nikohnoo.itch.io/life-anew",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2185872",
+				"by": [
+					"NikOhNoo",
+					"unimeno",
+					"Charmie",
+					"GarrickChiu"
+				],
+				"by_link": [
+					"https://nikohnoo.itch.io/",
+					"https://unimeno.itch.io/",
+					"https://charmiedev.itch.io/",
+					"https://garrickchiu.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.705
+			}
+		]
+	},
+	{
+		"jammer": "GarrickChiu",
+		"jammer_link": "https://garrickchiu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Life Anew",
+				"title_link": "https://nikohnoo.itch.io/life-anew",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2185872",
+				"by": [
+					"NikOhNoo",
+					"unimeno",
+					"Charmie",
+					"GarrickChiu"
+				],
+				"by_link": [
+					"https://nikohnoo.itch.io/",
+					"https://unimeno.itch.io/",
+					"https://charmiedev.itch.io/",
+					"https://garrickchiu.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.705
+			}
+		]
+	},
+	{
+		"jammer": "DerpiestDude",
+		"jammer_link": "https://derpiestdude.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Knight Antivirus",
+				"title_link": "https://derpiestdude.itch.io/knight-antivirus",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192260",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 38,
+				"score": 3.697
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"title": "BANANA MASSACRE",
+				"title_link": "https://derpiestdude.itch.io/banana-massacre",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448982",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 12,
+				"score": 2.313
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Cloud Killer",
+				"title_link": "https://derpiestdude.itch.io/cloud-killer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1791091",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 14,
+				"score": 2.661
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 107,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-107-music",
+				"title": "Gravity Mine",
+				"title_link": "https://derpiestdude.itch.io/gravity-mine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1550602",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 27,
+				"score": 2.907
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"title": "Fragile Fishing",
+				"title_link": "https://derpiestdude.itch.io/fragile-fishing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572165",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 29,
+				"score": 3.397
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"title": "Ground Grabber",
+				"title_link": "https://derpiestdude.itch.io/ground-grabber",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431063",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 8,
+				"score": 2.652
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"title": "Froggo the Mountain Climber",
+				"title_link": "https://derpiestdude.itch.io/froggo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532031",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 97,
+				"ratings": 7,
+				"score": 3.286
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"title": "Acorn Defense",
+				"title_link": "https://derpiestdude.itch.io/acorn-defence",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634372",
+				"by": [
+					"DerpiestDude"
+				],
+				"by_link": [
+					"https://derpiestdude.itch.io/"
+				],
+				"rank": 192,
+				"ratings": 10,
+				"score": 2.9
+			}
+		]
+	},
+	{
+		"jammer": "Kitchen Games",
+		"jammer_link": "https://kitchen-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "BumbleKey",
+				"title_link": "https://kitchen-games.itch.io/bumblekey",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197026",
+				"by": [
+					"Kitchen Games"
+				],
+				"by_link": [
+					"https://kitchen-games.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 20,
+				"score": 3.675
+			}
+		]
+	},
+	{
+		"jammer": "Alambik",
+		"jammer_link": "https://alambik.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"title": "☢ LITTLE FAT BOY ²",
+				"title_link": "https://alambik.itch.io/little-fat-boy-2",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389073",
+				"by": [
+					"Alambik"
+				],
+				"by_link": [
+					"https://alambik.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 43,
+				"score": 4.169
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"title": "THE LAST WALL",
+				"title_link": "https://alambik.itch.io/the-last-wall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851866",
+				"by": [
+					"Alambik"
+				],
+				"by_link": [
+					"https://alambik.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 22,
+				"score": 4.091
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "BRUTAL RECOIL",
+				"title_link": "https://alambik.itch.io/brutal-recoil",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197112",
+				"by": [
+					"Alambik"
+				],
+				"by_link": [
+					"https://alambik.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 28,
+				"score": 3.67
+			}
+		]
+	},
+	{
+		"jammer": "Mopati",
+		"jammer_link": "https://mopati.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Ethereal Elysium",
+				"title_link": "https://mopati.itch.io/etherealelysium",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192826",
+				"by": [
+					"Mopati",
+					"Alexandre_Guichet"
+				],
+				"by_link": [
+					"https://mopati.itch.io/",
+					"https://alexandre-guichet.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 9,
+				"score": 3.667
+			}
+		]
+	},
+	{
+		"jammer": "Alexandre_Guichet",
+		"jammer_link": "https://alexandre-guichet.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Ethereal Elysium",
+				"title_link": "https://mopati.itch.io/etherealelysium",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192826",
+				"by": [
+					"Mopati",
+					"Alexandre_Guichet"
+				],
+				"by_link": [
+					"https://mopati.itch.io/",
+					"https://alexandre-guichet.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 9,
+				"score": 3.667
+			}
+		]
+	},
+	{
+		"jammer": "panicmore",
+		"jammer_link": "https://panicmore.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Scheduled Maintenance",
+				"title_link": "https://panicmore.itch.io/scheduled-maintenance",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195531",
+				"by": [
+					"panicmore"
+				],
+				"by_link": [
+					"https://panicmore.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 21,
+				"score": 3.619
+			}
+		]
+	},
+	{
+		"jammer": "little_fifth",
+		"jammer_link": "https://little-fifth.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Buggy_Virus",
+				"title_link": "https://little-fifth.itch.io/buggy-virus",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196879",
+				"by": [
+					"little_fifth",
+					"Traceletz"
+				],
+				"by_link": [
+					"https://little-fifth.itch.io/",
+					"https://traceletz.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 11,
+				"score": 3.614
+			}
+		]
+	},
+	{
+		"jammer": "Traceletz",
+		"jammer_link": "https://traceletz.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Buggy_Virus",
+				"title_link": "https://little-fifth.itch.io/buggy-virus",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196879",
+				"by": [
+					"little_fifth",
+					"Traceletz"
+				],
+				"by_link": [
+					"https://little-fifth.itch.io/",
+					"https://traceletz.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 11,
+				"score": 3.614
+			}
+		]
+	},
+	{
+		"jammer": "KarlTheCool",
+		"jammer_link": "https://karlthecool.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "Rangersilver",
+		"jammer_link": "https://rangersilver.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "AeidanG",
+		"jammer_link": "https://aeidang.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "CHayward",
+		"jammer_link": "https://chayward.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "beccarex",
+		"jammer_link": "https://beccarex.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "Ezzybel",
+		"jammer_link": "https://ezzybel.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "liam chen",
+		"jammer_link": "https://liam-chen.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Organic Growth",
+				"title_link": "https://karlthecool.itch.io/organic-growth",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197190",
+				"by": [
+					"KarlTheCool",
+					"Rangersilver",
+					"AeidanG",
+					"CHayward",
+					"beccarex",
+					"Ezzybel",
+					"liam chen"
+				],
+				"by_link": [
+					"https://karlthecool.itch.io/",
+					"https://rangersilver.itch.io/",
+					"https://aeidang.itch.io/",
+					"https://chayward.itch.io/",
+					"https://beccarex.itch.io/",
+					"https://ezzybel.itch.io/",
+					"https://liam-chen.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "ElGatoPanzon",
+		"jammer_link": "https://elgatopanzon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Paint of Life",
+				"title_link": "https://elgatopanzon.itch.io/paint-of-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194876",
+				"by": [
+					"ElGatoPanzon"
+				],
+				"by_link": [
+					"https://elgatopanzon.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 20,
+				"score": 3.575
+			}
+		]
+	},
+	{
+		"jammer": "mixtoko",
+		"jammer_link": "https://mixtoko.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Souls in the Balance",
+				"title_link": "https://mixtoko.itch.io/souls-in-the-balance",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193384",
+				"by": [
+					"mixtoko",
+					"Mastuh",
+					"rayckles"
+				],
+				"by_link": [
+					"https://mixtoko.itch.io/",
+					"https://mastuh.itch.io/",
+					"https://rayckles.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 15,
+				"score": 3.55
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "GHE3R",
+				"title_link": "https://mixtoko.itch.io/ghe3r",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2016928",
+				"by": [
+					"mixtoko"
+				],
+				"by_link": [
+					"https://mixtoko.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 22,
+				"score": 3.25
+			}
+		]
+	},
+	{
+		"jammer": "Mastuh",
+		"jammer_link": "https://mastuh.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Souls in the Balance",
+				"title_link": "https://mixtoko.itch.io/souls-in-the-balance",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193384",
+				"by": [
+					"mixtoko",
+					"Mastuh",
+					"rayckles"
+				],
+				"by_link": [
+					"https://mixtoko.itch.io/",
+					"https://mastuh.itch.io/",
+					"https://rayckles.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 15,
+				"score": 3.55
+			}
+		]
+	},
+	{
+		"jammer": "rayckles",
+		"jammer_link": "https://rayckles.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Souls in the Balance",
+				"title_link": "https://mixtoko.itch.io/souls-in-the-balance",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193384",
+				"by": [
+					"mixtoko",
+					"Mastuh",
+					"rayckles"
+				],
+				"by_link": [
+					"https://mixtoko.itch.io/",
+					"https://mastuh.itch.io/",
+					"https://rayckles.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 15,
+				"score": 3.55
+			}
+		]
+	},
+	{
+		"jammer": "Elporkador",
+		"jammer_link": "https://elporkador.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"title": "Fade Into Noir",
+				"title_link": "https://elporkador.itch.io/fade-into-noir",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1709382",
+				"by": [
+					"Elporkador"
+				],
+				"by_link": [
+					"https://elporkador.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 15,
+				"score": 3.633
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 89,
+				"jam_name": "Pumpkin",
+				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
+				"title": "Medusa's Lair",
+				"title_link": "https://elporkador.itch.io/medusas-lair",
+				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1202522",
+				"by": [
+					"Elporkador"
+				],
+				"by_link": [
+					"https://elporkador.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 16,
+				"score": 3.672
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"title": "Squares &amp; Daggers",
+				"title_link": "https://elporkador.itch.io/just-a-dagger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070413",
+				"by": [
+					"Elporkador"
+				],
+				"by_link": [
+					"https://elporkador.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 10,
+				"score": 3.05
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Logo Leap",
+				"title_link": "https://elporkador.itch.io/logo-leap",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195455",
+				"by": [
+					"Elporkador"
+				],
+				"by_link": [
+					"https://elporkador.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 15,
+				"score": 3.5
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 96,
+				"jam_name": "Fate",
+				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
+				"title": "Escaping the Sea",
+				"title_link": "https://elporkador.itch.io/escaping-the-sea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332686",
+				"by": [
+					"Elporkador"
+				],
+				"by_link": [
+					"https://elporkador.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 19,
+				"score": 2.605
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "Rush Hour: Traffic Jam",
+				"title_link": "https://elporkador.itch.io/rush-hour",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188389",
+				"by": [
+					"Elporkador"
+				],
+				"by_link": [
+					"https://elporkador.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 15,
+				"score": 3.133
+			}
+		]
+	},
+	{
+		"jammer": "Wilheries",
+		"jammer_link": "https://wilheries.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Find your way",
+				"title_link": "https://wilheries.itch.io/findyourway",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197104",
+				"by": [
+					"Wilheries",
+					"PsychicCow"
+				],
+				"by_link": [
+					"https://wilheries.itch.io/",
+					"https://psychiccow.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 16,
+				"score": 3.469
+			}
+		]
+	},
+	{
+		"jammer": "PsychicCow",
+		"jammer_link": "https://psychiccow.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Find your way",
+				"title_link": "https://wilheries.itch.io/findyourway",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197104",
+				"by": [
+					"Wilheries",
+					"PsychicCow"
+				],
+				"by_link": [
+					"https://wilheries.itch.io/",
+					"https://psychiccow.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 16,
+				"score": 3.469
+			}
+		]
+	},
+	{
+		"jammer": "Nidel",
+		"jammer_link": "https://nidel.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 146,
+				"jam_name": "Windows",
+				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
+				"title": "Finding Titan",
+				"title_link": "https://nidel.itch.io/finding-titan",
+				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2387475",
+				"by": [
+					"Nidel",
+					"Bardegriot",
+					"yuyuiopyuyu"
+				],
+				"by_link": [
+					"https://nidel.itch.io/",
+					"https://bardegriot.itch.io/",
+					"https://yuyuiopyuyu.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 5,
+				"score": 2.874
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "ECLIPSE",
+				"title_link": "https://nidel.itch.io/eclipse",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2191564",
+				"by": [
+					"Nidel",
+					"yuyuiopyuyu",
+					"SestraDuck",
+					"Roy Acquasaliente"
+				],
+				"by_link": [
+					"https://nidel.itch.io/",
+					"https://yuyuiopyuyu.itch.io/",
+					"https://sestraduck.itch.io/",
+					"https://roy-acquasaliente.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 22,
+				"score": 3.466
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"title": "A Curse Of Emptiness",
+				"title_link": "https://nidel.itch.io/a-curse-of-emptiness",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1365854",
+				"by": [
+					"Nidel"
+				],
+				"by_link": [
+					"https://nidel.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 14,
+				"score": 3.107
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"title": "EggXplode",
+				"title_link": "https://nidel.itch.io/eggxplode",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388808",
+				"by": [
+					"Nidel"
+				],
+				"by_link": [
+					"https://nidel.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 25,
+				"score": 3.33
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "13 Flies",
+				"title_link": "https://nidel.itch.io/thirteen-flies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869143",
+				"by": [
+					"Nidel"
+				],
+				"by_link": [
+					"https://nidel.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 12,
+				"score": 3.125
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"title": "The Last Bastion",
+				"title_link": "https://nidel.itch.io/the-last-bastion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409388",
+				"by": [
+					"Nidel"
+				],
+				"by_link": [
+					"https://nidel.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 18,
+				"score": 3.264
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"title": "Rock Paper Shotgun!",
+				"title_link": "https://nidel.itch.io/rock-paper-shotgun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748631",
+				"by": [
+					"Nidel"
+				],
+				"by_link": [
+					"https://nidel.itch.io/"
+				],
+				"rank": 98,
+				"ratings": 16,
+				"score": 2.781
+			}
+		]
+	},
+	{
+		"jammer": "yuyuiopyuyu",
+		"jammer_link": "https://yuyuiopyuyu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 146,
+				"jam_name": "Windows",
+				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
+				"title": "Finding Titan",
+				"title_link": "https://nidel.itch.io/finding-titan",
+				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2387475",
+				"by": [
+					"Nidel",
+					"Bardegriot",
+					"yuyuiopyuyu"
+				],
+				"by_link": [
+					"https://nidel.itch.io/",
+					"https://bardegriot.itch.io/",
+					"https://yuyuiopyuyu.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 5,
+				"score": 2.874
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "ECLIPSE",
+				"title_link": "https://nidel.itch.io/eclipse",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2191564",
+				"by": [
+					"Nidel",
+					"yuyuiopyuyu",
+					"SestraDuck",
+					"Roy Acquasaliente"
+				],
+				"by_link": [
+					"https://nidel.itch.io/",
+					"https://yuyuiopyuyu.itch.io/",
+					"https://sestraduck.itch.io/",
+					"https://roy-acquasaliente.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 22,
+				"score": 3.466
+			}
+		]
+	},
+	{
+		"jammer": "SestraDuck",
+		"jammer_link": "https://sestraduck.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "ECLIPSE",
+				"title_link": "https://nidel.itch.io/eclipse",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2191564",
+				"by": [
+					"Nidel",
+					"yuyuiopyuyu",
+					"SestraDuck",
+					"Roy Acquasaliente"
+				],
+				"by_link": [
+					"https://nidel.itch.io/",
+					"https://yuyuiopyuyu.itch.io/",
+					"https://sestraduck.itch.io/",
+					"https://roy-acquasaliente.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 22,
+				"score": 3.466
+			}
+		]
+	},
+	{
+		"jammer": "Roy Acquasaliente",
+		"jammer_link": "https://roy-acquasaliente.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "ECLIPSE",
+				"title_link": "https://nidel.itch.io/eclipse",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2191564",
+				"by": [
+					"Nidel",
+					"yuyuiopyuyu",
+					"SestraDuck",
+					"Roy Acquasaliente"
+				],
+				"by_link": [
+					"https://nidel.itch.io/",
+					"https://yuyuiopyuyu.itch.io/",
+					"https://sestraduck.itch.io/",
+					"https://roy-acquasaliente.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 22,
+				"score": 3.466
+			}
+		]
+	},
+	{
+		"jammer": "moh56",
+		"jammer_link": "https://moh56.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Color Awakining",
+				"title_link": "https://moh56.itch.io/color-awakining",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195709",
+				"by": [
+					"moh56"
+				],
+				"by_link": [
+					"https://moh56.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 16,
+				"score": 3.453
+			}
+		]
+	},
+	{
+		"jammer": "Schwender.exe",
+		"jammer_link": "https://schwenderexe.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Little Alchemist: Elixir of Life (Major Jam 6: Life Submission)",
+				"title_link": "https://schwenderexe.itch.io/little-alchemist",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196626",
+				"by": [
+					"Schwender.exe"
+				],
+				"by_link": [
+					"https://schwenderexe.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 5,
+				"score": 3.439
+			}
+		]
+	},
+	{
+		"jammer": "Rosia",
+		"jammer_link": "https://ayperosia.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Misery Blissness",
+				"title_link": "https://ayperosia.itch.io/misery-blissness",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1787196",
+				"by": [
+					"Rosia",
+					"Ryria",
+					"caesarinohs"
+				],
+				"by_link": [
+					"https://ayperosia.itch.io/",
+					"https://ryria.itch.io/",
+					"https://caesarinohs.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 18,
+				"score": 3.181
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Ecosystem Designer",
+				"title_link": "https://ayperosia.itch.io/ecosystem-designer",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2158448",
+				"by": [
+					"Rosia",
+					"Highland Taurus",
+					"Robyn",
+					"Esteban's Games"
+				],
+				"by_link": [
+					"https://ayperosia.itch.io/",
+					"https://highlandtaurus.itch.io/",
+					"https://crawfordr97.itch.io/",
+					"https://estebansmolgames.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 8,
+				"score": 3.406
+			}
+		]
+	},
+	{
+		"jammer": "Highland Taurus",
+		"jammer_link": "https://highlandtaurus.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Ecosystem Designer",
+				"title_link": "https://ayperosia.itch.io/ecosystem-designer",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2158448",
+				"by": [
+					"Rosia",
+					"Highland Taurus",
+					"Robyn",
+					"Esteban's Games"
+				],
+				"by_link": [
+					"https://ayperosia.itch.io/",
+					"https://highlandtaurus.itch.io/",
+					"https://crawfordr97.itch.io/",
+					"https://estebansmolgames.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 8,
+				"score": 3.406
+			}
+		]
+	},
+	{
+		"jammer": "Robyn",
+		"jammer_link": "https://crawfordr97.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Ecosystem Designer",
+				"title_link": "https://ayperosia.itch.io/ecosystem-designer",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2158448",
+				"by": [
+					"Rosia",
+					"Highland Taurus",
+					"Robyn",
+					"Esteban's Games"
+				],
+				"by_link": [
+					"https://ayperosia.itch.io/",
+					"https://highlandtaurus.itch.io/",
+					"https://crawfordr97.itch.io/",
+					"https://estebansmolgames.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 8,
+				"score": 3.406
+			}
+		]
+	},
+	{
+		"jammer": "Esteban's Games",
+		"jammer_link": "https://estebansmolgames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Sakana",
+				"title_link": "https://estebansmolgames.itch.io/sakana",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457424",
+				"by": [
+					"Esteban's Games"
+				],
+				"by_link": [
+					"https://estebansmolgames.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 10,
+				"score": 2.525
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Ecosystem Designer",
+				"title_link": "https://ayperosia.itch.io/ecosystem-designer",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2158448",
+				"by": [
+					"Rosia",
+					"Highland Taurus",
+					"Robyn",
+					"Esteban's Games"
+				],
+				"by_link": [
+					"https://ayperosia.itch.io/",
+					"https://highlandtaurus.itch.io/",
+					"https://crawfordr97.itch.io/",
+					"https://estebansmolgames.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 8,
+				"score": 3.406
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 24,
+				"jam_name": "Space",
+				"jam_link": "https://itch.io/jam/mini-jam-24-space",
+				"title": "CYB3RSPAC3 METE0R: DESTROYER",
+				"title_link": "https://estebansmolgames.itch.io/cybermeteor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395745",
+				"by": [
+					"Esteban's Games"
+				],
+				"by_link": [
+					"https://estebansmolgames.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 5,
+				"score": 2.49
+			}
+		]
+	},
+	{
+		"jammer": "Pointless Pixels",
+		"jammer_link": "https://pointless-pixels.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Powerhouse of The Immune System",
+				"title_link": "https://pointless-pixels.itch.io/powerhouse-of-the-immune-system",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197064",
+				"by": [
+					"Pointless Pixels"
+				],
+				"by_link": [
+					"https://pointless-pixels.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 12,
+				"score": 3.396
+			}
+		]
+	},
+	{
+		"jammer": "PraiseTSun",
+		"jammer_link": "https://praisetsun.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"title": "5 Min Until Salvation",
+				"title_link": "https://praisetsun.itch.io/5-min-until-salvation",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851473",
+				"by": [
+					"PraiseTSun"
+				],
+				"by_link": [
+					"https://praisetsun.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 14,
+				"score": 3.071
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "Dice beLIEveR",
+				"title_link": "https://praisetsun.itch.io/dice-believer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2133697",
+				"by": [
+					"PraiseTSun"
+				],
+				"by_link": [
+					"https://praisetsun.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 7,
+				"score": 2.893
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Game Bugs",
+				"title_link": "https://praisetsun.itch.io/game-bugs",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195033",
+				"by": [
+					"PraiseTSun"
+				],
+				"by_link": [
+					"https://praisetsun.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 12,
+				"score": 3.375
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"title": "All you need is HP",
+				"title_link": "https://praisetsun.itch.io/all-you-need-is-hp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976998",
+				"by": [
+					"PraiseTSun"
+				],
+				"by_link": [
+					"https://praisetsun.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 13,
+				"score": 3.212
+			}
+		]
+	},
+	{
+		"jammer": "shinzlet",
+		"jammer_link": "https://shinzlet.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "SeedSpitter",
+				"title_link": "https://shinzlet.itch.io/seedspitter",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197216",
+				"by": [
+					"shinzlet"
+				],
+				"by_link": [
+					"https://shinzlet.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 8,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "rikkimander",
+		"jammer_link": "https://rikkimander.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Bulbie: The Onion Boy",
+				"title_link": "https://rikkimander.itch.io/bulbie",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2173984",
+				"by": [
+					"rikkimander"
+				],
+				"by_link": [
+					"https://rikkimander.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 13,
+				"score": 3.365
+			}
+		]
+	},
+	{
+		"jammer": "Hosein_SunFlower",
+		"jammer_link": "https://hosein-sunfloawer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Garden Errors",
+				"title_link": "https://hosein-sunfloawer.itch.io/garden-errors",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196703",
+				"by": [
+					"Hosein_SunFlower"
+				],
+				"by_link": [
+					"https://hosein-sunfloawer.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 17,
+				"score": 3.353
+			}
+		]
+	},
+	{
+		"jammer": "DandaDev",
+		"jammer_link": "https://dandadev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "M.A.R.V",
+				"title_link": "https://dandadev.itch.io/marv",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196397",
+				"by": [
+					"DandaDev"
+				],
+				"by_link": [
+					"https://dandadev.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 11,
+				"score": 3.341
+			}
+		]
+	},
+	{
+		"jammer": "Alex_D05",
+		"jammer_link": "https://alex-d05.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"title": "Meteor Mayhem",
+				"title_link": "https://alex-d05.itch.io/meteor-mayhem",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976100",
+				"by": [
+					"Alex_D05"
+				],
+				"by_link": [
+					"https://alex-d05.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 20,
+				"score": 3.837
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"title": "Rat Catastrophe",
+				"title_link": "https://alex-d05.itch.io/rat-catastrophy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1953792",
+				"by": [
+					"Alex_D05"
+				],
+				"by_link": [
+					"https://alex-d05.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 29,
+				"score": 3.345
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Cell Saboteur",
+				"title_link": "https://alex-d05.itch.io/cell-sabatuer",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193383",
+				"by": [
+					"Alex_D05"
+				],
+				"by_link": [
+					"https://alex-d05.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 26,
+				"score": 3.327
+			}
+		]
+	},
+	{
+		"jammer": "HugBug",
+		"jammer_link": "https://hugbug.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Audition Tapes",
+				"title_link": "https://hugbug.itch.io/audition-tapes",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2187385",
+				"by": [
+					"HugBug"
+				],
+				"by_link": [
+					"https://hugbug.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 11,
+				"score": 3.318
+			}
+		]
+	},
+	{
+		"jammer": "PhantomDev",
+		"jammer_link": "https://phantominferno47.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Box Factory: Emergency",
+				"title_link": "https://phantominferno47.itch.io/box-factory-emergency",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2188921",
+				"by": [
+					"PhantomDev"
+				],
+				"by_link": [
+					"https://phantominferno47.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 15,
+				"score": 3.317
+			}
+		]
+	},
+	{
+		"jammer": "Atanii",
+		"jammer_link": "https://atanii.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 23,
+				"jam_name": "Time",
+				"jam_link": "https://itch.io/jam/mini-jam-23-time",
+				"title": "Running out of time!",
+				"title_link": "https://atanii.itch.io/running-out-of-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-23-time/rate/382373",
+				"by": [
+					"Atanii"
+				],
+				"by_link": [
+					"https://atanii.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 15,
+				"score": 2.817
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Miru The Sorcerer",
+				"title_link": "https://atanii.itch.io/miru-the-sorcerer",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193897",
+				"by": [
+					"Atanii"
+				],
+				"by_link": [
+					"https://atanii.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 7,
+				"score": 3.307
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"title": "Mineoid",
+				"title_link": "https://atanii.itch.io/mineoid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1588915",
+				"by": [
+					"Atanii"
+				],
+				"by_link": [
+					"https://atanii.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 5,
+				"score": 2.648
+			}
+		]
+	},
+	{
+		"jammer": "PneumaJams",
+		"jammer_link": "https://pneumajams.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "Olin the Producer",
+		"jammer_link": "https://t0mpkinz.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "Festus",
+		"jammer_link": "https://festus.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "musicallyroy",
+		"jammer_link": "https://musicallyroy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "dragen000",
+		"jammer_link": "https://dragen000.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"title": "Capsule hit enemy with the flyswatter!",
+				"title_link": "https://almost-friday.itch.io/capsule-hit-enemy-with-the-flyswatter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1154153",
+				"by": [
+					"almost_friday",
+					"dragen000"
+				],
+				"by_link": [
+					"https://almost-friday.itch.io/",
+					"https://dragen000.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 7,
+				"score": 2.94
+			}
+		]
+	},
+	{
+		"jammer": "Geode890",
+		"jammer_link": "https://geode890.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "CyclopicSpider",
+		"jammer_link": "https://cyclopicspider.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "Atlas3D",
+		"jammer_link": "https://atlas3d.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "CholfyJams",
+		"jammer_link": "https://cholfyjams.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "Bubblegum Burrito",
+		"jammer_link": "https://bubblegum-burrito.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Researcher",
+				"title_link": "https://pneumajams.itch.io/researcher",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193698",
+				"by": [
+					"PneumaJams",
+					"Olin the Producer",
+					"Festus",
+					"musicallyroy",
+					"dragen000",
+					"Geode890",
+					"CyclopicSpider",
+					"Atlas3D",
+					"CholfyJams",
+					"Bubblegum Burrito"
+				],
+				"by_link": [
+					"https://pneumajams.itch.io/",
+					"https://t0mpkinz.itch.io/",
+					"https://festus.itch.io/",
+					"https://musicallyroy.itch.io/",
+					"https://dragen000.itch.io/",
+					"https://geode890.itch.io/",
+					"https://cyclopicspider.itch.io/",
+					"https://atlas3d.itch.io/",
+					"https://cholfyjams.itch.io/",
+					"https://bubblegum-burrito.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.306
+			}
+		]
+	},
+	{
+		"jammer": "FarawayDrip30",
+		"jammer_link": "https://farawaydrip30.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "A Boy and His --TODO-- Add Creature Name Here.",
+				"title_link": "https://farawaydrip30.itch.io/a-boy-and-his-todo-add-creature-here",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195824",
+				"by": [
+					"FarawayDrip30"
+				],
+				"by_link": [
+					"https://farawaydrip30.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 6,
+				"score": 3.284
+			}
+		]
+	},
+	{
+		"jammer": "Ohhnyx",
+		"jammer_link": "https://ohhnyx.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"title": "Waterclock",
+				"title_link": "https://ohhnyx.itch.io/waterclock",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207733",
+				"by": [
+					"Ohhnyx"
+				],
+				"by_link": [
+					"https://ohhnyx.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 7,
+				"score": 2.714
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Anima",
+				"title_link": "https://ohhnyx.itch.io/anima",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196400",
+				"by": [
+					"Ohhnyx"
+				],
+				"by_link": [
+					"https://ohhnyx.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 16,
+				"score": 3.281
+			}
+		]
+	},
+	{
+		"jammer": "SimonStache",
+		"jammer_link": "https://simonstache.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "ScubaTography",
+				"title_link": "https://simonstache.itch.io/scubatography",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195693",
+				"by": [
+					"SimonStache"
+				],
+				"by_link": [
+					"https://simonstache.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 6,
+				"score": 3.248
+			}
+		]
+	},
+	{
+		"jammer": "Axelf",
+		"jammer_link": "https://axelftv.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lifemates: Azure Forest",
+				"title_link": "https://axelftv.itch.io/lifemates-azure-forest",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196767",
+				"by": [
+					"Axelf",
+					"Grayson DeSmet",
+					"Snook"
+				],
+				"by_link": [
+					"https://axelftv.itch.io/",
+					"https://gdesmet.itch.io/",
+					"https://snook041.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 10,
+				"score": 3.225
+			}
+		]
+	},
+	{
+		"jammer": "Grayson DeSmet",
+		"jammer_link": "https://gdesmet.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lifemates: Azure Forest",
+				"title_link": "https://axelftv.itch.io/lifemates-azure-forest",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196767",
+				"by": [
+					"Axelf",
+					"Grayson DeSmet",
+					"Snook"
+				],
+				"by_link": [
+					"https://axelftv.itch.io/",
+					"https://gdesmet.itch.io/",
+					"https://snook041.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 10,
+				"score": 3.225
+			}
+		]
+	},
+	{
+		"jammer": "Snook",
+		"jammer_link": "https://snook041.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lifemates: Azure Forest",
+				"title_link": "https://axelftv.itch.io/lifemates-azure-forest",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196767",
+				"by": [
+					"Axelf",
+					"Grayson DeSmet",
+					"Snook"
+				],
+				"by_link": [
+					"https://axelftv.itch.io/",
+					"https://gdesmet.itch.io/",
+					"https://snook041.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 10,
+				"score": 3.225
+			}
+		]
+	},
+	{
+		"jammer": "saintshenanigans",
+		"jammer_link": "https://saintshenanigans.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Yorbana's Apothecary",
+				"title_link": "https://saintshenanigans.itch.io/yorbanas-apothecary",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197209",
+				"by": [
+					"saintshenanigans",
+					"nerdygaytor"
+				],
+				"by_link": [
+					"https://saintshenanigans.itch.io/",
+					"https://nerdygaytor.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 9,
+				"score": 3.222
+			}
+		]
+	},
+	{
+		"jammer": "nerdygaytor",
+		"jammer_link": "https://nerdygaytor.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Walking the Long Road",
+				"title_link": "https://nerdygaytor.itch.io/walking-the-long-road",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185748",
+				"by": [
+					"nerdygaytor"
+				],
+				"by_link": [
+					"https://nerdygaytor.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 16,
+				"score": 2.672
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Yorbana's Apothecary",
+				"title_link": "https://saintshenanigans.itch.io/yorbanas-apothecary",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197209",
+				"by": [
+					"saintshenanigans",
+					"nerdygaytor"
+				],
+				"by_link": [
+					"https://saintshenanigans.itch.io/",
+					"https://nerdygaytor.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 9,
+				"score": 3.222
+			}
+		]
+	},
+	{
+		"jammer": "Of Evernost",
+		"jammer_link": "https://dreamswithopeneyes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "While True, It Is Not Sufficient",
+				"title_link": "https://dreamswithopeneyes.itch.io/while-true-it-is-not-sufficient",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196700",
+				"by": [
+					"Of Evernost"
+				],
+				"by_link": [
+					"https://dreamswithopeneyes.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 11,
+				"score": 3.205
+			}
+		]
+	},
+	{
+		"jammer": "AdamShohaieb",
+		"jammer_link": "https://adamshohaieb.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Guardians Of The Garden",
+				"title_link": "https://adamshohaieb.itch.io/guardians-of-the-garden",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196736",
+				"by": [
+					"AdamShohaieb"
+				],
+				"by_link": [
+					"https://adamshohaieb.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 26,
+				"score": 3.192
+			}
+		]
+	},
+	{
+		"jammer": "Ady",
+		"jammer_link": "https://ady23.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Warp Dash",
+				"title_link": "https://ady23.itch.io/warp-dash",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195554",
+				"by": [
+					"Ady"
+				],
+				"by_link": [
+					"https://ady23.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 9,
+				"score": 3.167
+			}
+		]
+	},
+	{
+		"jammer": "TidiestCheese",
+		"jammer_link": "https://tidiestcheese.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Grow the Robot",
+				"title_link": "https://tidiestcheese.itch.io/grow-the-robot",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196099",
+				"by": [
+					"TidiestCheese"
+				],
+				"by_link": [
+					"https://tidiestcheese.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 4,
+				"score": 3.138
+			}
+		]
+	},
+	{
+		"jammer": "SAWD Games",
+		"jammer_link": "https://sawd-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"title": "Agent 74",
+				"title_link": "https://sawd-games.itch.io/agent-74",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2206676",
+				"by": [
+					"SAWD Games",
+					"Niko Chantzis",
+					"DaBonky"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://nikochantzis.itch.io/",
+					"https://dabonky.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 14,
+				"score": 3.375
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"title": "Bad Sunrise",
+				"title_link": "https://sawd-games.itch.io/bad-sunrise",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2042114",
+				"by": [
+					"SAWD Games",
+					"DaBonky"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://dabonky.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 25,
+				"score": 3.84
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"title": "Do No Harm",
+				"title_link": "https://sawd-games.itch.io/do-no-harm",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1809536",
+				"by": [
+					"SAWD Games"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 23,
+				"score": 3.565
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"title": "Who wants to live forever?",
+				"title_link": "https://sawd-games.itch.io/who-wants-to-live-forever",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2069887",
+				"by": [
+					"SAWD Games",
+					"DaBonky"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://dabonky.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 16,
+				"score": 3.344
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"title": "Inter(stellar) Mission",
+				"title_link": "https://sawd-games.itch.io/interstellar-mission",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1850766",
+				"by": [
+					"SAWD Games",
+					"Kuang-Yu"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://cheng8141.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 23,
+				"score": 3.207
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"title": "Executive Fungal Extraction Force (E.F.E.F.)",
+				"title_link": "https://sawd-games.itch.io/executive-fungal-extraction-force",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977645",
+				"by": [
+					"SAWD Games",
+					"luisdenpixel"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://luisdenpixel.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 17,
+				"score": 3.618
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"title": "No Swimming Past This Point",
+				"title_link": "https://sawd-games.itch.io/no-swimming-past-this-point",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1936569",
+				"by": [
+					"SAWD Games",
+					"luisdenpixel"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://luisdenpixel.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 13,
+				"score": 3.442
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"title": "Pyrotechnic Punks",
+				"title_link": "https://sawd-games.itch.io/pyrotechnic-punks",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889825",
+				"by": [
+					"SAWD Games",
+					"luisdenpixel"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://luisdenpixel.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 28,
+				"score": 3.652
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Divine Intervention",
+				"title_link": "https://sawd-games.itch.io/divine-intervention",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1791064",
+				"by": [
+					"SAWD Games"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 15,
+				"score": 2.733
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "Goodbye! -Moon Men",
+				"title_link": "https://sawd-games.itch.io/goodbye-moon-men",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021289",
+				"by": [
+					"SAWD Games"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 17,
+				"score": 3.397
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Timebound Battleground",
+				"title_link": "https://sawd-games.itch.io/timebound-battleground",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194211",
+				"by": [
+					"SAWD Games",
+					"Bloom#3116",
+					"Niko Chantzis",
+					"Left Dreamer"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://nikochantzis.itch.io/",
+					"https://left-dreamer.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 19,
+				"score": 3.132
+			}
+		]
+	},
+	{
+		"jammer": "Bloom#3116",
+		"jammer_link": "https://bloom3116.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Look At My Beautiful Tomatoes",
+				"title_link": "https://wampy-studio.itch.io/look-at-my-beautiful-tomatoes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185326",
+				"by": [
+					"Wampy",
+					"Garbryn",
+					"Bloom#3116",
+					"Selkione"
+				],
+				"by_link": [
+					"https://wampy-studio.itch.io/",
+					"https://garbryn.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://selkione.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 2.222
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Timebound Battleground",
+				"title_link": "https://sawd-games.itch.io/timebound-battleground",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194211",
+				"by": [
+					"SAWD Games",
+					"Bloom#3116",
+					"Niko Chantzis",
+					"Left Dreamer"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://nikochantzis.itch.io/",
+					"https://left-dreamer.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 19,
+				"score": 3.132
+			}
+		]
+	},
+	{
+		"jammer": "Niko Chantzis",
+		"jammer_link": "https://nikochantzis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"title": "Agent 74",
+				"title_link": "https://sawd-games.itch.io/agent-74",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2206676",
+				"by": [
+					"SAWD Games",
+					"Niko Chantzis",
+					"DaBonky"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://nikochantzis.itch.io/",
+					"https://dabonky.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 14,
+				"score": 3.375
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Timebound Battleground",
+				"title_link": "https://sawd-games.itch.io/timebound-battleground",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194211",
+				"by": [
+					"SAWD Games",
+					"Bloom#3116",
+					"Niko Chantzis",
+					"Left Dreamer"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://nikochantzis.itch.io/",
+					"https://left-dreamer.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 19,
+				"score": 3.132
+			}
+		]
+	},
+	{
+		"jammer": "Left Dreamer",
+		"jammer_link": "https://left-dreamer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Timebound Battleground",
+				"title_link": "https://sawd-games.itch.io/timebound-battleground",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194211",
+				"by": [
+					"SAWD Games",
+					"Bloom#3116",
+					"Niko Chantzis",
+					"Left Dreamer"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://nikochantzis.itch.io/",
+					"https://left-dreamer.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 19,
+				"score": 3.132
+			}
+		]
+	},
+	{
+		"jammer": "NORCAT Games",
+		"jammer_link": "https://norcat-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "Season Swap",
+				"title_link": "https://norcat-games.itch.io/season-swap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164426",
+				"by": [
+					"NORCAT Games",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 15,
+				"score": 3.417
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"title": "1-1 Maintenance Crew",
+				"title_link": "https://norcat-games.itch.io/1-1-maintenance-crew",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207574",
+				"by": [
+					"NORCAT Games",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 9,
+				"score": 2.917
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "Gaslight Express",
+				"title_link": "https://norcat-games.itch.io/gaslight-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2131268",
+				"by": [
+					"NORCAT Games",
+					"MisterP",
+					"Knight/Sorea",
+					"BoardingAsp642"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/",
+					"https://knightsorea.itch.io/",
+					"https://boardingasp642.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 6,
+				"score": 2.875
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "A Spark Of Life",
+				"title_link": "https://norcat-games.itch.io/a-spark-of-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2190297",
+				"by": [
+					"NORCAT Games",
+					"Knight/Sorea",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://knightsorea.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 10,
+				"score": 3.125
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"title": "Treasure Hunter",
+				"title_link": "https://norcat-games.itch.io/treasure-hunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113624",
+				"by": [
+					"NORCAT Games"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 7,
+				"score": 2.779
+			}
+		]
+	},
+	{
+		"jammer": "Knight/Sorea",
+		"jammer_link": "https://knightsorea.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "Gaslight Express",
+				"title_link": "https://norcat-games.itch.io/gaslight-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2131268",
+				"by": [
+					"NORCAT Games",
+					"MisterP",
+					"Knight/Sorea",
+					"BoardingAsp642"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/",
+					"https://knightsorea.itch.io/",
+					"https://boardingasp642.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 6,
+				"score": 2.875
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "A Spark Of Life",
+				"title_link": "https://norcat-games.itch.io/a-spark-of-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2190297",
+				"by": [
+					"NORCAT Games",
+					"Knight/Sorea",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://knightsorea.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 10,
+				"score": 3.125
+			}
+		]
+	},
+	{
+		"jammer": "MisterP",
+		"jammer_link": "https://misterp.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "Season Swap",
+				"title_link": "https://norcat-games.itch.io/season-swap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164426",
+				"by": [
+					"NORCAT Games",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 15,
+				"score": 3.417
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"title": "1-1 Maintenance Crew",
+				"title_link": "https://norcat-games.itch.io/1-1-maintenance-crew",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207574",
+				"by": [
+					"NORCAT Games",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 9,
+				"score": 2.917
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "Gaslight Express",
+				"title_link": "https://norcat-games.itch.io/gaslight-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2131268",
+				"by": [
+					"NORCAT Games",
+					"MisterP",
+					"Knight/Sorea",
+					"BoardingAsp642"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://misterp.itch.io/",
+					"https://knightsorea.itch.io/",
+					"https://boardingasp642.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 6,
+				"score": 2.875
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "A Spark Of Life",
+				"title_link": "https://norcat-games.itch.io/a-spark-of-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2190297",
+				"by": [
+					"NORCAT Games",
+					"Knight/Sorea",
+					"MisterP"
+				],
+				"by_link": [
+					"https://norcat-games.itch.io/",
+					"https://knightsorea.itch.io/",
+					"https://misterp.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 10,
+				"score": 3.125
+			}
+		]
+	},
+	{
+		"jammer": "Cletus2000",
+		"jammer_link": "https://cletus2000.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "The Great Filter",
+				"title_link": "https://cletus2000.itch.io/the-great-filter",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2194386",
+				"by": [
+					"Cletus2000"
+				],
+				"by_link": [
+					"https://cletus2000.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 5,
+				"score": 3.123
+			}
+		]
+	},
+	{
+		"jammer": "DreamnSkull",
+		"jammer_link": "https://dreamnskull.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Troll OS",
+				"title_link": "https://dreamnskull.itch.io/troll-os",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196782",
+				"by": [
+					"DreamnSkull",
+					"OneWayMusic",
+					"null painter"
+				],
+				"by_link": [
+					"https://dreamnskull.itch.io/",
+					"https://emanueleboth.itch.io/",
+					"https://null-painter-error.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 13,
+				"score": 3.058
+			}
+		]
+	},
+	{
+		"jammer": "OneWayMusic",
+		"jammer_link": "https://emanueleboth.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Troll OS",
+				"title_link": "https://dreamnskull.itch.io/troll-os",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196782",
+				"by": [
+					"DreamnSkull",
+					"OneWayMusic",
+					"null painter"
+				],
+				"by_link": [
+					"https://dreamnskull.itch.io/",
+					"https://emanueleboth.itch.io/",
+					"https://null-painter-error.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 13,
+				"score": 3.058
+			}
+		]
+	},
+	{
+		"jammer": "null painter",
+		"jammer_link": "https://null-painter-error.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Troll OS",
+				"title_link": "https://dreamnskull.itch.io/troll-os",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196782",
+				"by": [
+					"DreamnSkull",
+					"OneWayMusic",
+					"null painter"
+				],
+				"by_link": [
+					"https://dreamnskull.itch.io/",
+					"https://emanueleboth.itch.io/",
+					"https://null-painter-error.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 13,
+				"score": 3.058
+			}
+		]
+	},
+	{
+		"jammer": "Kiri Soft",
+		"jammer_link": "https://kiri-soft.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Micurama",
+				"title_link": "https://kiri-soft.itch.io/micurama",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192368",
+				"by": [
+					"Kiri Soft"
+				],
+				"by_link": [
+					"https://kiri-soft.itch.io/"
+				],
+				"rank": 59,
+				"ratings": 14,
+				"score": 3.018
+			}
+		]
+	},
+	{
+		"jammer": "Carbonado",
+		"jammer_link": "https://carbonado.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "A Last Hope",
+				"title_link": "https://carbonado.itch.io/a-last-hope",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196620",
+				"by": [
+					"Carbonado"
+				],
+				"by_link": [
+					"https://carbonado.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 4,
+				"score": 3.005
+			}
+		]
+	},
+	{
+		"jammer": "Zaleyact",
+		"jammer_link": "https://zaleyact.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Dead Lives",
+				"title_link": "https://zaleyact.itch.io/dead-lives",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193583",
+				"by": [
+					"Zaleyact",
+					"marylotus_",
+					"Vicias"
+				],
+				"by_link": [
+					"https://zaleyact.itch.io/",
+					"https://nyranami.itch.io/",
+					"https://pixel-vicias.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 13,
+				"score": 3
+			}
+		]
+	},
+	{
+		"jammer": "marylotus_",
+		"jammer_link": "https://nyranami.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Dead Lives",
+				"title_link": "https://zaleyact.itch.io/dead-lives",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193583",
+				"by": [
+					"Zaleyact",
+					"marylotus_",
+					"Vicias"
+				],
+				"by_link": [
+					"https://zaleyact.itch.io/",
+					"https://nyranami.itch.io/",
+					"https://pixel-vicias.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 13,
+				"score": 3
+			}
+		]
+	},
+	{
+		"jammer": "Vicias",
+		"jammer_link": "https://pixel-vicias.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Dead Lives",
+				"title_link": "https://zaleyact.itch.io/dead-lives",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193583",
+				"by": [
+					"Zaleyact",
+					"marylotus_",
+					"Vicias"
+				],
+				"by_link": [
+					"https://zaleyact.itch.io/",
+					"https://nyranami.itch.io/",
+					"https://pixel-vicias.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 13,
+				"score": 3
+			}
+		]
+	},
+	{
+		"jammer": "CreepyFace",
+		"jammer_link": "https://creepyface.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "GateKeeper",
+				"title_link": "https://creepyface.itch.io/gatekeeper",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195483",
+				"by": [
+					"CreepyFace"
+				],
+				"by_link": [
+					"https://creepyface.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 13,
+				"score": 3
+			}
+		]
+	},
+	{
+		"jammer": "Clapmonster",
+		"jammer_link": "https://clapmonster.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"title": "Goldilocks: Genisys",
+				"title_link": "https://clapmonster.itch.io/goldilocks-genisys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268548",
+				"by": [
+					"Clapmonster"
+				],
+				"by_link": [
+					"https://clapmonster.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 3.671
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "Untitled Ninja Game",
+				"title_link": "https://clapmonster.itch.io/nameless-ninja-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134822",
+				"by": [
+					"Clapmonster"
+				],
+				"by_link": [
+					"https://clapmonster.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 10,
+				"score": 2.775
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"title": "NUKE THE LAKE",
+				"title_link": "https://clapmonster.itch.io/nuke-the-lake",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092410",
+				"by": [
+					"Clapmonster"
+				],
+				"by_link": [
+					"https://clapmonster.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 17,
+				"score": 3.412
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"title": "Checkers but with zombies",
+				"title_link": "https://clapmonster.itch.io/checkers-but-with-zombies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113993",
+				"by": [
+					"Clapmonster"
+				],
+				"by_link": [
+					"https://clapmonster.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 11,
+				"score": 3.182
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "MORDIOXOOL",
+				"title_link": "https://clapmonster.itch.io/mordioxool",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197195",
+				"by": [
+					"Clapmonster"
+				],
+				"by_link": [
+					"https://clapmonster.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 12,
+				"score": 3
+			}
+		]
+	},
+	{
+		"jammer": "Matthew Gomez",
+		"jammer_link": "https://mattjgmez.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Petri Pete",
+				"title_link": "https://mattjgmez.itch.io/petri-pete",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196970",
+				"by": [
+					"Matthew Gomez"
+				],
+				"by_link": [
+					"https://mattjgmez.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 10,
+				"score": 2.975
+			}
+		]
+	},
+	{
+		"jammer": "FabianDev",
+		"jammer_link": "https://fabiandev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "The Ever Growing Island",
+				"title_link": "https://fabiandev.itch.io/the-ever-growing-island",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195399",
+				"by": [
+					"FabianDev"
+				],
+				"by_link": [
+					"https://fabiandev.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 7,
+				"score": 2.94
+			}
+		]
+	},
+	{
+		"jammer": "F.A.M. (Friendly Assassination Machine)",
+		"jammer_link": "https://hallowkid.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Feed the Goombas",
+				"title_link": "https://hallowkid.itch.io/feedthegoombas",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2199415",
+				"by": [
+					"F.A.M. (Friendly Assassination Machine)"
+				],
+				"by_link": [
+					"https://hallowkid.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 8,
+				"score": 2.906
+			}
+		]
+	},
+	{
+		"jammer": "Vaeril",
+		"jammer_link": "https://vaeril.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "Hunting Pack",
+				"title_link": "https://vaeril.itch.io/hunting-pack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020396",
+				"by": [
+					"Vaeril"
+				],
+				"by_link": [
+					"https://vaeril.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 13,
+				"score": 3.654
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Company of Rats",
+				"title_link": "https://vaeril.itch.io/company-of-rats",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2193777",
+				"by": [
+					"Vaeril"
+				],
+				"by_link": [
+					"https://vaeril.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 10,
+				"score": 2.9
+			}
+		]
+	},
+	{
+		"jammer": "Descon Games",
+		"jammer_link": "https://madrunners-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Coop Troop",
+				"title_link": "https://madrunners-games.itch.io/coop-troop",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195053",
+				"by": [
+					"Descon Games"
+				],
+				"by_link": [
+					"https://madrunners-games.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 26,
+				"score": 2.894
+			}
+		]
+	},
+	{
+		"jammer": "MrFGames",
+		"jammer_link": "https://mrfgames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"title": "Chrono Hop",
+				"title_link": "https://mrfgames.itch.io/chrono-hop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653308",
+				"by": [
+					"MrFGames"
+				],
+				"by_link": [
+					"https://mrfgames.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 11,
+				"score": 4.409
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Mark II",
+				"title_link": "https://mrfgames.itch.io/mark2",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195822",
+				"by": [
+					"MrFGames"
+				],
+				"by_link": [
+					"https://mrfgames.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 8,
+				"score": 2.875
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"title": "Evocator",
+				"title_link": "https://mrfgames.itch.io/evocator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608883",
+				"by": [
+					"MrFGames"
+				],
+				"by_link": [
+					"https://mrfgames.itch.io/"
+				],
+				"rank": 153,
+				"ratings": 3,
+				"score": 2.019
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"title": "Face-off with Fate",
+				"title_link": "https://mrfgames.itch.io/face-off-with-fate",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633999",
+				"by": [
+					"MrFGames"
+				],
+				"by_link": [
+					"https://mrfgames.itch.io/"
+				],
+				"rank": 322,
+				"ratings": 2,
+				"score": 1.75
+			}
+		]
+	},
+	{
+		"jammer": "Lamaxelle",
+		"jammer_link": "https://lamaxelle.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "The Times and Travels of Auldreite Witches",
+				"title_link": "https://lamaxelle.itch.io/times-and-travels",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196522",
+				"by": [
+					"Lamaxelle",
+					"fae.exe"
+				],
+				"by_link": [
+					"https://lamaxelle.itch.io/",
+					"https://faeexe.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 6,
+				"score": 2.851
+			}
+		]
+	},
+	{
+		"jammer": "fae.exe",
+		"jammer_link": "https://faeexe.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "The Times and Travels of Auldreite Witches",
+				"title_link": "https://lamaxelle.itch.io/times-and-travels",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196522",
+				"by": [
+					"Lamaxelle",
+					"fae.exe"
+				],
+				"by_link": [
+					"https://lamaxelle.itch.io/",
+					"https://faeexe.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 6,
+				"score": 2.851
+			}
+		]
+	},
+	{
+		"jammer": "Liza",
+		"jammer_link": "https://izonesie.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Space Webscape",
+				"title_link": "https://izonesie.itch.io/space-webscape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868944",
+				"by": [
+					"Liza"
+				],
+				"by_link": [
+					"https://izonesie.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 27,
+				"score": 3.519
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "The Witchhunt",
+				"title_link": "https://izonesie.itch.io/the-witchhunt",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196872",
+				"by": [
+					"Liza"
+				],
+				"by_link": [
+					"https://izonesie.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 13,
+				"score": 2.827
+			}
+		]
+	},
+	{
+		"jammer": "RickZinho",
+		"jammer_link": "https://rickzin-o.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Floral Dungeons",
+				"title_link": "https://rickzin-o.itch.io/floral-dungeons",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2192132",
+				"by": [
+					"RickZinho"
+				],
+				"by_link": [
+					"https://rickzin-o.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 13,
+				"score": 2.769
+			}
+		]
+	},
+	{
+		"jammer": "S. L.",
+		"jammer_link": "https://xlores-liang.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Heaven’s Censorship Bureau",
+				"title_link": "https://xlores-liang.itch.io/heavens-censorship-bureau",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1790025",
+				"by": [
+					"S. L."
+				],
+				"by_link": [
+					"https://xlores-liang.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 8,
+				"score": 2.531
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "美好的一天模拟器 / A Beautiful Day Simulator",
+				"title_link": "https://xlores-liang.itch.io/a-perfect-day-simulator",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2191126",
+				"by": [
+					"S. L."
+				],
+				"by_link": [
+					"https://xlores-liang.itch.io/"
+				],
+				"rank": 73,
+				"ratings": 5,
+				"score": 2.767
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "Long May the Night / 常夜相簿",
+				"title_link": "https://xlores-liang.itch.io/long-may-the-night",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770739",
+				"by": [
+					"S. L."
+				],
+				"by_link": [
+					"https://xlores-liang.itch.io/"
+				],
+				"rank": 120,
+				"ratings": 2,
+				"score": 1.804
+			}
+		]
+	},
+	{
+		"jammer": "The Gray Space",
+		"jammer_link": "https://thegrayspace.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Your Number Is Up",
+				"title_link": "https://thegrayspace.itch.io/your-number-is-up",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185753",
+				"by": [
+					"The Gray Space"
+				],
+				"by_link": [
+					"https://thegrayspace.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 12,
+				"score": 3.083
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Pieces Apart",
+				"title_link": "https://thegrayspace.itch.io/pieces-apart",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196995",
+				"by": [
+					"The Gray Space"
+				],
+				"by_link": [
+					"https://thegrayspace.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 3,
+				"score": 2.756
+			}
+		]
+	},
+	{
+		"jammer": "Malithx26",
+		"jammer_link": "https://malithx26.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "6k Feet Under",
+				"title_link": "https://malithx26.itch.io/6k-feet-under",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196914",
+				"by": [
+					"Malithx26"
+				],
+				"by_link": [
+					"https://malithx26.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 9,
+				"score": 2.75
+			}
+		]
+	},
+	{
+		"jammer": "IdleNotIdleGames",
+		"jammer_link": "https://idlenotidlegames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lifebloom",
+				"title_link": "https://idlenotidlegames.itch.io/lifebloom",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197155",
+				"by": [
+					"IdleNotIdleGames"
+				],
+				"by_link": [
+					"https://idlenotidlegames.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 9,
+				"score": 2.722
+			}
+		]
+	},
+	{
+		"jammer": "The1Old",
+		"jammer_link": "https://the1old.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Reboot: Absent Memories",
+				"title_link": "https://the1old.itch.io/reboot-absent-memories",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195740",
+				"by": [
+					"The1Old"
+				],
+				"by_link": [
+					"https://the1old.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 6,
+				"score": 2.706
+			}
+		]
+	}
+]

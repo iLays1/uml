@@ -1,0 +1,2228 @@
+[
+	{
+		"title": "Haunted Castle",
+		"title_link": "https://jbazte.itch.io/haunted-castle",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402584",
+		"by": [
+			"Joaquín Bazterrica",
+			"Brunopasca"
+		],
+		"by_link": [
+			"https://jbazte.itch.io/",
+			"https://brunopasca.itch.io/"
+		],
+		"rank": 1,
+		"ratings": 39,
+		"score": 4.667,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 1,
+				"score": 4.641,
+				"raw_score": 4.641
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 1,
+				"score": 4.615,
+				"raw_score": 4.615
+			},
+			{
+				"criteria": "Audio",
+				"rank": 1,
+				"score": 4.615,
+				"raw_score": 4.615
+			},
+			{
+				"criteria": "Art",
+				"rank": 1,
+				"score": 4.795,
+				"raw_score": 4.795
+			},
+			{
+				"criteria": "Overall",
+				"rank": 1,
+				"score": 4.667,
+				"raw_score": 4.667
+			}
+		]
+	},
+	{
+		"title": "Spirits Within : The Washing Machine?",
+		"title_link": "https://brainoid.itch.io/spirits-within-the-washing-machine",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402522",
+		"by": [
+			"Brainoid",
+			"Elthen's Pixel Art Shop"
+		],
+		"by_link": [
+			"https://brainoid.itch.io/",
+			"https://elthen.itch.io/"
+		],
+		"rank": 2,
+		"ratings": 34,
+		"score": 4.294,
+		"table_data": [
+			{
+				"criteria": "Overall",
+				"rank": 2,
+				"score": 4.294,
+				"raw_score": 4.294
+			},
+			{
+				"criteria": "Art",
+				"rank": 2,
+				"score": 4.735,
+				"raw_score": 4.735
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 2,
+				"score": 4.5,
+				"raw_score": 4.5
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 4,
+				"score": 4.118,
+				"raw_score": 4.118
+			},
+			{
+				"criteria": "Audio",
+				"rank": 5,
+				"score": 3.824,
+				"raw_score": 3.824
+			}
+		]
+	},
+	{
+		"title": "Songs of Change",
+		"title_link": "https://hekla.itch.io/songs-of-change",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402439",
+		"by": [
+			"Hekla Björk Unnardóttir",
+			"Elyon"
+		],
+		"by_link": [
+			"https://hekla.itch.io/",
+			"https://elyon.itch.io/"
+		],
+		"rank": 3,
+		"ratings": 12,
+		"score": 4.125,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 2,
+				"score": 4.167,
+				"raw_score": 4.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 2,
+				"score": 4.5,
+				"raw_score": 4.5
+			},
+			{
+				"criteria": "Overall",
+				"rank": 3,
+				"score": 4.125,
+				"raw_score": 4.125
+			},
+			{
+				"criteria": "Art",
+				"rank": 3,
+				"score": 4.417,
+				"raw_score": 4.417
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 13,
+				"score": 3.417,
+				"raw_score": 3.417
+			}
+		]
+	},
+	{
+		"title": "Hauntin' (jam build)",
+		"title_link": "https://gigglesandglasses.itch.io/hauntinjambuild",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402550",
+		"by": [
+			"GigglesandGlasses"
+		],
+		"by_link": [
+			"https://gigglesandglasses.itch.io/"
+		],
+		"rank": 4,
+		"ratings": 10,
+		"score": 4.1,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 3,
+				"score": 4.1,
+				"raw_score": 4.1
+			},
+			{
+				"criteria": "Overall",
+				"rank": 4,
+				"score": 4.1,
+				"raw_score": 4.1
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 5,
+				"score": 4.3,
+				"raw_score": 4.3
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 5,
+				"score": 4.1,
+				"raw_score": 4.1
+			},
+			{
+				"criteria": "Art",
+				"rank": 8,
+				"score": 3.9,
+				"raw_score": 3.9
+			}
+		]
+	},
+	{
+		"title": "Midnight Drive",
+		"title_link": "https://clonedeath.itch.io/midnight-drive",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402405",
+		"by": [
+			"CloneDeath"
+		],
+		"by_link": [
+			"https://clonedeath.itch.io/"
+		],
+		"rank": 5,
+		"ratings": 13,
+		"score": 3.712,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 4,
+				"score": 4,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Overall",
+				"rank": 5,
+				"score": 3.712,
+				"raw_score": 3.712
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 7,
+				"score": 4,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Art",
+				"rank": 11,
+				"score": 3.846,
+				"raw_score": 3.846
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			}
+		]
+	},
+	{
+		"title": "One Shade's Fate",
+		"title_link": "https://monkosum.itch.io/one-shades-fate-jam",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402457",
+		"by": [
+			"Monkosum"
+		],
+		"by_link": [
+			"https://monkosum.itch.io/"
+		],
+		"rank": 6,
+		"ratings": 6,
+		"score": 3.615,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 4,
+				"score": 4.323,
+				"raw_score": 4.833
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 6,
+				"score": 3.876,
+				"raw_score": 4.333
+			},
+			{
+				"criteria": "Overall",
+				"rank": 6,
+				"score": 3.615,
+				"raw_score": 4.042
+			},
+			{
+				"criteria": "Audio",
+				"rank": 14,
+				"score": 2.981,
+				"raw_score": 3.333
+			},
+			{
+				"criteria": "Art",
+				"rank": 24,
+				"score": 3.28,
+				"raw_score": 3.667
+			}
+		]
+	},
+	{
+		"title": "The Passing (v1.0.3)",
+		"title_link": "https://fmlad.itch.io/the-passing-mini-jam-25-spirits",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401943",
+		"by": [
+			"Fmlad"
+		],
+		"by_link": [
+			"https://fmlad.itch.io/"
+		],
+		"rank": 7,
+		"ratings": 18,
+		"score": 3.611,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 4,
+				"score": 4.278,
+				"raw_score": 4.278
+			},
+			{
+				"criteria": "Overall",
+				"rank": 7,
+				"score": 3.611,
+				"raw_score": 3.611
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 8,
+				"score": 3.944,
+				"raw_score": 3.944
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 14,
+				"score": 3.333,
+				"raw_score": 3.333
+			},
+			{
+				"criteria": "Audio",
+				"rank": 20,
+				"score": 2.889,
+				"raw_score": 2.889
+			}
+		]
+	},
+	{
+		"title": "Spirit Rush",
+		"title_link": "https://maytch.itch.io/spirit-rush",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402435",
+		"by": [
+			"Maytch",
+			"davekingcool"
+		],
+		"by_link": [
+			"https://maytch.itch.io/",
+			"https://davekingcool.itch.io/"
+		],
+		"rank": 8,
+		"ratings": 12,
+		"score": 3.604,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 6,
+				"score": 4.083,
+				"raw_score": 4.083
+			},
+			{
+				"criteria": "Overall",
+				"rank": 8,
+				"score": 3.604,
+				"raw_score": 3.604
+			},
+			{
+				"criteria": "Audio",
+				"rank": 9,
+				"score": 3.333,
+				"raw_score": 3.333
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 9,
+				"score": 3.583,
+				"raw_score": 3.583
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 16,
+				"score": 3.417,
+				"raw_score": 3.417
+			}
+		]
+	},
+	{
+		"title": "The Lost Spirits",
+		"title_link": "https://karstenpedersen.itch.io/thelostspirits",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402111",
+		"by": [
+			"KarstenPedersen"
+		],
+		"by_link": [
+			"https://karstenpedersen.itch.io/"
+		],
+		"rank": 9,
+		"ratings": 8,
+		"score": 3.5,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 3,
+				"score": 4.125,
+				"raw_score": 4.125
+			},
+			{
+				"criteria": "Overall",
+				"rank": 9,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Art",
+				"rank": 10,
+				"score": 3.875,
+				"raw_score": 3.875
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 19,
+				"score": 3.25,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Audio",
+				"rank": 27,
+				"score": 2.75,
+				"raw_score": 2.75
+			}
+		]
+	},
+	{
+		"title": "Shrine Reaper",
+		"title_link": "https://a-bootles.itch.io/shrine-reaper",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401761",
+		"by": [
+			"bootles"
+		],
+		"by_link": [
+			"https://a-bootles.itch.io/"
+		],
+		"rank": 10,
+		"ratings": 14,
+		"score": 3.429,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 8,
+				"score": 3.643,
+				"raw_score": 3.643
+			},
+			{
+				"criteria": "Audio",
+				"rank": 10,
+				"score": 3.143,
+				"raw_score": 3.143
+			},
+			{
+				"criteria": "Overall",
+				"rank": 10,
+				"score": 3.429,
+				"raw_score": 3.429
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 15,
+				"score": 3.429,
+				"raw_score": 3.429
+			},
+			{
+				"criteria": "Art",
+				"rank": 16,
+				"score": 3.5,
+				"raw_score": 3.5
+			}
+		]
+	},
+	{
+		"title": "Ghost&amp;Whiskey",
+		"title_link": "https://solroo.itch.io/ghostwhiskey",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402244",
+		"by": [
+			"Joan Sol ROO"
+		],
+		"by_link": [
+			"https://solroo.itch.io/"
+		],
+		"rank": 11,
+		"ratings": 15,
+		"score": 3.417,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 7,
+				"score": 3.8,
+				"raw_score": 3.8
+			},
+			{
+				"criteria": "Overall",
+				"rank": 11,
+				"score": 3.417,
+				"raw_score": 3.417
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 13,
+				"score": 3.6,
+				"raw_score": 3.6
+			},
+			{
+				"criteria": "Art",
+				"rank": 19,
+				"score": 3.4,
+				"raw_score": 3.4
+			},
+			{
+				"criteria": "Audio",
+				"rank": 22,
+				"score": 2.867,
+				"raw_score": 2.867
+			}
+		]
+	},
+	{
+		"title": "Keys of Heaven",
+		"title_link": "https://astavie.itch.io/keys-of-heaven",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402346",
+		"by": [
+			"Astavie"
+		],
+		"by_link": [
+			"https://astavie.itch.io/"
+		],
+		"rank": 12,
+		"ratings": 7,
+		"score": 3.416,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 6,
+				"score": 4.278,
+				"raw_score": 4.429
+			},
+			{
+				"criteria": "Audio",
+				"rank": 8,
+				"score": 3.45,
+				"raw_score": 3.571
+			},
+			{
+				"criteria": "Overall",
+				"rank": 12,
+				"score": 3.416,
+				"raw_score": 3.536
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 16,
+				"score": 3.174,
+				"raw_score": 3.286
+			},
+			{
+				"criteria": "Art",
+				"rank": 31,
+				"score": 2.76,
+				"raw_score": 2.857
+			}
+		]
+	},
+	{
+		"title": "Spirit Island",
+		"title_link": "https://hipstermia.itch.io/spiritisland",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402544",
+		"by": [
+			"Nathan Garduno",
+			"josuem"
+		],
+		"by_link": [
+			"https://hipstermia.itch.io/",
+			"https://josuem.itch.io/"
+		],
+		"rank": 12,
+		"ratings": 7,
+		"score": 3.416,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 7,
+				"score": 4.002,
+				"raw_score": 4.143
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 10,
+				"score": 3.864,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Overall",
+				"rank": 12,
+				"score": 3.416,
+				"raw_score": 3.536
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 16,
+				"score": 3.174,
+				"raw_score": 3.286
+			},
+			{
+				"criteria": "Audio",
+				"rank": 31,
+				"score": 2.622,
+				"raw_score": 2.714
+			}
+		]
+	},
+	{
+		"title": "A Stair With No Steps",
+		"title_link": "https://papercookies.itch.io/a-stair-with-no-steps",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402495",
+		"by": [
+			"papercookies"
+		],
+		"by_link": [
+			"https://papercookies.itch.io/"
+		],
+		"rank": 14,
+		"ratings": 13,
+		"score": 3.365,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 7,
+				"score": 3.462,
+				"raw_score": 3.462
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 12,
+				"score": 3.615,
+				"raw_score": 3.615
+			},
+			{
+				"criteria": "Overall",
+				"rank": 14,
+				"score": 3.365,
+				"raw_score": 3.365
+			},
+			{
+				"criteria": "Art",
+				"rank": 20,
+				"score": 3.385,
+				"raw_score": 3.385
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			}
+		]
+	},
+	{
+		"title": "Team Spirit",
+		"title_link": "https://joshpowlison.itch.io/team-spirit",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401923",
+		"by": [
+			"Josh Powlison",
+			"ppowli01",
+			"bogedinbr"
+		],
+		"by_link": [
+			"https://joshpowlison.itch.io/",
+			"https://ppowli01.itch.io/",
+			"https://bogedinbr.itch.io/"
+		],
+		"rank": 15,
+		"ratings": 6,
+		"score": 3.317,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 9,
+				"score": 3.876,
+				"raw_score": 4.333
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 15,
+				"score": 3.28,
+				"raw_score": 3.667
+			},
+			{
+				"criteria": "Overall",
+				"rank": 15,
+				"score": 3.317,
+				"raw_score": 3.708
+			},
+			{
+				"criteria": "Art",
+				"rank": 18,
+				"score": 3.429,
+				"raw_score": 3.833
+			},
+			{
+				"criteria": "Audio",
+				"rank": 28,
+				"score": 2.683,
+				"raw_score": 3
+			}
+		]
+	},
+	{
+		"title": "Spirit Esper (Game Jam)",
+		"title_link": "https://pixelcod.itch.io/spirit-esper",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402479",
+		"by": [
+			"PixelCod"
+		],
+		"by_link": [
+			"https://pixelcod.itch.io/"
+		],
+		"rank": 16,
+		"ratings": 8,
+		"score": 3.313,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 5,
+				"score": 4.125,
+				"raw_score": 4.125
+			},
+			{
+				"criteria": "Audio",
+				"rank": 12,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 16,
+				"score": 3.313,
+				"raw_score": 3.313
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 18,
+				"score": 3.125,
+				"raw_score": 3.125
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			}
+		]
+	},
+	{
+		"title": "Spirit Mixer",
+		"title_link": "https://readymajor.itch.io/spirit-mixer",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/403104",
+		"by": [
+			"ReadyMajor"
+		],
+		"by_link": [
+			"https://readymajor.itch.io/"
+		],
+		"rank": 17,
+		"ratings": 7,
+		"score": 3.312,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 6,
+				"score": 3.588,
+				"raw_score": 3.714
+			},
+			{
+				"criteria": "Art",
+				"rank": 13,
+				"score": 3.726,
+				"raw_score": 3.857
+			},
+			{
+				"criteria": "Overall",
+				"rank": 17,
+				"score": 3.312,
+				"raw_score": 3.429
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 19,
+				"score": 3.036,
+				"raw_score": 3.143
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 22,
+				"score": 2.898,
+				"raw_score": 3
+			}
+		]
+	},
+	{
+		"title": "Wicked Manor",
+		"title_link": "https://gelokaiser.itch.io/wicked-manor",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402278",
+		"by": [
+			"GeloKaiser"
+		],
+		"by_link": [
+			"https://gelokaiser.itch.io/"
+		],
+		"rank": 18,
+		"ratings": 9,
+		"score": 3.278,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 9,
+				"score": 3.889,
+				"raw_score": 3.889
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 14,
+				"score": 3.444,
+				"raw_score": 3.444
+			},
+			{
+				"criteria": "Overall",
+				"rank": 18,
+				"score": 3.278,
+				"raw_score": 3.278
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Audio",
+				"rank": 25,
+				"score": 2.778,
+				"raw_score": 2.778
+			}
+		]
+	},
+	{
+		"title": "To The Grave",
+		"title_link": "https://regularsalamander.itch.io/to-the-grave",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402496",
+		"by": [
+			"RegularSalamander"
+		],
+		"by_link": [
+			"https://regularsalamander.itch.io/"
+		],
+		"rank": 19,
+		"ratings": 10,
+		"score": 3.275,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 12,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 18,
+				"score": 3.4,
+				"raw_score": 3.4
+			},
+			{
+				"criteria": "Audio",
+				"rank": 19,
+				"score": 2.9,
+				"raw_score": 2.9
+			},
+			{
+				"criteria": "Overall",
+				"rank": 19,
+				"score": 3.275,
+				"raw_score": 3.275
+			},
+			{
+				"criteria": "Art",
+				"rank": 22,
+				"score": 3.3,
+				"raw_score": 3.3
+			}
+		]
+	},
+	{
+		"title": "The Red Spirit",
+		"title_link": "https://ibex.itch.io/the-red-spirit",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402401",
+		"by": [
+			"ibex"
+		],
+		"by_link": [
+			"https://ibex.itch.io/"
+		],
+		"rank": 20,
+		"ratings": 9,
+		"score": 3.083,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 2,
+				"score": 4.222,
+				"raw_score": 4.222
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 20,
+				"score": 3.083,
+				"raw_score": 3.083
+			},
+			{
+				"criteria": "Audio",
+				"rank": 29,
+				"score": 2.667,
+				"raw_score": 2.667
+			},
+			{
+				"criteria": "Art",
+				"rank": 36,
+				"score": 2.444,
+				"raw_score": 2.444
+			}
+		]
+	},
+	{
+		"title": "Rest In Peace",
+		"title_link": "https://cy-s.itch.io/rest-in-peace",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402521",
+		"by": [
+			"Cy"
+		],
+		"by_link": [
+			"https://cy-s.itch.io/"
+		],
+		"rank": 21,
+		"ratings": 6,
+		"score": 3.056,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 10,
+				"score": 3.578,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Overall",
+				"rank": 21,
+				"score": 3.056,
+				"raw_score": 3.417
+			},
+			{
+				"criteria": "Audio",
+				"rank": 23,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 25,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Art",
+				"rank": 27,
+				"score": 2.981,
+				"raw_score": 3.333
+			}
+		]
+	},
+	{
+		"title": "Haunting Hole",
+		"title_link": "https://congusbongus.itch.io/haunting-hole",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402074",
+		"by": [
+			"congusbongus"
+		],
+		"by_link": [
+			"https://congusbongus.itch.io/"
+		],
+		"rank": 22,
+		"ratings": 8,
+		"score": 3,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 12,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Art",
+				"rank": 16,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Overall",
+				"rank": 22,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 24,
+				"score": 2.875,
+				"raw_score": 2.875
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 29,
+				"score": 2.625,
+				"raw_score": 2.625
+			}
+		]
+	},
+	{
+		"title": "Spirit Maze",
+		"title_link": "https://putawan-de.itch.io/spirit-maze",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402303",
+		"by": [
+			"putawan_de"
+		],
+		"by_link": [
+			"https://putawan-de.itch.io/"
+		],
+		"rank": 23,
+		"ratings": 12,
+		"score": 2.938,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 16,
+				"score": 3.417,
+				"raw_score": 3.417
+			},
+			{
+				"criteria": "Audio",
+				"rank": 17,
+				"score": 2.917,
+				"raw_score": 2.917
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 23,
+				"score": 2.938,
+				"raw_score": 2.938
+			},
+			{
+				"criteria": "Art",
+				"rank": 37,
+				"score": 2.417,
+				"raw_score": 2.417
+			}
+		]
+	},
+	{
+		"title": "GHOST DUNGEON",
+		"title_link": "https://funkadelician.itch.io/ghost-dungeon",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402588",
+		"by": [
+			"funkadelician"
+		],
+		"by_link": [
+			"https://funkadelician.itch.io/"
+		],
+		"rank": 24,
+		"ratings": 11,
+		"score": 2.909,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 18,
+				"score": 2.909,
+				"raw_score": 2.909
+			},
+			{
+				"criteria": "Art",
+				"rank": 21,
+				"score": 3.364,
+				"raw_score": 3.364
+			},
+			{
+				"criteria": "Overall",
+				"rank": 24,
+				"score": 2.909,
+				"raw_score": 2.909
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 27,
+				"score": 2.818,
+				"raw_score": 2.818
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 32,
+				"score": 2.545,
+				"raw_score": 2.545
+			}
+		]
+	},
+	{
+		"title": "Spirit Isle",
+		"title_link": "https://reedsx20.itch.io/spirit-isle",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402577",
+		"by": [
+			"Reeds"
+		],
+		"by_link": [
+			"https://reedsx20.itch.io/"
+		],
+		"rank": 25,
+		"ratings": 6,
+		"score": 2.87,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 14,
+				"score": 3.578,
+				"raw_score": 4
+			},
+			{
+				"criteria": "Overall",
+				"rank": 25,
+				"score": 2.87,
+				"raw_score": 3.208
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 26,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 29,
+				"score": 2.683,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Audio",
+				"rank": 37,
+				"score": 2.385,
+				"raw_score": 2.667
+			}
+		]
+	},
+	{
+		"title": "Possessive",
+		"title_link": "https://okimoto182.itch.io/possessive",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402523",
+		"by": [
+			"okimoto182"
+		],
+		"by_link": [
+			"https://okimoto182.itch.io/"
+		],
+		"rank": 26,
+		"ratings": 10,
+		"score": 2.85,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 20,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Art",
+				"rank": 22,
+				"score": 3.3,
+				"raw_score": 3.3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 26,
+				"score": 2.85,
+				"raw_score": 2.85
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 28,
+				"score": 2.7,
+				"raw_score": 2.7
+			},
+			{
+				"criteria": "Audio",
+				"rank": 36,
+				"score": 2.4,
+				"raw_score": 2.4
+			}
+		]
+	},
+	{
+		"title": "Ghost In The Plug",
+		"title_link": "https://harogames.itch.io/ghost-in-the-plug",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402083",
+		"by": [
+			"HaroGames"
+		],
+		"by_link": [
+			"https://harogames.itch.io/"
+		],
+		"rank": 28,
+		"ratings": 8,
+		"score": 2.75,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 21,
+				"score": 2.875,
+				"raw_score": 2.875
+			},
+			{
+				"criteria": "Art",
+				"rank": 28,
+				"score": 2.875,
+				"raw_score": 2.875
+			},
+			{
+				"criteria": "Overall",
+				"rank": 28,
+				"score": 2.75,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 29,
+				"score": 2.625,
+				"raw_score": 2.625
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 31,
+				"score": 2.625,
+				"raw_score": 2.625
+			}
+		]
+	},
+	{
+		"title": "Ghost Bar",
+		"title_link": "https://toppervideogames.itch.io/ghost-bar",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402542",
+		"by": [
+			"TopperVideoGames"
+		],
+		"by_link": [
+			"https://toppervideogames.itch.io/"
+		],
+		"rank": 29,
+		"ratings": 12,
+		"score": 2.646,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 26,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 27,
+				"score": 2.75,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Overall",
+				"rank": 29,
+				"score": 2.646,
+				"raw_score": 2.646
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 33,
+				"score": 2.583,
+				"raw_score": 2.583
+			},
+			{
+				"criteria": "Audio",
+				"rank": 39,
+				"score": 2.25,
+				"raw_score": 2.25
+			}
+		]
+	},
+	{
+		"title": "Ghost Dispatcher",
+		"title_link": "https://dk5000p.itch.io/ghost-dispatcher",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402492",
+		"by": [
+			"dk5000p"
+		],
+		"by_link": [
+			"https://dk5000p.itch.io/"
+		],
+		"rank": 30,
+		"ratings": 8,
+		"score": 2.625,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 11,
+				"score": 3.125,
+				"raw_score": 3.125
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 11,
+				"score": 3.625,
+				"raw_score": 3.625
+			},
+			{
+				"criteria": "Overall",
+				"rank": 30,
+				"score": 2.625,
+				"raw_score": 2.625
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 36,
+				"score": 2.125,
+				"raw_score": 2.125
+			},
+			{
+				"criteria": "Art",
+				"rank": 48,
+				"score": 1.625,
+				"raw_score": 1.625
+			}
+		]
+	},
+	{
+		"title": "Castle Cringe",
+		"title_link": "https://scofflawgames.itch.io/castle-cringe",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402027",
+		"by": [
+			"scofflawgames"
+		],
+		"by_link": [
+			"https://scofflawgames.itch.io/"
+		],
+		"rank": 31,
+		"ratings": 6,
+		"score": 2.609,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 14,
+				"score": 2.981,
+				"raw_score": 3.333
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 28,
+				"score": 2.683,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 31,
+				"score": 2.609,
+				"raw_score": 2.917
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 34,
+				"score": 2.534,
+				"raw_score": 2.833
+			},
+			{
+				"criteria": "Art",
+				"rank": 39,
+				"score": 2.236,
+				"raw_score": 2.5
+			}
+		]
+	},
+	{
+		"title": "Don't Touch Spire!",
+		"title_link": "https://cyberek.itch.io/dont-touch-spire",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401495",
+		"by": [
+			"Cyberek"
+		],
+		"by_link": [
+			"https://cyberek.itch.io/"
+		],
+		"rank": 32,
+		"ratings": 11,
+		"score": 2.591,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 25,
+				"score": 3.182,
+				"raw_score": 3.182
+			},
+			{
+				"criteria": "Audio",
+				"rank": 30,
+				"score": 2.636,
+				"raw_score": 2.636
+			},
+			{
+				"criteria": "Overall",
+				"rank": 32,
+				"score": 2.591,
+				"raw_score": 2.591
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 35,
+				"score": 2.182,
+				"raw_score": 2.182
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 37,
+				"score": 2.364,
+				"raw_score": 2.364
+			}
+		]
+	},
+	{
+		"title": "Searching",
+		"title_link": "https://niconeko.itch.io/searching",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402558",
+		"by": [
+			"NicoNeko"
+		],
+		"by_link": [
+			"https://niconeko.itch.io/"
+		],
+		"rank": 33,
+		"ratings": 7,
+		"score": 2.588,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 26,
+				"score": 2.76,
+				"raw_score": 2.857
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 31,
+				"score": 2.622,
+				"raw_score": 2.714
+			},
+			{
+				"criteria": "Overall",
+				"rank": 33,
+				"score": 2.588,
+				"raw_score": 2.679
+			},
+			{
+				"criteria": "Art",
+				"rank": 34,
+				"score": 2.484,
+				"raw_score": 2.571
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 35,
+				"score": 2.484,
+				"raw_score": 2.571
+			}
+		]
+	},
+	{
+		"title": "Guilt of the Beast",
+		"title_link": "https://ninja-muffin24.itch.io/spirits",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401624",
+		"by": [
+			"ninjamuffin99"
+		],
+		"by_link": [
+			"https://ninja-muffin24.itch.io/"
+		],
+		"rank": 34,
+		"ratings": 5,
+		"score": 2.531,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 12,
+				"score": 3.756,
+				"raw_score": 4.6
+			},
+			{
+				"criteria": "Overall",
+				"rank": 34,
+				"score": 2.531,
+				"raw_score": 3.1
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 38,
+				"score": 2.286,
+				"raw_score": 2.8
+			},
+			{
+				"criteria": "Audio",
+				"rank": 38,
+				"score": 2.286,
+				"raw_score": 2.8
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 45,
+				"score": 1.796,
+				"raw_score": 2.2
+			}
+		]
+	},
+	{
+		"title": "The Last Spirit",
+		"title_link": "https://exxcluded.itch.io/the-last-spirit",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401418",
+		"by": [
+			"Exxcluded"
+		],
+		"by_link": [
+			"https://exxcluded.itch.io/"
+		],
+		"rank": 35,
+		"ratings": 6,
+		"score": 2.46,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 23,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 25,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Overall",
+				"rank": 35,
+				"score": 2.46,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 38,
+				"score": 2.087,
+				"raw_score": 2.333
+			},
+			{
+				"criteria": "Art",
+				"rank": 40,
+				"score": 2.087,
+				"raw_score": 2.333
+			}
+		]
+	},
+	{
+		"title": "Ghosty",
+		"title_link": "https://leahleesi.itch.io/ghosty",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402590",
+		"by": [
+			"Leahleesi"
+		],
+		"by_link": [
+			"https://leahleesi.itch.io/"
+		],
+		"rank": 36,
+		"ratings": 5,
+		"score": 2.409,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 32,
+				"score": 2.613,
+				"raw_score": 3.2
+			},
+			{
+				"criteria": "Art",
+				"rank": 32,
+				"score": 2.613,
+				"raw_score": 3.2
+			},
+			{
+				"criteria": "Overall",
+				"rank": 36,
+				"score": 2.409,
+				"raw_score": 2.95
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 37,
+				"score": 2.123,
+				"raw_score": 2.6
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 38,
+				"score": 2.286,
+				"raw_score": 2.8
+			}
+		]
+	},
+	{
+		"title": "Nemo Free",
+		"title_link": "https://castrolol.itch.io/nemo-free",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402575",
+		"by": [
+			"castrolol"
+		],
+		"by_link": [
+			"https://castrolol.itch.io/"
+		],
+		"rank": 37,
+		"ratings": 6,
+		"score": 2.348,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 25,
+				"score": 2.981,
+				"raw_score": 3.333
+			},
+			{
+				"criteria": "Art",
+				"rank": 29,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 36,
+				"score": 2.385,
+				"raw_score": 2.667
+			},
+			{
+				"criteria": "Overall",
+				"rank": 37,
+				"score": 2.348,
+				"raw_score": 2.625
+			},
+			{
+				"criteria": "Audio",
+				"rank": 49,
+				"score": 1.193,
+				"raw_score": 1.333
+			}
+		]
+	},
+	{
+		"title": "The Spirit of The Hawk",
+		"title_link": "https://sebini.itch.io/the-spirit-of-the-hawk",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402525",
+		"by": [
+			"seb.ini"
+		],
+		"by_link": [
+			"https://sebini.itch.io/"
+		],
+		"rank": 39,
+		"ratings": 9,
+		"score": 2.194,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 30,
+				"score": 2.667,
+				"raw_score": 2.667
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 33,
+				"score": 2.222,
+				"raw_score": 2.222
+			},
+			{
+				"criteria": "Art",
+				"rank": 38,
+				"score": 2.333,
+				"raw_score": 2.333
+			},
+			{
+				"criteria": "Overall",
+				"rank": 39,
+				"score": 2.194,
+				"raw_score": 2.194
+			},
+			{
+				"criteria": "Audio",
+				"rank": 45,
+				"score": 1.556,
+				"raw_score": 1.556
+			}
+		]
+	},
+	{
+		"title": "TikTik",
+		"title_link": "https://kent-yth.itch.io/tiktik",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402572",
+		"by": [
+			"kent_yth"
+		],
+		"by_link": [
+			"https://kent-yth.itch.io/"
+		],
+		"rank": 40,
+		"ratings": 4,
+		"score": 2.145,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 34,
+				"score": 2.556,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 40,
+				"score": 2.008,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Overall",
+				"rank": 40,
+				"score": 2.145,
+				"raw_score": 2.938
+			},
+			{
+				"criteria": "Art",
+				"rank": 41,
+				"score": 2.008,
+				"raw_score": 2.75
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 42,
+				"score": 2.008,
+				"raw_score": 2.75
+			}
+		]
+	},
+	{
+		"title": "Spirit Travel",
+		"title_link": "https://c9-y20-50763.itch.io/proyect-spirit",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401655",
+		"by": [
+			"c9_y20_50763",
+			"juunishi master",
+			"August"
+		],
+		"by_link": [
+			"https://c9-y20-50763.itch.io/",
+			"https://juunishi-master.itch.io/",
+			"https://augustapril.itch.io/"
+		],
+		"rank": 42,
+		"ratings": 6,
+		"score": 2.087,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 29,
+				"score": 2.832,
+				"raw_score": 3.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 40,
+				"score": 2.087,
+				"raw_score": 2.333
+			},
+			{
+				"criteria": "Overall",
+				"rank": 42,
+				"score": 2.087,
+				"raw_score": 2.333
+			},
+			{
+				"criteria": "Audio",
+				"rank": 43,
+				"score": 1.938,
+				"raw_score": 2.167
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 47,
+				"score": 1.491,
+				"raw_score": 1.667
+			}
+		]
+	},
+	{
+		"title": "7 Diamonds",
+		"title_link": "https://motherandfather.itch.io/7-diamonds",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402117",
+		"by": [
+			"MOTHER&amp;FATHER"
+		],
+		"by_link": [
+			"https://motherandfather.itch.io/"
+		],
+		"rank": 43,
+		"ratings": 9,
+		"score": 2.083,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 33,
+				"score": 2.222,
+				"raw_score": 2.222
+			},
+			{
+				"criteria": "Audio",
+				"rank": 35,
+				"score": 2.556,
+				"raw_score": 2.556
+			},
+			{
+				"criteria": "Overall",
+				"rank": 43,
+				"score": 2.083,
+				"raw_score": 2.083
+			},
+			{
+				"criteria": "Art",
+				"rank": 44,
+				"score": 1.778,
+				"raw_score": 1.778
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 46,
+				"score": 1.778,
+				"raw_score": 1.778
+			}
+		]
+	},
+	{
+		"title": "Defender of the Material World",
+		"title_link": "https://recovery15.itch.io/defender-of-the-material-world",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401831",
+		"by": [
+			"Recovery15"
+		],
+		"by_link": [
+			"https://recovery15.itch.io/"
+		],
+		"rank": 44,
+		"ratings": 5,
+		"score": 1.919,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 16,
+				"score": 2.939,
+				"raw_score": 3.6
+			},
+			{
+				"criteria": "Overall",
+				"rank": 44,
+				"score": 1.919,
+				"raw_score": 2.35
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 45,
+				"score": 1.796,
+				"raw_score": 2.2
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 46,
+				"score": 1.633,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Art",
+				"rank": 50,
+				"score": 1.306,
+				"raw_score": 1.6
+			}
+		]
+	},
+	{
+		"title": "SoulChaser",
+		"title_link": "https://bigbossgiga.itch.io/soulchaser",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402538",
+		"by": [
+			"bigbossgiga"
+		],
+		"by_link": [
+			"https://bigbossgiga.itch.io/"
+		],
+		"rank": 45,
+		"ratings": 6,
+		"score": 1.901,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 38,
+				"score": 2.087,
+				"raw_score": 2.333
+			},
+			{
+				"criteria": "Audio",
+				"rank": 40,
+				"score": 2.236,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Overall",
+				"rank": 45,
+				"score": 1.901,
+				"raw_score": 2.125
+			},
+			{
+				"criteria": "Art",
+				"rank": 47,
+				"score": 1.64,
+				"raw_score": 1.833
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 47,
+				"score": 1.64,
+				"raw_score": 1.833
+			}
+		]
+	},
+	{
+		"title": "GhostEscape",
+		"title_link": "https://gabomz.itch.io/ghostescape",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402513",
+		"by": [
+			"GaboMz"
+		],
+		"by_link": [
+			"https://gabomz.itch.io/"
+		],
+		"rank": 47,
+		"ratings": 4,
+		"score": 1.734,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 41,
+				"score": 2.191,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 42,
+				"score": 1.826,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Overall",
+				"rank": 47,
+				"score": 1.734,
+				"raw_score": 2.375
+			},
+			{
+				"criteria": "Art",
+				"rank": 49,
+				"score": 1.461,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 49,
+				"score": 1.461,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "Unnamed Space Game",
+		"title_link": "https://delta2force.itch.io/unnamed-space-game",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402189",
+		"by": [
+			"Delta2Force"
+		],
+		"by_link": [
+			"https://delta2force.itch.io/"
+		],
+		"rank": 48,
+		"ratings": 3,
+		"score": 1.581,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 43,
+				"score": 1.897,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Art",
+				"rank": 45,
+				"score": 1.687,
+				"raw_score": 2.667
+			},
+			{
+				"criteria": "Audio",
+				"rank": 47,
+				"score": 1.476,
+				"raw_score": 2.333
+			},
+			{
+				"criteria": "Overall",
+				"rank": 48,
+				"score": 1.581,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 49,
+				"score": 1.265,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "Espiritu Atrapado",
+		"title_link": "https://mickymao.itch.io/espiritu-atrapado-mjjo",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402481",
+		"by": [
+			"mickymao"
+		],
+		"by_link": [
+			"https://mickymao.itch.io/"
+		],
+		"rank": 49,
+		"ratings": 4,
+		"score": 1.552,
+		"table_data": [
+			{
+				"criteria": "Gameplay",
+				"rank": 42,
+				"score": 1.826,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Audio",
+				"rank": 44,
+				"score": 1.643,
+				"raw_score": 2.25
+			},
+			{
+				"criteria": "Art",
+				"rank": 46,
+				"score": 1.643,
+				"raw_score": 2.25
+			},
+			{
+				"criteria": "Overall",
+				"rank": 49,
+				"score": 1.552,
+				"raw_score": 2.125
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 50,
+				"score": 1.095,
+				"raw_score": 1.5
+			}
+		]
+	},
+	{
+		"title": "Spirit Run",
+		"title_link": "https://shinie.itch.io/spirit-run",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402548",
+		"by": [
+			"Shinie"
+		],
+		"by_link": [
+			"https://shinie.itch.io/"
+		],
+		"rank": 50,
+		"ratings": 6,
+		"score": 1.416,
+		"table_data": [
+			{
+				"criteria": "Art",
+				"rank": 42,
+				"score": 1.938,
+				"raw_score": 2.167
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 47,
+				"score": 1.64,
+				"raw_score": 1.833
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 50,
+				"score": 1.193,
+				"raw_score": 1.333
+			},
+			{
+				"criteria": "Overall",
+				"rank": 50,
+				"score": 1.416,
+				"raw_score": 1.583
+			},
+			{
+				"criteria": "Audio",
+				"rank": 51,
+				"score": 0.894,
+				"raw_score": 1
+			}
+		]
+	},
+	{
+		"title": "SpiVRt",
+		"title_link": "https://bluebunnygamer.itch.io/spivrt",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402004",
+		"by": [
+			"BlueBunnyGamer"
+		],
+		"by_link": [
+			"https://bluebunnygamer.itch.io/"
+		],
+		"rank": 51,
+		"ratings": 1,
+		"score": 0.913,
+		"table_data": [
+			{
+				"criteria": "Presentation",
+				"rank": 50,
+				"score": 1.095,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Art",
+				"rank": 51,
+				"score": 1.095,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Overall",
+				"rank": 51,
+				"score": 0.913,
+				"raw_score": 2.5
+			},
+			{
+				"criteria": "Audio",
+				"rank": 52,
+				"score": 0.73,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 52,
+				"score": 0.73,
+				"raw_score": 2
+			}
+		]
+	},
+	{
+		"title": "GhastLee",
+		"title_link": "https://thebanterbroadcast.itch.io/ghastlee",
+		"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402581",
+		"by": [
+			"TheBanterBroadcast"
+		],
+		"by_link": [
+			"https://thebanterbroadcast.itch.io/"
+		],
+		"rank": 52,
+		"ratings": 2,
+		"score": 0.904,
+		"table_data": [
+			{
+				"criteria": "Audio",
+				"rank": 50,
+				"score": 1.033,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Gameplay",
+				"rank": 51,
+				"score": 0.775,
+				"raw_score": 1.5
+			},
+			{
+				"criteria": "Presentation",
+				"rank": 52,
+				"score": 0.775,
+				"raw_score": 1.5
+			},
+			{
+				"criteria": "Art",
+				"rank": 52,
+				"score": 1.033,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Overall",
+				"rank": 52,
+				"score": 0.904,
+				"raw_score": 1.75
+			}
+		]
+	}
+]

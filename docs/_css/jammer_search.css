@@ -1,0 +1,27 @@
+#search_box {
+	width: 200px;
+	display: block;
+	height: 22px;
+	font-size: medium;
+}
+
+#search_button {
+	margin-bottom: 22px;
+}
+
+.result {
+	margin-bottom: 15px;
+	max-width: calc(100vw - 20px);
+}
+
+.jammer_link {
+	display: inline-block;
+	font-size: larger;
+	margin-right: 10px;
+}
+
+.jammer_link_text {
+	display: inline-block;
+	font-size: small;
+	margin-right: 10px;
+}

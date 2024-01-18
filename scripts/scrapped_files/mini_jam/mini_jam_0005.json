@@ -1,0 +1,130 @@
+[
+	{
+		"title": "Last Colony v1",
+		"title_link": "https://pandaik.itch.io/sdjf",
+		"submission_page_link": "https://itch.io/jam/mini-jam-5th-edition/rate/274944",
+		"by": [
+			"Pandaik"
+		],
+		"by_link": [
+			"https://pandaik.itch.io/"
+		],
+		"rank": 1,
+		"ratings": 4,
+		"score": 3.194,
+		"table_data": [
+			{
+				"criteria": "Overall",
+				"rank": 1,
+				"score": 3.194,
+				"raw_score": 3.571
+			},
+			{
+				"criteria": "Music",
+				"rank": 1,
+				"score": 2.907,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Game play",
+				"rank": 1,
+				"score": 3.801,
+				"raw_score": 4.25
+			},
+			{
+				"criteria": "Game design",
+				"rank": 1,
+				"score": 3.354,
+				"raw_score": 3.75
+			},
+			{
+				"criteria": "Respect of the limitations",
+				"rank": 1,
+				"score": 4.249,
+				"raw_score": 4.75
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 2,
+				"score": 2.907,
+				"raw_score": 3.25
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 2,
+				"score": 1.789,
+				"raw_score": 2
+			},
+			{
+				"criteria": "Deliciousness",
+				"rank": 2,
+				"score": 3.354,
+				"raw_score": 3.75
+			}
+		]
+	},
+	{
+		"title": "Potion Plumbing",
+		"title_link": "https://wgeigerman.itch.io/potionplumbing",
+		"submission_page_link": "https://itch.io/jam/mini-jam-5th-edition/rate/274941",
+		"by": [
+			"wgeigerman"
+		],
+		"by_link": [
+			"https://wgeigerman.itch.io/"
+		],
+		"rank": 2,
+		"ratings": 6,
+		"score": 3.19,
+		"table_data": [
+			{
+				"criteria": "Deliciousness",
+				"rank": 1,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Sound effects",
+				"rank": 1,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Graphics",
+				"rank": 1,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Music",
+				"rank": 2,
+				"score": 2.833,
+				"raw_score": 2.833
+			},
+			{
+				"criteria": "Game design",
+				"rank": 2,
+				"score": 3,
+				"raw_score": 3
+			},
+			{
+				"criteria": "Respect of the limitations",
+				"rank": 2,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Game play",
+				"rank": 2,
+				"score": 3.5,
+				"raw_score": 3.5
+			},
+			{
+				"criteria": "Overall",
+				"rank": 2,
+				"score": 3.19,
+				"raw_score": 3.19
+			}
+		]
+	}
+]

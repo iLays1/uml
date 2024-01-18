@@ -1,0 +1,98 @@
+[
+	{
+		"jammer": "Stu",
+		"jammer_link": "https://hustyota.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"title": "Mafiaoso",
+				"title_link": "https://hustyota.itch.io/mafiaoso",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418140",
+				"by": [
+					"Stu"
+				],
+				"by_link": [
+					"https://hustyota.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 2,
+				"score": 1.667
+			}
+		]
+	},
+	{
+		"jammer": "Final Render Animation Studio",
+		"jammer_link": "https://cleowillo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"title": "The Celebration",
+				"title_link": "https://cleowillo.itch.io/the-celebration",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418455",
+				"by": [
+					"Final Render Animation Studio"
+				],
+				"by_link": [
+					"https://cleowillo.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 2,
+				"score": 1.667
+			}
+		]
+	},
+	{
+		"jammer": "AmythystMorris",
+		"jammer_link": "https://amythystmorris.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 9,
+				"jam_name": "Back To School",
+				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+				"title": "Are you Smarter than a Sphinx?",
+				"title_link": "https://amythystmorris.itch.io/are-you-smarter-than-a-sphinx",
+				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297143",
+				"by": [
+					"AmythystMorris"
+				],
+				"by_link": [
+					"https://amythystmorris.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 3,
+				"score": 1.611
+			}
+		]
+	},
+	{
+		"jammer": "The Gamer Cat",
+		"jammer_link": "https://thegamercat.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 6,
+				"jam_name": "Boss Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-6th-edition",
+				"title": "Touhou: Koala Edition",
+				"title_link": "https://thegamercat.itch.io/touhou-koala-edition",
+				"submission_page_link": "https://itch.io/jam/mini-jam-6th-edition/rate/279535",
+				"by": [
+					"The Gamer Cat"
+				],
+				"by_link": [
+					"https://thegamercat.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 1.061
+			}
+		]
+	}
+]
