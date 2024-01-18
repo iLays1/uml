@@ -6,7 +6,7 @@ const OUTPUT_JAM_LIST_FOLDER_PATH = './scrapped_files/jam_list/';
 const OUTPUT_MAJOR_JAM_FOLDER_PATH = './scrapped_files/major_jam/';
 const OUTPUT_MINI_JAM_FOLDER_PATH = './scrapped_files/mini_jam/';
 
-const WAIT_BETWEEN_HTTPS_GETS = 3;
+const WAIT_BETWEEN_HTTPS_GETS = 6;
 
 const CREATE_JAM_LIST_FILE = true;
 const CREATE_MAJOR_JAM_FILES = true;
