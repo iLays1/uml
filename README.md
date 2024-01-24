@@ -45,7 +45,7 @@ The workflow kinda go like this: You delete all the data folders, and then you r
 
 Afterthat the page is up to date. Just git push to github pages or sth
 
-If you have any other questions dm me on Discord. My user name is TripleCubes
+If you have any other questions dm me on Discord. My user name is triplecubes
 
 # LICENSE
 Unofficial Mini Jam Leaderboard is under the MIT license. Check [LICENSE](LICENSE) for full information.
