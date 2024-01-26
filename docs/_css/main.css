@@ -23,6 +23,7 @@ button:active {
 
 #nav {
 	margin-top: 10px;
+	line-height: 170%;
 }
 
 #nav > a {
