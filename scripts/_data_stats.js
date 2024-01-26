@@ -15,6 +15,8 @@ async function main() {
 		mini_jam_num_of_game: jam_list_other_data.mini_jam_num_of_game,
 
 		num_of_jammer: leaderboard_other_data.num_of_jammer,
+		num_of_majorjammer: leaderboard_other_data.num_of_majorjammer,
+		num_of_minijammer: leaderboard_other_data.num_of_minijammer,
 	}
 
 	await SF.write_json(stats, './data_files/stats/', 'stats.json');

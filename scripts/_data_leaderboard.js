@@ -143,12 +143,32 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 
 function create_other_data(list) {
 	let num_of_game = 0;
+	let num_of_majorjammer = 0;
+	let num_of_minijammer = 0;
 	for (let i = 0; i < list.length; i++) {
+		let jammer = list[i];
+
 		num_of_game += list[i].list_game_sorted.length;
+
+		let major_jam_tagged = false;
+		let mini_jam_tagged = false;
+		for (let j = 0; j < jammer.list_game_sorted.length; j++) {
+			let game = jammer.list_game_sorted[j];
+			if (!major_jam_tagged && game.jam_type == 'major_jam') {
+				major_jam_tagged = true;
+				num_of_majorjammer++;
+			}
+			if (!mini_jam_tagged && game.jam_type == 'mini_jam') {
+				mini_jam_tagged = true;
+				num_of_minijammer++;
+			}
+		}
 	}
 
 	let other_data = {
 		num_of_jammer: list.length,
+		num_of_majorjammer: num_of_majorjammer,
+		num_of_minijammer: num_of_minijammer,
 		num_of_game: num_of_game,
 		num_of_page: Math.ceil(list.length / NUM_OF_JAMMER_PER_PAGE),
 		num_of_jammer_per_page: NUM_OF_JAMMER_PER_PAGE,

@@ -32,6 +32,10 @@ async function main() {
 	+ `
 			<p>` + stats.num_of_jammer + ` jammers</p>`
 	+ `
+			<p>` + stats.num_of_minijammer + ` minijammers</p>`
+	+ `
+			<p>` + stats.num_of_majorjammer + ` majorjammers</p>`
+	+ `
 			<h3>Mini Jam</h3>`
 	+ `
 			<p>` + stats.num_of_mini_jam + ` Mini Jams</p>`
