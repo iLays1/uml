@@ -1,5 +1,8 @@
 const INPUT_FOLDER_PATH = './_data_files/leaderboard_data/';
 
+let sorting_by_rank = true;
+let jammer_data = {};
+
 async function main() {
 	let url = window.location.href;
 	if (url.indexOf('?jammer=') == -1) {
@@ -22,7 +25,7 @@ async function main() {
 
 	let other_data = await get_json(INPUT_FOLDER_PATH + 'all/other_data.json');
 	let jammer_page = await get_json(INPUT_FOLDER_PATH + 'all/page_' + int_to_str(page_ref.all.page) + '.json');
-	let jammer_data = jammer_page[page_ref.all.index];
+	jammer_data = jammer_page[page_ref.all.index];
 	jammer_name_h1.innerHTML = jammer_data.jammer;
 	jammer_link_a.innerHTML = get_jammer_short_link(jammer_data.jammer_link);
 	jammer_link_a.href = jammer_data.jammer_link;
@@ -48,15 +51,40 @@ async function main() {
 									'Rank by game in top 20');
 	}
 
+	let h3_games_and_sort_btn = document.createElement('span');
+	h3_games_and_sort_btn.classList.add('h3_games_and_sort_btn');
+
 	let h3 = document.createElement('h3');
 	h3.innerHTML = 'Games';
-	result_div.append(h3);
-	game_list(jammer_data);
+	h3.classList.add('h3_games');
+	h3_games_and_sort_btn.append(h3);
+
+	h3_games_and_sort_btn.append(sort_button());
+
+	result_div.append(h3_games_and_sort_btn);
+
+	game_list_sorted(jammer_data, true);
 }
 
 main();
 
 
+
+function sort_button() {
+	let btn = document.createElement('button');
+	btn.classList.add('sort_btn');
+	btn.innerHTML = 'Sorting by rank';
+	btn.onclick = function() {
+		sorting_by_rank = !sorting_by_rank;
+		if (sorting_by_rank) {
+			this.innerHTML = 'Sorting by rank';
+		} else {
+			this.innerHTML = 'Sorting by jam';
+		}
+		game_list_sorted(jammer_data, sorting_by_rank);
+	}
+	return btn;
+}
 
 function game_list_first_row(game_list) {
 	let game = document.createElement('span');
@@ -72,15 +100,45 @@ function game_list_first_row(game_list) {
 	game_list.append(game);
 }
 
-function game_list(jammer_data) {
+function game_list_sorted(jammer_data, sorting_by_rank) {
+	let list_game_data = get_game_data_list(jammer_data);
+	if (!sorting_by_rank) {
+		list_game_data.sort(function(a, b) {
+			if (a.jam_type == 'mini_jam' && b.jam_type == 'major_jam') {
+				return 1;
+			} else if (a.jam_type == 'major_jam' && b.jam_type == 'mini_jam') {
+				return -1;
+			}
+			return b.jam_id - a.jam_id;
+		})
+	}
+
+	let game_list_element = document.querySelector('.game_list');
+	if (game_list_element != null) {
+		game_list_element.remove();
+	}
+
+	game_list(list_game_data);
+}
+
+function get_game_data_list(jammer_data) {
+	let list = [];
+	for (let i = 0; i < jammer_data.list_game_sorted.length; i++) {
+		let obj_game = jammer_data.list_game_sorted[i];
+		list.push(obj_game);
+	}
+	return list;
+}
+
+function game_list(list_game_data) {
 	let result_div = document.querySelector('#result');
 
 	let game_list = document.createElement('div');
 	game_list.classList.add('game_list');
 	game_list_first_row(game_list);
 
-	for (let i = 0; i < jammer_data.list_game_sorted.length; i++) {
-		let obj_game = jammer_data.list_game_sorted[i];
+	for (let i = 0; i < list_game_data.length; i++) {
+		let obj_game = list_game_data[i];
 
 		let game = document.createElement('span');
 		game.classList.add('game');
