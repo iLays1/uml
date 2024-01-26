@@ -16,7 +16,7 @@ Scraping took really long time. Imagine you scraping from Mini Jam 150 to Mini J
 
 Set `MINI_JAM_ID_MAX_CAP` to `30`, and the scraping will start from Mini Jam 30 instead
 
-Make sure to set `MINI_JAM_ID_MAX_CAP` back to 9999999 (pick a number larger than 10000) for normal scraping 
+Make sure to set `MINI_JAM_ID_MAX_CAP` back to `9999999` (pick a number larger than 10000) for normal scraping 
 
 ### LIST_REWRITE_THESE_FILES
 When scraping files, you might sometime get 429 error (too many requests) for some http requests. I mean I am waiting 6 seconds between requests so this shouldnt happen. But just in case, and also there might be other errors
