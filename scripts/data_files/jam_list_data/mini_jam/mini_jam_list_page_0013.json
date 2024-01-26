@@ -3,6 +3,9 @@
 		"id": 20,
 		"jam_name": "Music",
 		"link": "https://itch.io/jam/mini-jam-20-music",
+		"num_of_game": 27,
+		"num_of_jammer": 31,
+		"num_of_new_jammer": 21,
 		"list": [
 			{
 				"title": "Rhythm OwO",
@@ -298,6 +301,9 @@
 		"id": 19,
 		"jam_name": "Mysteries",
 		"link": "https://itch.io/jam/mini-jam-19-mysteries",
+		"num_of_game": 27,
+		"num_of_jammer": 31,
+		"num_of_new_jammer": 20,
 		"list": [
 			{
 				"title": "do robots dream?",
@@ -595,6 +601,9 @@
 		"id": 18,
 		"jam_name": "Dreams",
 		"link": "https://itch.io/jam/mini-jam-18-dreams",
+		"num_of_game": 32,
+		"num_of_jammer": 35,
+		"num_of_new_jammer": 29,
 		"list": [
 			{
 				"title": "Snooze Hammer",
@@ -884,6 +893,9 @@
 		"id": 17,
 		"jam_name": "Home Alone",
 		"link": "https://itch.io/jam/mini-jam-17-home-alone",
+		"num_of_game": 7,
+		"num_of_jammer": 7,
+		"num_of_new_jammer": 4,
 		"list": [
 			{
 				"title": "Imagine",
@@ -989,6 +1001,9 @@
 		"id": 16,
 		"jam_name": "Western",
 		"link": "https://itch.io/jam/mini-jam-16-western",
+		"num_of_game": 13,
+		"num_of_jammer": 14,
+		"num_of_new_jammer": 6,
 		"list": [
 			{
 				"title": "For A Fistful Of Frogs",
@@ -1180,6 +1195,9 @@
 		"id": 15,
 		"jam_name": "Technology",
 		"link": "https://itch.io/jam/mini-jam-15-technology",
+		"num_of_game": 22,
+		"num_of_jammer": 23,
+		"num_of_new_jammer": 17,
 		"list": [
 			{
 				"title": "Quadruple Helicopter Friendship",
@@ -1469,6 +1487,9 @@
 		"id": 14,
 		"jam_name": "Elements",
 		"link": "https://itch.io/jam/mini-jam-14-elements-",
+		"num_of_game": 25,
+		"num_of_jammer": 29,
+		"num_of_new_jammer": 25,
 		"list": [
 			{
 				"title": "mad spirits",
@@ -1764,6 +1785,9 @@
 		"id": 13,
 		"jam_name": "Villains",
 		"link": "https://itch.io/jam/mini-jam-13-villains-",
+		"num_of_game": 3,
+		"num_of_jammer": 3,
+		"num_of_new_jammer": 2,
 		"list": [
 			{
 				"title": "The Seven Sins (Game Jam Entry)",
@@ -1813,6 +1837,9 @@
 		"id": 12,
 		"jam_name": "Heroes",
 		"link": "https://itch.io/jam/mini-jam-12-heroes-",
+		"num_of_game": 19,
+		"num_of_jammer": 19,
+		"num_of_new_jammer": 11,
 		"list": [
 			{
 				"title": "Cube Hero - Protect the green",
@@ -2086,6 +2113,9 @@
 		"id": 11,
 		"jam_name": "Harvest",
 		"link": "https://itch.io/jam/mini-jam-11-",
+		"num_of_game": 15,
+		"num_of_jammer": 17,
+		"num_of_new_jammer": 10,
 		"list": [
 			{
 				"title": "Mini Jam 11 - Harvest",

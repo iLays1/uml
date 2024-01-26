@@ -3,6 +3,9 @@
 		"id": 120,
 		"jam_name": "Hell",
 		"link": "https://itch.io/jam/mini-jam-120-hell",
+		"num_of_game": 56,
+		"num_of_jammer": 76,
+		"num_of_new_jammer": 36,
 		"list": [
 			{
 				"title": "Undeaf",
@@ -316,6 +319,9 @@
 		"id": 119,
 		"jam_name": "Heaven",
 		"link": "https://itch.io/jam/mini-jam-119-heaven",
+		"num_of_game": 100,
+		"num_of_jammer": 140,
+		"num_of_new_jammer": 99,
 		"list": [
 			{
 				"title": "Orb: Jam Version",
@@ -635,6 +641,9 @@
 		"id": 118,
 		"jam_name": "Vampires",
 		"link": "https://itch.io/jam/mini-jam-118-vampires",
+		"num_of_game": 144,
+		"num_of_jammer": 183,
+		"num_of_new_jammer": 135,
 		"list": [
 			{
 				"title": "Hypochondriac Vampire",
@@ -936,6 +945,9 @@
 		"id": 117,
 		"jam_name": "Ghosts",
 		"link": "https://itch.io/jam/mini-jam-117-ghosts",
+		"num_of_game": 192,
+		"num_of_jammer": 229,
+		"num_of_new_jammer": 157,
 		"list": [
 			{
 				"title": "SoulStick",
@@ -1227,6 +1239,9 @@
 		"id": 116,
 		"jam_name": "Pocket Sized",
 		"link": "https://itch.io/jam/mini-jam-116-pocket-sized",
+		"num_of_game": 45,
+		"num_of_jammer": 65,
+		"num_of_new_jammer": 34,
 		"list": [
 			{
 				"title": "Pocket Pirate",
@@ -1544,6 +1559,9 @@
 		"id": 115,
 		"jam_name": "Noir",
 		"link": "https://itch.io/jam/mini-jam-115-noir",
+		"num_of_game": 38,
+		"num_of_jammer": 53,
+		"num_of_new_jammer": 25,
 		"list": [
 			{
 				"title": "Blood  and Bullets | Mini jam  115",
@@ -1847,6 +1865,9 @@
 		"id": 114,
 		"jam_name": "Anime",
 		"link": "https://itch.io/jam/mini-jam-114-anime",
+		"num_of_game": 58,
+		"num_of_jammer": 73,
+		"num_of_new_jammer": 51,
 		"list": [
 			{
 				"title": "Nightmares",
@@ -2150,6 +2171,9 @@
 		"id": 113,
 		"jam_name": "Final Boss",
 		"link": "https://itch.io/jam/mini-jam-113-final-boss",
+		"num_of_game": 107,
+		"num_of_jammer": 153,
+		"num_of_new_jammer": 105,
 		"list": [
 			{
 				"title": "Beatshot",
@@ -2459,6 +2483,9 @@
 		"id": 112,
 		"jam_name": "Chrono",
 		"link": "https://itch.io/jam/mini-jam-112-chrono",
+		"num_of_game": 94,
+		"num_of_jammer": 135,
+		"num_of_new_jammer": 80,
 		"list": [
 			{
 				"title": "Lich x Cutter",
@@ -2762,6 +2789,9 @@
 		"id": 111,
 		"jam_name": "Colors",
 		"link": "https://itch.io/jam/mini-jam-111-colors",
+		"num_of_game": 391,
+		"num_of_jammer": 464,
+		"num_of_new_jammer": 378,
 		"list": [
 			{
 				"title": "Trip + Trap",

@@ -3,6 +3,9 @@
 		"id": 10,
 		"jam_name": "Micro",
 		"link": "https://itch.io/jam/mini-jam-10-micro-",
+		"num_of_game": 22,
+		"num_of_jammer": 24,
+		"num_of_new_jammer": 21,
 		"list": [
 			{
 				"title": "ant the ants",
@@ -294,6 +297,9 @@
 		"id": 9,
 		"jam_name": "Back To School",
 		"link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+		"num_of_game": 27,
+		"num_of_jammer": 31,
+		"num_of_new_jammer": 25,
 		"list": [
 			{
 				"title": "Holy Sheet",
@@ -589,6 +595,9 @@
 		"id": 8,
 		"jam_name": "Fantasy",
 		"link": "https://itch.io/jam/mini-jam-8-fantasy",
+		"num_of_game": 24,
+		"num_of_jammer": 26,
+		"num_of_new_jammer": 22,
 		"list": [
 			{
 				"title": "Rainy Fantasy [MiniJam8]",
@@ -880,6 +889,9 @@
 		"id": 7,
 		"jam_name": "Greek Mythology",
 		"link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
+		"num_of_game": 11,
+		"num_of_jammer": 13,
+		"num_of_new_jammer": 13,
 		"list": [
 			{
 				"title": "Tiny Coliseum (Gamejam version)",
@@ -1045,6 +1057,9 @@
 		"id": 6,
 		"jam_name": "Boss Rush",
 		"link": "https://itch.io/jam/mini-jam-6th-edition",
+		"num_of_game": 20,
+		"num_of_jammer": 21,
+		"num_of_new_jammer": 19,
 		"list": [
 			{
 				"title": "Deep Trouble",
@@ -1334,6 +1349,9 @@
 		"id": 5,
 		"jam_name": "Experimental Science",
 		"link": "https://itch.io/jam/mini-jam-5th-edition",
+		"num_of_game": 2,
+		"num_of_jammer": 2,
+		"num_of_new_jammer": 1,
 		"list": [
 			{
 				"title": "Last Colony v1",
@@ -1369,6 +1387,9 @@
 		"id": 4,
 		"jam_name": "Gameboy",
 		"link": "https://itch.io/jam/mini-jam-4th-edition",
+		"num_of_game": 8,
+		"num_of_jammer": 8,
+		"num_of_new_jammer": 7,
 		"list": [
 			{
 				"title": "Equinox",
@@ -1488,6 +1509,9 @@
 		"id": 3,
 		"jam_name": "Salvage, Darkness",
 		"link": "https://itch.io/jam/mini-jam3rdedition",
+		"num_of_game": 15,
+		"num_of_jammer": 15,
+		"num_of_new_jammer": 12,
 		"list": [
 			{
 				"title": "Shards of Reality",
@@ -1705,6 +1729,9 @@
 		"id": 2,
 		"jam_name": "NES",
 		"link": "https://itch.io/jam/mini-jam2ndedition",
+		"num_of_game": 8,
+		"num_of_jammer": 8,
+		"num_of_new_jammer": 7,
 		"list": [
 			{
 				"title": "Balloony",
@@ -1824,6 +1851,9 @@
 		"id": 1,
 		"jam_name": "Break Out",
 		"link": "https://itch.io/jam/mini-jam",
+		"num_of_game": 19,
+		"num_of_jammer": 19,
+		"num_of_new_jammer": 19,
 		"list": [
 			{
 				"title": "3-Handed Laser Shuffle",

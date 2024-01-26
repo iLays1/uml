@@ -3,6 +3,9 @@
 		"id": 60,
 		"jam_name": "Crime",
 		"link": "https://itch.io/jam/mini-jam-60",
+		"num_of_game": 65,
+		"num_of_jammer": 81,
+		"num_of_new_jammer": 72,
 		"list": [
 			{
 				"title": "Perfect Crime",
@@ -312,6 +315,9 @@
 		"id": 59,
 		"jam_name": "Fortress",
 		"link": "https://itch.io/jam/mini-jam-59",
+		"num_of_game": 24,
+		"num_of_jammer": 29,
+		"num_of_new_jammer": 12,
 		"list": [
 			{
 				"title": "Gravitile",
@@ -609,6 +615,9 @@
 		"id": 58,
 		"jam_name": "Neon",
 		"link": "https://itch.io/jam/mini-jam-58-neon",
+		"num_of_game": 22,
+		"num_of_jammer": 28,
+		"num_of_new_jammer": 15,
 		"list": [
 			{
 				"title": "NeoGenesis",
@@ -908,6 +917,9 @@
 		"id": 57,
 		"jam_name": "Underground",
 		"link": "https://itch.io/jam/mini-jam-57-underground",
+		"num_of_game": 50,
+		"num_of_jammer": 71,
+		"num_of_new_jammer": 42,
 		"list": [
 			{
 				"title": "Ferrocarril",
@@ -1223,6 +1235,9 @@
 		"id": 56,
 		"jam_name": "Sky",
 		"link": "https://itch.io/jam/mini-jam-56-sky",
+		"num_of_game": 115,
+		"num_of_jammer": 141,
+		"num_of_new_jammer": 124,
 		"list": [
 			{
 				"title": "Starving Sniper",
@@ -1524,6 +1539,9 @@
 		"id": 55,
 		"jam_name": "Stealth",
 		"link": "https://itch.io/jam/mini-jam-55-stealth",
+		"num_of_game": 76,
+		"num_of_jammer": 84,
+		"num_of_new_jammer": 62,
 		"list": [
 			{
 				"title": "Shrobbery",
@@ -1815,6 +1833,9 @@
 		"id": 54,
 		"jam_name": "Memories",
 		"link": "https://itch.io/jam/mini-jam-54-memories",
+		"num_of_game": 95,
+		"num_of_jammer": 105,
+		"num_of_new_jammer": 88,
 		"list": [
 			{
 				"title": "Dog and the Walkers",
@@ -2112,6 +2133,9 @@
 		"id": 53,
 		"jam_name": "Oasis",
 		"link": "https://itch.io/jam/mini-jam-53-oasis",
+		"num_of_game": 58,
+		"num_of_jammer": 66,
+		"num_of_new_jammer": 42,
 		"list": [
 			{
 				"title": "Last Sacrifice",
@@ -2405,6 +2429,9 @@
 		"id": 52,
 		"jam_name": "Summit",
 		"link": "https://itch.io/jam/mini-jam-52-summit",
+		"num_of_game": 85,
+		"num_of_jammer": 86,
+		"num_of_new_jammer": 71,
 		"list": [
 			{
 				"title": "Pikwip",
@@ -2692,6 +2719,9 @@
 		"id": 51,
 		"jam_name": "Rome",
 		"link": "https://itch.io/jam/mini-jam-51-rome",
+		"num_of_game": 23,
+		"num_of_jammer": 28,
+		"num_of_new_jammer": 25,
 		"list": [
 			{
 				"title": "Spectacle",

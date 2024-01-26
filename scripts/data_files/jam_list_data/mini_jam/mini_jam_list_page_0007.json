@@ -3,6 +3,9 @@
 		"id": 80,
 		"jam_name": "Cats",
 		"link": "https://itch.io/jam/mini-jam-80-cats",
+		"num_of_game": 151,
+		"num_of_jammer": 189,
+		"num_of_new_jammer": 119,
 		"list": [
 			{
 				"title": "Cats n Wires",
@@ -306,6 +309,9 @@
 		"id": 79,
 		"jam_name": "Frogs",
 		"link": "https://itch.io/jam/mini-jam-79-frogs",
+		"num_of_game": 187,
+		"num_of_jammer": 223,
+		"num_of_new_jammer": 159,
 		"list": [
 			{
 				"title": "Frogamari",
@@ -601,6 +607,9 @@
 		"id": 78,
 		"jam_name": "Bugs",
 		"link": "https://itch.io/jam/mini-jam-78-bugs",
+		"num_of_game": 64,
+		"num_of_jammer": 75,
+		"num_of_new_jammer": 50,
 		"list": [
 			{
 				"title": "1-MP",
@@ -902,6 +911,9 @@
 		"id": 77,
 		"jam_name": "Courage",
 		"link": "https://itch.io/jam/mini-jam-77-courage",
+		"num_of_game": 140,
+		"num_of_jammer": 171,
+		"num_of_new_jammer": 130,
 		"list": [
 			{
 				"title": "人間　◉",
@@ -1205,6 +1217,9 @@
 		"id": 76,
 		"jam_name": "Radiation",
 		"link": "https://itch.io/jam/mini-jam-76-radiation",
+		"num_of_game": 125,
+		"num_of_jammer": 141,
+		"num_of_new_jammer": 95,
 		"list": [
 			{
 				"title": "◫",
@@ -1496,6 +1511,9 @@
 		"id": 75,
 		"jam_name": "Wisdom",
 		"link": "https://itch.io/jam/mini-jam-75-wisdom",
+		"num_of_game": 102,
+		"num_of_jammer": 128,
+		"num_of_new_jammer": 95,
 		"list": [
 			{
 				"title": "Weighty Wisdom",
@@ -1793,6 +1811,9 @@
 		"id": 74,
 		"jam_name": "Chaos",
 		"link": "https://itch.io/jam/mini-jam-74-chaos",
+		"num_of_game": 84,
+		"num_of_jammer": 98,
+		"num_of_new_jammer": 65,
 		"list": [
 			{
 				"title": "CHARGE SHOT",
@@ -2086,6 +2107,9 @@
 		"id": 73,
 		"jam_name": "Power",
 		"link": "https://itch.io/jam/mini-jam-73-power",
+		"num_of_game": 176,
+		"num_of_jammer": 231,
+		"num_of_new_jammer": 180,
 		"list": [
 			{
 				"title": "Color Dimension.",
@@ -2395,6 +2419,9 @@
 		"id": 72,
 		"jam_name": "Adventure",
 		"link": "https://itch.io/jam/mini-jam-72-adventure",
+		"num_of_game": 76,
+		"num_of_jammer": 94,
+		"num_of_new_jammer": 60,
 		"list": [
 			{
 				"title": "Bloodlight",
@@ -2694,6 +2721,9 @@
 		"id": 71,
 		"jam_name": "Puzzles",
 		"link": "https://itch.io/jam/mini-jam-71-puzzles",
+		"num_of_game": 95,
+		"num_of_jammer": 120,
+		"num_of_new_jammer": 84,
 		"list": [
 			{
 				"title": "Blocks",

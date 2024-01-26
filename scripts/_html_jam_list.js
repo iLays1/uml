@@ -46,6 +46,10 @@ async function create_html_file(num_of_page, page, jam_list, jam_type) {
 		let attribs = 'class="jam_title" href="' + jam.link + '"';
 		str_html += SF.html_tag('a', SF.get_jam_name(jam.jam_name, jam.id, jam_type), attribs, 3);
 
+		str_html += SF.html_tag('span', jam.num_of_game + ' games', 'class="num_of_game"', 3);
+		str_html += SF.html_tag('span', jam.num_of_jammer + ' jammers', 'class="num_of_jammer"', 3);
+		str_html += SF.html_tag('span', jam.num_of_new_jammer + ' new jammers', 'class="num_of_new_jammer"', 3);
+
 		str_html += html_game_list(jam.list);
 	}
 

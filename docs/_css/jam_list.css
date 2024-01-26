@@ -14,6 +14,10 @@
 	margin-bottom: 5px;
 }
 
+.num_of_game, .num_of_jammer, .num_of_new_jammer {
+	margin-left: 10px;
+}
+
 .game {
 	min-width: calc(100% + 2px);
 	padding-left: 3px;
@@ -83,6 +87,17 @@
 		margin-top: 30px;
 		margin-bottom: 10px;
 		max-width: calc(100vw - 20px);
+	}
+
+	.num_of_game, .num_of_jammer, .num_of_new_jammer {
+		display: block;
+		margin-left: 0px;
+		margin-bottom: 5px;
+		max-width: calc(100vw - 20px);
+	}
+
+	.num_of_new_jammer {
+		margin-bottom: 10px;
 	}
 
 	.game:nth-child(1) {

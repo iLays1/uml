@@ -3,6 +3,9 @@
 		"id": 50,
 		"jam_name": "Islands",
 		"link": "https://itch.io/jam/mini-jam-50-islands",
+		"num_of_game": 132,
+		"num_of_jammer": 156,
+		"num_of_new_jammer": 120,
 		"list": [
 			{
 				"title": "Captain Wilson",
@@ -308,6 +311,9 @@
 		"id": 49,
 		"jam_name": "Seasons",
 		"link": "https://itch.io/jam/mini-jam-49-seasons",
+		"num_of_game": 19,
+		"num_of_jammer": 21,
+		"num_of_new_jammer": 10,
 		"list": [
 			{
 				"title": "4 Seasons Journey",
@@ -585,6 +591,9 @@
 		"id": 48,
 		"jam_name": "Teamwork",
 		"link": "https://itch.io/jam/mini-jam-48-teamwork",
+		"num_of_game": 33,
+		"num_of_jammer": 34,
+		"num_of_new_jammer": 22,
 		"list": [
 			{
 				"title": "Team Swap Heroes",
@@ -874,6 +883,9 @@
 		"id": 47,
 		"jam_name": "Internet",
 		"link": "https://itch.io/jam/mini-jam-47-internet",
+		"num_of_game": 55,
+		"num_of_jammer": 56,
+		"num_of_new_jammer": 43,
 		"list": [
 			{
 				"title": "Tired_Blade();",
@@ -1163,6 +1175,9 @@
 		"id": 46,
 		"jam_name": "Justice",
 		"link": "https://itch.io/jam/mini-jam-46-justice",
+		"num_of_game": 44,
+		"num_of_jammer": 55,
+		"num_of_new_jammer": 33,
 		"list": [
 			{
 				"title": "Wild West Justicier",
@@ -1460,6 +1475,9 @@
 		"id": 45,
 		"jam_name": "Dungeons",
 		"link": "https://itch.io/jam/mini-jam-45-dungeons",
+		"num_of_game": 45,
+		"num_of_jammer": 54,
+		"num_of_new_jammer": 43,
 		"list": [
 			{
 				"title": "PocketDungeon",
@@ -1759,6 +1777,9 @@
 		"id": 44,
 		"jam_name": "New Year",
 		"link": "https://itch.io/jam/mini-jam-44-new-year",
+		"num_of_game": 29,
+		"num_of_jammer": 31,
+		"num_of_new_jammer": 23,
 		"list": [
 			{
 				"title": "Battle of Light and Ghosts",
@@ -2050,6 +2071,9 @@
 		"id": 43,
 		"jam_name": "Travel",
 		"link": "https://itch.io/jam/mini-jam-43-travel",
+		"num_of_game": 15,
+		"num_of_jammer": 19,
+		"num_of_new_jammer": 14,
 		"list": [
 			{
 				"title": "DeRailed",
@@ -2275,6 +2299,9 @@
 		"id": 42,
 		"jam_name": "Snow",
 		"link": "https://itch.io/jam/mini-jam-42-snow",
+		"num_of_game": 29,
+		"num_of_jammer": 29,
+		"num_of_new_jammer": 18,
 		"list": [
 			{
 				"title": "Snowmancer",
@@ -2562,6 +2589,9 @@
 		"id": 41,
 		"jam_name": "Magic",
 		"link": "https://itch.io/jam/mini-jam-41-magic",
+		"num_of_game": 30,
+		"num_of_jammer": 31,
+		"num_of_new_jammer": 23,
 		"list": [
 			{
 				"title": "Hat's a Problem",

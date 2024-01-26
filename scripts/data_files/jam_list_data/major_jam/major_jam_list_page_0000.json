@@ -3,6 +3,9 @@
 		"id": 6,
 		"jam_name": "Major Jam 6: Life",
 		"link": "https://itch.io/jam/major-jam-6-life",
+		"num_of_game": 142,
+		"num_of_jammer": 203,
+		"num_of_new_jammer": 200,
 		"list": [
 			{
 				"title": "THIS DOOR MUST NOT BE OPENED",
@@ -318,6 +321,9 @@
 		"id": 5,
 		"jam_name": "Major Jam 5: Legends",
 		"link": "https://itch.io/jam/major-jam-5",
+		"num_of_game": 18,
+		"num_of_jammer": 23,
+		"num_of_new_jammer": 23,
 		"list": [
 			{
 				"title": "Hero of Legend",
@@ -587,6 +593,9 @@
 		"id": 4,
 		"jam_name": "Major Jam 4: Cosmic",
 		"link": "https://itch.io/jam/major-jam-4-cosmic",
+		"num_of_game": 143,
+		"num_of_jammer": 190,
+		"num_of_new_jammer": 190,
 		"list": [
 			{
 				"title": "Galaclick",
@@ -902,6 +911,9 @@
 		"id": 3,
 		"jam_name": "Major Jam 3: Retro",
 		"link": "https://itch.io/jam/major-jam-3",
+		"num_of_game": 56,
+		"num_of_jammer": 72,
+		"num_of_new_jammer": 72,
 		"list": [
 			{
 				"title": "STARLOCK",
@@ -1209,6 +1221,9 @@
 		"id": 2,
 		"jam_name": "Major Jam 2: Love",
 		"link": "https://itch.io/jam/major-jam-2",
+		"num_of_game": 52,
+		"num_of_jammer": 64,
+		"num_of_new_jammer": 63,
 		"list": [
 			{
 				"title": "Heart 2 Beat",
@@ -1510,6 +1525,9 @@
 		"id": 1,
 		"jam_name": "Major Jam: Isolation",
 		"link": "https://itch.io/jam/major-jam-isolation",
+		"num_of_game": 104,
+		"num_of_jammer": 124,
+		"num_of_new_jammer": 124,
 		"list": [
 			{
 				"title": "ANIMA",

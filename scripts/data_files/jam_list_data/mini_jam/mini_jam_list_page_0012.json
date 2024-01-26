@@ -3,6 +3,9 @@
 		"id": 30,
 		"jam_name": "GBStudio",
 		"link": "https://itch.io/jam/mini-jam-30-gameboy",
+		"num_of_game": 34,
+		"num_of_jammer": 37,
+		"num_of_new_jammer": 23,
 		"list": [
 			{
 				"title": "Nightfall",
@@ -296,6 +299,9 @@
 		"id": 29,
 		"jam_name": "Ninjas",
 		"link": "https://itch.io/jam/mini-jam-29-ninjas",
+		"num_of_game": 30,
+		"num_of_jammer": 32,
+		"num_of_new_jammer": 19,
 		"list": [
 			{
 				"title": "Shinobi Sling",
@@ -587,6 +593,9 @@
 		"id": 28,
 		"jam_name": "Pirates",
 		"link": "https://itch.io/jam/mini-jam-28-pirates",
+		"num_of_game": 40,
+		"num_of_jammer": 44,
+		"num_of_new_jammer": 30,
 		"list": [
 			{
 				"title": "Space Pirate: Tactics",
@@ -880,6 +889,9 @@
 		"id": 27,
 		"jam_name": "Celebration",
 		"link": "https://itch.io/jam/mini-jam-27-celebration",
+		"num_of_game": 25,
+		"num_of_jammer": 24,
+		"num_of_new_jammer": 16,
 		"list": [
 			{
 				"title": "The Jammy",
@@ -1167,6 +1179,9 @@
 		"id": 26,
 		"jam_name": "Storms",
 		"link": "https://itch.io/jam/mini-jam-26-storms",
+		"num_of_game": 21,
+		"num_of_jammer": 23,
+		"num_of_new_jammer": 15,
 		"list": [
 			{
 				"title": "Gale",
@@ -1458,6 +1473,9 @@
 		"id": 25,
 		"jam_name": "Spirits",
 		"link": "https://itch.io/jam/mini-jam-25-spirits",
+		"num_of_game": 48,
+		"num_of_jammer": 57,
+		"num_of_new_jammer": 44,
 		"list": [
 			{
 				"title": "Haunted Castle",
@@ -1759,6 +1777,9 @@
 		"id": 24,
 		"jam_name": "Space",
 		"link": "https://itch.io/jam/mini-jam-24-space",
+		"num_of_game": 59,
+		"num_of_jammer": 64,
+		"num_of_new_jammer": 44,
 		"list": [
 			{
 				"title": "We (DON'T) Need Space",
@@ -2056,6 +2077,9 @@
 		"id": 23,
 		"jam_name": "Time",
 		"link": "https://itch.io/jam/mini-jam-23-time",
+		"num_of_game": 54,
+		"num_of_jammer": 74,
+		"num_of_new_jammer": 64,
 		"list": [
 			{
 				"title": "Hat TV",
@@ -2371,6 +2395,9 @@
 		"id": 22,
 		"jam_name": "Anime",
 		"link": "https://itch.io/jam/mini-jam-22-anime",
+		"num_of_game": 12,
+		"num_of_jammer": 13,
+		"num_of_new_jammer": 6,
 		"list": [
 			{
 				"title": "Volleyball Club",
@@ -2548,6 +2575,9 @@
 		"id": 21,
 		"jam_name": "Stories",
 		"link": "https://itch.io/jam/mini-jam-21-stories",
+		"num_of_game": 13,
+		"num_of_jammer": 16,
+		"num_of_new_jammer": 8,
 		"list": [
 			{
 				"title": "Princess Story",
