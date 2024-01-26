@@ -1,5 +1,161 @@
 [
 	{
+		"jammer": "Carter13",
+		"jammer_link": "https://carter13.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"title": "Flocking Birds",
+				"title_link": "https://givrox7.itch.io/flocking-birds",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388714",
+				"by": [
+					"givrox7",
+					"enochianveh",
+					"Carter13"
+				],
+				"by_link": [
+					"https://givrox7.itch.io/",
+					"https://enochianveh.itch.io/",
+					"https://carter13.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 9,
+				"score": 3.833
+			}
+		]
+	},
+	{
+		"jammer": "Saschanian",
+		"jammer_link": "https://saschanian.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Cyber Webber",
+				"title_link": "https://saschanian.itch.io/cyber-webber",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869169",
+				"by": [
+					"Saschanian",
+					"The Homie"
+				],
+				"by_link": [
+					"https://saschanian.itch.io/",
+					"https://luka-kanjo.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 37,
+				"score": 3.804
+			}
+		]
+	},
+	{
+		"jammer": "The Homie",
+		"jammer_link": "https://luka-kanjo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Cyber Webber",
+				"title_link": "https://saschanian.itch.io/cyber-webber",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869169",
+				"by": [
+					"Saschanian",
+					"The Homie"
+				],
+				"by_link": [
+					"https://saschanian.itch.io/",
+					"https://luka-kanjo.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 37,
+				"score": 3.804
+			}
+		]
+	},
+	{
+		"jammer": "AwesomeRedflare",
+		"jammer_link": "https://awesomeredflare.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 3,
+				"jam_name": "Major Jam 3: Retro",
+				"jam_link": "https://itch.io/jam/major-jam-3",
+				"title": "Bong &amp; Boom",
+				"title_link": "https://awesomeredflare.itch.io/bong-boom",
+				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/842447",
+				"by": [
+					"AwesomeRedflare"
+				],
+				"by_link": [
+					"https://awesomeredflare.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 24,
+				"score": 3.781
+			}
+		]
+	},
+	{
+		"jammer": "Nikl",
+		"jammer_link": "https://niklme.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Oicana",
+				"title_link": "https://niklme.itch.io/oicana",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880111",
+				"by": [
+					"Nikl",
+					"M1nd0fRafa3l"
+				],
+				"by_link": [
+					"https://niklme.itch.io/",
+					"https://m1nd0frafa3l.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 19,
+				"score": 3.776
+			}
+		]
+	},
+	{
+		"jammer": "M1nd0fRafa3l",
+		"jammer_link": "https://m1nd0frafa3l.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Oicana",
+				"title_link": "https://niklme.itch.io/oicana",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880111",
+				"by": [
+					"Nikl",
+					"M1nd0fRafa3l"
+				],
+				"by_link": [
+					"https://niklme.itch.io/",
+					"https://m1nd0frafa3l.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 19,
+				"score": 3.776
+			}
+		]
+	},
+	{
 		"jammer": "GhostYue",
 		"jammer_link": "https://ghostyue.itch.io/",
 		"list_game_sorted": [
@@ -2384,176 +2540,26 @@
 		]
 	},
 	{
-		"jammer": "Panda321",
-		"jammer_link": "https://panda321.itch.io/",
+		"jammer": "Duck Duet",
+		"jammer_link": "https://duckduet.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"title": "Float islands",
-				"title_link": "https://panda321.itch.io/float-islands",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112820",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Botanical Brew",
+				"title_link": "https://duckduet.itch.io/botanical-brew",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483082",
 				"by": [
-					"Panda321"
+					"Duck Duet"
 				],
 				"by_link": [
-					"https://panda321.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 13,
-				"score": 3.827
-			}
-		]
-	},
-	{
-		"jammer": "omoide",
-		"jammer_link": "https://omoide.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"title": "SNATCHED! (Jam Version)",
-				"title_link": "https://omoide.itch.io/snatched-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389252",
-				"by": [
-					"omoide"
-				],
-				"by_link": [
-					"https://omoide.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 20,
-				"score": 3.825
-			}
-		]
-	},
-	{
-		"jammer": "Leozlk",
-		"jammer_link": "https://leozlk.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"title": "Yummy Golf",
-				"title_link": "https://leozlk.itch.io/yummy-golf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/806949",
-				"by": [
-					"Leozlk"
-				],
-				"by_link": [
-					"https://leozlk.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 18,
-				"score": 3.806
-			}
-		]
-	},
-	{
-		"jammer": "Tim Buhrs",
-		"jammer_link": "https://timbuhrs.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 4,
-				"jam_name": "Major Jam 4: Cosmic",
-				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
-				"title": "Illegal Alien Trafficking",
-				"title_link": "https://timbuhrs.itch.io/illegal-alien-trafficing",
-				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160875",
-				"by": [
-					"Tim Buhrs",
-					"Josh Lee"
-				],
-				"by_link": [
-					"https://timbuhrs.itch.io/",
-					"https://josh-lee.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 18,
-				"score": 3.792
-			}
-		]
-	},
-	{
-		"jammer": "Josh Lee",
-		"jammer_link": "https://josh-lee.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 4,
-				"jam_name": "Major Jam 4: Cosmic",
-				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
-				"title": "Illegal Alien Trafficking",
-				"title_link": "https://timbuhrs.itch.io/illegal-alien-trafficing",
-				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160875",
-				"by": [
-					"Tim Buhrs",
-					"Josh Lee"
-				],
-				"by_link": [
-					"https://timbuhrs.itch.io/",
-					"https://josh-lee.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 18,
-				"score": 3.792
-			}
-		]
-	},
-	{
-		"jammer": "brockdar",
-		"jammer_link": "https://brockdar.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"title": "Snake Eyes",
-				"title_link": "https://brockdar.itch.io/snake-eyes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105837",
-				"by": [
-					"brockdar"
-				],
-				"by_link": [
-					"https://brockdar.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 24,
-				"score": 3.771
-			}
-		]
-	},
-	{
-		"jammer": "wavedotdev",
-		"jammer_link": "https://wavedotdev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"title": "Solar",
-				"title_link": "https://wavedotdev.itch.io/solar",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188054",
-				"by": [
-					"wavedotdev",
-					"jstenger95"
-				],
-				"by_link": [
-					"https://wavedotdev.itch.io/",
-					"https://jstenger95.itch.io/"
+					"https://duckduet.itch.io/"
 				],
 				"rank": 14,
 				"ratings": 9,
-				"score": 3.75
+				"score": 3.833
 			}
 		]
 	}

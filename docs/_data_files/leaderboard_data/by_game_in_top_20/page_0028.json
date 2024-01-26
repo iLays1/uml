@@ -1,5 +1,317 @@
 [
 	{
+		"jammer": "FiblitDoesStuff",
+		"jammer_link": "https://fiblitdoesstuff.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 29,
+				"jam_name": "Ninjas",
+				"jam_link": "https://itch.io/jam/mini-jam-29-ninjas",
+				"title": "Nin Time",
+				"title_link": "https://fiblitdoesstuff.itch.io/nin-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-29-ninjas/rate/431509",
+				"by": [
+					"FiblitDoesStuff"
+				],
+				"by_link": [
+					"https://fiblitdoesstuff.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 2.36
+			}
+		]
+	},
+	{
+		"jammer": "Bardon",
+		"jammer_link": "https://bardon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 59,
+				"jam_name": "Fortress",
+				"jam_link": "https://itch.io/jam/mini-jam-59",
+				"title": "Fortress and Cannons",
+				"title_link": "https://bardon.itch.io/fortress-and-cannons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/711705",
+				"by": [
+					"Bardon"
+				],
+				"by_link": [
+					"https://bardon.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 4,
+				"score": 2.298
+			}
+		]
+	},
+	{
+		"jammer": "Wampy",
+		"jammer_link": "https://wampy-studio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Look At My Beautiful Tomatoes",
+				"title_link": "https://wampy-studio.itch.io/look-at-my-beautiful-tomatoes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185326",
+				"by": [
+					"Wampy",
+					"Garbryn",
+					"Bloom#3116",
+					"Selkione"
+				],
+				"by_link": [
+					"https://wampy-studio.itch.io/",
+					"https://garbryn.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://selkione.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 2.222
+			}
+		]
+	},
+	{
+		"jammer": "Garbryn",
+		"jammer_link": "https://garbryn.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Look At My Beautiful Tomatoes",
+				"title_link": "https://wampy-studio.itch.io/look-at-my-beautiful-tomatoes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185326",
+				"by": [
+					"Wampy",
+					"Garbryn",
+					"Bloom#3116",
+					"Selkione"
+				],
+				"by_link": [
+					"https://wampy-studio.itch.io/",
+					"https://garbryn.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://selkione.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 2.222
+			}
+		]
+	},
+	{
+		"jammer": "Bloom#3116",
+		"jammer_link": "https://bloom3116.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Look At My Beautiful Tomatoes",
+				"title_link": "https://wampy-studio.itch.io/look-at-my-beautiful-tomatoes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185326",
+				"by": [
+					"Wampy",
+					"Garbryn",
+					"Bloom#3116",
+					"Selkione"
+				],
+				"by_link": [
+					"https://wampy-studio.itch.io/",
+					"https://garbryn.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://selkione.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 2.222
+			}
+		]
+	},
+	{
+		"jammer": "Selkione",
+		"jammer_link": "https://selkione.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Look At My Beautiful Tomatoes",
+				"title_link": "https://wampy-studio.itch.io/look-at-my-beautiful-tomatoes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185326",
+				"by": [
+					"Wampy",
+					"Garbryn",
+					"Bloom#3116",
+					"Selkione"
+				],
+				"by_link": [
+					"https://wampy-studio.itch.io/",
+					"https://garbryn.itch.io/",
+					"https://bloom3116.itch.io/",
+					"https://selkione.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 2.222
+			}
+		]
+	},
+	{
+		"jammer": "PkmnLovar",
+		"jammer_link": "https://pkmnlovar.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 44,
+				"jam_name": "New Year",
+				"jam_link": "https://itch.io/jam/mini-jam-44-new-year",
+				"title": "God of Resolution",
+				"title_link": "https://pkmnlovar.itch.io/god-of-resolution",
+				"submission_page_link": "https://itch.io/jam/mini-jam-44-new-year/rate/541655",
+				"by": [
+					"PkmnLovar"
+				],
+				"by_link": [
+					"https://pkmnlovar.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 9,
+				"score": 2.117
+			}
+		]
+	},
+	{
+		"jammer": "PoorlyMadeCornbread",
+		"jammer_link": "https://poorlymadecornbread.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 1,
+				"jam_name": "Break Out",
+				"jam_link": "https://itch.io/jam/mini-jam",
+				"title": "Escape The Room",
+				"title_link": "https://poorlymadecornbread.itch.io/escape-the-room",
+				"submission_page_link": "https://itch.io/jam/mini-jam/rate/254711",
+				"by": [
+					"PoorlyMadeCornbread"
+				],
+				"by_link": [
+					"https://poorlymadecornbread.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 9,
+				"score": 2.074
+			}
+		]
+	},
+	{
+		"jammer": "XXGAMERDUDE2",
+		"jammer_link": "https://xxgamerdude2.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"title": "PORTAL PARADOX",
+				"title_link": "https://xxgamerdude2.itch.io/portal-paradox",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207740",
+				"by": [
+					"XXGAMERDUDE2"
+				],
+				"by_link": [
+					"https://xxgamerdude2.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 3,
+				"score": 2.073
+			}
+		]
+	},
+	{
+		"jammer": "sphynxis",
+		"jammer_link": "https://sphynxis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 20,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-20-music",
+				"title": "Upbeat",
+				"title_link": "https://sphynxis.itch.io/upbeat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362226",
+				"by": [
+					"sphynxis"
+				],
+				"by_link": [
+					"https://sphynxis.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 4,
+				"score": 2.062
+			}
+		]
+	},
+	{
+		"jammer": "Kevin Ray",
+		"jammer_link": "https://kevin-ray.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"title": "Cube Sweeper",
+				"title_link": "https://kevin-ray.itch.io/cube-sweeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/503069",
+				"by": [
+					"Kevin Ray"
+				],
+				"by_link": [
+					"https://kevin-ray.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 5,
+				"score": 1.975
+			}
+		]
+	},
+	{
+		"jammer": "Intellegion",
+		"jammer_link": "https://intellegion.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 19,
+				"jam_name": "Mysteries",
+				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
+				"title": "2Desolate",
+				"title_link": "https://intellegion.itch.io/2desolate",
+				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/355672",
+				"by": [
+					"Intellegion"
+				],
+				"by_link": [
+					"https://intellegion.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 8,
+				"score": 1.875
+			}
+		]
+	},
+	{
 		"jammer": "Stu",
 		"jammer_link": "https://hustyota.itch.io/",
 		"list_game_sorted": [

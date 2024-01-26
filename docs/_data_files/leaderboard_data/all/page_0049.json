@@ -741,6 +741,24 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "SANITIZE THE DARK",
+				"title_link": "https://breadroll.itch.io/sanitize-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483444",
+				"by": [
+					"breadroll"
+				],
+				"by_link": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 26,
+				"score": 4.26
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",

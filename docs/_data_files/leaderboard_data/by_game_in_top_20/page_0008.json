@@ -1,5 +1,105 @@
 [
 	{
+		"jammer": "Noh",
+		"jammer_link": "https://noh-kinda.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"title": "Shotgun Night",
+				"title_link": "https://noh-kinda.itch.io/shotgun-night",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748023",
+				"by": [
+					"Noh"
+				],
+				"by_link": [
+					"https://noh-kinda.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 49,
+				"score": 4.158
+			}
+		]
+	},
+	{
+		"jammer": "curtastic",
+		"jammer_link": "https://curtastic.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"title": "Haiku Fangirl",
+				"title_link": "https://curtastic.itch.io/haiku-fangirl",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689356",
+				"by": [
+					"curtastic"
+				],
+				"by_link": [
+					"https://curtastic.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 10,
+				"score": 4.15
+			}
+		]
+	},
+	{
+		"jammer": "Lord_Coconut",
+		"jammer_link": "https://lord-coconut.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"title": "Solar King Vs Vampire",
+				"title_link": "https://lord-coconut.itch.io/solar-king-vs-vampire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045028",
+				"by": [
+					"Lord_Coconut"
+				],
+				"by_link": [
+					"https://lord-coconut.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.15
+			}
+		]
+	},
+	{
+		"jammer": "MeatBallDemon",
+		"jammer_link": "https://meatball-demon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"title": "Piwi's Plummet",
+				"title_link": "https://silvyger.itch.io/piwis-plummet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
+				"by": [
+					"Silvyger",
+					"MeatBallDemon",
+					"davigj"
+				],
+				"by_link": [
+					"https://silvyger.itch.io/",
+					"https://meatball-demon.itch.io/",
+					"https://davigj.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 25,
+				"score": 4.15
+			}
+		]
+	},
+	{
 		"jammer": "Croobat",
 		"jammer_link": "https://croobat.itch.io/",
 		"list_game_sorted": [
@@ -1202,8 +1302,8 @@
 		]
 	},
 	{
-		"jammer": "Akimaya",
-		"jammer_link": "https://akimaya.itch.io/",
+		"jammer": "thetwilightsoup",
+		"jammer_link": "https://thetwilightsoup.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1211,14 +1311,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -1237,14 +1337,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -2552,106 +2652,6 @@
 				"rank": 4,
 				"ratings": 7,
 				"score": 4.143
-			}
-		]
-	},
-	{
-		"jammer": "Tales98",
-		"jammer_link": "https://tales98.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 124,
-				"jam_name": "Warmth",
-				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"title": "Warm Buns",
-				"title_link": "https://tales98.itch.io/warm-buns",
-				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888568",
-				"by": [
-					"Tales98",
-					"LarissaMCarvalho"
-				],
-				"by_link": [
-					"https://tales98.itch.io/",
-					"https://larissamcarvalho.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 4.114
-			}
-		]
-	},
-	{
-		"jammer": "LarissaMCarvalho",
-		"jammer_link": "https://larissamcarvalho.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 124,
-				"jam_name": "Warmth",
-				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"title": "Warm Buns",
-				"title_link": "https://tales98.itch.io/warm-buns",
-				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888568",
-				"by": [
-					"Tales98",
-					"LarissaMCarvalho"
-				],
-				"by_link": [
-					"https://tales98.itch.io/",
-					"https://larissamcarvalho.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 4.114
-			}
-		]
-	},
-	{
-		"jammer": "Zoidburger",
-		"jammer_link": "https://zoid-burger.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"title": "Double-Barreled Doppelgänger",
-				"title_link": "https://zoid-burger.itch.io/double-barreled-doppelganger",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749610",
-				"by": [
-					"Zoidburger"
-				],
-				"by_link": [
-					"https://zoid-burger.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 16,
-				"score": 4.109
-			}
-		]
-	},
-	{
-		"jammer": "Yatch",
-		"jammer_link": "https://yatchstudios.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "V-Hunter Puzzler Dx",
-				"title_link": "https://yatchstudios.itch.io/v-hunter-puzzler-dx",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770633",
-				"by": [
-					"Yatch"
-				],
-				"by_link": [
-					"https://yatchstudios.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 19,
-				"score": 4.105
 			}
 		]
 	}

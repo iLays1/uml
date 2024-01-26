@@ -1,5 +1,310 @@
 [
 	{
+		"id": 90,
+		"jam_name": "Illusion",
+		"link": "https://itch.io/jam/mini-jam-90-illusion",
+		"list": [
+			{
+				"title": "Between Worlds",
+				"title_link": "https://first-slime-games.itch.io/between-worlds",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221629",
+				"by": [
+					"First Slime Games",
+					"protosev",
+					"Myatezhny"
+				],
+				"by_link": [
+					"https://first-slime-games.itch.io/",
+					"https://protosev.itch.io/",
+					"https://myatezhny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 18,
+				"score": 4.208
+			},
+			{
+				"title": "Chroma-Toad",
+				"title_link": "https://seaferret.itch.io/chromatoad",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1219178",
+				"by": [
+					"SeaFerret",
+					"Beached",
+					"ItsAstr0"
+				],
+				"by_link": [
+					"https://seaferret.itch.io/",
+					"https://beached.itch.io/",
+					"https://itsastr0.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 24,
+				"score": 3.875
+			},
+			{
+				"title": "The Door of Illusions",
+				"title_link": "https://2ccs.itch.io/door-of-illusions",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1223881",
+				"by": [
+					"2CCs"
+				],
+				"by_link": [
+					"https://2ccs.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 9,
+				"score": 3.844
+			},
+			{
+				"title": "Quantum Rooms (Mini Jam 90)",
+				"title_link": "https://jamesc01.itch.io/quantum-rooms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221224",
+				"by": [
+					"James"
+				],
+				"by_link": [
+					"https://jamesc01.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 15,
+				"score": 3.717
+			},
+			{
+				"title": "\"U\"",
+				"title_link": "https://wilsx2.itch.io/uuuuuuuuuu",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221548",
+				"by": [
+					"Wilsx2"
+				],
+				"by_link": [
+					"https://wilsx2.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 8,
+				"score": 3.704
+			},
+			{
+				"title": "Colored Realities",
+				"title_link": "https://anciny.itch.io/colored-realities",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220294",
+				"by": [
+					"Anciny",
+					"FierceNugget"
+				],
+				"by_link": [
+					"https://anciny.itch.io/",
+					"https://fiercenugget.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 25,
+				"score": 3.7
+			},
+			{
+				"title": "i-llusion",
+				"title_link": "https://voscal.itch.io/i-llusion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1218794",
+				"by": [
+					"voscal"
+				],
+				"by_link": [
+					"https://voscal.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 3.671
+			},
+			{
+				"title": "Soulstice",
+				"title_link": "https://loricgarde.itch.io/soulstice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220618",
+				"by": [
+					"LoricGarde"
+				],
+				"by_link": [
+					"https://loricgarde.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 24,
+				"score": 3.667
+			},
+			{
+				"title": "Chromatic Meltdown",
+				"title_link": "https://tronik.itch.io/chromatic-meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
+				"by": [
+					"DrTronik",
+					"Lavados",
+					"Papiermond",
+					"cuwuu",
+					"Loki+LPunicorn"
+				],
+				"by_link": [
+					"https://tronik.itch.io/",
+					"https://lavados28.itch.io/",
+					"https://papiermond.itch.io/",
+					"https://cuwuu.itch.io/",
+					"https://lokilpunicorn.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.636
+			},
+			{
+				"title": "Gear Boy [Jam Version]",
+				"title_link": "https://axilirate.itch.io/coinum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221688",
+				"by": [
+					"axilirate"
+				],
+				"by_link": [
+					"https://axilirate.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 22,
+				"score": 3.602
+			},
+			{
+				"title": "Mirrors",
+				"title_link": "https://israboy.itch.io/mirrors",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1223198",
+				"by": [
+					"Israh"
+				],
+				"by_link": [
+					"https://israboy.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 13,
+				"score": 3.538
+			},
+			{
+				"title": "Recharacter",
+				"title_link": "https://onditech.itch.io/recharacter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1219895",
+				"by": [
+					"OndiTech"
+				],
+				"by_link": [
+					"https://onditech.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 10,
+				"score": 3.504
+			},
+			{
+				"title": "Chocolate Fear",
+				"title_link": "https://dempsey-0.itch.io/chocolate-fear",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220153",
+				"by": [
+					"Dempsey"
+				],
+				"by_link": [
+					"https://dempsey-0.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 12,
+				"score": 3.479
+			},
+			{
+				"title": "Weezard",
+				"title_link": "https://pello.itch.io/weezard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221605",
+				"by": [
+					"pello"
+				],
+				"by_link": [
+					"https://pello.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 28,
+				"score": 3.438
+			},
+			{
+				"title": "BRIGHT",
+				"title_link": "https://happyhavok.itch.io/bright",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221838",
+				"by": [
+					"Happy Havok"
+				],
+				"by_link": [
+					"https://happyhavok.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 11,
+				"score": 3.409
+			},
+			{
+				"title": "WEATHER WARNING",
+				"title_link": "https://sparkleaf.itch.io/weather-warning",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221678",
+				"by": [
+					"SparkLeaf"
+				],
+				"by_link": [
+					"https://sparkleaf.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 13,
+				"score": 3.385
+			},
+			{
+				"title": "EEEEEE",
+				"title_link": "https://tghbkjbgaj32gb3jbgdsag242.itch.io/eeeeee",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1219861",
+				"by": [
+					"tghbKJBGAJ32gb3jBGDSAG242"
+				],
+				"by_link": [
+					"https://tghbkjbgaj32gb3jbgdsag242.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 18,
+				"score": 3.375
+			},
+			{
+				"title": "All Of Me",
+				"title_link": "https://theedd.itch.io/all-of-me",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221565",
+				"by": [
+					"TheEdd"
+				],
+				"by_link": [
+					"https://theedd.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 8,
+				"score": 3.358
+			},
+			{
+				"title": "Mirror Run",
+				"title_link": "https://zahix.itch.io/mirror-runn",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221588",
+				"by": [
+					"Zahix"
+				],
+				"by_link": [
+					"https://zahix.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 12,
+				"score": 3.354
+			},
+			{
+				"title": "In the Limelight",
+				"title_link": "https://haruwolf.itch.io/limelight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221820",
+				"by": [
+					"Haruwolf"
+				],
+				"by_link": [
+					"https://haruwolf.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 19,
+				"score": 3.329
+			}
+		]
+	},
+	{
 		"id": 89,
 		"jam_name": "Pumpkin",
 		"link": "https://itch.io/jam/mini-jam-89-pumpkin",
@@ -1639,13 +1944,13 @@
 					"Metamaus",
 					"Eddie Breeg",
 					"Aymeric4444",
-					"Thalia33"
+					"Thalia Meignan"
 				],
 				"by_link": [
 					"https://metamaus.itch.io/",
 					"https://eddiebreeg.itch.io/",
 					"https://aymeric4444.itch.io/",
-					"https://thalia33.itch.io/"
+					"https://thalmug.itch.io/"
 				],
 				"rank": 10,
 				"ratings": 14,
@@ -2709,309 +3014,6 @@
 				"rank": 20,
 				"ratings": 18,
 				"score": 3.083
-			}
-		]
-	},
-	{
-		"id": 80,
-		"jam_name": "Cats",
-		"link": "https://itch.io/jam/mini-jam-80-cats",
-		"list": [
-			{
-				"title": "Cats n Wires",
-				"title_link": "https://kultisti.itch.io/cats-n-wires",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044747",
-				"by": [
-					"Kultisti"
-				],
-				"by_link": [
-					"https://kultisti.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 34,
-				"score": 4.64
-			},
-			{
-				"title": "Starcat vs The Froggos Empire",
-				"title_link": "https://ricenoodles.itch.io/starcat-vs-the-froggos-empire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044785",
-				"by": [
-					"ricenoodles",
-					"adoankim"
-				],
-				"by_link": [
-					"https://ricenoodles.itch.io/",
-					"https://adoankim.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 31,
-				"score": 4.621
-			},
-			{
-				"title": "Miniventure",
-				"title_link": "https://yumehiko.itch.io/miniventure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043860",
-				"by": [
-					"yumehiko"
-				],
-				"by_link": [
-					"https://yumehiko.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.417
-			},
-			{
-				"title": "Record Scratch Fever",
-				"title_link": "https://lapspider45.itch.io/record-scratch-fever",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1041476",
-				"by": [
-					"lapspider45",
-					"jpeg2k"
-				],
-				"by_link": [
-					"https://lapspider45.itch.io/",
-					"https://jpeg2k.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 40,
-				"score": 4.269
-			},
-			{
-				"title": "BellFlowers - Kaz: Jam Demo",
-				"title_link": "https://reddashgames.itch.io/bellflowers",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045027",
-				"by": [
-					"RedDashGames"
-				],
-				"by_link": [
-					"https://reddashgames.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 48,
-				"score": 4.224
-			},
-			{
-				"title": "Pawed Piper",
-				"title_link": "https://thofu.itch.io/pawed-piper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044496",
-				"by": [
-					"Thofu",
-					"Roundisch Wahle",
-					"Varishari",
-					"Alex_Sunbird"
-				],
-				"by_link": [
-					"https://thofu.itch.io/",
-					"https://roundisch-wahle.itch.io/",
-					"https://varishari.itch.io/",
-					"https://alex-sunbird.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 23,
-				"score": 4.207
-			},
-			{
-				"title": "Cata-Catapult",
-				"title_link": "https://teamcrabpunch.itch.io/cata-catapult",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043694",
-				"by": [
-					"TeamCrabPunch"
-				],
-				"by_link": [
-					"https://teamcrabpunch.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 40,
-				"score": 4.131
-			},
-			{
-				"title": "fuzzy-dream",
-				"title_link": "https://jonathan-go.itch.io/fuzzy-dream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044470",
-				"by": [
-					"jonathan-go"
-				],
-				"by_link": [
-					"https://jonathan-go.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 4.026
-			},
-			{
-				"title": "Cool Cat Cafe",
-				"title_link": "https://minimechmedia.itch.io/cool-cat-cafe",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043142",
-				"by": [
-					"Mini Mech Media"
-				],
-				"by_link": [
-					"https://minimechmedia.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 4
-			},
-			{
-				"title": "Kitty Clicky",
-				"title_link": "https://frances.itch.io/kitty-clicky",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045075",
-				"by": [
-					"Frances"
-				],
-				"by_link": [
-					"https://frances.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 15,
-				"score": 3.983
-			},
-			{
-				"title": "Mauw",
-				"title_link": "https://chase-of-bass.itch.io/catjam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045088",
-				"by": [
-					"Chase of Bass"
-				],
-				"by_link": [
-					"https://chase-of-bass.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 37,
-				"score": 3.98
-			},
-			{
-				"title": "Catherd",
-				"title_link": "https://rtficial.itch.io/catherd",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043348",
-				"by": [
-					"RTficial"
-				],
-				"by_link": [
-					"https://rtficial.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 11,
-				"score": 3.977
-			},
-			{
-				"title": "Cat vs Rats",
-				"title_link": "https://don001.itch.io/cat-vs-rats",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044629",
-				"by": [
-					"Ford Prefect"
-				],
-				"by_link": [
-					"https://don001.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 20,
-				"score": 3.962
-			},
-			{
-				"title": "Cat Herder",
-				"title_link": "https://dancar.itch.io/cat-herder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044345",
-				"by": [
-					"dancar"
-				],
-				"by_link": [
-					"https://dancar.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 27,
-				"score": 3.954
-			},
-			{
-				"title": "What does my cat do at night?",
-				"title_link": "https://rubr.itch.io/cat-night",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045116",
-				"by": [
-					"rubr",
-					"ovrbi",
-					"Unholy Chiptune Queen"
-				],
-				"by_link": [
-					"https://rubr.itch.io/",
-					"https://ovrbi.itch.io/",
-					"https://jessicarobo.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 9,
-				"score": 3.953
-			},
-			{
-				"title": "Laser 'Purr'cision",
-				"title_link": "https://coffeepotplayware.itch.io/laser-purrcision",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044820",
-				"by": [
-					"Coffeepot"
-				],
-				"by_link": [
-					"https://coffeepotplayware.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 41,
-				"score": 3.933
-			},
-			{
-				"title": "Cat-trina",
-				"title_link": "https://mbox47.itch.io/cat-trina",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044902",
-				"by": [
-					"Mbox"
-				],
-				"by_link": [
-					"https://mbox47.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 21,
-				"score": 3.905
-			},
-			{
-				"title": "the right place",
-				"title_link": "https://natrix.itch.io/rightplace",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1042072",
-				"by": [
-					"natrix"
-				],
-				"by_link": [
-					"https://natrix.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 15,
-				"score": 3.883
-			},
-			{
-				"title": "C05-M0 (Cosmo)",
-				"title_link": "https://underpaid-goblin.itch.io/cosmo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043501",
-				"by": [
-					"Underpaid_Goblin"
-				],
-				"by_link": [
-					"https://underpaid-goblin.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 28,
-				"score": 3.848
-			},
-			{
-				"title": "Purr-anormal Cat-ivity",
-				"title_link": "https://dhafo.itch.io/purr-anormal-cat-ivity",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1042206",
-				"by": [
-					"Dhafo",
-					"okiix"
-				],
-				"by_link": [
-					"https://dhafo.itch.io/",
-					"https://okiix.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 35,
-				"score": 3.843
 			}
 		]
 	}

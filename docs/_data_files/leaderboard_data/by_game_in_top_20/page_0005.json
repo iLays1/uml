@@ -1,5 +1,147 @@
 [
 	{
+		"jammer": "Jadebrew",
+		"jammer_link": "https://jadebrew.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"title": "One Hell of a Job",
+				"title_link": "https://jadebrew.itch.io/one-hell-of-a-job",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854439",
+				"by": [
+					"Jadebrew",
+					"Lisa Nguyen"
+				],
+				"by_link": [
+					"https://jadebrew.itch.io/",
+					"https://chiplet.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 16,
+				"score": 3.734
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Useless Mage",
+				"title_link": "https://lpso-re-dev.itch.io/useless-mage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247545",
+				"by": [
+					"LPSO: Revived!",
+					"Jadebrew",
+					"vflour",
+					"josefnpat"
+				],
+				"by_link": [
+					"https://lpso-re-dev.itch.io/",
+					"https://jadebrew.itch.io/",
+					"https://vflour.itch.io/",
+					"https://josefnpat.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.214
+			}
+		]
+	},
+	{
+		"jammer": "loddisjourney",
+		"jammer_link": "https://loddisjourney.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "Blood(loss) is lethal",
+				"title_link": "https://loddisjourney.itch.io/bloodloss-is-lethal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1767898",
+				"by": [
+					"loddisjourney",
+					"TheRealReynold"
+				],
+				"by_link": [
+					"https://loddisjourney.itch.io/",
+					"https://therealreynold.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 14,
+				"score": 3.911
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"title": "Take Over",
+				"title_link": "https://therealreynold.itch.io/take-over",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268204",
+				"by": [
+					"TheRealReynold",
+					"loddisjourney"
+				],
+				"by_link": [
+					"https://therealreynold.itch.io/",
+					"https://loddisjourney.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 13,
+				"score": 2.981
+			}
+		]
+	},
+	{
+		"jammer": "TheRealReynold",
+		"jammer_link": "https://therealreynold.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "Blood(loss) is lethal",
+				"title_link": "https://loddisjourney.itch.io/bloodloss-is-lethal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1767898",
+				"by": [
+					"loddisjourney",
+					"TheRealReynold"
+				],
+				"by_link": [
+					"https://loddisjourney.itch.io/",
+					"https://therealreynold.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 14,
+				"score": 3.911
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"title": "Take Over",
+				"title_link": "https://therealreynold.itch.io/take-over",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268204",
+				"by": [
+					"TheRealReynold",
+					"loddisjourney"
+				],
+				"by_link": [
+					"https://therealreynold.itch.io/",
+					"https://loddisjourney.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 13,
+				"score": 2.981
+			}
+		]
+	},
+	{
 		"jammer": "GeloKaiser",
 		"jammer_link": "https://gelokaiser.itch.io/",
 		"list_game_sorted": [
@@ -3672,80 +3814,6 @@
 				"rank": 1,
 				"ratings": 17,
 				"score": 4.368
-			}
-		]
-	},
-	{
-		"jammer": "Kelsala",
-		"jammer_link": "https://kelsala.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"title": "Cracked Crab Cabal",
-				"title_link": "https://kelsala.itch.io/cracked-crab-cabal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572217",
-				"by": [
-					"Kelsala"
-				],
-				"by_link": [
-					"https://kelsala.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4.365
-			}
-		]
-	},
-	{
-		"jammer": "moonunit",
-		"jammer_link": "https://moonunit.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 40,
-				"jam_name": "Hunters",
-				"jam_link": "https://itch.io/jam/mini-jam-40-hunters",
-				"title": "Bow Solver",
-				"title_link": "https://moonunit.itch.io/bow-solver",
-				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510683",
-				"by": [
-					"moonunit"
-				],
-				"by_link": [
-					"https://moonunit.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 11,
-				"score": 4.364
-			}
-		]
-	},
-	{
-		"jammer": "Riptide Realms",
-		"jammer_link": "https://riptiderealms.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Approaching Zero (game jam version)",
-				"title_link": "https://cryy22.itch.io/approaching-zero",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869470",
-				"by": [
-					"cryy22",
-					"Riptide Realms"
-				],
-				"by_link": [
-					"https://cryy22.itch.io/",
-					"https://riptiderealms.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 31,
-				"score": 4.363
 			}
 		]
 	}

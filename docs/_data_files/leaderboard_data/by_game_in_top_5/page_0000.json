@@ -225,6 +225,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Escape The Depth",
+				"title_link": "https://fmlad.itch.io/into-the-depth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483222",
+				"by": [
+					"Fmlad"
+				],
+				"by_link": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 4.083
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 26,
 				"jam_name": "Storms",
 				"jam_link": "https://itch.io/jam/mini-jam-26-storms",
@@ -1450,6 +1468,178 @@
 		]
 	},
 	{
+		"jammer": "Inkspinner",
+		"jammer_link": "https://inkspinner.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Phoebe Sunbeam VS Captain Twice",
+				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.359
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Divine Judgement",
+				"title_link": "https://inkspinner.itch.io/divine-judgement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 21,
+				"score": 4.036
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "UN-Mugging",
+				"title_link": "https://inkspinner.itch.io/un-mugging",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134826",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.107
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"title": "Asquired Taste",
+				"title_link": "https://inkspinner.itch.io/asquired-taste",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2000102",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.183
+			}
+		]
+	},
+	{
+		"jammer": "rutbny",
+		"jammer_link": "https://rutbny.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Phoebe Sunbeam VS Captain Twice",
+				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.359
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Divine Judgement",
+				"title_link": "https://inkspinner.itch.io/divine-judgement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 21,
+				"score": 4.036
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "UN-Mugging",
+				"title_link": "https://inkspinner.itch.io/un-mugging",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134826",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.107
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"title": "Asquired Taste",
+				"title_link": "https://inkspinner.itch.io/asquired-taste",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2000102",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.183
+			}
+		]
+	},
+	{
 		"jammer": "ricenoodles",
 		"jammer_link": "https://ricenoodles.itch.io/",
 		"list_game_sorted": [
@@ -1618,6 +1808,98 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 3.625
+			}
+		]
+	},
+	{
+		"jammer": "Joan Sol ROO",
+		"jammer_link": "https://solroo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Captain Wilson",
+				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
+				"by": [
+					"Joan Sol ROO",
+					"Titwin",
+					"Saltadrow",
+					"clerg0",
+					"NormandErwan"
+				],
+				"by_link": [
+					"https://solroo.itch.io/",
+					"https://titwin.itch.io/",
+					"https://saltadrow.itch.io/",
+					"https://clerg0.itch.io/",
+					"https://normanderwan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.229
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 28,
+				"jam_name": "Pirates",
+				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
+				"title": "Space Pirate: Tactics",
+				"title_link": "https://solroo.itch.io/pirate-tactics",
+				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/425539",
+				"by": [
+					"Joan Sol ROO",
+					"clerg0",
+					"Saltadrow"
+				],
+				"by_link": [
+					"https://solroo.itch.io/",
+					"https://clerg0.itch.io/",
+					"https://saltadrow.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 15,
+				"score": 3.633
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Puzzle Reign (a.k.a. Kingdom Tetris)",
+				"title_link": "https://solroo.itch.io/puzzle-reign",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
+				"by": [
+					"Joan Sol ROO",
+					"Camonio"
+				],
+				"by_link": [
+					"https://solroo.itch.io/",
+					"https://camonio.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 44,
+				"score": 4.369
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Into The Dark",
+				"title_link": "https://solroo.itch.io/into-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480500",
+				"by": [
+					"Joan Sol ROO"
+				],
+				"by_link": [
+					"https://solroo.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 15,
+				"score": 4.05
 			}
 		]
 	},
@@ -1878,80 +2160,6 @@
 		]
 	},
 	{
-		"jammer": "Joan Sol ROO",
-		"jammer_link": "https://solroo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"title": "Captain Wilson",
-				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
-				"by": [
-					"Joan Sol ROO",
-					"Titwin",
-					"Saltadrow",
-					"clerg0",
-					"NormandErwan"
-				],
-				"by_link": [
-					"https://solroo.itch.io/",
-					"https://titwin.itch.io/",
-					"https://saltadrow.itch.io/",
-					"https://clerg0.itch.io/",
-					"https://normanderwan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 4.229
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 28,
-				"jam_name": "Pirates",
-				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
-				"title": "Space Pirate: Tactics",
-				"title_link": "https://solroo.itch.io/pirate-tactics",
-				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/425539",
-				"by": [
-					"Joan Sol ROO",
-					"clerg0",
-					"Saltadrow"
-				],
-				"by_link": [
-					"https://solroo.itch.io/",
-					"https://clerg0.itch.io/",
-					"https://saltadrow.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 15,
-				"score": 3.633
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"title": "Puzzle Reign (a.k.a. Kingdom Tetris)",
-				"title_link": "https://solroo.itch.io/puzzle-reign",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
-				"by": [
-					"Joan Sol ROO",
-					"Camonio"
-				],
-				"by_link": [
-					"https://solroo.itch.io/",
-					"https://camonio.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 44,
-				"score": 4.369
-			}
-		]
-	},
-	{
 		"jammer": "Nothing",
 		"jammer_link": "https://nothing-d.itch.io/",
 		"list_game_sorted": [
@@ -2076,138 +2284,6 @@
 				"rank": 3,
 				"ratings": 15,
 				"score": 4.04
-			}
-		]
-	},
-	{
-		"jammer": "Inkspinner",
-		"jammer_link": "https://inkspinner.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"title": "Divine Judgement",
-				"title_link": "https://inkspinner.itch.io/divine-judgement",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 21,
-				"score": 4.036
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"title": "UN-Mugging",
-				"title_link": "https://inkspinner.itch.io/un-mugging",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134826",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.107
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"title": "Asquired Taste",
-				"title_link": "https://inkspinner.itch.io/asquired-taste",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2000102",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.183
-			}
-		]
-	},
-	{
-		"jammer": "rutbny",
-		"jammer_link": "https://rutbny.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"title": "Divine Judgement",
-				"title_link": "https://inkspinner.itch.io/divine-judgement",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 21,
-				"score": 4.036
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"title": "UN-Mugging",
-				"title_link": "https://inkspinner.itch.io/un-mugging",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134826",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.107
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"title": "Asquired Taste",
-				"title_link": "https://inkspinner.itch.io/asquired-taste",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2000102",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.183
 			}
 		]
 	},

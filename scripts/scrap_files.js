@@ -1,6 +1,6 @@
 const https = require('https');
 const jsdom = require('jsdom');
-const SF = require('./shared_functions');
+const SF = require('./_shared_functions');
 
 const OUTPUT_JAM_LIST_FOLDER_PATH = './scrapped_files/jam_list/';
 const OUTPUT_MAJOR_JAM_FOLDER_PATH = './scrapped_files/major_jam/';
@@ -8,10 +8,12 @@ const OUTPUT_MINI_JAM_FOLDER_PATH = './scrapped_files/mini_jam/';
 
 const WAIT_BETWEEN_HTTPS_GETS = 6;
 
+const GET_FIRST_MINIJAM_IN_API = true;
+
 const CREATE_JAM_LIST_FILE = true;
-const CREATE_MAJOR_JAM_FILES = true;
-const CREATE_MINI_JAM_FILES = true;
-const MINI_JAM_ID_MAX_CAP = 9999999;
+const CREATE_MAJOR_JAM_FILES = false;
+const CREATE_MINI_JAM_FILES = false;
+const MINI_JAM_ID_MAX_CAP = 99999999;
 const LIST_REWRITE_THESE_FILES = [
 	// {
 	//     link: 'https://itch.io/jam/mini-jam-91-ufo',
@@ -40,14 +42,15 @@ let list_failed_https_gets = [];
 async function main() {
 	let list_major_jam = get_major_jam_list();
 	let list_jam = await get_jam_list();
-	if (CREATE_JAM_LIST_FILE) {
-		SF.write_json({
-			list_major_jam: list_major_jam,
-			list_mini_jam: list_jam,
-		}, OUTPUT_JAM_LIST_FOLDER_PATH, 'jam_list.json');
-	}
 
 	if (LIST_REWRITE_THESE_FILES.length == 0) {
+		if (CREATE_JAM_LIST_FILE && MINI_JAM_ID_MAX_CAP > 10000) {
+			SF.write_json({
+				list_major_jam: list_major_jam,
+				list_mini_jam: list_jam,
+			}, OUTPUT_JAM_LIST_FOLDER_PATH, 'jam_list.json');
+		}
+
 		if (CREATE_MAJOR_JAM_FILES) {
 			console.log('creating major jam files');
 			for (let i = 0; i < list_major_jam.length; i++) {
@@ -108,7 +111,11 @@ function get_major_jam_list() {
 
 async function get_jam_list() {
 	let api_link = 'https://minijamofficial.com/api/fetchMiniJams?n=';
-	let first_data = JSON.parse(await https_get(api_link + '1'));
+
+	let first_data_page_num = GET_FIRST_MINIJAM_IN_API ? '0' : '1';
+	let first_data = JSON.parse(await https_get(api_link + first_data_page_num));
+	let i_page_start = GET_FIRST_MINIJAM_IN_API ? 1 : 2;
+
 	let max_jam_id = first_data.jamId[0];
 	let max_page = Math.ceil(max_jam_id/9);
 
@@ -126,7 +133,7 @@ async function get_jam_list() {
 		});
 	}
 
-	for (let i_page = 2; i_page <= max_page; i_page++) {
+	for (let i_page = i_page_start; i_page <= max_page; i_page++) {
 		let data = JSON.parse(await https_get(api_link + i_page));
 		for (let i = 0; i < data.jamId.length; i++) {
 			if (data.jamId[i] > MINI_JAM_ID_MAX_CAP) {

@@ -1,5 +1,101 @@
 [
 	{
+		"jammer": "nedryz",
+		"jammer_link": "https://nedryz.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 58,
+				"jam_name": "Neon",
+				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
+				"title": "NeoGenesis",
+				"title_link": "https://nedryz.itch.io/neogenesis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/695424",
+				"by": [
+					"nedryz"
+				],
+				"by_link": [
+					"https://nedryz.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 3.2
+			}
+		]
+	},
+	{
+		"jammer": "AshvinR",
+		"jammer_link": "https://ashvinr.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 37,
+				"jam_name": "Engineering",
+				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
+				"title": "Channel 1",
+				"title_link": "https://ashvinr.itch.io/channel-1",
+				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486759",
+				"by": [
+					"AshvinR"
+				],
+				"by_link": [
+					"https://ashvinr.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 5,
+				"score": 3.15
+			}
+		]
+	},
+	{
+		"jammer": "keyo",
+		"jammer_link": "https://keyo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 4,
+				"jam_name": "Gameboy",
+				"jam_link": "https://itch.io/jam/mini-jam-4th-edition",
+				"title": "Equinox",
+				"title_link": "https://keyo.itch.io/equinox",
+				"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/270051",
+				"by": [
+					"keyo"
+				],
+				"by_link": [
+					"https://keyo.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 0.643
+			}
+		]
+	},
+	{
+		"jammer": "Zaphiron",
+		"jammer_link": "https://zaphiron.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 13,
+				"jam_name": "Villains",
+				"jam_link": "https://itch.io/jam/mini-jam-13-villains-",
+				"title": "The Seven Sins (Game Jam Entry)",
+				"title_link": "https://zaphiron.itch.io/the-seven-sins-game-jam-entry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-13-villains-/rate/320048",
+				"by": [
+					"Zaphiron"
+				],
+				"by_link": [
+					"https://zaphiron.itch.io/"
+				],
+				"rank": 1,
+				"ratings": null,
+				"score": null
+			}
+		]
+	},
+	{
 		"jammer": "FaunaGames",
 		"jammer_link": "https://faunagames.itch.io/",
 		"list_game_sorted": [
@@ -48,8 +144,8 @@
 		]
 	},
 	{
-		"jammer": "MrFGames",
-		"jammer_link": "https://mrfgames.itch.io/",
+		"jammer": "MurfGames",
+		"jammer_link": "https://murfgames.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -57,13 +153,13 @@
 				"jam_name": "Chrono",
 				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
 				"title": "Chrono Hop",
-				"title_link": "https://mrfgames.itch.io/chrono-hop",
+				"title_link": "https://murfgames.itch.io/chrono-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653308",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 11,
@@ -1234,30 +1330,6 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.109
-			}
-		]
-	},
-	{
-		"jammer": "muupi",
-		"jammer_link": "https://muupi.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"title": "Zine",
-				"title_link": "https://muupi.itch.io/zine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2313228",
-				"by": [
-					"muupi"
-				],
-				"by_link": [
-					"https://muupi.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 7,
-				"score": 4.107
 			}
 		]
 	},
@@ -2522,90 +2594,6 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 3.833
-			}
-		]
-	},
-	{
-		"jammer": "guattery",
-		"jammer_link": "https://guattery.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"title": "Nerd Bus",
-				"title_link": "https://ergman.itch.io/nerd-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
-				"by": [
-					"JohnLee Cooper",
-					"Teal_ish",
-					"guattery",
-					"PuzzSoft"
-				],
-				"by_link": [
-					"https://ergman.itch.io/",
-					"https://teal-ish.itch.io/",
-					"https://guattery.itch.io/",
-					"https://puzzsoft.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.833
-			}
-		]
-	},
-	{
-		"jammer": "PuzzSoft",
-		"jammer_link": "https://puzzsoft.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"title": "Nerd Bus",
-				"title_link": "https://ergman.itch.io/nerd-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
-				"by": [
-					"JohnLee Cooper",
-					"Teal_ish",
-					"guattery",
-					"PuzzSoft"
-				],
-				"by_link": [
-					"https://ergman.itch.io/",
-					"https://teal-ish.itch.io/",
-					"https://guattery.itch.io/",
-					"https://puzzsoft.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.833
-			}
-		]
-	},
-	{
-		"jammer": "dreamcastgh0st",
-		"jammer_link": "https://dreamcastgh0st.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"title": "Heaven's Ring",
-				"title_link": "https://dreamcastgh0st.itch.io/heavensring",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868124",
-				"by": [
-					"dreamcastgh0st"
-				],
-				"by_link": [
-					"https://dreamcastgh0st.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 22,
-				"score": 3.83
 			}
 		]
 	}

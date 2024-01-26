@@ -1059,6 +1059,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Light The Way",
+				"title_link": "https://rem23.itch.io/light-the-way",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483069",
+				"by": [
+					"rem23"
+				],
+				"by_link": [
+					"https://rem23.itch.io/"
+				],
+				"rank": 94,
+				"ratings": 6,
+				"score": 2.315
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
@@ -2812,6 +2830,24 @@
 				"rank": 19,
 				"ratings": 16,
 				"score": 3
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "TheMagicAnswer",
+				"title_link": "https://tomanus.itch.io/themagicanswer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482296",
+				"by": [
+					"Tomanus"
+				],
+				"by_link": [
+					"https://tomanus.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 6,
+				"score": 2.97
 			},
 			{
 				"jam_type": "mini_jam",

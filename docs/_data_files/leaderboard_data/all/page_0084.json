@@ -1369,6 +1369,26 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "The Witch's Familiar",
+				"title_link": "https://kindred008.itch.io/the-witchs-familiar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482861",
+				"by": [
+					"kindred008",
+					"farmdogs"
+				],
+				"by_link": [
+					"https://kindred008.itch.io/",
+					"https://farmdogs.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 10,
+				"score": 3.225
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 135,
 				"jam_name": "Deception",
 				"jam_link": "https://itch.io/jam/mini-jam-135-deception",

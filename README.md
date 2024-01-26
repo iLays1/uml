@@ -45,10 +45,13 @@ The workflow kinda go like this: You delete all the data folders, and then you r
 
 Afterthat the page is up to date. Just git push to github pages or sth
 
-If you have any other questions dm me on Discord. My user name is triplecubes
+# Script parameters
+The scripts have a few parameters (they are actually consts defined at the top of the script files). Most of them are only for debug or when there are scraping error, but the `GET_FIRST_MINIJAM_IN_API` const is actually quite important. You should give [script_parameters.md](script_parameters.md) a read
+
+If you have any other questions dm me on Discord. My user name is `triplecubes`
 
 # LICENSE
-Unofficial Mini Jam Leaderboard is under the MIT license. Check [LICENSE](LICENSE) for full information.
+Unofficial Mini Jam Leaderboard is under the MIT license. Check [LICENSE](LICENSE) for full information
 
 # THIRD PARTY LICENSES
 ## jsdom

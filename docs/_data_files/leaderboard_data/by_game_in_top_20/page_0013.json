@@ -1,5 +1,101 @@
 [
 	{
+		"jammer": "fey.earth",
+		"jammer_link": "https://kourtnie.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 51,
+				"jam_name": "Rome",
+				"jam_link": "https://itch.io/jam/mini-jam-51-rome",
+				"title": "Niro",
+				"title_link": "https://kourtnie.itch.io/niro",
+				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604046",
+				"by": [
+					"fey.earth"
+				],
+				"by_link": [
+					"https://kourtnie.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 5,
+				"score": 3.48
+			}
+		]
+	},
+	{
+		"jammer": "EggBox",
+		"jammer_link": "https://eggbox.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Shut-In Angel (Gamejam-Version)",
+				"title_link": "https://eggbox.itch.io/shut-in-angel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1791305",
+				"by": [
+					"EggBox"
+				],
+				"by_link": [
+					"https://eggbox.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 17,
+				"score": 3.471
+			}
+		]
+	},
+	{
+		"jammer": "phillip",
+		"jammer_link": "https://phillipp.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 11,
+				"jam_name": "Harvest",
+				"jam_link": "https://itch.io/jam/mini-jam-11-",
+				"title": "Kauai",
+				"title_link": "https://phillipp.itch.io/kauai",
+				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308089",
+				"by": [
+					"phillip"
+				],
+				"by_link": [
+					"https://phillipp.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.47
+			}
+		]
+	},
+	{
+		"jammer": "street.dev",
+		"jammer_link": "https://streetdev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"title": "Tarot",
+				"title_link": "https://streetdev.itch.io/tarot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/502950",
+				"by": [
+					"street.dev"
+				],
+				"by_link": [
+					"https://streetdev.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 10,
+				"score": 3.45
+			}
+		]
+	},
+	{
 		"jammer": "Spidd",
 		"jammer_link": "https://spidd.itch.io/",
 		"list_game_sorted": [
@@ -906,6 +1002,30 @@
 				"rank": 8,
 				"ratings": 15,
 				"score": 3.983
+			}
+		]
+	},
+	{
+		"jammer": "KreisGame",
+		"jammer_link": "https://kreisgame.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Wayfind",
+				"title_link": "https://kreisgame.itch.io/wayfind",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482000",
+				"by": [
+					"KreisGame"
+				],
+				"by_link": [
+					"https://kreisgame.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 10,
+				"score": 3.975
 			}
 		]
 	},
@@ -2388,152 +2508,6 @@
 				"rank": 8,
 				"ratings": 8,
 				"score": 3.5
-			}
-		]
-	},
-	{
-		"jammer": "FrozNex",
-		"jammer_link": "https://froznex.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"title": "The End's Prophet",
-				"title_link": "https://ouabain.itch.io/the-ends-prophet",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340272",
-				"by": [
-					"Ouabain",
-					"FrozNex"
-				],
-				"by_link": [
-					"https://ouabain.itch.io/",
-					"https://froznex.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 8,
-				"score": 3.5
-			}
-		]
-	},
-	{
-		"jammer": "Miggli",
-		"jammer_link": "https://miggli.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 146,
-				"jam_name": "Windows",
-				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"title": "• (dot)",
-				"title_link": "https://miggli.itch.io/dot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389083",
-				"by": [
-					"Miggli",
-					"Byter64",
-					"Poseidon02",
-					"Million Interactive"
-				],
-				"by_link": [
-					"https://miggli.itch.io/",
-					"https://byter64.itch.io/",
-					"https://poseidon02.itch.io/",
-					"https://milihamster.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.487
-			}
-		]
-	},
-	{
-		"jammer": "Byter64",
-		"jammer_link": "https://byter64.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 146,
-				"jam_name": "Windows",
-				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"title": "• (dot)",
-				"title_link": "https://miggli.itch.io/dot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389083",
-				"by": [
-					"Miggli",
-					"Byter64",
-					"Poseidon02",
-					"Million Interactive"
-				],
-				"by_link": [
-					"https://miggli.itch.io/",
-					"https://byter64.itch.io/",
-					"https://poseidon02.itch.io/",
-					"https://milihamster.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.487
-			}
-		]
-	},
-	{
-		"jammer": "Poseidon02",
-		"jammer_link": "https://poseidon02.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 146,
-				"jam_name": "Windows",
-				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"title": "• (dot)",
-				"title_link": "https://miggli.itch.io/dot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389083",
-				"by": [
-					"Miggli",
-					"Byter64",
-					"Poseidon02",
-					"Million Interactive"
-				],
-				"by_link": [
-					"https://miggli.itch.io/",
-					"https://byter64.itch.io/",
-					"https://poseidon02.itch.io/",
-					"https://milihamster.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.487
-			}
-		]
-	},
-	{
-		"jammer": "Million Interactive",
-		"jammer_link": "https://milihamster.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 146,
-				"jam_name": "Windows",
-				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"title": "• (dot)",
-				"title_link": "https://miggli.itch.io/dot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389083",
-				"by": [
-					"Miggli",
-					"Byter64",
-					"Poseidon02",
-					"Million Interactive"
-				],
-				"by_link": [
-					"https://miggli.itch.io/",
-					"https://byter64.itch.io/",
-					"https://poseidon02.itch.io/",
-					"https://milihamster.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.487
 			}
 		]
 	}

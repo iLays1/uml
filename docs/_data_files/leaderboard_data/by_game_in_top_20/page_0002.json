@@ -1,5 +1,47 @@
 [
 	{
+		"jammer": "SMEZZYLIXO",
+		"jammer_link": "https://smezzylixo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"title": "Lich x Cutter",
+				"title_link": "https://smezzylixo.itch.io/lich-x-cutter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653610",
+				"by": [
+					"SMEZZYLIXO"
+				],
+				"by_link": [
+					"https://smezzylixo.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 31,
+				"score": 4.492
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"title": "SLICRX",
+				"title_link": "https://smezzylixo.itch.io/slicrx",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347746",
+				"by": [
+					"SMEZZYLIXO"
+				],
+				"by_link": [
+					"https://smezzylixo.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 22,
+				"score": 3.989
+			}
+		]
+	},
+	{
 		"jammer": "D3nX",
 		"jammer_link": "https://d3nx.itch.io/",
 		"list_game_sorted": [
@@ -2770,6 +2812,48 @@
 		]
 	},
 	{
+		"jammer": "breadroll",
+		"jammer_link": "https://breadroll.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "SANITIZE THE DARK",
+				"title_link": "https://breadroll.itch.io/sanitize-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483444",
+				"by": [
+					"breadroll"
+				],
+				"by_link": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 26,
+				"score": 4.26
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"title": "EAFO",
+				"title_link": "https://breadroll.itch.io/eafo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238604",
+				"by": [
+					"breadroll"
+				],
+				"by_link": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 27,
+				"score": 3.843
+			}
+		]
+	},
+	{
 		"jammer": "Peacefield",
 		"jammer_link": "https://peacefield.itch.io/",
 		"list_game_sorted": [
@@ -3524,6 +3608,48 @@
 				"rank": 8,
 				"ratings": 11,
 				"score": 3.773
+			}
+		]
+	},
+	{
+		"jammer": "Kent",
+		"jammer_link": "https://gamesbykent.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"title": "grafted",
+				"title_link": "https://gamesbykent.itch.io/grafted",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2071364",
+				"by": [
+					"Kent"
+				],
+				"by_link": [
+					"https://gamesbykent.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 3.469
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "CLERICKILL",
+				"title_link": "https://gamesbykent.itch.io/clerickill",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479424",
+				"by": [
+					"Kent"
+				],
+				"by_link": [
+					"https://gamesbykent.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 24,
+				"score": 4
 			}
 		]
 	},
@@ -4378,168 +4504,6 @@
 				"rank": 7,
 				"ratings": 18,
 				"score": 3.889
-			}
-		]
-	},
-	{
-		"jammer": "Bobby_The_Goblin",
-		"jammer_link": "https://bobbythegoblin.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 33,
-				"jam_name": "Underwater",
-				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
-				"title": "Slashin' Trash",
-				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
-				"by": [
-					"Bobby_The_Goblin",
-					"VikS",
-					"HeroOfSkies",
-					"Jenny Shen"
-				],
-				"by_link": [
-					"https://bobbythegoblin.itch.io/",
-					"https://viks.itch.io/",
-					"https://heroofskies.itch.io/",
-					"https://jennyshencomposer.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 24,
-				"score": 4.458
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 46,
-				"jam_name": "Justice",
-				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
-				"title": "The Baron's Bounty",
-				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
-				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
-				"by": [
-					"HeroOfSkies",
-					"Bobby_The_Goblin",
-					"VikS",
-					"Jenny Shen"
-				],
-				"by_link": [
-					"https://heroofskies.itch.io/",
-					"https://bobbythegoblin.itch.io/",
-					"https://viks.itch.io/",
-					"https://jennyshencomposer.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 6,
-				"score": 3.4
-			}
-		]
-	},
-	{
-		"jammer": "VikS",
-		"jammer_link": "https://viks.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 33,
-				"jam_name": "Underwater",
-				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
-				"title": "Slashin' Trash",
-				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
-				"by": [
-					"Bobby_The_Goblin",
-					"VikS",
-					"HeroOfSkies",
-					"Jenny Shen"
-				],
-				"by_link": [
-					"https://bobbythegoblin.itch.io/",
-					"https://viks.itch.io/",
-					"https://heroofskies.itch.io/",
-					"https://jennyshencomposer.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 24,
-				"score": 4.458
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 46,
-				"jam_name": "Justice",
-				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
-				"title": "The Baron's Bounty",
-				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
-				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
-				"by": [
-					"HeroOfSkies",
-					"Bobby_The_Goblin",
-					"VikS",
-					"Jenny Shen"
-				],
-				"by_link": [
-					"https://heroofskies.itch.io/",
-					"https://bobbythegoblin.itch.io/",
-					"https://viks.itch.io/",
-					"https://jennyshencomposer.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 6,
-				"score": 3.4
-			}
-		]
-	},
-	{
-		"jammer": "HeroOfSkies",
-		"jammer_link": "https://heroofskies.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 33,
-				"jam_name": "Underwater",
-				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
-				"title": "Slashin' Trash",
-				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
-				"by": [
-					"Bobby_The_Goblin",
-					"VikS",
-					"HeroOfSkies",
-					"Jenny Shen"
-				],
-				"by_link": [
-					"https://bobbythegoblin.itch.io/",
-					"https://viks.itch.io/",
-					"https://heroofskies.itch.io/",
-					"https://jennyshencomposer.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 24,
-				"score": 4.458
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 46,
-				"jam_name": "Justice",
-				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
-				"title": "The Baron's Bounty",
-				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
-				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
-				"by": [
-					"HeroOfSkies",
-					"Bobby_The_Goblin",
-					"VikS",
-					"Jenny Shen"
-				],
-				"by_link": [
-					"https://heroofskies.itch.io/",
-					"https://bobbythegoblin.itch.io/",
-					"https://viks.itch.io/",
-					"https://jennyshencomposer.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 6,
-				"score": 3.4
 			}
 		]
 	}

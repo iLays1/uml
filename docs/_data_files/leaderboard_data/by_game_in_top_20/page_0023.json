@@ -1,5 +1,223 @@
 [
 	{
+		"jammer": "Raiku",
+		"jammer_link": "https://rykuzustudios310.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"title": "My Heavenly Duty",
+				"title_link": "https://rykuzustudios310.itch.io/my-heavenly-duty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867056",
+				"by": [
+					"Raiku"
+				],
+				"by_link": [
+					"https://rykuzustudios310.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 3.324
+			}
+		]
+	},
+	{
+		"jammer": "PixelCod",
+		"jammer_link": "https://pixelcod.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 25,
+				"jam_name": "Spirits",
+				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
+				"title": "Spirit Esper (Game Jam)",
+				"title_link": "https://pixelcod.itch.io/spirit-esper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402479",
+				"by": [
+					"PixelCod"
+				],
+				"by_link": [
+					"https://pixelcod.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 8,
+				"score": 3.313
+			}
+		]
+	},
+	{
+		"jammer": "Zaplee",
+		"jammer_link": "https://zaplee.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 61,
+				"jam_name": "Ancient Egypt",
+				"jam_link": "https://itch.io/jam/mini-jam-61",
+				"title": "Ancient Uprising",
+				"title_link": "https://zaplee.itch.io/ancient-uprising",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738298",
+				"by": [
+					"Zaplee"
+				],
+				"by_link": [
+					"https://zaplee.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 15,
+				"score": 3.3
+			}
+		]
+	},
+	{
+		"jammer": "CRG",
+		"jammer_link": "https://crgss.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"title": "Don't Don't Blow Up the Sun",
+				"title_link": "https://crgss.itch.io/dont-dont-blow-up-the-sun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045705",
+				"by": [
+					"CRG"
+				],
+				"by_link": [
+					"https://crgss.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 8,
+				"score": 3.3
+			}
+		]
+	},
+	{
+		"jammer": "Skinner Space",
+		"jammer_link": "https://skinner-space.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"title": "Little Starfish",
+				"title_link": "https://skinner-space.itch.io/little-starfish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062854",
+				"by": [
+					"Skinner Space",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://skinner-space.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 3.294
+			}
+		]
+	},
+	{
+		"jammer": "BJ Games",
+		"jammer_link": "https://bjhemmingway.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"title": "Fates Foot",
+				"title_link": "https://bjhemmingway.itch.io/fates-foot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1707974",
+				"by": [
+					"BJ Games"
+				],
+				"by_link": [
+					"https://bjhemmingway.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.266
+			}
+		]
+	},
+	{
+		"jammer": "Mr.Memo",
+		"jammer_link": "https://mrmemo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"title": "Nightmare Hunter",
+				"title_link": "https://mrmemo.itch.io/nightmare-hunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341316",
+				"by": [
+					"Mr.Memo"
+				],
+				"by_link": [
+					"https://mrmemo.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 3.241
+			}
+		]
+	},
+	{
+		"jammer": "AlfonzOoO",
+		"jammer_link": "https://alfonzooo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 96,
+				"jam_name": "Fate",
+				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
+				"title": "Lose Yourself",
+				"title_link": "https://alfonzooo.itch.io/lose-yourself",
+				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331499",
+				"by": [
+					"AlfonzOoO"
+				],
+				"by_link": [
+					"https://alfonzooo.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 11,
+				"score": 3.22
+			}
+		]
+	},
+	{
+		"jammer": "Super_768",
+		"jammer_link": "https://super-768.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "Cycle Racer",
+				"title_link": "https://super-768.itch.io/cycle-racer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164022",
+				"by": [
+					"Super_768"
+				],
+				"by_link": [
+					"https://super-768.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 16,
+				"score": 3.219
+			}
+		]
+	},
+	{
 		"jammer": "LPSO: Revived!",
 		"jammer_link": "https://lpso-re-dev.itch.io/",
 		"list_game_sorted": [
@@ -1088,6 +1306,30 @@
 				"rank": 17,
 				"ratings": 23,
 				"score": 3.783
+			}
+		]
+	},
+	{
+		"jammer": "_TONYROOS",
+		"jammer_link": "https://tony-roos.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Core",
+				"title_link": "https://tony-roos.itch.io/core",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481889",
+				"by": [
+					"_TONYROOS"
+				],
+				"by_link": [
+					"https://tony-roos.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 25,
+				"score": 3.76
 			}
 		]
 	},
@@ -2426,260 +2668,6 @@
 				"rank": 17,
 				"ratings": 9,
 				"score": 3.489
-			}
-		]
-	},
-	{
-		"jammer": "FarBeyond Studio",
-		"jammer_link": "https://farbeyond-studio.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"title": "Turtle Island Defense",
-				"title_link": "https://nocity.itch.io/turtle-island-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592806",
-				"by": [
-					"Nocity",
-					"quweert",
-					"FarBeyond Studio",
-					"Haiyoooo | Artist"
-				],
-				"by_link": [
-					"https://nocity.itch.io/",
-					"https://quweert.itch.io/",
-					"https://farbeyond-studio.itch.io/",
-					"https://haiyoooo.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.489
-			}
-		]
-	},
-	{
-		"jammer": "pyus",
-		"jammer_link": "https://pyus.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 68,
-				"jam_name": "Sleep",
-				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"title": "BedDefenders",
-				"title_link": "https://pyus.itch.io/beddefenders",
-				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837291",
-				"by": [
-					"pyus"
-				],
-				"by_link": [
-					"https://pyus.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.409
-			}
-		]
-	},
-	{
-		"jammer": "PROGameStudios",
-		"jammer_link": "https://progamestudios.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 47,
-				"jam_name": "Internet",
-				"jam_link": "https://itch.io/jam/mini-jam-47-internet",
-				"title": "One Router, Please",
-				"title_link": "https://progamestudios.itch.io/one-router-please",
-				"submission_page_link": "https://itch.io/jam/mini-jam-47-internet/rate/565857",
-				"by": [
-					"PROGameStudios"
-				],
-				"by_link": [
-					"https://progamestudios.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 21,
-				"score": 3.39
-			}
-		]
-	},
-	{
-		"jammer": "SparkLeaf",
-		"jammer_link": "https://sparkleaf.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"title": "WEATHER WARNING",
-				"title_link": "https://sparkleaf.itch.io/weather-warning",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221678",
-				"by": [
-					"SparkLeaf"
-				],
-				"by_link": [
-					"https://sparkleaf.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 13,
-				"score": 3.385
-			}
-		]
-	},
-	{
-		"jammer": "Robin Tea",
-		"jammer_link": "https://robin-tea.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 147,
-				"jam_name": "Cinema",
-				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"title": "Reckless Leap",
-				"title_link": "https://robin-tea.itch.io/reckless-leap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415856",
-				"by": [
-					"Robin Tea"
-				],
-				"by_link": [
-					"https://robin-tea.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 6,
-				"score": 3.375
-			}
-		]
-	},
-	{
-		"jammer": "feivmoon",
-		"jammer_link": "https://feivvydiadev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"title": "Geometric Space Mayhem",
-				"title_link": "https://feivvydiadev.itch.io/geometric-space-mayhem",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440668",
-				"by": [
-					"feivmoon",
-					"Ferhuce"
-				],
-				"by_link": [
-					"https://feivvydiadev.itch.io/",
-					"https://ferhuce.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 16,
-				"score": 3.328
-			}
-		]
-	},
-	{
-		"jammer": "Ferhuce",
-		"jammer_link": "https://ferhuce.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"title": "Geometric Space Mayhem",
-				"title_link": "https://feivvydiadev.itch.io/geometric-space-mayhem",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440668",
-				"by": [
-					"feivmoon",
-					"Ferhuce"
-				],
-				"by_link": [
-					"https://feivvydiadev.itch.io/",
-					"https://ferhuce.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 16,
-				"score": 3.328
-			}
-		]
-	},
-	{
-		"jammer": "Matt",
-		"jammer_link": "https://mttgames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"title": "Little Boat",
-				"title_link": "https://mttgames.itch.io/little-boat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278453",
-				"by": [
-					"Matt"
-				],
-				"by_link": [
-					"https://mttgames.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 13,
-				"score": 3.308
-			}
-		]
-	},
-	{
-		"jammer": "oddgoo",
-		"jammer_link": "https://oddgoo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"title": "Shadows of Burden",
-				"title_link": "https://oddgoo.itch.io/shadows-of-burden",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868081",
-				"by": [
-					"oddgoo",
-					"Heeny"
-				],
-				"by_link": [
-					"https://oddgoo.itch.io/",
-					"https://heeny.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 21,
-				"score": 3.298
-			}
-		]
-	},
-	{
-		"jammer": "Heeny",
-		"jammer_link": "https://heeny.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"title": "Shadows of Burden",
-				"title_link": "https://oddgoo.itch.io/shadows-of-burden",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868081",
-				"by": [
-					"oddgoo",
-					"Heeny"
-				],
-				"by_link": [
-					"https://oddgoo.itch.io/",
-					"https://heeny.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 21,
-				"score": 3.298
 			}
 		]
 	}

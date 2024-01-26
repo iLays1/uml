@@ -3717,6 +3717,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Cards of Light",
+				"title_link": "https://muupi.itch.io/cards-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484686",
+				"by": [
+					"muupi"
+				],
+				"by_link": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 12,
+				"score": 3.958
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",

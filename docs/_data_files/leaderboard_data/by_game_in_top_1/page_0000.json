@@ -646,6 +646,98 @@
 		]
 	},
 	{
+		"jammer": "Inkspinner",
+		"jammer_link": "https://inkspinner.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Phoebe Sunbeam VS Captain Twice",
+				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.359
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Divine Judgement",
+				"title_link": "https://inkspinner.itch.io/divine-judgement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 21,
+				"score": 4.036
+			}
+		]
+	},
+	{
+		"jammer": "rutbny",
+		"jammer_link": "https://rutbny.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Phoebe Sunbeam VS Captain Twice",
+				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.359
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"title": "Divine Judgement",
+				"title_link": "https://inkspinner.itch.io/divine-judgement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 21,
+				"score": 4.036
+			}
+		]
+	},
+	{
 		"jammer": "Alambik",
 		"jammer_link": "https://alambik.itch.io/",
 		"list_game_sorted": [
@@ -3114,56 +3206,6 @@
 				"rank": 1,
 				"ratings": 8,
 				"score": 4.281
-			}
-		]
-	},
-	{
-		"jammer": "D1GITΛL CVTS",
-		"jammer_link": "https://d1gital-cuts.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 36,
-				"jam_name": "Nature",
-				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
-				"title": "BreakFall",
-				"title_link": "https://d1gital-cuts.itch.io/breakfall",
-				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/481055",
-				"by": [
-					"D1GITΛL CVTS"
-				],
-				"by_link": [
-					"https://d1gital-cuts.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 9,
-				"score": 4.278
-			}
-		]
-	},
-	{
-		"jammer": "Felipe Gomes",
-		"jammer_link": "https://satsuyafrango.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"title": "Containment Breach",
-				"title_link": "https://satsuyafrango.itch.io/containment-breach",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1104635",
-				"by": [
-					"Felipe Gomes",
-					"Diego Crispim"
-				],
-				"by_link": [
-					"https://satsuyafrango.itch.io/",
-					"https://solidfox.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 20,
-				"score": 4.275
 			}
 		]
 	}

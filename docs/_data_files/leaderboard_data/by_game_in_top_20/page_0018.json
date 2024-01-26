@@ -1,5 +1,163 @@
 [
 	{
+		"jammer": "The Gaiden",
+		"jammer_link": "https://the-gaiden.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Fyz and Now in Olympic Games of Tartarus",
+				"title_link": "https://the-gaiden.itch.io/fyz-and-now",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880419",
+				"by": [
+					"The Gaiden"
+				],
+				"by_link": [
+					"https://the-gaiden.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 24,
+				"score": 3.781
+			}
+		]
+	},
+	{
+		"jammer": "MarvelousBilly",
+		"jammer_link": "https://marvelousbilly.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"title": "Slow down",
+				"title_link": "https://marvelousbilly.itch.io/slow-down",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726470",
+				"by": [
+					"MarvelousBilly"
+				],
+				"by_link": [
+					"https://marvelousbilly.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 9,
+				"score": 3.778
+			}
+		]
+	},
+	{
+		"jammer": "Bonsix",
+		"jammer_link": "https://bonsix.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"title": "Sokobind",
+				"title_link": "https://el0x.itch.io/sokobind",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089690",
+				"by": [
+					"elOx",
+					"Bonsix"
+				],
+				"by_link": [
+					"https://el0x.itch.io/",
+					"https://bonsix.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 15,
+				"score": 3.767
+			}
+		]
+	},
+	{
+		"jammer": "Kami",
+		"jammer_link": "https://kami14.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lithium + Ferrum",
+				"title_link": "https://kami14.itch.io/lithium-ferrum",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195611",
+				"by": [
+					"Kami",
+					"Deinol",
+					"Picodaddy"
+				],
+				"by_link": [
+					"https://kami14.itch.io/",
+					"https://deinol.itch.io/",
+					"https://picodaddy.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 9,
+				"score": 3.75
+			}
+		]
+	},
+	{
+		"jammer": "Deinol",
+		"jammer_link": "https://deinol.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lithium + Ferrum",
+				"title_link": "https://kami14.itch.io/lithium-ferrum",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195611",
+				"by": [
+					"Kami",
+					"Deinol",
+					"Picodaddy"
+				],
+				"by_link": [
+					"https://kami14.itch.io/",
+					"https://deinol.itch.io/",
+					"https://picodaddy.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 9,
+				"score": 3.75
+			}
+		]
+	},
+	{
+		"jammer": "Picodaddy",
+		"jammer_link": "https://picodaddy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "Lithium + Ferrum",
+				"title_link": "https://kami14.itch.io/lithium-ferrum",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195611",
+				"by": [
+					"Kami",
+					"Deinol",
+					"Picodaddy"
+				],
+				"by_link": [
+					"https://kami14.itch.io/",
+					"https://deinol.itch.io/",
+					"https://picodaddy.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 9,
+				"score": 3.75
+			}
+		]
+	},
+	{
 		"jammer": "EDRO",
 		"jammer_link": "https://edroz.itch.io/",
 		"list_game_sorted": [
@@ -2422,162 +2580,6 @@
 				"rank": 13,
 				"ratings": 9,
 				"score": 3.833
-			}
-		]
-	},
-	{
-		"jammer": "Carter13",
-		"jammer_link": "https://carter13.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"title": "Flocking Birds",
-				"title_link": "https://givrox7.itch.io/flocking-birds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388714",
-				"by": [
-					"givrox7",
-					"enochianveh",
-					"Carter13"
-				],
-				"by_link": [
-					"https://givrox7.itch.io/",
-					"https://enochianveh.itch.io/",
-					"https://carter13.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 9,
-				"score": 3.833
-			}
-		]
-	},
-	{
-		"jammer": "Saschanian",
-		"jammer_link": "https://saschanian.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Cyber Webber",
-				"title_link": "https://saschanian.itch.io/cyber-webber",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869169",
-				"by": [
-					"Saschanian",
-					"The Homie"
-				],
-				"by_link": [
-					"https://saschanian.itch.io/",
-					"https://luka-kanjo.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 37,
-				"score": 3.804
-			}
-		]
-	},
-	{
-		"jammer": "The Homie",
-		"jammer_link": "https://luka-kanjo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Cyber Webber",
-				"title_link": "https://saschanian.itch.io/cyber-webber",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869169",
-				"by": [
-					"Saschanian",
-					"The Homie"
-				],
-				"by_link": [
-					"https://saschanian.itch.io/",
-					"https://luka-kanjo.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 37,
-				"score": 3.804
-			}
-		]
-	},
-	{
-		"jammer": "AwesomeRedflare",
-		"jammer_link": "https://awesomeredflare.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 3,
-				"jam_name": "Major Jam 3: Retro",
-				"jam_link": "https://itch.io/jam/major-jam-3",
-				"title": "Bong &amp; Boom",
-				"title_link": "https://awesomeredflare.itch.io/bong-boom",
-				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/842447",
-				"by": [
-					"AwesomeRedflare"
-				],
-				"by_link": [
-					"https://awesomeredflare.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 24,
-				"score": 3.781
-			}
-		]
-	},
-	{
-		"jammer": "Nikl",
-		"jammer_link": "https://niklme.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"title": "Oicana",
-				"title_link": "https://niklme.itch.io/oicana",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880111",
-				"by": [
-					"Nikl",
-					"M1nd0fRafa3l"
-				],
-				"by_link": [
-					"https://niklme.itch.io/",
-					"https://m1nd0frafa3l.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 19,
-				"score": 3.776
-			}
-		]
-	},
-	{
-		"jammer": "M1nd0fRafa3l",
-		"jammer_link": "https://m1nd0frafa3l.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"title": "Oicana",
-				"title_link": "https://niklme.itch.io/oicana",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880111",
-				"by": [
-					"Nikl",
-					"M1nd0fRafa3l"
-				],
-				"by_link": [
-					"https://niklme.itch.io/",
-					"https://m1nd0frafa3l.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 19,
-				"score": 3.776
 			}
 		]
 	}

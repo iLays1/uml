@@ -1145,6 +1145,26 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Phoebe Sunbeam VS Captain Twice",
+				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
+				"by": [
+					"Inkspinner",
+					"rutbny"
+				],
+				"by_link": [
+					"https://inkspinner.itch.io/",
+					"https://rutbny.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.359
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 137,
 				"jam_name": "Judgement",
 				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
@@ -3107,7 +3127,7 @@
 					"lumi kha",
 					"auvea",
 					"Minescratcher",
-					"AMD",
+					"Adrian M",
 					"varelacg",
 					"toadwyn"
 				],

@@ -1,5 +1,113 @@
 [
 	{
+		"jammer": "Temporarily Unnamed Collective",
+		"jammer_link": "https://unnamedcollective.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"title": "GEHENNA",
+				"title_link": "https://unnamedcollective.itch.io/gehenna",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810484",
+				"by": [
+					"Temporarily Unnamed Collective",
+					"Constantin Liétard",
+					"OFFLINE"
+				],
+				"by_link": [
+					"https://unnamedcollective.itch.io/",
+					"https://screenshakes.itch.io/",
+					"https://offln.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.523
+			}
+		]
+	},
+	{
+		"jammer": "Constantin Liétard",
+		"jammer_link": "https://screenshakes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"title": "GEHENNA",
+				"title_link": "https://unnamedcollective.itch.io/gehenna",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810484",
+				"by": [
+					"Temporarily Unnamed Collective",
+					"Constantin Liétard",
+					"OFFLINE"
+				],
+				"by_link": [
+					"https://unnamedcollective.itch.io/",
+					"https://screenshakes.itch.io/",
+					"https://offln.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.523
+			}
+		]
+	},
+	{
+		"jammer": "Nick Nikolaou",
+		"jammer_link": "https://nicknikolaou.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Dungeon Janitor",
+				"title_link": "https://nicknikolaou.itch.io/dungeon-janitor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246708",
+				"by": [
+					"Nick Nikolaou",
+					"wooway"
+				],
+				"by_link": [
+					"https://nicknikolaou.itch.io/",
+					"https://wooway.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.519
+			}
+		]
+	},
+	{
+		"jammer": "wooway",
+		"jammer_link": "https://wooway.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Dungeon Janitor",
+				"title_link": "https://nicknikolaou.itch.io/dungeon-janitor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246708",
+				"by": [
+					"Nick Nikolaou",
+					"wooway"
+				],
+				"by_link": [
+					"https://nicknikolaou.itch.io/",
+					"https://wooway.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.519
+			}
+		]
+	},
+	{
 		"jammer": "KarstenPedersen",
 		"jammer_link": "https://karstenpedersen.itch.io/",
 		"list_game_sorted": [
@@ -1025,13 +1133,13 @@
 					"Metamaus",
 					"Eddie Breeg",
 					"Aymeric4444",
-					"Thalia33"
+					"Thalia Meignan"
 				],
 				"by_link": [
 					"https://metamaus.itch.io/",
 					"https://eddiebreeg.itch.io/",
 					"https://aymeric4444.itch.io/",
-					"https://thalia33.itch.io/"
+					"https://thalmug.itch.io/"
 				],
 				"rank": 10,
 				"ratings": 14,
@@ -1055,13 +1163,13 @@
 					"Metamaus",
 					"Eddie Breeg",
 					"Aymeric4444",
-					"Thalia33"
+					"Thalia Meignan"
 				],
 				"by_link": [
 					"https://metamaus.itch.io/",
 					"https://eddiebreeg.itch.io/",
 					"https://aymeric4444.itch.io/",
-					"https://thalia33.itch.io/"
+					"https://thalmug.itch.io/"
 				],
 				"rank": 10,
 				"ratings": 14,
@@ -1085,13 +1193,13 @@
 					"Metamaus",
 					"Eddie Breeg",
 					"Aymeric4444",
-					"Thalia33"
+					"Thalia Meignan"
 				],
 				"by_link": [
 					"https://metamaus.itch.io/",
 					"https://eddiebreeg.itch.io/",
 					"https://aymeric4444.itch.io/",
-					"https://thalia33.itch.io/"
+					"https://thalmug.itch.io/"
 				],
 				"rank": 10,
 				"ratings": 14,
@@ -1100,8 +1208,8 @@
 		]
 	},
 	{
-		"jammer": "Thalia33",
-		"jammer_link": "https://thalia33.itch.io/",
+		"jammer": "Thalia Meignan",
+		"jammer_link": "https://thalmug.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1115,13 +1223,13 @@
 					"Metamaus",
 					"Eddie Breeg",
 					"Aymeric4444",
-					"Thalia33"
+					"Thalia Meignan"
 				],
 				"by_link": [
 					"https://metamaus.itch.io/",
 					"https://eddiebreeg.itch.io/",
 					"https://aymeric4444.itch.io/",
-					"https://thalia33.itch.io/"
+					"https://thalmug.itch.io/"
 				],
 				"rank": 10,
 				"ratings": 14,
@@ -2478,118 +2586,6 @@
 				"rank": 10,
 				"ratings": 20,
 				"score": 3.65
-			}
-		]
-	},
-	{
-		"jammer": "Aurif",
-		"jammer_link": "https://aurif.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"title": "Ink.debug",
-				"title_link": "https://aurif.itch.io/inkdebug",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315447",
-				"by": [
-					"Aurif"
-				],
-				"by_link": [
-					"https://aurif.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 7,
-				"score": 3.643
-			}
-		]
-	},
-	{
-		"jammer": "DenGra",
-		"jammer_link": "https://dengra.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"title": "Sun Boss Battle",
-				"title_link": "https://dengra.itch.io/sun-boss-battle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983245",
-				"by": [
-					"DenGra"
-				],
-				"by_link": [
-					"https://dengra.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 18,
-				"score": 3.639
-			}
-		]
-	},
-	{
-		"jammer": "DrTronik",
-		"jammer_link": "https://tronik.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"title": "Chromatic Meltdown",
-				"title_link": "https://tronik.itch.io/chromatic-meltdown",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
-				"by": [
-					"DrTronik",
-					"Lavados",
-					"Papiermond",
-					"cuwuu",
-					"Loki+LPunicorn"
-				],
-				"by_link": [
-					"https://tronik.itch.io/",
-					"https://lavados28.itch.io/",
-					"https://papiermond.itch.io/",
-					"https://cuwuu.itch.io/",
-					"https://lokilpunicorn.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 22,
-				"score": 3.636
-			}
-		]
-	},
-	{
-		"jammer": "Lavados",
-		"jammer_link": "https://lavados28.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"title": "Chromatic Meltdown",
-				"title_link": "https://tronik.itch.io/chromatic-meltdown",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
-				"by": [
-					"DrTronik",
-					"Lavados",
-					"Papiermond",
-					"cuwuu",
-					"Loki+LPunicorn"
-				],
-				"by_link": [
-					"https://tronik.itch.io/",
-					"https://lavados28.itch.io/",
-					"https://papiermond.itch.io/",
-					"https://cuwuu.itch.io/",
-					"https://lokilpunicorn.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 22,
-				"score": 3.636
 			}
 		]
 	}

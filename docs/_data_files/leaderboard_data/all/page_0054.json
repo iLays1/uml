@@ -2710,6 +2710,24 @@
 				"rank": 60,
 				"ratings": 5,
 				"score": 2.899
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Below Rooms",
+				"title_link": "https://aizeir.itch.io/below-rooms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482360",
+				"by": [
+					"Aizeir"
+				],
+				"by_link": [
+					"https://aizeir.itch.io/"
+				],
+				"rank": 121,
+				"ratings": 2,
+				"score": 1.737
 			}
 		]
 	},

@@ -17,7 +17,7 @@
 					"lumi kha",
 					"auvea",
 					"Minescratcher",
-					"AMD",
+					"Adrian M",
 					"varelacg",
 					"toadwyn"
 				],
@@ -55,7 +55,7 @@
 					"lumi kha",
 					"auvea",
 					"Minescratcher",
-					"AMD",
+					"Adrian M",
 					"varelacg",
 					"toadwyn"
 				],
@@ -93,7 +93,7 @@
 					"lumi kha",
 					"auvea",
 					"Minescratcher",
-					"AMD",
+					"Adrian M",
 					"varelacg",
 					"toadwyn"
 				],
@@ -1286,6 +1286,24 @@
 				"rank": 5,
 				"ratings": 5,
 				"score": 3.469
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "CLERICKILL",
+				"title_link": "https://gamesbykent.itch.io/clerickill",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479424",
+				"by": [
+					"Kent"
+				],
+				"by_link": [
+					"https://gamesbykent.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 24,
+				"score": 4
 			},
 			{
 				"jam_type": "mini_jam",

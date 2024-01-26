@@ -1,5 +1,137 @@
 [
 	{
+		"jammer": "Teljen",
+		"jammer_link": "https://teljen.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"title": "Boundary Breakers",
+				"title_link": "https://teljen.itch.io/boundary-breakers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1828986",
+				"by": [
+					"Teljen"
+				],
+				"by_link": [
+					"https://teljen.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 14,
+				"score": 3.964
+			}
+		]
+	},
+	{
+		"jammer": "DelightfulDev",
+		"jammer_link": "https://delightfuldev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"title": "Werewolf Gardener",
+				"title_link": "https://delightfuldev.itch.io/werewolf-gardener",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430720",
+				"by": [
+					"DelightfulDev"
+				],
+				"by_link": [
+					"https://delightfuldev.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 19,
+				"score": 3.961
+			}
+		]
+	},
+	{
+		"jammer": "Gramsly",
+		"jammer_link": "https://dodgergramsly.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"title": "SteamMarine",
+				"title_link": "https://dodgergramsly.itch.io/steammarine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
+				"by": [
+					"Gramsly",
+					"Wimbo",
+					"Fort"
+				],
+				"by_link": [
+					"https://dodgergramsly.itch.io/",
+					"https://wimbo.itch.io/",
+					"https://fort4short.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 21,
+				"score": 3.952
+			}
+		]
+	},
+	{
+		"jammer": "Wimbo",
+		"jammer_link": "https://wimbo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"title": "SteamMarine",
+				"title_link": "https://dodgergramsly.itch.io/steammarine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
+				"by": [
+					"Gramsly",
+					"Wimbo",
+					"Fort"
+				],
+				"by_link": [
+					"https://dodgergramsly.itch.io/",
+					"https://wimbo.itch.io/",
+					"https://fort4short.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 21,
+				"score": 3.952
+			}
+		]
+	},
+	{
+		"jammer": "Fort",
+		"jammer_link": "https://fort4short.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"title": "SteamMarine",
+				"title_link": "https://dodgergramsly.itch.io/steammarine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
+				"by": [
+					"Gramsly",
+					"Wimbo",
+					"Fort"
+				],
+				"by_link": [
+					"https://dodgergramsly.itch.io/",
+					"https://wimbo.itch.io/",
+					"https://fort4short.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 21,
+				"score": 3.952
+			}
+		]
+	},
+	{
 		"jammer": "SeanSS",
 		"jammer_link": "https://seanss.itch.io/",
 		"list_game_sorted": [
@@ -472,30 +604,6 @@
 				"rank": 9,
 				"ratings": 8,
 				"score": 3.844
-			}
-		]
-	},
-	{
-		"jammer": "breadroll",
-		"jammer_link": "https://breadroll.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"title": "EAFO",
-				"title_link": "https://breadroll.itch.io/eafo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238604",
-				"by": [
-					"breadroll"
-				],
-				"by_link": [
-					"https://breadroll.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 27,
-				"score": 3.843
 			}
 		]
 	},
@@ -2472,106 +2580,6 @@
 				"rank": 9,
 				"ratings": 9,
 				"score": 3.111
-			}
-		]
-	},
-	{
-		"jammer": "Belu123mm",
-		"jammer_link": "https://belu123mm.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "Skate For Speed",
-				"title_link": "https://shadyleegamer.itch.io/skate-for-speed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778383",
-				"by": [
-					"ShadyLeeGamer",
-					"Belu123mm",
-					"L3mmy"
-				],
-				"by_link": [
-					"https://shadyleegamer.itch.io/",
-					"https://belu123mm.itch.io/",
-					"https://l3mmy.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 3.111
-			}
-		]
-	},
-	{
-		"jammer": "David López",
-		"jammer_link": "https://davidlopezdev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 11,
-				"jam_name": "Harvest",
-				"jam_link": "https://itch.io/jam/mini-jam-11-",
-				"title": "Click and Harvest 0.1",
-				"title_link": "https://davidlopezdev.itch.io/click-and-harvest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/307842",
-				"by": [
-					"David López"
-				],
-				"by_link": [
-					"https://davidlopezdev.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 3.037
-			}
-		]
-	},
-	{
-		"jammer": "MeViPortal",
-		"jammer_link": "https://meviportal.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 19,
-				"jam_name": "Mysteries",
-				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
-				"title": "Murder Mystery Puzzle",
-				"title_link": "https://meviportal.itch.io/mystery-puzzle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/355199",
-				"by": [
-					"MeViPortal"
-				],
-				"by_link": [
-					"https://meviportal.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 3
-			}
-		]
-	},
-	{
-		"jammer": "Vlad",
-		"jammer_link": "https://ua-koval.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"title": "A cycle of life",
-				"title_link": "https://ua-koval.itch.io/a-cycle-of-life",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/583047",
-				"by": [
-					"Vlad"
-				],
-				"by_link": [
-					"https://ua-koval.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 7,
-				"score": 3
 			}
 		]
 	}

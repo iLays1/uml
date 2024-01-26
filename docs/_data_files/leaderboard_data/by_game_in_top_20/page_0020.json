@@ -1,5 +1,179 @@
 [
 	{
+		"jammer": "Panda321",
+		"jammer_link": "https://panda321.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"title": "Float islands",
+				"title_link": "https://panda321.itch.io/float-islands",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112820",
+				"by": [
+					"Panda321"
+				],
+				"by_link": [
+					"https://panda321.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 13,
+				"score": 3.827
+			}
+		]
+	},
+	{
+		"jammer": "omoide",
+		"jammer_link": "https://omoide.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"title": "SNATCHED! (Jam Version)",
+				"title_link": "https://omoide.itch.io/snatched-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389252",
+				"by": [
+					"omoide"
+				],
+				"by_link": [
+					"https://omoide.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 20,
+				"score": 3.825
+			}
+		]
+	},
+	{
+		"jammer": "Leozlk",
+		"jammer_link": "https://leozlk.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 66,
+				"jam_name": "Sweets",
+				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
+				"title": "Yummy Golf",
+				"title_link": "https://leozlk.itch.io/yummy-golf",
+				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/806949",
+				"by": [
+					"Leozlk"
+				],
+				"by_link": [
+					"https://leozlk.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 18,
+				"score": 3.806
+			}
+		]
+	},
+	{
+		"jammer": "Tim Buhrs",
+		"jammer_link": "https://timbuhrs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 4,
+				"jam_name": "Major Jam 4: Cosmic",
+				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
+				"title": "Illegal Alien Trafficking",
+				"title_link": "https://timbuhrs.itch.io/illegal-alien-trafficing",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160875",
+				"by": [
+					"Tim Buhrs",
+					"Josh Lee"
+				],
+				"by_link": [
+					"https://timbuhrs.itch.io/",
+					"https://josh-lee.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 18,
+				"score": 3.792
+			}
+		]
+	},
+	{
+		"jammer": "Josh Lee",
+		"jammer_link": "https://josh-lee.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 4,
+				"jam_name": "Major Jam 4: Cosmic",
+				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
+				"title": "Illegal Alien Trafficking",
+				"title_link": "https://timbuhrs.itch.io/illegal-alien-trafficing",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160875",
+				"by": [
+					"Tim Buhrs",
+					"Josh Lee"
+				],
+				"by_link": [
+					"https://timbuhrs.itch.io/",
+					"https://josh-lee.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 18,
+				"score": 3.792
+			}
+		]
+	},
+	{
+		"jammer": "brockdar",
+		"jammer_link": "https://brockdar.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"title": "Snake Eyes",
+				"title_link": "https://brockdar.itch.io/snake-eyes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105837",
+				"by": [
+					"brockdar"
+				],
+				"by_link": [
+					"https://brockdar.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 24,
+				"score": 3.771
+			}
+		]
+	},
+	{
+		"jammer": "wavedotdev",
+		"jammer_link": "https://wavedotdev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "Solar",
+				"title_link": "https://wavedotdev.itch.io/solar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188054",
+				"by": [
+					"wavedotdev",
+					"jstenger95"
+				],
+				"by_link": [
+					"https://wavedotdev.itch.io/",
+					"https://jstenger95.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 9,
+				"score": 3.75
+			}
+		]
+	},
+	{
 		"jammer": "jstenger95",
 		"jammer_link": "https://jstenger95.itch.io/",
 		"list_game_sorted": [
@@ -2402,174 +2576,6 @@
 				"rank": 14,
 				"ratings": 11,
 				"score": 2.864
-			}
-		]
-	},
-	{
-		"jammer": "PizzuTron5000",
-		"jammer_link": "https://pizzutron5000.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"title": "Bobs Jam",
-				"title_link": "https://pizzutron5000.itch.io/bobs-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/583851",
-				"by": [
-					"PizzuTron5000"
-				],
-				"by_link": [
-					"https://pizzutron5000.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 6,
-				"score": 2.777
-			}
-		]
-	},
-	{
-		"jammer": "mikgorn",
-		"jammer_link": "https://mikgorn.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 10,
-				"jam_name": "Micro",
-				"jam_link": "https://itch.io/jam/mini-jam-10-micro-",
-				"title": "Virus Clicker",
-				"title_link": "https://mikgorn.itch.io/virus-clicker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-10-micro-/rate/303878",
-				"by": [
-					"mikgorn"
-				],
-				"by_link": [
-					"https://mikgorn.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 5,
-				"score": 2.7
-			}
-		]
-	},
-	{
-		"jammer": "malpha43",
-		"jammer_link": "https://malpha43.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 138,
-				"jam_name": "Rewind",
-				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
-				"title": "Rewinding platformer",
-				"title_link": "https://malpha43.itch.io/rewinding-platformer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207750",
-				"by": [
-					"malpha43"
-				],
-				"by_link": [
-					"https://malpha43.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 6,
-				"score": 2.7
-			}
-		]
-	},
-	{
-		"jammer": "wolfingame",
-		"jammer_link": "https://wolfingame.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 20,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-20-music",
-				"title": "Tsss",
-				"title_link": "https://wolfingame.itch.io/tsss",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362311",
-				"by": [
-					"wolfingame"
-				],
-				"by_link": [
-					"https://wolfingame.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 7,
-				"score": 2.673
-			}
-		]
-	},
-	{
-		"jammer": "Alfa Labs",
-		"jammer_link": "https://babbel.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "Roller Master",
-				"title_link": "https://babbel.itch.io/roller-master",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/777508",
-				"by": [
-					"Alfa Labs"
-				],
-				"by_link": [
-					"https://babbel.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 7,
-				"score": 2.639
-			}
-		]
-	},
-	{
-		"jammer": "Le Codex",
-		"jammer_link": "https://le-codex.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 44,
-				"jam_name": "New Year",
-				"jam_link": "https://itch.io/jam/mini-jam-44-new-year",
-				"title": "One-Man Party",
-				"title_link": "https://le-codex.itch.io/one-man-party",
-				"submission_page_link": "https://itch.io/jam/mini-jam-44-new-year/rate/542023",
-				"by": [
-					"Le Codex"
-				],
-				"by_link": [
-					"https://le-codex.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 8,
-				"score": 2.603
-			}
-		]
-	},
-	{
-		"jammer": "T3tsuya",
-		"jammer_link": "https://t3tsuya.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 38,
-				"jam_name": "Food",
-				"jam_link": "https://itch.io/jam/mini-jam-38-food",
-				"title": "Dish Dash",
-				"title_link": "https://t3tsuya.itch.io/dishdash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-38-food/rate/492910",
-				"by": [
-					"T3tsuya"
-				],
-				"by_link": [
-					"https://t3tsuya.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 4,
-				"score": 2.571
 			}
 		]
 	}

@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Josh Larminay",
+		"jammer_link": "https://jlarminay.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"title": "Swords n Souls",
+				"title_link": "https://jlarminay.itch.io/swords-n-souls",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867999",
+				"by": [
+					"Josh Larminay"
+				],
+				"by_link": [
+					"https://jlarminay.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 27,
+				"score": 3.713
+			}
+		]
+	},
+	{
+		"jammer": "CloneDeath",
+		"jammer_link": "https://clonedeath.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 25,
+				"jam_name": "Spirits",
+				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
+				"title": "Midnight Drive",
+				"title_link": "https://clonedeath.itch.io/midnight-drive",
+				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402405",
+				"by": [
+					"CloneDeath"
+				],
+				"by_link": [
+					"https://clonedeath.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 3.712
+			}
+		]
+	},
+	{
 		"jammer": "Wilsx2",
 		"jammer_link": "https://wilsx2.itch.io/",
 		"list_game_sorted": [

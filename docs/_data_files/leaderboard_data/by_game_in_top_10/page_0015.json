@@ -1,5 +1,125 @@
 [
 	{
+		"jammer": "DenGra",
+		"jammer_link": "https://dengra.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"title": "Sun Boss Battle",
+				"title_link": "https://dengra.itch.io/sun-boss-battle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983245",
+				"by": [
+					"DenGra"
+				],
+				"by_link": [
+					"https://dengra.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 18,
+				"score": 3.639
+			}
+		]
+	},
+	{
+		"jammer": "DrTronik",
+		"jammer_link": "https://tronik.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"title": "Chromatic Meltdown",
+				"title_link": "https://tronik.itch.io/chromatic-meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
+				"by": [
+					"DrTronik",
+					"Lavados",
+					"Papiermond",
+					"cuwuu",
+					"Loki+LPunicorn"
+				],
+				"by_link": [
+					"https://tronik.itch.io/",
+					"https://lavados28.itch.io/",
+					"https://papiermond.itch.io/",
+					"https://cuwuu.itch.io/",
+					"https://lokilpunicorn.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.636
+			}
+		]
+	},
+	{
+		"jammer": "Lavados",
+		"jammer_link": "https://lavados28.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"title": "Chromatic Meltdown",
+				"title_link": "https://tronik.itch.io/chromatic-meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
+				"by": [
+					"DrTronik",
+					"Lavados",
+					"Papiermond",
+					"cuwuu",
+					"Loki+LPunicorn"
+				],
+				"by_link": [
+					"https://tronik.itch.io/",
+					"https://lavados28.itch.io/",
+					"https://papiermond.itch.io/",
+					"https://cuwuu.itch.io/",
+					"https://lokilpunicorn.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.636
+			}
+		]
+	},
+	{
+		"jammer": "Papiermond",
+		"jammer_link": "https://papiermond.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"title": "Chromatic Meltdown",
+				"title_link": "https://tronik.itch.io/chromatic-meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
+				"by": [
+					"DrTronik",
+					"Lavados",
+					"Papiermond",
+					"cuwuu",
+					"Loki+LPunicorn"
+				],
+				"by_link": [
+					"https://tronik.itch.io/",
+					"https://lavados28.itch.io/",
+					"https://papiermond.itch.io/",
+					"https://cuwuu.itch.io/",
+					"https://lokilpunicorn.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.636
+			}
+		]
+	},
+	{
 		"jammer": "cuwuu",
 		"jammer_link": "https://cuwuu.itch.io/",
 		"list_game_sorted": [

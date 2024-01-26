@@ -1615,6 +1615,24 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lumina Ascend",
+				"title_link": "https://tef-dev.itch.io/lumina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482840",
+				"by": [
+					"Tef Dev"
+				],
+				"by_link": [
+					"https://tef-dev.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 6,
+				"score": 2.777
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",

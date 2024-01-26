@@ -1,5 +1,61 @@
 [
 	{
+		"jammer": "Patricia Lazaro",
+		"jammer_link": "https://plazaro.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"title": "The Last Doughnut",
+				"title_link": "https://plazaro.itch.io/the-last-doughnut",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671853",
+				"by": [
+					"Patricia Lazaro",
+					"RabidTunes",
+					"Alejandro Royo"
+				],
+				"by_link": [
+					"https://plazaro.itch.io/",
+					"https://rabidtunes.itch.io/",
+					"https://aroyo.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 3.94
+			}
+		]
+	},
+	{
+		"jammer": "RabidTunes",
+		"jammer_link": "https://rabidtunes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"title": "The Last Doughnut",
+				"title_link": "https://plazaro.itch.io/the-last-doughnut",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671853",
+				"by": [
+					"Patricia Lazaro",
+					"RabidTunes",
+					"Alejandro Royo"
+				],
+				"by_link": [
+					"https://plazaro.itch.io/",
+					"https://rabidtunes.itch.io/",
+					"https://aroyo.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 3.94
+			}
+		]
+	},
+	{
 		"jammer": "Alejandro Royo",
 		"jammer_link": "https://aroyo.itch.io/",
 		"list_game_sorted": [
@@ -52,8 +108,8 @@
 		]
 	},
 	{
-		"jammer": "Akimaya",
-		"jammer_link": "https://akimaya.itch.io/",
+		"jammer": "thetwilightsoup",
+		"jammer_link": "https://thetwilightsoup.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -61,14 +117,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -87,14 +143,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -2490,54 +2546,6 @@
 				"rank": 4,
 				"ratings": 21,
 				"score": 4.083
-			}
-		]
-	},
-	{
-		"jammer": "Tail Clap Games",
-		"jammer_link": "https://tailclap.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 60,
-				"jam_name": "Crime",
-				"jam_link": "https://itch.io/jam/mini-jam-60",
-				"title": "Cyndicate - Mafia Tycoon (Mobile friendly)",
-				"title_link": "https://tailclap.itch.io/cyndicate-mafia-management",
-				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/725645",
-				"by": [
-					"Tail Clap Games"
-				],
-				"by_link": [
-					"https://tailclap.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 25,
-				"score": 4.08
-			}
-		]
-	},
-	{
-		"jammer": "John Peres",
-		"jammer_link": "https://johnperes.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Love Bowling",
-				"title_link": "https://johnperes.itch.io/love-bowling",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689250",
-				"by": [
-					"John Peres"
-				],
-				"by_link": [
-					"https://johnperes.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 10,
-				"score": 4.075
 			}
 		]
 	}

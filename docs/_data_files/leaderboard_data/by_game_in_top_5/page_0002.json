@@ -1732,8 +1732,8 @@
 		]
 	},
 	{
-		"jammer": "MrFGames",
-		"jammer_link": "https://mrfgames.itch.io/",
+		"jammer": "MurfGames",
+		"jammer_link": "https://murfgames.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1741,13 +1741,13 @@
 				"jam_name": "Chrono",
 				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
 				"title": "Chrono Hop",
-				"title_link": "https://mrfgames.itch.io/chrono-hop",
+				"title_link": "https://murfgames.itch.io/chrono-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653308",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 11,
@@ -2328,6 +2328,30 @@
 		]
 	},
 	{
+		"jammer": "breadroll",
+		"jammer_link": "https://breadroll.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "SANITIZE THE DARK",
+				"title_link": "https://breadroll.itch.io/sanitize-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483444",
+				"by": [
+					"breadroll"
+				],
+				"by_link": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 26,
+				"score": 4.26
+			}
+		]
+	},
+	{
 		"jammer": "PaKoDev",
 		"jammer_link": "https://pakodev.itch.io/",
 		"list_game_sorted": [
@@ -2548,30 +2572,6 @@
 				],
 				"by_link": [
 					"https://nightshade.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 23,
-				"score": 4.207
-			}
-		]
-	},
-	{
-		"jammer": "wack",
-		"jammer_link": "https://wack13.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"title": "Haunted Shotgun",
-				"title_link": "https://wack13.itch.io/haunted-shotgun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748899",
-				"by": [
-					"wack"
-				],
-				"by_link": [
-					"https://wack13.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 23,

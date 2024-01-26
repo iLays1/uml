@@ -120,8 +120,8 @@
 		]
 	},
 	{
-		"jammer": "Jcritical",
-		"jammer_link": "https://jcritical1.itch.io/",
+		"jammer": "JosephB",
+		"jammer_link": "https://josephbishop.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -129,13 +129,13 @@
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
 				"title": "Lay Away!",
-				"title_link": "https://jcritical1.itch.io/lay-away",
+				"title_link": "https://josephbishop.itch.io/lay-away",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025493",
 				"by": [
-					"Jcritical"
+					"JosephB"
 				],
 				"by_link": [
-					"https://jcritical1.itch.io/"
+					"https://josephbishop.itch.io/"
 				],
 				"rank": 182,
 				"ratings": 5,
@@ -302,6 +302,24 @@
 				"rank": 6,
 				"ratings": 18,
 				"score": 3.361
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Herding Cats",
+				"title_link": "https://jenislav.itch.io/herding-cats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 22,
+				"score": 3.966
 			},
 			{
 				"jam_type": "mini_jam",

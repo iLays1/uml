@@ -1664,8 +1664,8 @@
 		]
 	},
 	{
-		"jammer": "JonWillis",
-		"jammer_link": "https://jonwillis.itch.io/",
+		"jammer": "LaCreaturaVioleta",
+		"jammer_link": "https://lacreaturavioleta.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1673,13 +1673,13 @@
 				"jam_name": "Nature",
 				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
 				"title": "The Hive",
-				"title_link": "https://jonwillis.itch.io/the-hive",
+				"title_link": "https://lacreaturavioleta.itch.io/the-hive",
 				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480797",
 				"by": [
-					"JonWillis"
+					"LaCreaturaVioleta"
 				],
 				"by_link": [
-					"https://jonwillis.itch.io/"
+					"https://lacreaturavioleta.itch.io/"
 				],
 				"rank": 37,
 				"ratings": 2,
@@ -1691,13 +1691,13 @@
 				"jam_name": "Time",
 				"jam_link": "https://itch.io/jam/mini-jam-23-time",
 				"title": "Take Your Time",
-				"title_link": "https://jonwillis.itch.io/take-your-time",
+				"title_link": "https://lacreaturavioleta.itch.io/take-your-time",
 				"submission_page_link": "https://itch.io/jam/mini-jam-23-time/rate/383308",
 				"by": [
-					"JonWillis"
+					"LaCreaturaVioleta"
 				],
 				"by_link": [
-					"https://jonwillis.itch.io/"
+					"https://lacreaturavioleta.itch.io/"
 				],
 				"rank": 52,
 				"ratings": 4,
@@ -1709,13 +1709,13 @@
 				"jam_name": "Future",
 				"jam_link": "https://itch.io/jam/mini-jam-63-future",
 				"title": "The Mannequin Factory",
-				"title_link": "https://jonwillis.itch.io/the-mannequin-factory",
+				"title_link": "https://lacreaturavioleta.itch.io/the-mannequin-factory",
 				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763252",
 				"by": [
-					"JonWillis"
+					"LaCreaturaVioleta"
 				],
 				"by_link": [
-					"https://jonwillis.itch.io/"
+					"https://lacreaturavioleta.itch.io/"
 				],
 				"rank": 77,
 				"ratings": 10,
@@ -1727,13 +1727,13 @@
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
 				"title": "phrogge",
-				"title_link": "https://jonwillis.itch.io/phrogge",
+				"title_link": "https://lacreaturavioleta.itch.io/phrogge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025819",
 				"by": [
-					"JonWillis"
+					"LaCreaturaVioleta"
 				],
 				"by_link": [
-					"https://jonwillis.itch.io/"
+					"https://lacreaturavioleta.itch.io/"
 				],
 				"rank": 162,
 				"ratings": 4,
@@ -2330,6 +2330,24 @@
 				"rank": 2,
 				"ratings": 44,
 				"score": 4.369
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Into The Dark",
+				"title_link": "https://solroo.itch.io/into-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480500",
+				"by": [
+					"Joan Sol ROO"
+				],
+				"by_link": [
+					"https://solroo.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 15,
+				"score": 4.05
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3738,6 +3756,24 @@
 				"rank": 4,
 				"ratings": 23,
 				"score": 4.087
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Escape The Depth",
+				"title_link": "https://fmlad.itch.io/into-the-depth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483222",
+				"by": [
+					"Fmlad"
+				],
+				"by_link": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 4.083
 			},
 			{
 				"jam_type": "mini_jam",

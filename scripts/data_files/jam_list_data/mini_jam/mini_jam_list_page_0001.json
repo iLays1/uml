@@ -1,5 +1,328 @@
 [
 	{
+		"id": 140,
+		"jam_name": "Dungeons",
+		"link": "https://itch.io/jam/mini-jam-140-dungeons",
+		"list": [
+			{
+				"title": "blov :&gt;",
+				"title_link": "https://blinyadebil.itch.io/blov",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246860",
+				"by": [
+					"blinyadebil"
+				],
+				"by_link": [
+					"https://blinyadebil.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 6,
+				"score": 4.167
+			},
+			{
+				"title": "GARDENEER",
+				"title_link": "https://madebychill.itch.io/gardeneer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2244345",
+				"by": [
+					"Chill"
+				],
+				"by_link": [
+					"https://madebychill.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.063
+			},
+			{
+				"title": "Whacky Weapons",
+				"title_link": "https://silvyger.itch.io/whackyweapons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2243808",
+				"by": [
+					"Silvyger",
+					"ricenoodles",
+					"Marc Panicello (kraminap)"
+				],
+				"by_link": [
+					"https://silvyger.itch.io/",
+					"https://ricenoodles.itch.io/",
+					"https://kraminap.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.017
+			},
+			{
+				"title": "Dungeon of Wits",
+				"title_link": "https://luicel.itch.io/dungeon-of-wits",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246480",
+				"by": [
+					"Luicel",
+					"Blast-MC",
+					"AxeHam"
+				],
+				"by_link": [
+					"https://luicel.itch.io/",
+					"https://blast-mc.itch.io/",
+					"https://axeham.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 6,
+				"score": 3.75
+			},
+			{
+				"title": "[GameJam]MagicalDungeonGirl",
+				"title_link": "https://thetra00.itch.io/gamejammagicaldungeongirl",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2245876",
+				"by": [
+					"Thetra00"
+				],
+				"by_link": [
+					"https://thetra00.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 3.65
+			},
+			{
+				"title": "Wands of Winter and Spring",
+				"title_link": "https://fallingwallgames.itch.io/wands-of-winter-and-spring",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247841",
+				"by": [
+					"FallingWallGames"
+				],
+				"by_link": [
+					"https://fallingwallgames.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 3.639
+			},
+			{
+				"title": "Wrong Dungeon!!!",
+				"title_link": "https://porchor.itch.io/wrong-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247885",
+				"by": [
+					"PorChor"
+				],
+				"by_link": [
+					"https://porchor.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 17,
+				"score": 3.574
+			},
+			{
+				"title": "Dungeon Dater - Mini Jam 140",
+				"title_link": "https://sethnerd.itch.io/dungeongardengame",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
+				"by": [
+					"snerd",
+					"Hoxfire",
+					"AJuicyPineapple3114",
+					"Twitchywhalez",
+					"Kangator"
+				],
+				"by_link": [
+					"https://sethnerd.itch.io/",
+					"https://hoxfire.itch.io/",
+					"https://ajuicypineapple3114.itch.io/",
+					"https://twitchywhalez.itch.io/",
+					"https://kangator.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 4,
+				"score": 3.521
+			},
+			{
+				"title": "Dungeon Janitor",
+				"title_link": "https://nicknikolaou.itch.io/dungeon-janitor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246708",
+				"by": [
+					"Nick Nikolaou",
+					"wooway"
+				],
+				"by_link": [
+					"https://nicknikolaou.itch.io/",
+					"https://wooway.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.519
+			},
+			{
+				"title": "Dungeon Detox",
+				"title_link": "https://gonse.itch.io/dungeon-detox",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247847",
+				"by": [
+					"gose",
+					"DisguisedGrandpa"
+				],
+				"by_link": [
+					"https://gonse.itch.io/",
+					"https://disguisedgrandpa.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 6,
+				"score": 3.5
+			},
+			{
+				"title": "Chronic Looter",
+				"title_link": "https://aerial301.itch.io/chronic-looter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246998",
+				"by": [
+					"aerial301"
+				],
+				"by_link": [
+					"https://aerial301.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 10,
+				"score": 3.4
+			},
+			{
+				"title": "Cubicle Showdown",
+				"title_link": "https://protes.itch.io/cubicle-showdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247808",
+				"by": [
+					"Protes",
+					"Grimmson",
+					"Ramboramonrainer"
+				],
+				"by_link": [
+					"https://protes.itch.io/",
+					"https://grimmson.itch.io/",
+					"https://ramboramonrainer.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 5,
+				"score": 3.378
+			},
+			{
+				"title": "Astaroth's Dungeon",
+				"title_link": "https://ditiemgames.itch.io/astaroths-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246818",
+				"by": [
+					"ditiem.games"
+				],
+				"by_link": [
+					"https://ditiemgames.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 12,
+				"score": 3.333
+			},
+			{
+				"title": "Unprepared Dungeoneer",
+				"title_link": "https://yourboyjboy.itch.io/unprepared-dungeoneer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247852",
+				"by": [
+					"yourboyjboy",
+					"TheHibiscusPoet"
+				],
+				"by_link": [
+					"https://yourboyjboy.itch.io/",
+					"https://thehibiscuspoet.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 7,
+				"score": 3.321
+			},
+			{
+				"title": "Strawberry Boy's Birthday Party",
+				"title_link": "https://romeosdaydream.itch.io/strawberry-boys-birthday-party",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247802",
+				"by": [
+					"romeosdaydream"
+				],
+				"by_link": [
+					"https://romeosdaydream.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 8,
+				"score": 3.281
+			},
+			{
+				"title": "Useless Mage",
+				"title_link": "https://lpso-re-dev.itch.io/useless-mage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247545",
+				"by": [
+					"LPSO: Revived!",
+					"Jadebrew",
+					"vflour",
+					"josefnpat"
+				],
+				"by_link": [
+					"https://lpso-re-dev.itch.io/",
+					"https://jadebrew.itch.io/",
+					"https://vflour.itch.io/",
+					"https://josefnpat.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.214
+			},
+			{
+				"title": "Dodge Cat",
+				"title_link": "https://gsespinto.itch.io/dodge-cat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246702",
+				"by": [
+					"Gonçalo Pinto"
+				],
+				"by_link": [
+					"https://gsespinto.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.111
+			},
+			{
+				"title": "Brewmaster's Potion Express",
+				"title_link": "https://fuchsiano.itch.io/brewmasters-potion-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247805",
+				"by": [
+					"Fuchsiano",
+					"Neoministein",
+					"Aragami_delp_"
+				],
+				"by_link": [
+					"https://fuchsiano.itch.io/",
+					"https://neoministein.itch.io/",
+					"https://aragami-delp.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 10,
+				"score": 3.05
+			},
+			{
+				"title": "The Picto Shrine",
+				"title_link": "https://krengdroid.itch.io/the-picto-shrine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247197",
+				"by": [
+					"krengdroid"
+				],
+				"by_link": [
+					"https://krengdroid.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 14,
+				"score": 3.018
+			},
+			{
+				"title": "Dishwasher Dungeons",
+				"title_link": "https://knowyourknot.itch.io/dishwasher-dungeons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2244658",
+				"by": [
+					"KnowYourKnot"
+				],
+				"by_link": [
+					"https://knowyourknot.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 6,
+				"score": 3
+			}
+		]
+	},
+	{
 		"id": 139,
 		"jam_name": "Fae",
 		"link": "https://itch.io/jam/mini-jam-139-fae",
@@ -2723,323 +3046,6 @@
 				"rank": 20,
 				"ratings": 9,
 				"score": 3.167
-			}
-		]
-	},
-	{
-		"id": 130,
-		"jam_name": "Lunar",
-		"link": "https://itch.io/jam/mini-jam-130-lunar",
-		"list": [
-			{
-				"title": "10 Seconds FARM!",
-				"title_link": "https://yumehiko.itch.io/10-seconds-farm",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019993",
-				"by": [
-					"yumehiko"
-				],
-				"by_link": [
-					"https://yumehiko.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 36,
-				"score": 4.306
-			},
-			{
-				"title": "Lunar 10",
-				"title_link": "https://r1gby-games.itch.io/lunar-10",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
-				"by": [
-					"R1GBY"
-				],
-				"by_link": [
-					"https://r1gby-games.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.089
-			},
-			{
-				"title": "Bnoop's Island",
-				"title_link": "https://the-hat-guy.itch.io/bnoop-island",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020930",
-				"by": [
-					"The_Hat_Guy"
-				],
-				"by_link": [
-					"https://the-hat-guy.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 16,
-				"score": 3.969
-			},
-			{
-				"title": "Little Luna",
-				"title_link": "https://in-aeviternum.itch.io/little-luna",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021066",
-				"by": [
-					"in_aev"
-				],
-				"by_link": [
-					"https://in-aeviternum.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 49,
-				"score": 3.954
-			},
-			{
-				"title": "Congress Defunded Us, So We're Blowing Up the Moon",
-				"title_link": "https://patbug.itch.io/congress-defunded-us-so-were-blowing-up-the-moon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019584",
-				"by": [
-					"Patbug"
-				],
-				"by_link": [
-					"https://patbug.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 24,
-				"score": 3.927
-			},
-			{
-				"title": "Lunar Looping Legend",
-				"title_link": "https://nicolovell.itch.io/lunar-looping-legend",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020651",
-				"by": [
-					"Nico Lovell"
-				],
-				"by_link": [
-					"https://nicolovell.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 12,
-				"score": 3.896
-			},
-			{
-				"title": "Save the rover!",
-				"title_link": "https://zzzzzztema.itch.io/savetherover",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021206",
-				"by": [
-					"ZZZZZZTEMA"
-				],
-				"by_link": [
-					"https://zzzzzztema.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 7,
-				"score": 3.893
-			},
-			{
-				"title": "Lunar Rivals",
-				"title_link": "https://greytdepression.itch.io/lunar-rivals",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020669",
-				"by": [
-					"grey"
-				],
-				"by_link": [
-					"https://greytdepression.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 16,
-				"score": 3.891
-			},
-			{
-				"title": "It's Just a Phase",
-				"title_link": "https://jaco-van-hemert.itch.io/its-just-a-phase",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2018007",
-				"by": [
-					"Jaco van Hemert",
-					"Macajust",
-					"cannice",
-					"Adam Wilson"
-				],
-				"by_link": [
-					"https://jaco-van-hemert.itch.io/",
-					"https://macajust.itch.io/",
-					"https://cannice.itch.io/",
-					"https://adam-wilson.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 30,
-				"score": 3.875
-			},
-			{
-				"title": "Over the Moon",
-				"title_link": "https://dagworth.itch.io/over-the-moon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2018843",
-				"by": [
-					"dagworth"
-				],
-				"by_link": [
-					"https://dagworth.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 16,
-				"score": 3.875
-			},
-			{
-				"title": "Lunar Freeze",
-				"title_link": "https://creeperking217.itch.io/lunar-freeze",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021610",
-				"by": [
-					"Creeperking217"
-				],
-				"by_link": [
-					"https://creeperking217.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 7,
-				"score": 3.857
-			},
-			{
-				"title": "Moon Rat",
-				"title_link": "https://dewott2501.itch.io/moon-rat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020769",
-				"by": [
-					"Dewott2501"
-				],
-				"by_link": [
-					"https://dewott2501.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 22,
-				"score": 3.852
-			},
-			{
-				"title": "RRAPID",
-				"title_link": "https://ashx-dev.itch.io/rrapid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020292",
-				"by": [
-					"Ashx"
-				],
-				"by_link": [
-					"https://ashx-dev.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 18,
-				"score": 3.847
-			},
-			{
-				"title": "Moonlit Runner",
-				"title_link": "https://teambadcat.itch.io/moonlit-runner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2022951",
-				"by": [
-					"Badcat Games"
-				],
-				"by_link": [
-					"https://teambadcat.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 17,
-				"score": 3.809
-			},
-			{
-				"title": "Hack 'n' solve",
-				"title_link": "https://foxgamedev.itch.io/hacknsolve",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021963",
-				"by": [
-					"Fox Game Dev",
-					"RabidTunes",
-					"Patricia Lazaro",
-					"Alejandro Royo"
-				],
-				"by_link": [
-					"https://foxgamedev.itch.io/",
-					"https://rabidtunes.itch.io/",
-					"https://plazaro.itch.io/",
-					"https://aroyo.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 9,
-				"score": 3.778
-			},
-			{
-				"title": "Moon Castle",
-				"title_link": "https://ruskom.itch.io/moon-castle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019097",
-				"by": [
-					"RusKom"
-				],
-				"by_link": [
-					"https://ruskom.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 49,
-				"score": 3.76
-			},
-			{
-				"title": "Package Panic",
-				"title_link": "https://simplesystemsstudios.itch.io/package-panic",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020903",
-				"by": [
-					"SimpleSystemsStudios"
-				],
-				"by_link": [
-					"https://simplesystemsstudios.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 13,
-				"score": 3.75
-			},
-			{
-				"title": "Waning Spirits",
-				"title_link": "https://driifty.itch.io/waning-spirits",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2024948",
-				"by": [
-					"Driifty",
-					"Austin Melio",
-					"lumi kha",
-					"auvea",
-					"Minescratcher",
-					"AMD",
-					"varelacg",
-					"toadwyn"
-				],
-				"by_link": [
-					"https://driifty.itch.io/",
-					"https://ausclaw.itch.io/",
-					"https://lumi-kha.itch.io/",
-					"https://auvea.itch.io/",
-					"https://minescratcher.itch.io/",
-					"https://amd1999.itch.io/",
-					"https://varelacg.itch.io/",
-					"https://toadwyn.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 10,
-				"score": 3.75
-			},
-			{
-				"title": "Frozen Frontier",
-				"title_link": "https://funnymewy.itch.io/frozen-frontier",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021434",
-				"by": [
-					"funnymewy",
-					"Findax",
-					"thegreenphoenix"
-				],
-				"by_link": [
-					"https://funnymewy.itch.io/",
-					"https://findax.itch.io/",
-					"https://thegreenphoenix.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 9,
-				"score": 3.722
-			},
-			{
-				"title": "Flipside of the Moon",
-				"title_link": "https://plotnquill.itch.io/flipsideofthemoon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021372",
-				"by": [
-					"plotnquill"
-				],
-				"by_link": [
-					"https://plotnquill.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 9,
-				"score": 3.722
 			}
 		]
 	}

@@ -44,6 +44,24 @@
 				"rank": 24,
 				"ratings": 14,
 				"score": 3.714
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Gleam Quest",
+				"title_link": "https://towarzyszfatcat.itch.io/gleam-quest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482598",
+				"by": [
+					"TowarzyszFatCat"
+				],
+				"by_link": [
+					"https://towarzyszfatcat.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 13,
+				"score": 3
 			}
 		]
 	},
@@ -818,6 +836,32 @@
 				"rank": 56,
 				"ratings": 8,
 				"score": 3.156
+			}
+		]
+	},
+	{
+		"jammer": "emadrigalv",
+		"jammer_link": "https://emadrigalv.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"title": "Archeorun",
+				"title_link": "https://mangelhoyos.itch.io/archeorun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2458404",
+				"by": [
+					"Bard's Charm",
+					"emadrigalv"
+				],
+				"by_link": [
+					"https://mangelhoyos.itch.io/",
+					"https://emadrigalv.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 12,
+				"score": 3.146
 			}
 		]
 	},
@@ -1854,6 +1898,24 @@
 				"rank": 100,
 				"ratings": 6,
 				"score": 2.392
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Long Lost Wizard",
+				"title_link": "https://rivelbop.itch.io/long-lost-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482997",
+				"by": [
+					"RivelBop"
+				],
+				"by_link": [
+					"https://rivelbop.itch.io/"
+				],
+				"rank": 120,
+				"ratings": 3,
+				"score": 1.746
 			}
 		]
 	},
@@ -1906,8 +1968,8 @@
 		]
 	},
 	{
-		"jammer": "moses.obj",
-		"jammer_link": "https://mosesobj.itch.io/",
+		"jammer": "dotplus",
+		"jammer_link": "https://dotplus.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1915,13 +1977,13 @@
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
 				"title": "HOMEOMORPHIC",
-				"title_link": "https://mosesobj.itch.io/homeomorphic",
+				"title_link": "https://dotplus.itch.io/homeomorphic",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457080",
 				"by": [
-					"moses.obj"
+					"dotplus"
 				],
 				"by_link": [
-					"https://mosesobj.itch.io/"
+					"https://dotplus.itch.io/"
 				],
 				"rank": 103,
 				"ratings": 7,
@@ -1957,6 +2019,24 @@
 		"jammer": "Inffexo",
 		"jammer_link": "https://inffexo.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "the light of wisdom",
+				"title_link": "https://inffexo.itch.io/the-light-of-wisdom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480211",
+				"by": [
+					"Inffexo"
+				],
+				"by_link": [
+					"https://inffexo.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 9,
+				"score": 3.167
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
@@ -2079,6 +2159,24 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "DungeonLight",
+				"title_link": "https://yoshiro-akoshi.itch.io/dungeonlightweb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482303",
+				"by": [
+					"Yoshiro Akoshi"
+				],
+				"by_link": [
+					"https://yoshiro-akoshi.itch.io/"
+				],
+				"rank": 85,
+				"ratings": 7,
+				"score": 2.5
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
@@ -2199,6 +2297,30 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Orion Mansion:The Escape",
+				"title_link": "https://fitman22.itch.io/darkness-mansion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483256",
+				"by": [
+					"Fitman22",
+					"karu444",
+					"JhonCalderon02",
+					"Cawitos"
+				],
+				"by_link": [
+					"https://fitman22.itch.io/",
+					"https://karu444.itch.io/",
+					"https://jhoncalderon02.itch.io/",
+					"https://cawitos.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 8,
+				"score": 2.844
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
@@ -2227,6 +2349,30 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Orion Mansion:The Escape",
+				"title_link": "https://fitman22.itch.io/darkness-mansion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483256",
+				"by": [
+					"Fitman22",
+					"karu444",
+					"JhonCalderon02",
+					"Cawitos"
+				],
+				"by_link": [
+					"https://fitman22.itch.io/",
+					"https://karu444.itch.io/",
+					"https://jhoncalderon02.itch.io/",
+					"https://cawitos.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 8,
+				"score": 2.844
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
@@ -2253,6 +2399,30 @@
 		"jammer": "Cawitos",
 		"jammer_link": "https://cawitos.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Orion Mansion:The Escape",
+				"title_link": "https://fitman22.itch.io/darkness-mansion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483256",
+				"by": [
+					"Fitman22",
+					"karu444",
+					"JhonCalderon02",
+					"Cawitos"
+				],
+				"by_link": [
+					"https://fitman22.itch.io/",
+					"https://karu444.itch.io/",
+					"https://jhoncalderon02.itch.io/",
+					"https://cawitos.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 8,
+				"score": 2.844
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
@@ -2486,32 +2656,6 @@
 				],
 				"by_link": [
 					"https://defaultxyz.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 2,
-				"score": 1.537
-			}
-		]
-	},
-	{
-		"jammer": "Lentsius",
-		"jammer_link": "https://lentsius-bark.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"title": "Alien on the run",
-				"title_link": "https://lentsius-bark.itch.io/alien-on-the-run",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459814",
-				"by": [
-					"Lentsius",
-					"Michal Hudek"
-				],
-				"by_link": [
-					"https://lentsius-bark.itch.io/",
-					"https://frostak-tnv.itch.io/"
 				],
 				"rank": 129,
 				"ratings": 2,

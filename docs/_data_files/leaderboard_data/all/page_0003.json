@@ -151,6 +151,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Serpent of the Storm ~ Fall of Yamata-no-Orochi",
+				"title_link": "https://jnho228.itch.io/serpent-of-the-storm-fall-of-yamata-no-orochi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2478323",
+				"by": [
+					"ちばち"
+				],
+				"by_link": [
+					"https://jnho228.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 11,
+				"score": 3.432
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
@@ -2298,8 +2316,8 @@
 		]
 	},
 	{
-		"jammer": "ItzTheNikolai",
-		"jammer_link": "https://itzthenikolai.itch.io/",
+		"jammer": "leighhurley",
+		"jammer_link": "https://leighhurley.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2307,13 +2325,13 @@
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
 				"title": "Tomb Boogie",
-				"title_link": "https://itzthenikolai.itch.io/tomb-boogie",
+				"title_link": "https://leighhurley.itch.io/tomb-boogie",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738641",
 				"by": [
-					"ItzTheNikolai"
+					"leighhurley"
 				],
 				"by_link": [
-					"https://itzthenikolai.itch.io/"
+					"https://leighhurley.itch.io/"
 				],
 				"rank": 42,
 				"ratings": 6,
@@ -2325,13 +2343,13 @@
 				"jam_name": "Crime",
 				"jam_link": "https://itch.io/jam/mini-jam-60",
 				"title": "Jail Break",
-				"title_link": "https://itzthenikolai.itch.io/jail-break",
+				"title_link": "https://leighhurley.itch.io/jail-break",
 				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726623",
 				"by": [
-					"ItzTheNikolai"
+					"leighhurley"
 				],
 				"by_link": [
-					"https://itzthenikolai.itch.io/"
+					"https://leighhurley.itch.io/"
 				],
 				"rank": 58,
 				"ratings": 6,
@@ -2343,13 +2361,13 @@
 				"jam_name": "Major Jam 4: Cosmic",
 				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
 				"title": "The Next Step",
-				"title_link": "https://itzthenikolai.itch.io/the-next-step",
+				"title_link": "https://leighhurley.itch.io/the-next-step",
 				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160266",
 				"by": [
-					"ItzTheNikolai"
+					"leighhurley"
 				],
 				"by_link": [
-					"https://itzthenikolai.itch.io/"
+					"https://leighhurley.itch.io/"
 				],
 				"rank": 74,
 				"ratings": 6,

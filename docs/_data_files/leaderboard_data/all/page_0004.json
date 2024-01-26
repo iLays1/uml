@@ -1009,6 +1009,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Holy Wars Kill But Never Die",
+				"title_link": "https://vvulpes0.itch.io/holy-wars-kill-but-never-die",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483257",
+				"by": [
+					"Pineberry Fox"
+				],
+				"by_link": [
+					"https://vvulpes0.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 15,
+				"score": 2.917
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
@@ -4178,6 +4196,24 @@
 				"rank": 7,
 				"ratings": 10,
 				"score": 4.025
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fireflies",
+				"title_link": "https://triplecubes.itch.io/fireflies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2485245",
+				"by": [
+					"TripleCubes"
+				],
+				"by_link": [
+					"https://triplecubes.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 17,
+				"score": 3.838
 			},
 			{
 				"jam_type": "mini_jam",

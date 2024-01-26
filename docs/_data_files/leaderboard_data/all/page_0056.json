@@ -1195,6 +1195,24 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lumos",
+				"title_link": "https://whopperino.itch.io/lumos",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483071",
+				"by": [
+					"whopps whopperino"
+				],
+				"by_link": [
+					"https://whopperino.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 9,
+				"score": 3.444
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 99,
 				"jam_name": "Birds",
 				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
@@ -1806,8 +1824,8 @@
 		]
 	},
 	{
-		"jammer": "Unknwn_Dev",
-		"jammer_link": "https://unknwn-dev.itch.io/",
+		"jammer": "UnknwnDev",
+		"jammer_link": "https://unknwndev.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1815,13 +1833,13 @@
 				"jam_name": "Birds",
 				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
 				"title": "Keep Flapping",
-				"title_link": "https://unknwn-dev.itch.io/keep-flapping",
+				"title_link": "https://unknwndev.itch.io/keep-flapping",
 				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1387424",
 				"by": [
-					"Unknwn_Dev"
+					"UnknwnDev"
 				],
 				"by_link": [
-					"https://unknwn-dev.itch.io/"
+					"https://unknwndev.itch.io/"
 				],
 				"rank": 165,
 				"ratings": 19,

@@ -1,5 +1,101 @@
 [
 	{
+		"jammer": "Cedar Street",
+		"jammer_link": "https://cedar-street.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"title": "Starpuffs",
+				"title_link": "https://cedar-street.itch.io/starpuffs",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2097379",
+				"by": [
+					"Cedar Street"
+				],
+				"by_link": [
+					"https://cedar-street.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 11,
+				"score": 4.045
+			}
+		]
+	},
+	{
+		"jammer": "jacobgreendev",
+		"jammer_link": "https://jacobgreendev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 75,
+				"jam_name": "Wisdom",
+				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
+				"title": "ReDiscovery",
+				"title_link": "https://jacobgreendev.itch.io/rediscovery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/947188",
+				"by": [
+					"jacobgreendev"
+				],
+				"by_link": [
+					"https://jacobgreendev.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 4.038
+			}
+		]
+	},
+	{
+		"jammer": "Robert Doman",
+		"jammer_link": "https://robert-doman.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"title": "Hack-R",
+				"title_link": "https://robert-doman.itch.io/hack-r",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/761949",
+				"by": [
+					"Robert Doman"
+				],
+				"by_link": [
+					"https://robert-doman.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 34,
+				"score": 4.037
+			}
+		]
+	},
+	{
+		"jammer": "Michael Parrish",
+		"jammer_link": "https://pichaelmarrish.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"title": "Pirate Panic",
+				"title_link": "https://pichaelmarrish.itch.io/pirate-panic",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113968",
+				"by": [
+					"Michael Parrish"
+				],
+				"by_link": [
+					"https://pichaelmarrish.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 24,
+				"score": 4.021
+			}
+		]
+	},
+	{
 		"jammer": "GHMR",
 		"jammer_link": "https://ghmr.itch.io/",
 		"list_game_sorted": [
@@ -2230,30 +2326,6 @@
 		]
 	},
 	{
-		"jammer": "Kent",
-		"jammer_link": "https://gamesbykent.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 132,
-				"jam_name": "Severed",
-				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"title": "grafted",
-				"title_link": "https://gamesbykent.itch.io/grafted",
-				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2071364",
-				"by": [
-					"Kent"
-				],
-				"by_link": [
-					"https://gamesbykent.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 5,
-				"score": 3.469
-			}
-		]
-	},
-	{
 		"jammer": "st3b",
 		"jammer_link": "https://st3b.itch.io/",
 		"list_game_sorted": [
@@ -2614,82 +2686,6 @@
 				"rank": 5,
 				"ratings": 7,
 				"score": 2.964
-			}
-		]
-	},
-	{
-		"jammer": "Zel",
-		"jammer_link": "https://heyimzel.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 22,
-				"jam_name": "Anime",
-				"jam_link": "https://itch.io/jam/mini-jam-22-anime",
-				"title": "Ice Breaker",
-				"title_link": "https://heyimzel.itch.io/ice-breaker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-22-anime/rate/374549",
-				"by": [
-					"Zel"
-				],
-				"by_link": [
-					"https://heyimzel.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 5,
-				"score": 2.944
-			}
-		]
-	},
-	{
-		"jammer": "honeytheyellowbear",
-		"jammer_link": "https://honeytheyellowbear.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 37,
-				"jam_name": "Engineering",
-				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
-				"title": "Softwar",
-				"title_link": "https://honeytheyellowbear.itch.io/softwar",
-				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487039",
-				"by": [
-					"honeytheyellowbear"
-				],
-				"by_link": [
-					"https://honeytheyellowbear.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 6,
-				"score": 2.833
-			}
-		]
-	},
-	{
-		"jammer": "Marc Gálvez",
-		"jammer_link": "https://optus23.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 58,
-				"jam_name": "Neon",
-				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
-				"title": "Geometry Hell",
-				"title_link": "https://optus23.itch.io/geometry-hell",
-				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701033",
-				"by": [
-					"Marc Gálvez",
-					"youis11",
-					"Brián Piancino"
-				],
-				"by_link": [
-					"https://optus23.itch.io/",
-					"https://youis11.itch.io/",
-					"https://bpiancinov.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 9,
-				"score": 2.833
 			}
 		]
 	}

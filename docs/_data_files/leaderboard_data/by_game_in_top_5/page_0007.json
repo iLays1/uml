@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "D_centum",
+		"jammer_link": "https://d-centum.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 58,
+				"jam_name": "Neon",
+				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
+				"title": "Payout",
+				"title_link": "https://d-centum.itch.io/payout",
+				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701312",
+				"by": [
+					"D_centum"
+				],
+				"by_link": [
+					"https://d-centum.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 11,
+				"score": 2.955
+			}
+		]
+	},
+	{
+		"jammer": "cracken",
+		"jammer_link": "https://cracken.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 7,
+				"jam_name": "Greek Mythology",
+				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
+				"title": "Germes Adventures",
+				"title_link": "https://cracken.itch.io/germes-adventures",
+				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285322",
+				"by": [
+					"cracken"
+				],
+				"by_link": [
+					"https://cracken.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 8,
+				"score": 2.75
+			}
+		]
+	},
+	{
 		"jammer": "jumpghost",
 		"jammer_link": "https://jumpghost.itch.io/",
 		"list_game_sorted": [
@@ -2528,54 +2576,6 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.719
-			}
-		]
-	},
-	{
-		"jammer": "Josh Larminay",
-		"jammer_link": "https://jlarminay.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"title": "Swords n Souls",
-				"title_link": "https://jlarminay.itch.io/swords-n-souls",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867999",
-				"by": [
-					"Josh Larminay"
-				],
-				"by_link": [
-					"https://jlarminay.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 27,
-				"score": 3.713
-			}
-		]
-	},
-	{
-		"jammer": "CloneDeath",
-		"jammer_link": "https://clonedeath.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"title": "Midnight Drive",
-				"title_link": "https://clonedeath.itch.io/midnight-drive",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402405",
-				"by": [
-					"CloneDeath"
-				],
-				"by_link": [
-					"https://clonedeath.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 3.712
 			}
 		]
 	}

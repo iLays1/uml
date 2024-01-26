@@ -344,6 +344,24 @@
 				"rank": 85,
 				"ratings": 20,
 				"score": 2.575
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Blue Square Cracks The Case",
+				"title_link": "https://quantum-linux.itch.io/blue-square-cracks-the-case",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483234",
+				"by": [
+					"Quantum Linux"
+				],
+				"by_link": [
+					"https://quantum-linux.itch.io/"
+				],
+				"rank": 118,
+				"ratings": 9,
+				"score": 1.833
 			}
 		]
 	},

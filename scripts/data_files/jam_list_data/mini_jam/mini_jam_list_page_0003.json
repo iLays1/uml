@@ -1,5 +1,318 @@
 [
 	{
+		"id": 120,
+		"jam_name": "Hell",
+		"link": "https://itch.io/jam/mini-jam-120-hell",
+		"list": [
+			{
+				"title": "Undeaf",
+				"title_link": "https://ash42z.itch.io/undeaf",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810986",
+				"by": [
+					"Ash",
+					"boaz4",
+					"avboag",
+					"alon.eldan"
+				],
+				"by_link": [
+					"https://ash42z.itch.io/",
+					"https://boaz4.itch.io/",
+					"https://avboag.itch.io/",
+					"https://aloneldan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.042
+			},
+			{
+				"title": "R.I.T.U.A.L",
+				"title_link": "https://badpiggy.itch.io/ritual",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810472",
+				"by": [
+					"Bad Piggy"
+				],
+				"by_link": [
+					"https://badpiggy.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.011
+			},
+			{
+				"title": "Dino's Nightmare",
+				"title_link": "https://lockd.itch.io/dinos-nightmare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810196",
+				"by": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 11,
+				"score": 3.886
+			},
+			{
+				"title": "Underworld Grave",
+				"title_link": "https://masxeboi.itch.io/underworld-grave",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1809851",
+				"by": [
+					"MasxeBoi"
+				],
+				"by_link": [
+					"https://masxeboi.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 9,
+				"score": 3.861
+			},
+			{
+				"title": "OMG Demons!",
+				"title_link": "https://rthurmed.itch.io/omg-demons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810754",
+				"by": [
+					"rthurmed"
+				],
+				"by_link": [
+					"https://rthurmed.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 3.8
+			},
+			{
+				"title": "The Devil's Spawn",
+				"title_link": "https://lexenson.itch.io/the-devils-spawn",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1812742",
+				"by": [
+					"lexenson"
+				],
+				"by_link": [
+					"https://lexenson.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 3.75
+			},
+			{
+				"title": "Do No Harm",
+				"title_link": "https://sawd-games.itch.io/do-no-harm",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1809536",
+				"by": [
+					"SAWD Games"
+				],
+				"by_link": [
+					"https://sawd-games.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 23,
+				"score": 3.565
+			},
+			{
+				"title": "Fallen From Above",
+				"title_link": "https://greym2.itch.io/fallen-from-above",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1806939",
+				"by": [
+					"GREYM2"
+				],
+				"by_link": [
+					"https://greym2.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 16,
+				"score": 3.531
+			},
+			{
+				"title": "GEHENNA",
+				"title_link": "https://unnamedcollective.itch.io/gehenna",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810484",
+				"by": [
+					"Temporarily Unnamed Collective",
+					"Constantin Liétard",
+					"OFFLINE"
+				],
+				"by_link": [
+					"https://unnamedcollective.itch.io/",
+					"https://screenshakes.itch.io/",
+					"https://offln.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.523
+			},
+			{
+				"title": "Stealth in Hell",
+				"title_link": "https://notrickzdumbo.itch.io/stealth-in-hell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810581",
+				"by": [
+					"notrickz"
+				],
+				"by_link": [
+					"https://notrickzdumbo.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 12,
+				"score": 3.521
+			},
+			{
+				"title": "Love will find a way",
+				"title_link": "https://vitorascorrea.itch.io/love-will-find-a-way",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810811",
+				"by": [
+					"vitorascorrea"
+				],
+				"by_link": [
+					"https://vitorascorrea.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.519
+			},
+			{
+				"title": "Heavenly Hell",
+				"title_link": "https://gaxyhs.itch.io/heavenly-hell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1808609",
+				"by": [
+					"Gaxyhs"
+				],
+				"by_link": [
+					"https://gaxyhs.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 9,
+				"score": 3.444
+			},
+			{
+				"title": "The Game of Theseus",
+				"title_link": "https://hatimb00.itch.io/the-game-of-theseus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1808522",
+				"by": [
+					"hatimb00"
+				],
+				"by_link": [
+					"https://hatimb00.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 19,
+				"score": 3.408
+			},
+			{
+				"title": "CodeChaos",
+				"title_link": "https://mikadogames.itch.io/codechaos",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810796",
+				"by": [
+					"Mikado"
+				],
+				"by_link": [
+					"https://mikadogames.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 10,
+				"score": 3.375
+			},
+			{
+				"title": "SoulFlame",
+				"title_link": "https://astrarrow.itch.io/soulflame",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810278",
+				"by": [
+					"astrarrow"
+				],
+				"by_link": [
+					"https://astrarrow.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 8,
+				"score": 3.281
+			},
+			{
+				"title": "Redemption Arc",
+				"title_link": "https://soelna.itch.io/redemptionarc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810427",
+				"by": [
+					"soelna",
+					"Stegoratops",
+					"Xanashea"
+				],
+				"by_link": [
+					"https://soelna.itch.io/",
+					"https://stegoratops.itch.io/",
+					"https://xanashea.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 8,
+				"score": 3.25
+			},
+			{
+				"title": "Navigate",
+				"title_link": "https://goodenoughdevs.itch.io/navigate",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810912",
+				"by": [
+					"Good Enough Games",
+					"Radium Polonium",
+					"Ania \"Xavier\"",
+					"MagDrez"
+				],
+				"by_link": [
+					"https://goodenoughdevs.itch.io/",
+					"https://radium-polonium.itch.io/",
+					"https://ania-xavier.itch.io/",
+					"https://magdrez.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 14,
+				"score": 3.232
+			},
+			{
+				"title": "Devils Garden",
+				"title_link": "https://piotrii.itch.io/devils-garden",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810433",
+				"by": [
+					"piotrii"
+				],
+				"by_link": [
+					"https://piotrii.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 8,
+				"score": 3.219
+			},
+			{
+				"title": "Devil Blanc",
+				"title_link": "https://seaferret.itch.io/devil-blanc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1811081",
+				"by": [
+					"SeaFerret",
+					"BiG Iris",
+					"RETRODEAD"
+				],
+				"by_link": [
+					"https://seaferret.itch.io/",
+					"https://stresspuddle.itch.io/",
+					"https://retrodead.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 14,
+				"score": 3.196
+			},
+			{
+				"title": "Frog's Climb",
+				"title_link": "https://themkdev.itch.io/fc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810609",
+				"by": [
+					"TheMKDev"
+				],
+				"by_link": [
+					"https://themkdev.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 16,
+				"score": 3.172
+			}
+		]
+	},
+	{
 		"id": 119,
 		"jam_name": "Heaven",
 		"link": "https://itch.io/jam/mini-jam-119-heaven",
@@ -2163,13 +2476,13 @@
 			},
 			{
 				"title": "Chrono Hop",
-				"title_link": "https://mrfgames.itch.io/chrono-hop",
+				"title_link": "https://murfgames.itch.io/chrono-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653308",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 11,
@@ -2739,297 +3052,6 @@
 				"rank": 21,
 				"ratings": 21,
 				"score": 4
-			}
-		]
-	},
-	{
-		"id": 110,
-		"jam_name": "Sacrifice",
-		"link": "https://itch.io/jam/mini-jam-110-sacrifice",
-		"list": [
-			{
-				"title": "MASAYOSHI",
-				"title_link": "https://filipex2000.itch.io/masayoshi",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609567",
-				"by": [
-					"fil"
-				],
-				"by_link": [
-					"https://filipex2000.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 11,
-				"score": 4.409
-			},
-			{
-				"title": "Ember Slash",
-				"title_link": "https://youdoyoubuddy.itch.io/ember-slash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609540",
-				"by": [
-					"YouDoYouBuddy"
-				],
-				"by_link": [
-					"https://youdoyoubuddy.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.304
-			},
-			{
-				"title": "Su'ccess and Fai'Lure",
-				"title_link": "https://ilprinni.itch.io/su-ccess-and-fai-lure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1610657",
-				"by": [
-					"ilPrinni"
-				],
-				"by_link": [
-					"https://ilprinni.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 11,
-				"score": 4.25
-			},
-			{
-				"title": "Corpse Wizard",
-				"title_link": "https://firebelley.itch.io/corpse-wizard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609404",
-				"by": [
-					"Firebelley"
-				],
-				"by_link": [
-					"https://firebelley.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 28,
-				"score": 4.232
-			},
-			{
-				"title": "A Daydream",
-				"title_link": "https://dandelion-garden.itch.io/a-daydream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1611480",
-				"by": [
-					"Dandelion Garden"
-				],
-				"by_link": [
-					"https://dandelion-garden.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 15,
-				"score": 4.167
-			},
-			{
-				"title": "The Sunboy &amp; The Icarus",
-				"title_link": "https://murgn.itch.io/the-sunboy-the-icarus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609409",
-				"by": [
-					"Murgn",
-					"Staintocton"
-				],
-				"by_link": [
-					"https://murgn.itch.io/",
-					"https://staintocton.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 4.091
-			},
-			{
-				"title": "Blazing Settlement",
-				"title_link": "https://len-underbrink-devs.itch.io/blazing-settlement",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1610537",
-				"by": [
-					"Len Underbrink Devs."
-				],
-				"by_link": [
-					"https://len-underbrink-devs.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 10,
-				"score": 4.025
-			},
-			{
-				"title": "Rat Collector",
-				"title_link": "https://liftyforever.itch.io/rat-collector",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608654",
-				"by": [
-					"LiftyForever"
-				],
-				"by_link": [
-					"https://liftyforever.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 11,
-				"score": 4.023
-			},
-			{
-				"title": "Rush Hour",
-				"title_link": "https://thejamark1.itch.io/rush-hour",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609491",
-				"by": [
-					"theJAMARK1"
-				],
-				"by_link": [
-					"https://thejamark1.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 17,
-				"score": 3.985
-			},
-			{
-				"title": "Tapamomupotupumato",
-				"title_link": "https://endorth.itch.io/tapamomupotupumato",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608208",
-				"by": [
-					"Endorth"
-				],
-				"by_link": [
-					"https://endorth.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 33,
-				"score": 3.985
-			},
-			{
-				"title": "Bridge Ghostructor",
-				"title_link": "https://picalines.itch.io/bridge-ghostructor",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609383",
-				"by": [
-					"picalines"
-				],
-				"by_link": [
-					"https://picalines.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 17,
-				"score": 3.941
-			},
-			{
-				"title": "Language Erasure",
-				"title_link": "https://yeoyeo.itch.io/language-erasure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608634",
-				"by": [
-					"Yeo Yeo"
-				],
-				"by_link": [
-					"https://yeoyeo.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 12,
-				"score": 3.938
-			},
-			{
-				"title": "Surrounded",
-				"title_link": "https://le-z.itch.io/surrounded",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609374",
-				"by": [
-					"Le_Z"
-				],
-				"by_link": [
-					"https://le-z.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 20,
-				"score": 3.925
-			},
-			{
-				"title": "SacriFailure",
-				"title_link": "https://chimplement.itch.io/sacrifailure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608530",
-				"by": [
-					"Chimplement"
-				],
-				"by_link": [
-					"https://chimplement.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 33,
-				"score": 3.902
-			},
-			{
-				"title": "Ophisk",
-				"title_link": "https://fe26.itch.io/ophisk",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609635",
-				"by": [
-					"Fe26"
-				],
-				"by_link": [
-					"https://fe26.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 12,
-				"score": 3.875
-			},
-			{
-				"title": "Meltdown",
-				"title_link": "https://not-jam.itch.io/meltdown",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608176",
-				"by": [
-					"Not Jam"
-				],
-				"by_link": [
-					"https://not-jam.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 27,
-				"score": 3.87
-			},
-			{
-				"title": "Flightless",
-				"title_link": "https://zahranworrell.itch.io/flightless",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608347",
-				"by": [
-					"ZahranW"
-				],
-				"by_link": [
-					"https://zahranworrell.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 12,
-				"score": 3.854
-			},
-			{
-				"title": "Lovely Sheep (找死咩)",
-				"title_link": "https://rainizou.itch.io/lovelysheep",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608973",
-				"by": [
-					"RainiZou",
-					"YanBuJin"
-				],
-				"by_link": [
-					"https://rainizou.itch.io/",
-					"https://yanbujin.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 55,
-				"score": 3.841
-			},
-			{
-				"title": "On top of corpses",
-				"title_link": "https://ojornag.itch.io/on-top-of-corpses",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1607436",
-				"by": [
-					"Ojornag"
-				],
-				"by_link": [
-					"https://ojornag.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 26,
-				"score": 3.827
-			},
-			{
-				"title": "A holy sacrifice",
-				"title_link": "https://cursedstudios.itch.io/a-holy-sacrifice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608840",
-				"by": [
-					"CursedStudios"
-				],
-				"by_link": [
-					"https://cursedstudios.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 7,
-				"score": 3.821
 			}
 		]
 	}

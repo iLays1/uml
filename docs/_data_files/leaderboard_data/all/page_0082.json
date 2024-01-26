@@ -1042,8 +1042,8 @@
 		]
 	},
 	{
-		"jammer": "Dj_Pjs",
-		"jammer_link": "https://dj-pjs.itch.io/",
+		"jammer": "Dj_Pj_",
+		"jammer_link": "https://dj-pj.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1051,13 +1051,13 @@
 				"jam_name": "Hell",
 				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
 				"title": "HellishConnection",
-				"title_link": "https://dj-pjs.itch.io/hellish-connection",
+				"title_link": "https://dj-pj.itch.io/hellish-connection",
 				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810491",
 				"by": [
-					"Dj_Pjs"
+					"Dj_Pj_"
 				],
 				"by_link": [
-					"https://dj-pjs.itch.io/"
+					"https://dj-pj.itch.io/"
 				],
 				"rank": 47,
 				"ratings": 3,
@@ -1069,13 +1069,13 @@
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
 				"title": "Faster Than Light Drive Through",
-				"title_link": "https://dj-pjs.itch.io/faster-than-light-drive-through",
+				"title_link": "https://dj-pj.itch.io/faster-than-light-drive-through",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832189",
 				"by": [
-					"Dj_Pjs"
+					"Dj_Pj_"
 				],
 				"by_link": [
-					"https://dj-pjs.itch.io/"
+					"https://dj-pj.itch.io/"
 				],
 				"rank": 52,
 				"ratings": 12,
@@ -1562,6 +1562,24 @@
 				"rank": 9,
 				"ratings": 9,
 				"score": 3.972
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Champion of light",
+				"title_link": "https://almarz.itch.io/champion-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482812",
+				"by": [
+					"almarz"
+				],
+				"by_link": [
+					"https://almarz.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.589
 			}
 		]
 	},

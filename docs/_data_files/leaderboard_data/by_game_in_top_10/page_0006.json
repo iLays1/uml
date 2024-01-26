@@ -1,5 +1,127 @@
 [
 	{
+		"jammer": "dasPanjo",
+		"jammer_link": "https://daspanjo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 35,
+				"jam_name": "Vikings",
+				"jam_link": "https://itch.io/jam/mini-jam-35-vikings",
+				"title": "Nords Odyssey",
+				"title_link": "https://jvolonte.itch.io/nordsodyssey",
+				"submission_page_link": "https://itch.io/jam/mini-jam-35-vikings/rate/473480",
+				"by": [
+					"jvolonte",
+					"dasPanjo"
+				],
+				"by_link": [
+					"https://jvolonte.itch.io/",
+					"https://daspanjo.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 16,
+				"score": 3.984
+			}
+		]
+	},
+	{
+		"jammer": "Balstik",
+		"jammer_link": "https://balstik.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 64,
+				"jam_name": "Nintendo 64",
+				"jam_link": "https://itch.io/jam/mini-jam-64",
+				"title": "The 64th Cohort",
+				"title_link": "https://balstik.itch.io/the-64th-cohort",
+				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
+				"by": [
+					"Balstik",
+					"Pookitoki",
+					"Catlaiya",
+					"Kimi",
+					"petitc00kie",
+					"Trino"
+				],
+				"by_link": [
+					"https://balstik.itch.io/",
+					"https://pookitoki.itch.io/",
+					"https://catlaiya.itch.io/",
+					"https://kiminako.itch.io/",
+					"https://petitc00kie.itch.io/",
+					"https://trino.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 7,
+				"score": 3.942
+			}
+		]
+	},
+	{
+		"jammer": "petitc00kie",
+		"jammer_link": "https://petitc00kie.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 64,
+				"jam_name": "Nintendo 64",
+				"jam_link": "https://itch.io/jam/mini-jam-64",
+				"title": "The 64th Cohort",
+				"title_link": "https://balstik.itch.io/the-64th-cohort",
+				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
+				"by": [
+					"Balstik",
+					"Pookitoki",
+					"Catlaiya",
+					"Kimi",
+					"petitc00kie",
+					"Trino"
+				],
+				"by_link": [
+					"https://balstik.itch.io/",
+					"https://pookitoki.itch.io/",
+					"https://catlaiya.itch.io/",
+					"https://kiminako.itch.io/",
+					"https://petitc00kie.itch.io/",
+					"https://trino.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 7,
+				"score": 3.942
+			}
+		]
+	},
+	{
+		"jammer": "RabidTunes",
+		"jammer_link": "https://rabidtunes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"title": "The Last Doughnut",
+				"title_link": "https://plazaro.itch.io/the-last-doughnut",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671853",
+				"by": [
+					"Patricia Lazaro",
+					"RabidTunes",
+					"Alejandro Royo"
+				],
+				"by_link": [
+					"https://plazaro.itch.io/",
+					"https://rabidtunes.itch.io/",
+					"https://aroyo.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 3.94
+			}
+		]
+	},
+	{
 		"jammer": "Team Bean",
 		"jammer_link": "https://team-bean.itch.io/",
 		"list_game_sorted": [
@@ -24,8 +146,8 @@
 		]
 	},
 	{
-		"jammer": "Akimaya",
-		"jammer_link": "https://akimaya.itch.io/",
+		"jammer": "thetwilightsoup",
+		"jammer_link": "https://thetwilightsoup.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -33,14 +155,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -59,14 +181,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -2430,114 +2552,6 @@
 				"rank": 4,
 				"ratings": 13,
 				"score": 3.981
-			}
-		]
-	},
-	{
-		"jammer": "GeorgeLei",
-		"jammer_link": "https://georgelei.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "Neon Dash",
-				"title_link": "https://georgelei.itch.io/neon-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977842",
-				"by": [
-					"GeorgeLei",
-					"yxmeng",
-					"YUANGCHEN"
-				],
-				"by_link": [
-					"https://georgelei.itch.io/",
-					"https://yxmeng.itch.io/",
-					"https://yuangchen.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 17,
-				"score": 3.971
-			}
-		]
-	},
-	{
-		"jammer": "yxmeng",
-		"jammer_link": "https://yxmeng.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "Neon Dash",
-				"title_link": "https://georgelei.itch.io/neon-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977842",
-				"by": [
-					"GeorgeLei",
-					"yxmeng",
-					"YUANGCHEN"
-				],
-				"by_link": [
-					"https://georgelei.itch.io/",
-					"https://yxmeng.itch.io/",
-					"https://yuangchen.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 17,
-				"score": 3.971
-			}
-		]
-	},
-	{
-		"jammer": "YUANGCHEN",
-		"jammer_link": "https://yuangchen.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "Neon Dash",
-				"title_link": "https://georgelei.itch.io/neon-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977842",
-				"by": [
-					"GeorgeLei",
-					"yxmeng",
-					"YUANGCHEN"
-				],
-				"by_link": [
-					"https://georgelei.itch.io/",
-					"https://yxmeng.itch.io/",
-					"https://yuangchen.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 17,
-				"score": 3.971
-			}
-		]
-	},
-	{
-		"jammer": "Jorddagreatest",
-		"jammer_link": "https://jorddagreatest.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"title": "Don't Get Catfished!",
-				"title_link": "https://jorddagreatest.itch.io/dont-get-catfished",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511813",
-				"by": [
-					"Jorddagreatest"
-				],
-				"by_link": [
-					"https://jorddagreatest.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 19,
-				"score": 3.961
 			}
 		]
 	}

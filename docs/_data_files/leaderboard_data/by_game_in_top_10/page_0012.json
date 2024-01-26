@@ -1,5 +1,125 @@
 [
 	{
+		"jammer": "squareSquared",
+		"jammer_link": "https://squaresquared.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "not alone",
+				"title_link": "https://squaresquared.itch.io/testforjam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187972",
+				"by": [
+					"squareSquared"
+				],
+				"by_link": [
+					"https://squaresquared.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 9,
+				"score": 3.889
+			}
+		]
+	},
+	{
+		"jammer": "Ilinn",
+		"jammer_link": "https://ilynn.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"title": "Blue Chicken Mini Jam 97",
+				"title_link": "https://ilynn.itch.io/blue-chicken-minijam97",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347502",
+				"by": [
+					"Ilinn"
+				],
+				"by_link": [
+					"https://ilynn.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 15,
+				"score": 3.883
+			}
+		]
+	},
+	{
+		"jammer": "PitiIT",
+		"jammer_link": "https://pitiit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"title": "WhatSheWants",
+				"title_link": "https://pitiit.itch.io/whatshewants",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688823",
+				"by": [
+					"PitiIT"
+				],
+				"by_link": [
+					"https://pitiit.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 22,
+				"score": 3.875
+			}
+		]
+	},
+	{
+		"jammer": "whybee",
+		"jammer_link": "https://ybyegorov.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 67,
+				"jam_name": "Void",
+				"jam_link": "https://itch.io/jam/mini-jam-67-void",
+				"title": "Follow and Find",
+				"title_link": "https://ybyegorov.itch.io/follow-and-find",
+				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/822784",
+				"by": [
+					"whybee"
+				],
+				"by_link": [
+					"https://ybyegorov.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 24,
+				"score": 3.875
+			}
+		]
+	},
+	{
+		"jammer": "Polosokam",
+		"jammer_link": "https://polosokam.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Slime Grinder",
+				"title_link": "https://polosokam.itch.io/slime-grinder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879746",
+				"by": [
+					"Polosokam"
+				],
+				"by_link": [
+					"https://polosokam.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 10,
+				"score": 3.85
+			}
+		]
+	},
+	{
 		"jammer": "Alex_D05",
 		"jammer_link": "https://alex-d05.itch.io/",
 		"list_game_sorted": [
@@ -2410,138 +2530,6 @@
 				"rank": 9,
 				"ratings": 7,
 				"score": 3.964
-			}
-		]
-	},
-	{
-		"jammer": "Teljen",
-		"jammer_link": "https://teljen.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"title": "Boundary Breakers",
-				"title_link": "https://teljen.itch.io/boundary-breakers",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1828986",
-				"by": [
-					"Teljen"
-				],
-				"by_link": [
-					"https://teljen.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 14,
-				"score": 3.964
-			}
-		]
-	},
-	{
-		"jammer": "DelightfulDev",
-		"jammer_link": "https://delightfuldev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"title": "Werewolf Gardener",
-				"title_link": "https://delightfuldev.itch.io/werewolf-gardener",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430720",
-				"by": [
-					"DelightfulDev"
-				],
-				"by_link": [
-					"https://delightfuldev.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 19,
-				"score": 3.961
-			}
-		]
-	},
-	{
-		"jammer": "Gramsly",
-		"jammer_link": "https://dodgergramsly.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"title": "SteamMarine",
-				"title_link": "https://dodgergramsly.itch.io/steammarine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
-				"by": [
-					"Gramsly",
-					"Wimbo",
-					"Fort"
-				],
-				"by_link": [
-					"https://dodgergramsly.itch.io/",
-					"https://wimbo.itch.io/",
-					"https://fort4short.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 21,
-				"score": 3.952
-			}
-		]
-	},
-	{
-		"jammer": "Wimbo",
-		"jammer_link": "https://wimbo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"title": "SteamMarine",
-				"title_link": "https://dodgergramsly.itch.io/steammarine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
-				"by": [
-					"Gramsly",
-					"Wimbo",
-					"Fort"
-				],
-				"by_link": [
-					"https://dodgergramsly.itch.io/",
-					"https://wimbo.itch.io/",
-					"https://fort4short.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 21,
-				"score": 3.952
-			}
-		]
-	},
-	{
-		"jammer": "Fort",
-		"jammer_link": "https://fort4short.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"title": "SteamMarine",
-				"title_link": "https://dodgergramsly.itch.io/steammarine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
-				"by": [
-					"Gramsly",
-					"Wimbo",
-					"Fort"
-				],
-				"by_link": [
-					"https://dodgergramsly.itch.io/",
-					"https://wimbo.itch.io/",
-					"https://fort4short.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 21,
-				"score": 3.952
 			}
 		]
 	}

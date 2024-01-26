@@ -1,5 +1,101 @@
 [
 	{
+		"jammer": "onl1ner",
+		"jammer_link": "https://onl1ner.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 9,
+				"jam_name": "Back To School",
+				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+				"title": "Holy Sheet",
+				"title_link": "https://onl1ner.itch.io/holy-sheet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297678",
+				"by": [
+					"onl1ner"
+				],
+				"by_link": [
+					"https://onl1ner.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 13,
+				"score": 4.5
+			}
+		]
+	},
+	{
+		"jammer": "Matthew Coder",
+		"jammer_link": "https://matteo-dalessandro.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "Hypochondriac Vampire",
+				"title_link": "https://matteo-dalessandro.itch.io/hypochondriac-vampire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769228",
+				"by": [
+					"Matthew Coder"
+				],
+				"by_link": [
+					"https://matteo-dalessandro.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 22,
+				"score": 4.5
+			}
+		]
+	},
+	{
+		"jammer": "Aren",
+		"jammer_link": "https://aren227.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"title": "Beatshot",
+				"title_link": "https://aren227.itch.io/beatshot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1674838",
+				"by": [
+					"Aren"
+				],
+				"by_link": [
+					"https://aren227.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 13,
+				"score": 4.481
+			}
+		]
+	},
+	{
+		"jammer": "Chemist02",
+		"jammer_link": "https://chemist02.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Blocks",
+				"title_link": "https://chemist02.itch.io/blocks",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880458",
+				"by": [
+					"Chemist02"
+				],
+				"by_link": [
+					"https://chemist02.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 4.475
+			}
+		]
+	},
+	{
 		"jammer": "Bobby_The_Goblin",
 		"jammer_link": "https://bobbythegoblin.itch.io/",
 		"list_game_sorted": [
@@ -2518,102 +2614,6 @@
 				"rank": 1,
 				"ratings": 6,
 				"score": 3.548
-			}
-		]
-	},
-	{
-		"jammer": "nedryz",
-		"jammer_link": "https://nedryz.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 58,
-				"jam_name": "Neon",
-				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
-				"title": "NeoGenesis",
-				"title_link": "https://nedryz.itch.io/neogenesis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/695424",
-				"by": [
-					"nedryz"
-				],
-				"by_link": [
-					"https://nedryz.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 3.2
-			}
-		]
-	},
-	{
-		"jammer": "AshvinR",
-		"jammer_link": "https://ashvinr.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 37,
-				"jam_name": "Engineering",
-				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
-				"title": "Channel 1",
-				"title_link": "https://ashvinr.itch.io/channel-1",
-				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486759",
-				"by": [
-					"AshvinR"
-				],
-				"by_link": [
-					"https://ashvinr.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 5,
-				"score": 3.15
-			}
-		]
-	},
-	{
-		"jammer": "keyo",
-		"jammer_link": "https://keyo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 4,
-				"jam_name": "Gameboy",
-				"jam_link": "https://itch.io/jam/mini-jam-4th-edition",
-				"title": "Equinox",
-				"title_link": "https://keyo.itch.io/equinox",
-				"submission_page_link": "https://itch.io/jam/mini-jam-4th-edition/rate/270051",
-				"by": [
-					"keyo"
-				],
-				"by_link": [
-					"https://keyo.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 0.643
-			}
-		]
-	},
-	{
-		"jammer": "Zaphiron",
-		"jammer_link": "https://zaphiron.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 13,
-				"jam_name": "Villains",
-				"jam_link": "https://itch.io/jam/mini-jam-13-villains-",
-				"title": "The Seven Sins (Game Jam Entry)",
-				"title_link": "https://zaphiron.itch.io/the-seven-sins-game-jam-entry",
-				"submission_page_link": "https://itch.io/jam/mini-jam-13-villains-/rate/320048",
-				"by": [
-					"Zaphiron"
-				],
-				"by_link": [
-					"https://zaphiron.itch.io/"
-				],
-				"rank": 1,
-				"ratings": null,
-				"score": null
 			}
 		]
 	}

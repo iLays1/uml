@@ -1,5 +1,31 @@
 [
 	{
+		"jammer": "Lentsius",
+		"jammer_link": "https://lentsius-bark.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"title": "Alien on the run",
+				"title_link": "https://lentsius-bark.itch.io/alien-on-the-run",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459814",
+				"by": [
+					"Lentsius",
+					"Michal Hudek"
+				],
+				"by_link": [
+					"https://lentsius-bark.itch.io/",
+					"https://frostak-tnv.itch.io/"
+				],
+				"rank": 129,
+				"ratings": 2,
+				"score": 1.537
+			}
+		]
+	},
+	{
 		"jammer": "Michal Hudek",
 		"jammer_link": "https://frostak-tnv.itch.io/",
 		"list_game_sorted": [
@@ -518,22 +544,40 @@
 		]
 	},
 	{
-		"jammer": "The",
-		"jammer_link": "https://govr017itch.itch.io/",
+		"jammer": "ImaT1re",
+		"jammer_link": "https://imat1re.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Luminosity Quest",
+				"title_link": "https://imat1re.itch.io/luminosity-quest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480429",
+				"by": [
+					"ImaT1re"
+				],
+				"by_link": [
+					"https://imat1re.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 13,
+				"score": 2.885
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
 				"title": "The Vast Game",
-				"title_link": "https://govr017itch.itch.io/tvg",
+				"title_link": "https://imat1re.itch.io/tvg",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459355",
 				"by": [
-					"The"
+					"ImaT1re"
 				],
 				"by_link": [
-					"https://govr017itch.itch.io/"
+					"https://imat1re.itch.io/"
 				],
 				"rank": 152,
 				"ratings": 2,
@@ -595,6 +639,26 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Night and fireflies",
+				"title_link": "https://crewwe.itch.io/night-and-a-fireflies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2486167",
+				"by": [
+					"crewwe",
+					"amytea"
+				],
+				"by_link": [
+					"https://crewwe.itch.io/",
+					"https://amytea.itch.io/"
+				],
+				"rank": 119,
+				"ratings": 3,
+				"score": 1.8
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
@@ -619,6 +683,26 @@
 		"jammer": "amytea",
 		"jammer_link": "https://amytea.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Night and fireflies",
+				"title_link": "https://crewwe.itch.io/night-and-a-fireflies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2486167",
+				"by": [
+					"crewwe",
+					"amytea"
+				],
+				"by_link": [
+					"https://crewwe.itch.io/",
+					"https://amytea.itch.io/"
+				],
+				"rank": 119,
+				"ratings": 3,
+				"score": 1.8
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
@@ -669,6 +753,28 @@
 		"jammer": "Christess12",
 		"jammer_link": "https://christess12.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Starlight",
+				"title_link": "https://christess12.itch.io/starlight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483118",
+				"by": [
+					"Christess12",
+					"Nerushi",
+					"Ard3ntly"
+				],
+				"by_link": [
+					"https://christess12.itch.io/",
+					"https://nerushi.itch.io/",
+					"https://ard3ntly.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 6,
+				"score": 2.816
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
@@ -806,6 +912,1792 @@
 				"rank": 161,
 				"ratings": 1,
 				"score": 0.378
+			}
+		]
+	},
+	{
+		"jammer": "Hezztia",
+		"jammer_link": "https://hezztia.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Ignis Fatuus",
+				"title_link": "https://hezztia.itch.io/ignis-fatuus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483201",
+				"by": [
+					"Hezztia"
+				],
+				"by_link": [
+					"https://hezztia.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.2
+			}
+		]
+	},
+	{
+		"jammer": "studioberry",
+		"jammer_link": "https://studioberry.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Skippy the Wizard",
+				"title_link": "https://studioberry.itch.io/skippy-the-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482940",
+				"by": [
+					"studioberry",
+					"gator-gaming"
+				],
+				"by_link": [
+					"https://studioberry.itch.io/",
+					"https://gator-gaming.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "gator-gaming",
+		"jammer_link": "https://gator-gaming.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Skippy the Wizard",
+				"title_link": "https://studioberry.itch.io/skippy-the-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482940",
+				"by": [
+					"studioberry",
+					"gator-gaming"
+				],
+				"by_link": [
+					"https://studioberry.itch.io/",
+					"https://gator-gaming.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "Laicaisami",
+		"jammer_link": "https://laicaisami.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lightweaver",
+				"title_link": "https://laicaisami.itch.io/lightweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483127",
+				"by": [
+					"Laicaisami"
+				],
+				"by_link": [
+					"https://laicaisami.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 17,
+				"score": 3.941
+			}
+		]
+	},
+	{
+		"jammer": "drhayes",
+		"jammer_link": "https://drhayes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Felis Lux",
+				"title_link": "https://drhayes.itch.io/felis-lux",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481957",
+				"by": [
+					"drhayes"
+				],
+				"by_link": [
+					"https://drhayes.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 11,
+				"score": 3.841
+			}
+		]
+	},
+	{
+		"jammer": "Duck Duet",
+		"jammer_link": "https://duckduet.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Botanical Brew",
+				"title_link": "https://duckduet.itch.io/botanical-brew",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483082",
+				"by": [
+					"Duck Duet"
+				],
+				"by_link": [
+					"https://duckduet.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 9,
+				"score": 3.833
+			}
+		]
+	},
+	{
+		"jammer": "BigBear675",
+		"jammer_link": "https://bigbear675.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Charon's River Ride!",
+				"title_link": "https://bigbear675.itch.io/charons-river-ride",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482645",
+				"by": [
+					"BigBear675"
+				],
+				"by_link": [
+					"https://bigbear675.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 7,
+				"score": 3.786
+			}
+		]
+	},
+	{
+		"jammer": "_TONYROOS",
+		"jammer_link": "https://tony-roos.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Core",
+				"title_link": "https://tony-roos.itch.io/core",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481889",
+				"by": [
+					"_TONYROOS"
+				],
+				"by_link": [
+					"https://tony-roos.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 25,
+				"score": 3.76
+			}
+		]
+	},
+	{
+		"jammer": "Light",
+		"jammer_link": "https://light-spirit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Spirit of Balance",
+				"title_link": "https://light-spirit.itch.io/spirit-of-balance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482863",
+				"by": [
+					"Light"
+				],
+				"by_link": [
+					"https://light-spirit.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 11,
+				"score": 3.705
+			}
+		]
+	},
+	{
+		"jammer": "RP011",
+		"jammer_link": "https://rp011.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Light the Block!!",
+				"title_link": "https://rp011.itch.io/light-the-block-305",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481782",
+				"by": [
+					"RP011"
+				],
+				"by_link": [
+					"https://rp011.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 7,
+				"score": 3.643
+			}
+		]
+	},
+	{
+		"jammer": "marcos",
+		"jammer_link": "https://marcxnsn.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "˚₊‧꒰ა fae lights ໒꒱ ‧₊˚",
+				"title_link": "https://marcxnsn.itch.io/fae-lights",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480056",
+				"by": [
+					"marcos",
+					"backspc3",
+					"jak2"
+				],
+				"by_link": [
+					"https://marcxnsn.itch.io/",
+					"https://backspc3.itch.io/",
+					"https://jak2.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 13,
+				"score": 3.635
+			}
+		]
+	},
+	{
+		"jammer": "backspc3",
+		"jammer_link": "https://backspc3.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "˚₊‧꒰ა fae lights ໒꒱ ‧₊˚",
+				"title_link": "https://marcxnsn.itch.io/fae-lights",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480056",
+				"by": [
+					"marcos",
+					"backspc3",
+					"jak2"
+				],
+				"by_link": [
+					"https://marcxnsn.itch.io/",
+					"https://backspc3.itch.io/",
+					"https://jak2.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 13,
+				"score": 3.635
+			}
+		]
+	},
+	{
+		"jammer": "jak2",
+		"jammer_link": "https://jak2.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "˚₊‧꒰ა fae lights ໒꒱ ‧₊˚",
+				"title_link": "https://marcxnsn.itch.io/fae-lights",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480056",
+				"by": [
+					"marcos",
+					"backspc3",
+					"jak2"
+				],
+				"by_link": [
+					"https://marcxnsn.itch.io/",
+					"https://backspc3.itch.io/",
+					"https://jak2.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 13,
+				"score": 3.635
+			}
+		]
+	},
+	{
+		"jammer": "Hot Noggin Studios",
+		"jammer_link": "https://hotnoggin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Connie the Crystalcaster",
+				"title_link": "https://hotnoggin.itch.io/crystalcast",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480808",
+				"by": [
+					"Hot Noggin Studios",
+					"just the dani"
+				],
+				"by_link": [
+					"https://hotnoggin.itch.io/",
+					"https://justthedanii.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 29,
+				"score": 3.629
+			}
+		]
+	},
+	{
+		"jammer": "just the dani",
+		"jammer_link": "https://justthedanii.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Connie the Crystalcaster",
+				"title_link": "https://hotnoggin.itch.io/crystalcast",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480808",
+				"by": [
+					"Hot Noggin Studios",
+					"just the dani"
+				],
+				"by_link": [
+					"https://hotnoggin.itch.io/",
+					"https://justthedanii.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 29,
+				"score": 3.629
+			}
+		]
+	},
+	{
+		"jammer": "hexstudios",
+		"jammer_link": "https://hexstudios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Let There Be Blight",
+				"title_link": "https://hexstudios.itch.io/let-there-be-blight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483361",
+				"by": [
+					"hexstudios",
+					"_booch",
+					"SrChow",
+					"WiseNoodle",
+					"UnifiedKings"
+				],
+				"by_link": [
+					"https://hexstudios.itch.io/",
+					"https://booch-portfolio.itch.io/",
+					"https://srchow.itch.io/",
+					"https://wisenoodle.itch.io/",
+					"https://unifiedkings.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 6,
+				"score": 3.549
+			}
+		]
+	},
+	{
+		"jammer": "_booch",
+		"jammer_link": "https://booch-portfolio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Let There Be Blight",
+				"title_link": "https://hexstudios.itch.io/let-there-be-blight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483361",
+				"by": [
+					"hexstudios",
+					"_booch",
+					"SrChow",
+					"WiseNoodle",
+					"UnifiedKings"
+				],
+				"by_link": [
+					"https://hexstudios.itch.io/",
+					"https://booch-portfolio.itch.io/",
+					"https://srchow.itch.io/",
+					"https://wisenoodle.itch.io/",
+					"https://unifiedkings.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 6,
+				"score": 3.549
+			}
+		]
+	},
+	{
+		"jammer": "SrChow",
+		"jammer_link": "https://srchow.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Let There Be Blight",
+				"title_link": "https://hexstudios.itch.io/let-there-be-blight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483361",
+				"by": [
+					"hexstudios",
+					"_booch",
+					"SrChow",
+					"WiseNoodle",
+					"UnifiedKings"
+				],
+				"by_link": [
+					"https://hexstudios.itch.io/",
+					"https://booch-portfolio.itch.io/",
+					"https://srchow.itch.io/",
+					"https://wisenoodle.itch.io/",
+					"https://unifiedkings.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 6,
+				"score": 3.549
+			}
+		]
+	},
+	{
+		"jammer": "WiseNoodle",
+		"jammer_link": "https://wisenoodle.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Let There Be Blight",
+				"title_link": "https://hexstudios.itch.io/let-there-be-blight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483361",
+				"by": [
+					"hexstudios",
+					"_booch",
+					"SrChow",
+					"WiseNoodle",
+					"UnifiedKings"
+				],
+				"by_link": [
+					"https://hexstudios.itch.io/",
+					"https://booch-portfolio.itch.io/",
+					"https://srchow.itch.io/",
+					"https://wisenoodle.itch.io/",
+					"https://unifiedkings.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 6,
+				"score": 3.549
+			}
+		]
+	},
+	{
+		"jammer": "UnifiedKings",
+		"jammer_link": "https://unifiedkings.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Let There Be Blight",
+				"title_link": "https://hexstudios.itch.io/let-there-be-blight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483361",
+				"by": [
+					"hexstudios",
+					"_booch",
+					"SrChow",
+					"WiseNoodle",
+					"UnifiedKings"
+				],
+				"by_link": [
+					"https://hexstudios.itch.io/",
+					"https://booch-portfolio.itch.io/",
+					"https://srchow.itch.io/",
+					"https://wisenoodle.itch.io/",
+					"https://unifiedkings.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 6,
+				"score": 3.549
+			}
+		]
+	},
+	{
+		"jammer": "Landry GD",
+		"jammer_link": "https://landrygd.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "The Light EATER",
+				"title_link": "https://landrygd.itch.io/the-light-eater",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481951",
+				"by": [
+					"Landry GD"
+				],
+				"by_link": [
+					"https://landrygd.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 11,
+				"score": 3.455
+			}
+		]
+	},
+	{
+		"jammer": "Flow Studios",
+		"jammer_link": "https://flowstudios24.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Keep it Lit!",
+				"title_link": "https://flowstudios24.itch.io/keep-it-lit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2478257",
+				"by": [
+					"Flow Studios",
+					"Gear",
+					"Skilix"
+				],
+				"by_link": [
+					"https://flowstudios24.itch.io/",
+					"https://gearczech.itch.io/",
+					"https://skilix.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 10,
+				"score": 3.425
+			}
+		]
+	},
+	{
+		"jammer": "Gear",
+		"jammer_link": "https://gearczech.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Keep it Lit!",
+				"title_link": "https://flowstudios24.itch.io/keep-it-lit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2478257",
+				"by": [
+					"Flow Studios",
+					"Gear",
+					"Skilix"
+				],
+				"by_link": [
+					"https://flowstudios24.itch.io/",
+					"https://gearczech.itch.io/",
+					"https://skilix.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 10,
+				"score": 3.425
+			}
+		]
+	},
+	{
+		"jammer": "Skilix",
+		"jammer_link": "https://skilix.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Keep it Lit!",
+				"title_link": "https://flowstudios24.itch.io/keep-it-lit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2478257",
+				"by": [
+					"Flow Studios",
+					"Gear",
+					"Skilix"
+				],
+				"by_link": [
+					"https://flowstudios24.itch.io/",
+					"https://gearczech.itch.io/",
+					"https://skilix.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 10,
+				"score": 3.425
+			}
+		]
+	},
+	{
+		"jammer": "Will Eves",
+		"jammer_link": "https://willeves.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Shmup",
+				"title_link": "https://willeves.itch.io/shmup",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483250",
+				"by": [
+					"Will Eves"
+				],
+				"by_link": [
+					"https://willeves.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 23,
+				"score": 3.402
+			}
+		]
+	},
+	{
+		"jammer": "Shin",
+		"jammer_link": "https://shinkouhai.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Luminary Sorcery",
+				"title_link": "https://shinkouhai.itch.io/luminary-sorcery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482479",
+				"by": [
+					"Shin"
+				],
+				"by_link": [
+					"https://shinkouhai.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 7,
+				"score": 3.357
+			}
+		]
+	},
+	{
+		"jammer": "TankTheta",
+		"jammer_link": "https://tanktheta.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "VANQUISH THEM",
+				"title_link": "https://antisonon.itch.io/vanquish-them",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482905",
+				"by": [
+					"Antisonon",
+					"TankTheta"
+				],
+				"by_link": [
+					"https://antisonon.itch.io/",
+					"https://tanktheta.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 8,
+				"score": 3.344
+			}
+		]
+	},
+	{
+		"jammer": "SkyDust",
+		"jammer_link": "https://skydustgames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Damn Robot!",
+				"title_link": "https://skydustgames.itch.io/damn-robot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482993",
+				"by": [
+					"SkyDust"
+				],
+				"by_link": [
+					"https://skydustgames.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 8,
+				"score": 3.344
+			}
+		]
+	},
+	{
+		"jammer": "Ofthemasses",
+		"jammer_link": "https://ofthemasses.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "COOP",
+				"title_link": "https://ofthemasses.itch.io/coop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2477855",
+				"by": [
+					"Ofthemasses",
+					"Sam",
+					"nathanbridgeearney"
+				],
+				"by_link": [
+					"https://ofthemasses.itch.io/",
+					"https://sammata.itch.io/",
+					"https://nathanbridgeearney.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 3.318
+			}
+		]
+	},
+	{
+		"jammer": "Sam",
+		"jammer_link": "https://sammata.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "COOP",
+				"title_link": "https://ofthemasses.itch.io/coop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2477855",
+				"by": [
+					"Ofthemasses",
+					"Sam",
+					"nathanbridgeearney"
+				],
+				"by_link": [
+					"https://ofthemasses.itch.io/",
+					"https://sammata.itch.io/",
+					"https://nathanbridgeearney.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 3.318
+			}
+		]
+	},
+	{
+		"jammer": "nathanbridgeearney",
+		"jammer_link": "https://nathanbridgeearney.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "COOP",
+				"title_link": "https://ofthemasses.itch.io/coop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2477855",
+				"by": [
+					"Ofthemasses",
+					"Sam",
+					"nathanbridgeearney"
+				],
+				"by_link": [
+					"https://ofthemasses.itch.io/",
+					"https://sammata.itch.io/",
+					"https://nathanbridgeearney.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 3.318
+			}
+		]
+	},
+	{
+		"jammer": "tectane",
+		"jammer_link": "https://tectane.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Sunlight Remembered",
+				"title_link": "https://tectane.itch.io/sunlight-remembered",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2486757",
+				"by": [
+					"tectane"
+				],
+				"by_link": [
+					"https://tectane.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 3.318
+			}
+		]
+	},
+	{
+		"jammer": "Raticek",
+		"jammer_link": "https://raticek.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Magical Light Lab",
+				"title_link": "https://raticek.itch.io/magical-light-lab",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482250",
+				"by": [
+					"Raticek"
+				],
+				"by_link": [
+					"https://raticek.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 16,
+				"score": 3.25
+			}
+		]
+	},
+	{
+		"jammer": "kindred008",
+		"jammer_link": "https://kindred008.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "The Witch's Familiar",
+				"title_link": "https://kindred008.itch.io/the-witchs-familiar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482861",
+				"by": [
+					"kindred008",
+					"farmdogs"
+				],
+				"by_link": [
+					"https://kindred008.itch.io/",
+					"https://farmdogs.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 10,
+				"score": 3.225
+			}
+		]
+	},
+	{
+		"jammer": "xanoMusik",
+		"jammer_link": "https://xanomusik.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "RGB",
+				"title_link": "https://xanomusik.itch.io/rgb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483154",
+				"by": [
+					"xanoMusik"
+				],
+				"by_link": [
+					"https://xanomusik.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 6,
+				"score": 3.202
+			}
+		]
+	},
+	{
+		"jammer": "Agusio",
+		"jammer_link": "https://agusio.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Magic Maze",
+				"title_link": "https://agusio.itch.io/magic-maze",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2488770",
+				"by": [
+					"Agusio",
+					"Gennyp"
+				],
+				"by_link": [
+					"https://agusio.itch.io/",
+					"https://gennyp.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 7,
+				"score": 3.179
+			}
+		]
+	},
+	{
+		"jammer": "Gennyp",
+		"jammer_link": "https://gennyp.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Magic Maze",
+				"title_link": "https://agusio.itch.io/magic-maze",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2488770",
+				"by": [
+					"Agusio",
+					"Gennyp"
+				],
+				"by_link": [
+					"https://agusio.itch.io/",
+					"https://gennyp.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 7,
+				"score": 3.179
+			}
+		]
+	},
+	{
+		"jammer": "musniro",
+		"jammer_link": "https://musniro.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lux Ducit",
+				"title_link": "https://musniro.itch.io/minimagic-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
+				"by": [
+					"musniro",
+					"BearRush",
+					"NiSSAK",
+					"mikelbresko"
+				],
+				"by_link": [
+					"https://musniro.itch.io/",
+					"https://bearrush.itch.io/",
+					"https://eldritch-needle.itch.io/",
+					"https://mikelbresko.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 8,
+				"score": 3.156
+			}
+		]
+	},
+	{
+		"jammer": "BearRush",
+		"jammer_link": "https://bearrush.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lux Ducit",
+				"title_link": "https://musniro.itch.io/minimagic-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
+				"by": [
+					"musniro",
+					"BearRush",
+					"NiSSAK",
+					"mikelbresko"
+				],
+				"by_link": [
+					"https://musniro.itch.io/",
+					"https://bearrush.itch.io/",
+					"https://eldritch-needle.itch.io/",
+					"https://mikelbresko.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 8,
+				"score": 3.156
+			}
+		]
+	},
+	{
+		"jammer": "NiSSAK",
+		"jammer_link": "https://eldritch-needle.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lux Ducit",
+				"title_link": "https://musniro.itch.io/minimagic-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
+				"by": [
+					"musniro",
+					"BearRush",
+					"NiSSAK",
+					"mikelbresko"
+				],
+				"by_link": [
+					"https://musniro.itch.io/",
+					"https://bearrush.itch.io/",
+					"https://eldritch-needle.itch.io/",
+					"https://mikelbresko.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 8,
+				"score": 3.156
+			}
+		]
+	},
+	{
+		"jammer": "mikelbresko",
+		"jammer_link": "https://mikelbresko.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lux Ducit",
+				"title_link": "https://musniro.itch.io/minimagic-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
+				"by": [
+					"musniro",
+					"BearRush",
+					"NiSSAK",
+					"mikelbresko"
+				],
+				"by_link": [
+					"https://musniro.itch.io/",
+					"https://bearrush.itch.io/",
+					"https://eldritch-needle.itch.io/",
+					"https://mikelbresko.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 8,
+				"score": 3.156
+			}
+		]
+	},
+	{
+		"jammer": "Meeu",
+		"jammer_link": "https://meeu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Tree of Light",
+				"title_link": "https://meeu.itch.io/tree-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483169",
+				"by": [
+					"Meeu",
+					"Amily"
+				],
+				"by_link": [
+					"https://meeu.itch.io/",
+					"https://amily.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 27,
+				"score": 3.13
+			}
+		]
+	},
+	{
+		"jammer": "Amily",
+		"jammer_link": "https://amily.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Tree of Light",
+				"title_link": "https://meeu.itch.io/tree-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483169",
+				"by": [
+					"Meeu",
+					"Amily"
+				],
+				"by_link": [
+					"https://meeu.itch.io/",
+					"https://amily.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 27,
+				"score": 3.13
+			}
+		]
+	},
+	{
+		"jammer": "Vezy",
+		"jammer_link": "https://vezy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "From Beyond the Wall",
+				"title_link": "https://vezy.itch.io/from-beyond-the-wall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484130",
+				"by": [
+					"Vezy"
+				],
+				"by_link": [
+					"https://vezy.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 8,
+				"score": 3.094
+			}
+		]
+	},
+	{
+		"jammer": "IcefoxZettai",
+		"jammer_link": "https://icefoxzettai.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Spiral Lumina",
+				"title_link": "https://icefoxzettai.itch.io/spiral-lumina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483213",
+				"by": [
+					"IcefoxZettai"
+				],
+				"by_link": [
+					"https://icefoxzettai.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 12,
+				"score": 3.083
+			}
+		]
+	},
+	{
+		"jammer": "KolBA8088",
+		"jammer_link": "https://kolba8088.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Necromiconium",
+				"title_link": "https://kolba8088.itch.io/necromiconium",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483214",
+				"by": [
+					"KolBA8088"
+				],
+				"by_link": [
+					"https://kolba8088.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 9,
+				"score": 3.056
+			}
+		]
+	},
+	{
+		"jammer": "DuxDevGames",
+		"jammer_link": "https://dux-dev-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Wizard in the forest",
+				"title_link": "https://dux-dev-games.itch.io/wizard-in-the-forest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480131",
+				"by": [
+					"DuxDevGames"
+				],
+				"by_link": [
+					"https://dux-dev-games.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 11,
+				"score": 2.977
+			}
+		]
+	},
+	{
+		"jammer": "AroojBasit",
+		"jammer_link": "https://aroojbasit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairyweaver",
+				"title_link": "https://aroojbasit.itch.io/fairyweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483220",
+				"by": [
+					"AroojBasit",
+					"bearrib",
+					"FelixCaillaud",
+					"Kite",
+					"Prikolist Studios",
+					"Ricky Balboa"
+				],
+				"by_link": [
+					"https://aroojbasit.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://felixcaillaud.itch.io/",
+					"https://kite-1.itch.io/",
+					"https://prikolist-studios.itch.io/",
+					"https://ricky-balboa.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 33,
+				"score": 2.939
+			}
+		]
+	},
+	{
+		"jammer": "bearrib",
+		"jammer_link": "https://bearrib.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairyweaver",
+				"title_link": "https://aroojbasit.itch.io/fairyweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483220",
+				"by": [
+					"AroojBasit",
+					"bearrib",
+					"FelixCaillaud",
+					"Kite",
+					"Prikolist Studios",
+					"Ricky Balboa"
+				],
+				"by_link": [
+					"https://aroojbasit.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://felixcaillaud.itch.io/",
+					"https://kite-1.itch.io/",
+					"https://prikolist-studios.itch.io/",
+					"https://ricky-balboa.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 33,
+				"score": 2.939
+			}
+		]
+	},
+	{
+		"jammer": "FelixCaillaud",
+		"jammer_link": "https://felixcaillaud.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairyweaver",
+				"title_link": "https://aroojbasit.itch.io/fairyweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483220",
+				"by": [
+					"AroojBasit",
+					"bearrib",
+					"FelixCaillaud",
+					"Kite",
+					"Prikolist Studios",
+					"Ricky Balboa"
+				],
+				"by_link": [
+					"https://aroojbasit.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://felixcaillaud.itch.io/",
+					"https://kite-1.itch.io/",
+					"https://prikolist-studios.itch.io/",
+					"https://ricky-balboa.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 33,
+				"score": 2.939
+			}
+		]
+	},
+	{
+		"jammer": "Kite",
+		"jammer_link": "https://kite-1.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairyweaver",
+				"title_link": "https://aroojbasit.itch.io/fairyweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483220",
+				"by": [
+					"AroojBasit",
+					"bearrib",
+					"FelixCaillaud",
+					"Kite",
+					"Prikolist Studios",
+					"Ricky Balboa"
+				],
+				"by_link": [
+					"https://aroojbasit.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://felixcaillaud.itch.io/",
+					"https://kite-1.itch.io/",
+					"https://prikolist-studios.itch.io/",
+					"https://ricky-balboa.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 33,
+				"score": 2.939
+			}
+		]
+	},
+	{
+		"jammer": "Prikolist Studios",
+		"jammer_link": "https://prikolist-studios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairyweaver",
+				"title_link": "https://aroojbasit.itch.io/fairyweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483220",
+				"by": [
+					"AroojBasit",
+					"bearrib",
+					"FelixCaillaud",
+					"Kite",
+					"Prikolist Studios",
+					"Ricky Balboa"
+				],
+				"by_link": [
+					"https://aroojbasit.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://felixcaillaud.itch.io/",
+					"https://kite-1.itch.io/",
+					"https://prikolist-studios.itch.io/",
+					"https://ricky-balboa.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 33,
+				"score": 2.939
+			}
+		]
+	},
+	{
+		"jammer": "Ricky Balboa",
+		"jammer_link": "https://ricky-balboa.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairyweaver",
+				"title_link": "https://aroojbasit.itch.io/fairyweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483220",
+				"by": [
+					"AroojBasit",
+					"bearrib",
+					"FelixCaillaud",
+					"Kite",
+					"Prikolist Studios",
+					"Ricky Balboa"
+				],
+				"by_link": [
+					"https://aroojbasit.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://felixcaillaud.itch.io/",
+					"https://kite-1.itch.io/",
+					"https://prikolist-studios.itch.io/",
+					"https://ricky-balboa.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 33,
+				"score": 2.939
+			}
+		]
+	},
+	{
+		"jammer": "Persomatey",
+		"jammer_link": "https://persomatey.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Spellslinger",
+				"title_link": "https://persomatey.itch.io/spellslinger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483181",
+				"by": [
+					"Persomatey"
+				],
+				"by_link": [
+					"https://persomatey.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 6,
+				"score": 2.932
+			}
+		]
+	},
+	{
+		"jammer": "celeryman",
+		"jammer_link": "https://celeryman.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Light the Way Travel Agency",
+				"title_link": "https://celeryman.itch.io/light-the-way-travel-agency",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482049",
+				"by": [
+					"celeryman"
+				],
+				"by_link": [
+					"https://celeryman.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 14,
+				"score": 2.929
+			}
+		]
+	},
+	{
+		"jammer": "T-Spawn",
+		"jammer_link": "https://t-spawn.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Crystal Stronghold",
+				"title_link": "https://t-spawn.itch.io/crystal-stronghold",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479609",
+				"by": [
+					"T-Spawn",
+					"Sperkins"
+				],
+				"by_link": [
+					"https://t-spawn.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 9,
+				"score": 2.917
+			}
+		]
+	},
+	{
+		"jammer": "Sperkins",
+		"jammer_link": "https://sperkins.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Crystal Stronghold",
+				"title_link": "https://t-spawn.itch.io/crystal-stronghold",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479609",
+				"by": [
+					"T-Spawn",
+					"Sperkins"
+				],
+				"by_link": [
+					"https://t-spawn.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 9,
+				"score": 2.917
+			}
+		]
+	},
+	{
+		"jammer": "Yeshihiro",
+		"jammer_link": "https://yeshihiro.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Catjic!",
+				"title_link": "https://yeshihiro.itch.io/catjic",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481657",
+				"by": [
+					"Yeshihiro"
+				],
+				"by_link": [
+					"https://yeshihiro.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 18,
+				"score": 2.861
+			}
+		]
+	},
+	{
+		"jammer": "karu444",
+		"jammer_link": "https://karu444.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Orion Mansion:The Escape",
+				"title_link": "https://fitman22.itch.io/darkness-mansion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483256",
+				"by": [
+					"Fitman22",
+					"karu444",
+					"JhonCalderon02",
+					"Cawitos"
+				],
+				"by_link": [
+					"https://fitman22.itch.io/",
+					"https://karu444.itch.io/",
+					"https://jhoncalderon02.itch.io/",
+					"https://cawitos.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 8,
+				"score": 2.844
+			}
+		]
+	},
+	{
+		"jammer": "Bhavesh solanki",
+		"jammer_link": "https://bhavesh-solanki.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Sun god's lighthouse",
+				"title_link": "https://bhavesh-solanki.itch.io/sun-gods-lighthouse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2485733",
+				"by": [
+					"Bhavesh solanki"
+				],
+				"by_link": [
+					"https://bhavesh-solanki.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 5,
+				"score": 2.831
+			}
+		]
+	},
+	{
+		"jammer": "Hexatin",
+		"jammer_link": "https://hexatin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Need a Light?",
+				"title_link": "https://hexatin.itch.io/need-a-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2485061",
+				"by": [
+					"Hexatin",
+					"spookiemilkjug"
+				],
+				"by_link": [
+					"https://hexatin.itch.io/",
+					"https://spookiemilkjug.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 5,
+				"score": 2.831
+			}
+		]
+	},
+	{
+		"jammer": "spookiemilkjug",
+		"jammer_link": "https://spookiemilkjug.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Need a Light?",
+				"title_link": "https://hexatin.itch.io/need-a-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2485061",
+				"by": [
+					"Hexatin",
+					"spookiemilkjug"
+				],
+				"by_link": [
+					"https://hexatin.itch.io/",
+					"https://spookiemilkjug.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 5,
+				"score": 2.831
+			}
+		]
+	},
+	{
+		"jammer": "Peteclark",
+		"jammer_link": "https://peteclark.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Mystic Monkeys: Elevator Enchantment",
+				"title_link": "https://peteclark.itch.io/mystic-monkeys-elevator-enchantment",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482725",
+				"by": [
+					"Peteclark"
+				],
+				"by_link": [
+					"https://peteclark.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 7,
+				"score": 2.821
+			}
+		]
+	},
+	{
+		"jammer": "Huntedstorm",
+		"jammer_link": "https://huntedstorm.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Light Casting",
+				"title_link": "https://huntedstorm.itch.io/light-casting",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483225",
+				"by": [
+					"Huntedstorm"
+				],
+				"by_link": [
+					"https://huntedstorm.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 14,
+				"score": 2.821
+			}
+		]
+	},
+	{
+		"jammer": "Nerushi",
+		"jammer_link": "https://nerushi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Starlight",
+				"title_link": "https://christess12.itch.io/starlight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483118",
+				"by": [
+					"Christess12",
+					"Nerushi",
+					"Ard3ntly"
+				],
+				"by_link": [
+					"https://christess12.itch.io/",
+					"https://nerushi.itch.io/",
+					"https://ard3ntly.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 6,
+				"score": 2.816
+			}
+		]
+	},
+	{
+		"jammer": "Ard3ntly",
+		"jammer_link": "https://ard3ntly.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Starlight",
+				"title_link": "https://christess12.itch.io/starlight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483118",
+				"by": [
+					"Christess12",
+					"Nerushi",
+					"Ard3ntly"
+				],
+				"by_link": [
+					"https://christess12.itch.io/",
+					"https://nerushi.itch.io/",
+					"https://ard3ntly.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 6,
+				"score": 2.816
 			}
 		]
 	}

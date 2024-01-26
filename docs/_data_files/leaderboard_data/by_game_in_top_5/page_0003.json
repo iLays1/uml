@@ -1,5 +1,29 @@
 [
 	{
+		"jammer": "wack",
+		"jammer_link": "https://wack13.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"title": "Haunted Shotgun",
+				"title_link": "https://wack13.itch.io/haunted-shotgun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748899",
+				"by": [
+					"wack"
+				],
+				"by_link": [
+					"https://wack13.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.207
+			}
+		]
+	},
+	{
 		"jammer": "JustCasualCoder",
 		"jammer_link": "https://justcasualcoder.itch.io/",
 		"list_game_sorted": [
@@ -2566,34 +2590,6 @@
 				"rank": 2,
 				"ratings": 7,
 				"score": 3.633
-			}
-		]
-	},
-	{
-		"jammer": "vye",
-		"jammer_link": "https://hivye.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 138,
-				"jam_name": "Rewind",
-				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
-				"title": "Crystal CLEAR",
-				"title_link": "https://seaferret.itch.io/crystal-clear",
-				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207744",
-				"by": [
-					"SeaFerret",
-					"vye",
-					"RETRODEAD"
-				],
-				"by_link": [
-					"https://seaferret.itch.io/",
-					"https://hivye.itch.io/",
-					"https://retrodead.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 6,
-				"score": 3.588
 			}
 		]
 	}

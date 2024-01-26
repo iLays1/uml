@@ -90,7 +90,7 @@
 		]
 	},
 	{
-		"jammer": "danlyly",
+		"jammer": "Danly",
 		"jammer_link": "https://danlyly.itch.io/",
 		"list_game_sorted": [
 			{
@@ -102,7 +102,7 @@
 				"title_link": "https://danlyly.itch.io/icemanfireman",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363371",
 				"by": [
-					"danlyly"
+					"Danly"
 				],
 				"by_link": [
 					"https://danlyly.itch.io/"
@@ -120,7 +120,7 @@
 				"title_link": "https://danlyly.itch.io/windows98",
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2387837",
 				"by": [
-					"danlyly"
+					"Danly"
 				],
 				"by_link": [
 					"https://danlyly.itch.io/"
@@ -1282,6 +1282,24 @@
 				"rank": 106,
 				"ratings": 2,
 				"score": 2.339
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Guardian Of Light",
+				"title_link": "https://crazedmonkey231.itch.io/guardianoflight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483055",
+				"by": [
+					"crazedmonkey231"
+				],
+				"by_link": [
+					"https://crazedmonkey231.itch.io/"
+				],
+				"rank": 123,
+				"ratings": 3,
+				"score": 1.582
 			}
 		]
 	},
@@ -1453,6 +1471,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Bastions",
+				"title_link": "https://suavessence.itch.io/bastions",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484953",
+				"by": [
+					"Suavessence"
+				],
+				"by_link": [
+					"https://suavessence.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 3.318
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
@@ -1582,6 +1618,24 @@
 				"rank": 81,
 				"ratings": 2,
 				"score": 1.403
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Shadow Trials",
+				"title_link": "https://0aml.itch.io/shadow-trials",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483221",
+				"by": [
+					"0aml"
+				],
+				"by_link": [
+					"https://0aml.itch.io/"
+				],
+				"rank": 125,
+				"ratings": 3,
+				"score": 1.364
 			}
 		]
 	},
@@ -2755,7 +2809,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2385525",
 				"by": [
 					"Jakub Rotter",
-					"Kosmordial"
+					"Alec  - @kosmordial"
 				],
 				"by_link": [
 					"https://jakub-rotter.itch.io/",
@@ -2768,7 +2822,7 @@
 		]
 	},
 	{
-		"jammer": "Kosmordial",
+		"jammer": "Alec  - @kosmordial",
 		"jammer_link": "https://kosmordial.itch.io/",
 		"list_game_sorted": [
 			{
@@ -2781,7 +2835,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2385525",
 				"by": [
 					"Jakub Rotter",
-					"Kosmordial"
+					"Alec  - @kosmordial"
 				],
 				"by_link": [
 					"https://jakub-rotter.itch.io/",

@@ -1,5 +1,298 @@
 [
 	{
+		"id": 30,
+		"jam_name": "GBStudio",
+		"link": "https://itch.io/jam/mini-jam-30-gameboy",
+		"list": [
+			{
+				"title": "Nightfall",
+				"title_link": "https://josh-mcmillan.itch.io/nightfall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438656",
+				"by": [
+					"Josh McMillan"
+				],
+				"by_link": [
+					"https://josh-mcmillan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 17,
+				"score": 4.176
+			},
+			{
+				"title": "SPLIT",
+				"title_link": "https://timsamoff.itch.io/split",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438654",
+				"by": [
+					"timsamoff"
+				],
+				"by_link": [
+					"https://timsamoff.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 10,
+				"score": 3.875
+			},
+			{
+				"title": "Special Delivery!",
+				"title_link": "https://team-basic.itch.io/special-delivery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438628",
+				"by": [
+					"team_basic"
+				],
+				"by_link": [
+					"https://team-basic.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 12,
+				"score": 3.75
+			},
+			{
+				"title": "Soul Temple starring Fork Knight",
+				"title_link": "https://waddlebih.itch.io/soul-temple-starring-fork-knight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438645",
+				"by": [
+					"WaddleBih"
+				],
+				"by_link": [
+					"https://waddlebih.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 7,
+				"score": 3.608
+			},
+			{
+				"title": "Pawsitive Home",
+				"title_link": "https://mushykins.itch.io/pawsitive-home",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438590",
+				"by": [
+					"Mushykins",
+					"Kuriie"
+				],
+				"by_link": [
+					"https://mushykins.itch.io/",
+					"https://kuriie.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 24,
+				"score": 3.604
+			},
+			{
+				"title": "Ghost",
+				"title_link": "https://baggie.itch.io/ghost",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438583",
+				"by": [
+					"Baggie"
+				],
+				"by_link": [
+					"https://baggie.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
+				"score": 3.6
+			},
+			{
+				"title": "Where's Naldo?",
+				"title_link": "https://moshuo.itch.io/wheres-naldo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/437751",
+				"by": [
+					"moshuo"
+				],
+				"by_link": [
+					"https://moshuo.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 9,
+				"score": 3.583
+			},
+			{
+				"title": "OBSOLESCENCE",
+				"title_link": "https://wr41thx.itch.io/obsolescence",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438625",
+				"by": [
+					"wr41thx"
+				],
+				"by_link": [
+					"https://wr41thx.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 10,
+				"score": 3.55
+			},
+			{
+				"title": "Secret of Mage Yob",
+				"title_link": "https://niamov.itch.io/secret-of-mage-yob",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438375",
+				"by": [
+					"niamov"
+				],
+				"by_link": [
+					"https://niamov.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 14,
+				"score": 3.518
+			},
+			{
+				"title": "Viv and Bob",
+				"title_link": "https://impergatox.itch.io/viv-and-bob",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438633",
+				"by": [
+					"Impergatox"
+				],
+				"by_link": [
+					"https://impergatox.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 11,
+				"score": 3.455
+			},
+			{
+				"title": "the_boys",
+				"title_link": "https://lbacon.itch.io/the-boys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438639",
+				"by": [
+					"Lbacon"
+				],
+				"by_link": [
+					"https://lbacon.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 6,
+				"score": 3.356
+			},
+			{
+				"title": "Game Boy: Become Human",
+				"title_link": "https://wildgamez.itch.io/game-boy-become-human",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438486",
+				"by": [
+					"Wildgamez"
+				],
+				"by_link": [
+					"https://wildgamez.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 9,
+				"score": 3.278
+			},
+			{
+				"title": "Mind Swap",
+				"title_link": "https://colludium.itch.io/mind-swap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438483",
+				"by": [
+					"colludium"
+				],
+				"by_link": [
+					"https://colludium.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 10,
+				"score": 3.275
+			},
+			{
+				"title": "Squaracter Squabble",
+				"title_link": "https://regularsalamander.itch.io/squaracter-squabble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438657",
+				"by": [
+					"RegularSalamander"
+				],
+				"by_link": [
+					"https://regularsalamander.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 6,
+				"score": 3.212
+			},
+			{
+				"title": "Auster",
+				"title_link": "https://treecki.itch.io/auster",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438652",
+				"by": [
+					"Treecki"
+				],
+				"by_link": [
+					"https://treecki.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 3.174
+			},
+			{
+				"title": "Cosmic Chain",
+				"title_link": "https://lukemayo.itch.io/gb-jam-entry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/437955",
+				"by": [
+					"Luke Mayo"
+				],
+				"by_link": [
+					"https://lukemayo.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.167
+			},
+			{
+				"title": "Crabs In Troubles",
+				"title_link": "https://raychop.itch.io/crabs-in-trouble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438640",
+				"by": [
+					"Raychop",
+					"Seb_gamedev",
+					"Vincent Pettineo"
+				],
+				"by_link": [
+					"https://raychop.itch.io/",
+					"https://seb-gamedev.itch.io/",
+					"https://vincent-pettineo.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 7,
+				"score": 3.14
+			},
+			{
+				"title": "We All Are Game Boys",
+				"title_link": "https://thejoun.itch.io/we-all-are-game-boys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438524",
+				"by": [
+					"thejoun"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 12,
+				"score": 2.979
+			},
+			{
+				"title": "The Legend Of Twins",
+				"title_link": "https://manugamesdev.itch.io/the-legend-of-twins",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438456",
+				"by": [
+					"ManuGamesDev"
+				],
+				"by_link": [
+					"https://manugamesdev.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 15,
+				"score": 2.967
+			},
+			{
+				"title": "Deep Breath",
+				"title_link": "https://thexaver.itch.io/deepbreath",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438535",
+				"by": [
+					"TheXaver"
+				],
+				"by_link": [
+					"https://thexaver.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 8,
+				"score": 2.938
+			}
+		]
+	},
+	{
 		"id": 29,
 		"jam_name": "Ninjas",
 		"link": "https://itch.io/jam/mini-jam-29-ninjas",
@@ -2443,301 +2736,6 @@
 				"rank": 13,
 				"ratings": 3,
 				"score": 1.532
-			}
-		]
-	},
-	{
-		"id": 20,
-		"jam_name": "Music",
-		"link": "https://itch.io/jam/mini-jam-20-music",
-		"list": [
-			{
-				"title": "Rhythm OwO",
-				"title_link": "https://kingw.itch.io/rhythm-owo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362436",
-				"by": [
-					"KingW",
-					"ZahranW"
-				],
-				"by_link": [
-					"https://kingw.itch.io/",
-					"https://zahranworrell.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4
-			},
-			{
-				"title": "iOwO",
-				"title_link": "https://saucygames.itch.io/iowo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362505",
-				"by": [
-					"saucygames"
-				],
-				"by_link": [
-					"https://saucygames.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 3.879
-			},
-			{
-				"title": "The Ordinary Adventures of Vader the Cat",
-				"title_link": "https://qporest.itch.io/the-ordinary-adventures-of-vader-the-cat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362517",
-				"by": [
-					"qporest"
-				],
-				"by_link": [
-					"https://qporest.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 11,
-				"score": 3.606
-			},
-			{
-				"title": "OwO Beat Mission",
-				"title_link": "https://juunishi-master.itch.io/owo-beat-mission",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361294",
-				"by": [
-					"juunishi master",
-					"Amerlyn",
-					"Thibaud Goiffon"
-				],
-				"by_link": [
-					"https://juunishi-master.itch.io/",
-					"https://amenemone.itch.io/",
-					"https://gtibo.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 3.515
-			},
-			{
-				"title": "Nyctophobia",
-				"title_link": "https://nenkaii.itch.io/nyctophobia",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362516",
-				"by": [
-					"nenkaii",
-					"Priswall"
-				],
-				"by_link": [
-					"https://nenkaii.itch.io/",
-					"https://priswall.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 11,
-				"score": 3.455
-			},
-			{
-				"title": "Super Super OwO",
-				"title_link": "https://revelationgt.itch.io/super-super-owo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/360847",
-				"by": [
-					"JamesGMarks"
-				],
-				"by_link": [
-					"https://revelationgt.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 9,
-				"score": 3.407
-			},
-			{
-				"title": "Micro Adventure",
-				"title_link": "https://thetacbanana.itch.io/micro-adventure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361908",
-				"by": [
-					"TheTacBanana"
-				],
-				"by_link": [
-					"https://thetacbanana.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 10,
-				"score": 3
-			},
-			{
-				"title": "Note Collector",
-				"title_link": "https://viggovusir.itch.io/falling-notes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361169",
-				"by": [
-					"Viggo Vusir"
-				],
-				"by_link": [
-					"https://viggovusir.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 9,
-				"score": 2.963
-			},
-			{
-				"title": "Jump'n'Tune",
-				"title_link": "https://paspartout.itch.io/jumpntune",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362930",
-				"by": [
-					"Paspartout"
-				],
-				"by_link": [
-					"https://paspartout.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 6,
-				"score": 2.887
-			},
-			{
-				"title": "No More Music",
-				"title_link": "https://dk5000p.itch.io/no-more-music",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362402",
-				"by": [
-					"dk5000p"
-				],
-				"by_link": [
-					"https://dk5000p.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 8,
-				"score": 2.833
-			},
-			{
-				"title": "Wa-u",
-				"title_link": "https://gatoparty.itch.io/wa-u",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362304",
-				"by": [
-					"BlackJellyCat"
-				],
-				"by_link": [
-					"https://gatoparty.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 8,
-				"score": 2.833
-			},
-			{
-				"title": "Charly García´s Epic Jump",
-				"title_link": "https://munguia.itch.io/charly-garcas-epic-jump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361210",
-				"by": [
-					"Munguía"
-				],
-				"by_link": [
-					"https://munguia.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 12,
-				"score": 2.778
-			},
-			{
-				"title": "Piano Bot",
-				"title_link": "https://noahcichowlas.itch.io/pianobot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362451",
-				"by": [
-					"noahcichowlas"
-				],
-				"by_link": [
-					"https://noahcichowlas.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 8,
-				"score": 2.75
-			},
-			{
-				"title": "Tsss",
-				"title_link": "https://wolfingame.itch.io/tsss",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362311",
-				"by": [
-					"wolfingame"
-				],
-				"by_link": [
-					"https://wolfingame.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 7,
-				"score": 2.673
-			},
-			{
-				"title": "0w0 Clicker",
-				"title_link": "https://devastationgb.itch.io/0w0-clicker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361295",
-				"by": [
-					"DevastationGB"
-				],
-				"by_link": [
-					"https://devastationgb.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 11,
-				"score": 2.515
-			},
-			{
-				"title": "The adventure after bongo cat",
-				"title_link": "https://nomspot.itch.io/the-adventure-after-bongo-cat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361348",
-				"by": [
-					"Nomspot"
-				],
-				"by_link": [
-					"https://nomspot.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 4,
-				"score": 2.416
-			},
-			{
-				"title": "Flute of the OohWu (small freeroam)",
-				"title_link": "https://kringleprinkles.itch.io/flute-of-the-oohwu",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362542",
-				"by": [
-					"KringlePrinkles"
-				],
-				"by_link": [
-					"https://kringleprinkles.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 6,
-				"score": 2.358
-			},
-			{
-				"title": "AudioBug",
-				"title_link": "https://talpine.itch.io/audiobug",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/361825",
-				"by": [
-					"talpine"
-				],
-				"by_link": [
-					"https://talpine.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 4,
-				"score": 2.298
-			},
-			{
-				"title": "Show Stopper",
-				"title_link": "https://toppervideogames.itch.io/show-stopper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362525",
-				"by": [
-					"TopperVideoGames"
-				],
-				"by_link": [
-					"https://toppervideogames.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 8,
-				"score": 2.292
-			},
-			{
-				"title": "Upbeat",
-				"title_link": "https://sphynxis.itch.io/upbeat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362226",
-				"by": [
-					"sphynxis"
-				],
-				"by_link": [
-					"https://sphynxis.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 4,
-				"score": 2.062
 			}
 		]
 	}

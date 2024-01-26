@@ -549,6 +549,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Purradin",
+				"title_link": "https://burnadet.itch.io/purradin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483138",
+				"by": [
+					"Burnadet"
+				],
+				"by_link": [
+					"https://burnadet.itch.io/"
+				],
+				"rank": 122,
+				"ratings": 4,
+				"score": 1.701
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",

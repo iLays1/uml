@@ -1,5 +1,308 @@
 [
 	{
+		"id": 80,
+		"jam_name": "Cats",
+		"link": "https://itch.io/jam/mini-jam-80-cats",
+		"list": [
+			{
+				"title": "Cats n Wires",
+				"title_link": "https://kultisti.itch.io/cats-n-wires",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044747",
+				"by": [
+					"Kultisti"
+				],
+				"by_link": [
+					"https://kultisti.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 34,
+				"score": 4.64
+			},
+			{
+				"title": "Starcat vs The Froggos Empire",
+				"title_link": "https://ricenoodles.itch.io/starcat-vs-the-froggos-empire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044785",
+				"by": [
+					"ricenoodles",
+					"adoankim"
+				],
+				"by_link": [
+					"https://ricenoodles.itch.io/",
+					"https://adoankim.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 31,
+				"score": 4.621
+			},
+			{
+				"title": "Miniventure",
+				"title_link": "https://yumehiko.itch.io/miniventure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043860",
+				"by": [
+					"yumehiko"
+				],
+				"by_link": [
+					"https://yumehiko.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 27,
+				"score": 4.417
+			},
+			{
+				"title": "Record Scratch Fever",
+				"title_link": "https://lapspider45.itch.io/record-scratch-fever",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1041476",
+				"by": [
+					"lapspider45",
+					"jpeg2k"
+				],
+				"by_link": [
+					"https://lapspider45.itch.io/",
+					"https://jpeg2k.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 40,
+				"score": 4.269
+			},
+			{
+				"title": "BellFlowers - Kaz: Jam Demo",
+				"title_link": "https://reddashgames.itch.io/bellflowers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045027",
+				"by": [
+					"RedDashGames"
+				],
+				"by_link": [
+					"https://reddashgames.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 48,
+				"score": 4.224
+			},
+			{
+				"title": "Pawed Piper",
+				"title_link": "https://thofu.itch.io/pawed-piper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044496",
+				"by": [
+					"Thofu",
+					"Roundisch Wahle",
+					"Varishari",
+					"Alex_Sunbird"
+				],
+				"by_link": [
+					"https://thofu.itch.io/",
+					"https://roundisch-wahle.itch.io/",
+					"https://varishari.itch.io/",
+					"https://alex-sunbird.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 23,
+				"score": 4.207
+			},
+			{
+				"title": "Cata-Catapult",
+				"title_link": "https://teamcrabpunch.itch.io/cata-catapult",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043694",
+				"by": [
+					"TeamCrabPunch"
+				],
+				"by_link": [
+					"https://teamcrabpunch.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 40,
+				"score": 4.131
+			},
+			{
+				"title": "fuzzy-dream",
+				"title_link": "https://jonathan-go.itch.io/fuzzy-dream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044470",
+				"by": [
+					"jonathan-go"
+				],
+				"by_link": [
+					"https://jonathan-go.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 19,
+				"score": 4.026
+			},
+			{
+				"title": "Cool Cat Cafe",
+				"title_link": "https://minimechmedia.itch.io/cool-cat-cafe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043142",
+				"by": [
+					"Mini Mech Media"
+				],
+				"by_link": [
+					"https://minimechmedia.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 10,
+				"score": 4
+			},
+			{
+				"title": "Kitty Clicky",
+				"title_link": "https://frances.itch.io/kitty-clicky",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045075",
+				"by": [
+					"Frances"
+				],
+				"by_link": [
+					"https://frances.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 15,
+				"score": 3.983
+			},
+			{
+				"title": "Mauw",
+				"title_link": "https://chase-of-bass.itch.io/catjam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045088",
+				"by": [
+					"Chase of Bass"
+				],
+				"by_link": [
+					"https://chase-of-bass.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 37,
+				"score": 3.98
+			},
+			{
+				"title": "Catherd",
+				"title_link": "https://rtficial.itch.io/catherd",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043348",
+				"by": [
+					"RTficial"
+				],
+				"by_link": [
+					"https://rtficial.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 11,
+				"score": 3.977
+			},
+			{
+				"title": "Cat vs Rats",
+				"title_link": "https://don001.itch.io/cat-vs-rats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044629",
+				"by": [
+					"Ford Prefect"
+				],
+				"by_link": [
+					"https://don001.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 20,
+				"score": 3.962
+			},
+			{
+				"title": "Cat Herder",
+				"title_link": "https://dancar.itch.io/cat-herder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044345",
+				"by": [
+					"dancar"
+				],
+				"by_link": [
+					"https://dancar.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 27,
+				"score": 3.954
+			},
+			{
+				"title": "What does my cat do at night?",
+				"title_link": "https://rubr.itch.io/cat-night",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045116",
+				"by": [
+					"rubr",
+					"ovrbi",
+					"Unholy Chiptune Queen"
+				],
+				"by_link": [
+					"https://rubr.itch.io/",
+					"https://ovrbi.itch.io/",
+					"https://jessicarobo.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 9,
+				"score": 3.953
+			},
+			{
+				"title": "Laser 'Purr'cision",
+				"title_link": "https://coffeepotplayware.itch.io/laser-purrcision",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044820",
+				"by": [
+					"Coffeepot"
+				],
+				"by_link": [
+					"https://coffeepotplayware.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 41,
+				"score": 3.933
+			},
+			{
+				"title": "Cat-trina",
+				"title_link": "https://mbox47.itch.io/cat-trina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044902",
+				"by": [
+					"Mbox"
+				],
+				"by_link": [
+					"https://mbox47.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 21,
+				"score": 3.905
+			},
+			{
+				"title": "the right place",
+				"title_link": "https://natrix.itch.io/rightplace",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1042072",
+				"by": [
+					"natrix"
+				],
+				"by_link": [
+					"https://natrix.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 15,
+				"score": 3.883
+			},
+			{
+				"title": "C05-M0 (Cosmo)",
+				"title_link": "https://underpaid-goblin.itch.io/cosmo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043501",
+				"by": [
+					"Underpaid_Goblin"
+				],
+				"by_link": [
+					"https://underpaid-goblin.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 28,
+				"score": 3.848
+			},
+			{
+				"title": "Purr-anormal Cat-ivity",
+				"title_link": "https://dhafo.itch.io/purr-anormal-cat-ivity",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1042206",
+				"by": [
+					"Dhafo",
+					"okiix"
+				],
+				"by_link": [
+					"https://dhafo.itch.io/",
+					"https://okiix.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 35,
+				"score": 3.843
+			}
+		]
+	},
+	{
 		"id": 79,
 		"jam_name": "Frogs",
 		"link": "https://itch.io/jam/mini-jam-79-frogs",
@@ -2683,295 +2986,6 @@
 				"rank": 20,
 				"ratings": 9,
 				"score": 3.667
-			}
-		]
-	},
-	{
-		"id": 70,
-		"jam_name": "Heaven",
-		"link": "https://itch.io/jam/mini-jam-70-heaven",
-		"list": [
-			{
-				"title": "Aureole_JamEdition",
-				"title_link": "https://elvendwarf.itch.io/aureole-legacy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867804",
-				"by": [
-					"Elvendwarf"
-				],
-				"by_link": [
-					"https://elvendwarf.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 24,
-				"score": 3.958
-			},
-			{
-				"title": "Heaven's Ring",
-				"title_link": "https://dreamcastgh0st.itch.io/heavensring",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868124",
-				"by": [
-					"dreamcastgh0st"
-				],
-				"by_link": [
-					"https://dreamcastgh0st.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 22,
-				"score": 3.83
-			},
-			{
-				"title": "Piggy Run",
-				"title_link": "https://yikescloud.itch.io/piggy-run",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868118",
-				"by": [
-					"Yikescloud"
-				],
-				"by_link": [
-					"https://yikescloud.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 16,
-				"score": 3.813
-			},
-			{
-				"title": "Genesis",
-				"title_link": "https://aviv-youker-harel.itch.io/genesis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867837",
-				"by": [
-					"Aviv Youker Harel"
-				],
-				"by_link": [
-					"https://aviv-youker-harel.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 17,
-				"score": 3.75
-			},
-			{
-				"title": "Swords n Souls",
-				"title_link": "https://jlarminay.itch.io/swords-n-souls",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867999",
-				"by": [
-					"Josh Larminay"
-				],
-				"by_link": [
-					"https://jlarminay.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 27,
-				"score": 3.713
-			},
-			{
-				"title": "Toss Box",
-				"title_link": "https://manugamesdev.itch.io/toss-box",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867785",
-				"by": [
-					"ManuGamesDev"
-				],
-				"by_link": [
-					"https://manugamesdev.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 12,
-				"score": 3.667
-			},
-			{
-				"title": "Heaven's Dice",
-				"title_link": "https://v-i-r-t-u.itch.io/heavens-dice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868153",
-				"by": [
-					"V I R T U _"
-				],
-				"by_link": [
-					"https://v-i-r-t-u.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 11,
-				"score": 3.656
-			},
-			{
-				"title": "St. Peter's Axe",
-				"title_link": "https://lgmeister.itch.io/st-peters-axe",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868031",
-				"by": [
-					"lgmeister"
-				],
-				"by_link": [
-					"https://lgmeister.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.592
-			},
-			{
-				"title": "Sheep go to Heaven",
-				"title_link": "https://tomputergames.itch.io/sheep-go-to-heaven",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/859497",
-				"by": [
-					"tomputergames"
-				],
-				"by_link": [
-					"https://tomputergames.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 14,
-				"score": 3.571
-			},
-			{
-				"title": "Resist the Devil",
-				"title_link": "https://iangogo.itch.io/resist-the-devil",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868125",
-				"by": [
-					"IanGoGo"
-				],
-				"by_link": [
-					"https://iangogo.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 15,
-				"score": 3.55
-			},
-			{
-				"title": "Vroomgo the Robot Vacuum",
-				"title_link": "https://axu-ap.itch.io/vroomgo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867229",
-				"by": [
-					"aXu"
-				],
-				"by_link": [
-					"https://axu-ap.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 14,
-				"score": 3.536
-			},
-			{
-				"title": "Outgated",
-				"title_link": "https://screever.itch.io/outgated",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868008",
-				"by": [
-					"screever"
-				],
-				"by_link": [
-					"https://screever.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 14,
-				"score": 3.536
-			},
-			{
-				"title": "Heaven Spear",
-				"title_link": "https://playimu.itch.io/heaven-spear",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868071",
-				"by": [
-					"Playimu"
-				],
-				"by_link": [
-					"https://playimu.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 16,
-				"score": 3.531
-			},
-			{
-				"title": "Cloud To Heaven",
-				"title_link": "https://asdonaur.itch.io/cloud-to-heaven",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867936",
-				"by": [
-					"Asdonaur"
-				],
-				"by_link": [
-					"https://asdonaur.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 23,
-				"score": 3.511
-			},
-			{
-				"title": "Catastrophe in Wonderful Heaven",
-				"title_link": "https://ran-dreille.itch.io/catastrophe-in-wonderful-heaven",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867509",
-				"by": [
-					"Ran d'Reille"
-				],
-				"by_link": [
-					"https://ran-dreille.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 13,
-				"score": 3.385
-			},
-			{
-				"title": "My Heavenly Duty",
-				"title_link": "https://rykuzustudios310.itch.io/my-heavenly-duty",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867056",
-				"by": [
-					"Raiku"
-				],
-				"by_link": [
-					"https://rykuzustudios310.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 17,
-				"score": 3.324
-			},
-			{
-				"title": "Shadows of Burden",
-				"title_link": "https://oddgoo.itch.io/shadows-of-burden",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868081",
-				"by": [
-					"oddgoo",
-					"Heeny"
-				],
-				"by_link": [
-					"https://oddgoo.itch.io/",
-					"https://heeny.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 21,
-				"score": 3.298
-			},
-			{
-				"title": "Heaven VS Hell Tennis (Mini Jam #70)",
-				"title_link": "https://pixel-sprouts.itch.io/heavenhelltennisminijam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867540",
-				"by": [
-					"Pixel Sprouts"
-				],
-				"by_link": [
-					"https://pixel-sprouts.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 24,
-				"score": 3.292
-			},
-			{
-				"title": "Still with Wings",
-				"title_link": "https://tomekk06.itch.io/still-with-wings",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868106",
-				"by": [
-					"tomekk06"
-				],
-				"by_link": [
-					"https://tomekk06.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 12,
-				"score": 3.271
-			},
-			{
-				"title": "A Leaf In Heaven",
-				"title_link": "https://licke.itch.io/a-leaf-in-heaven",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867079",
-				"by": [
-					"Licke"
-				],
-				"by_link": [
-					"https://licke.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 18,
-				"score": 3.264
 			}
 		]
 	}

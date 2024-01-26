@@ -784,8 +784,8 @@
 		]
 	},
 	{
-		"jammer": "Brain-dead Rabbit",
-		"jammer_link": "https://richard08.itch.io/",
+		"jammer": "Brain-dead Rabbit Games",
+		"jammer_link": "https://braindeadrabbit.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -793,13 +793,13 @@
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-45-dungeons",
 				"title": "Jumpn't Knight",
-				"title_link": "https://richard08.itch.io/jumpnt-knight",
+				"title_link": "https://braindeadrabbit.itch.io/jumpnt-knight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-45-dungeons/rate/548366",
 				"by": [
-					"Brain-dead Rabbit"
+					"Brain-dead Rabbit Games"
 				],
 				"by_link": [
-					"https://richard08.itch.io/"
+					"https://braindeadrabbit.itch.io/"
 				],
 				"rank": 28,
 				"ratings": 4,
@@ -3306,7 +3306,7 @@
 		]
 	},
 	{
-		"jammer": "Puszke",
+		"jammer": "Puck",
 		"jammer_link": "https://puszke.itch.io/",
 		"list_game_sorted": [
 			{
@@ -3318,7 +3318,7 @@
 				"title_link": "https://puszke.itch.io/cyberjunk",
 				"submission_page_link": "https://itch.io/jam/mini-jam-47-internet/rate/565837",
 				"by": [
-					"Puszke"
+					"Puck"
 				],
 				"by_link": [
 					"https://puszke.itch.io/"

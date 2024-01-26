@@ -1,5 +1,119 @@
 [
 	{
+		"jammer": "niraami",
+		"jammer_link": "https://niraami.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"title": "Imsomed",
+				"title_link": "https://offln.itch.io/imsomed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1709341",
+				"by": [
+					"OFFLINE",
+					"niraami"
+				],
+				"by_link": [
+					"https://offln.itch.io/",
+					"https://niraami.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.727
+			}
+		]
+	},
+	{
+		"jammer": "Digx7",
+		"jammer_link": "https://digx7.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"title": "No Time To Die",
+				"title_link": "https://digx7.itch.io/no-time-to-die",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934339",
+				"by": [
+					"Digx7"
+				],
+				"by_link": [
+					"https://digx7.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.727
+			}
+		]
+	},
+	{
+		"jammer": "Piotr Matyja",
+		"jammer_link": "https://petermatyja.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"title": "Behind The Mind",
+				"title_link": "https://petermatyja.itch.io/behind-the-mind",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691076",
+				"by": [
+					"Piotr Matyja",
+					"Ronuu",
+					"Holden",
+					"Areeee",
+					"Archikatz"
+				],
+				"by_link": [
+					"https://petermatyja.itch.io/",
+					"https://ronuu.itch.io/",
+					"https://holden22.itch.io/",
+					"https://areeee.itch.io/",
+					"https://exoddinary.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 20,
+				"score": 3.725
+			}
+		]
+	},
+	{
+		"jammer": "Ronuu",
+		"jammer_link": "https://ronuu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"title": "Behind The Mind",
+				"title_link": "https://petermatyja.itch.io/behind-the-mind",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691076",
+				"by": [
+					"Piotr Matyja",
+					"Ronuu",
+					"Holden",
+					"Areeee",
+					"Archikatz"
+				],
+				"by_link": [
+					"https://petermatyja.itch.io/",
+					"https://ronuu.itch.io/",
+					"https://holden22.itch.io/",
+					"https://areeee.itch.io/",
+					"https://exoddinary.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 20,
+				"score": 3.725
+			}
+		]
+	},
+	{
 		"jammer": "Holden",
 		"jammer_link": "https://holden22.itch.io/",
 		"list_game_sorted": [
@@ -1998,6 +2112,30 @@
 		]
 	},
 	{
+		"jammer": "KreisGame",
+		"jammer_link": "https://kreisgame.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Wayfind",
+				"title_link": "https://kreisgame.itch.io/wayfind",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482000",
+				"by": [
+					"KreisGame"
+				],
+				"by_link": [
+					"https://kreisgame.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 10,
+				"score": 3.975
+			}
+		]
+	},
+	{
 		"jammer": "Ven",
 		"jammer_link": "https://ven-studios.itch.io/",
 		"list_game_sorted": [
@@ -2374,126 +2512,6 @@
 				"rank": 8,
 				"ratings": 7,
 				"score": 3.893
-			}
-		]
-	},
-	{
-		"jammer": "squareSquared",
-		"jammer_link": "https://squaresquared.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"title": "not alone",
-				"title_link": "https://squaresquared.itch.io/testforjam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187972",
-				"by": [
-					"squareSquared"
-				],
-				"by_link": [
-					"https://squaresquared.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 9,
-				"score": 3.889
-			}
-		]
-	},
-	{
-		"jammer": "Ilinn",
-		"jammer_link": "https://ilynn.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"title": "Blue Chicken Mini Jam 97",
-				"title_link": "https://ilynn.itch.io/blue-chicken-minijam97",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347502",
-				"by": [
-					"Ilinn"
-				],
-				"by_link": [
-					"https://ilynn.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 15,
-				"score": 3.883
-			}
-		]
-	},
-	{
-		"jammer": "PitiIT",
-		"jammer_link": "https://pitiit.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "WhatSheWants",
-				"title_link": "https://pitiit.itch.io/whatshewants",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/688823",
-				"by": [
-					"PitiIT"
-				],
-				"by_link": [
-					"https://pitiit.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 22,
-				"score": 3.875
-			}
-		]
-	},
-	{
-		"jammer": "whybee",
-		"jammer_link": "https://ybyegorov.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 67,
-				"jam_name": "Void",
-				"jam_link": "https://itch.io/jam/mini-jam-67-void",
-				"title": "Follow and Find",
-				"title_link": "https://ybyegorov.itch.io/follow-and-find",
-				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/822784",
-				"by": [
-					"whybee"
-				],
-				"by_link": [
-					"https://ybyegorov.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 24,
-				"score": 3.875
-			}
-		]
-	},
-	{
-		"jammer": "Polosokam",
-		"jammer_link": "https://polosokam.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"title": "Slime Grinder",
-				"title_link": "https://polosokam.itch.io/slime-grinder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879746",
-				"by": [
-					"Polosokam"
-				],
-				"by_link": [
-					"https://polosokam.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 10,
-				"score": 3.85
 			}
 		]
 	}

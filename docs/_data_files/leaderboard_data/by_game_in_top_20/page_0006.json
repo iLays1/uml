@@ -1,5 +1,79 @@
 [
 	{
+		"jammer": "Kelsala",
+		"jammer_link": "https://kelsala.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"title": "Cracked Crab Cabal",
+				"title_link": "https://kelsala.itch.io/cracked-crab-cabal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572217",
+				"by": [
+					"Kelsala"
+				],
+				"by_link": [
+					"https://kelsala.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 13,
+				"score": 4.365
+			}
+		]
+	},
+	{
+		"jammer": "moonunit",
+		"jammer_link": "https://moonunit.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 40,
+				"jam_name": "Hunters",
+				"jam_link": "https://itch.io/jam/mini-jam-40-hunters",
+				"title": "Bow Solver",
+				"title_link": "https://moonunit.itch.io/bow-solver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510683",
+				"by": [
+					"moonunit"
+				],
+				"by_link": [
+					"https://moonunit.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.364
+			}
+		]
+	},
+	{
+		"jammer": "Riptide Realms",
+		"jammer_link": "https://riptiderealms.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Approaching Zero (game jam version)",
+				"title_link": "https://cryy22.itch.io/approaching-zero",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869470",
+				"by": [
+					"cryy22",
+					"Riptide Realms"
+				],
+				"by_link": [
+					"https://cryy22.itch.io/",
+					"https://riptiderealms.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 31,
+				"score": 4.363
+			}
+		]
+	},
+	{
 		"jammer": "F J A R N S K A G G L",
 		"jammer_link": "https://f-j-a-r-n-s-k-a-g-g-l.itch.io/",
 		"list_game_sorted": [
@@ -1800,8 +1874,8 @@
 		]
 	},
 	{
-		"jammer": "MrFGames",
-		"jammer_link": "https://mrfgames.itch.io/",
+		"jammer": "MurfGames",
+		"jammer_link": "https://murfgames.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1809,13 +1883,13 @@
 				"jam_name": "Chrono",
 				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
 				"title": "Chrono Hop",
-				"title_link": "https://mrfgames.itch.io/chrono-hop",
+				"title_link": "https://murfgames.itch.io/chrono-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653308",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 11,
@@ -2540,80 +2614,6 @@
 				"rank": 2,
 				"ratings": 11,
 				"score": 4.182
-			}
-		]
-	},
-	{
-		"jammer": "warbledev",
-		"jammer_link": "https://warbledev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 4,
-				"jam_name": "Major Jam 4: Cosmic",
-				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
-				"title": "Intergalactic Exam",
-				"title_link": "https://warbledev.itch.io/intergalactic-exam",
-				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160352",
-				"by": [
-					"warbledev"
-				],
-				"by_link": [
-					"https://warbledev.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 4.159
-			}
-		]
-	},
-	{
-		"jammer": "Hollow Neko",
-		"jammer_link": "https://hollow-neko.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"title": "Memento Mori",
-				"title_link": "https://hollow-neko.itch.io/memento-mori",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258933",
-				"by": [
-					"Hollow Neko",
-					"Elvendwarf"
-				],
-				"by_link": [
-					"https://hollow-neko.itch.io/",
-					"https://elvendwarf.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 4.158
-			}
-		]
-	},
-	{
-		"jammer": "Rendyl",
-		"jammer_link": "https://rendyl.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"title": "A Night At Andy's",
-				"title_link": "https://rendyl.itch.io/a-night-at-andys",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1104846",
-				"by": [
-					"Rendyl"
-				],
-				"by_link": [
-					"https://rendyl.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 4.15
 			}
 		]
 	}

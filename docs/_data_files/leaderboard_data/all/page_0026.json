@@ -2020,6 +2020,24 @@
 				"rank": 29,
 				"ratings": 5,
 				"score": 3
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Billiam's Brewery",
+				"title_link": "https://socksnsandles.itch.io/billiams-brewery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483253",
+				"by": [
+					"Socks"
+				],
+				"by_link": [
+					"https://socksnsandles.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 6,
+				"score": 2.585
 			}
 		]
 	},

@@ -119,6 +119,24 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Wayfind",
+				"title_link": "https://kreisgame.itch.io/wayfind",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482000",
+				"by": [
+					"KreisGame"
+				],
+				"by_link": [
+					"https://kreisgame.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 10,
+				"score": 3.975
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 76,
 				"jam_name": "Radiation",
 				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",

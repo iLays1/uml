@@ -1,5 +1,89 @@
 [
 	{
+		"jammer": "guattery",
+		"jammer_link": "https://guattery.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 9,
+				"jam_name": "Back To School",
+				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+				"title": "Nerd Bus",
+				"title_link": "https://ergman.itch.io/nerd-bus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
+				"by": [
+					"JohnLee Cooper",
+					"Teal_ish",
+					"guattery",
+					"PuzzSoft"
+				],
+				"by_link": [
+					"https://ergman.itch.io/",
+					"https://teal-ish.itch.io/",
+					"https://guattery.itch.io/",
+					"https://puzzsoft.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 3.833
+			}
+		]
+	},
+	{
+		"jammer": "PuzzSoft",
+		"jammer_link": "https://puzzsoft.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 9,
+				"jam_name": "Back To School",
+				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+				"title": "Nerd Bus",
+				"title_link": "https://ergman.itch.io/nerd-bus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
+				"by": [
+					"JohnLee Cooper",
+					"Teal_ish",
+					"guattery",
+					"PuzzSoft"
+				],
+				"by_link": [
+					"https://ergman.itch.io/",
+					"https://teal-ish.itch.io/",
+					"https://guattery.itch.io/",
+					"https://puzzsoft.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 3.833
+			}
+		]
+	},
+	{
+		"jammer": "dreamcastgh0st",
+		"jammer_link": "https://dreamcastgh0st.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"title": "Heaven's Ring",
+				"title_link": "https://dreamcastgh0st.itch.io/heavensring",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868124",
+				"by": [
+					"dreamcastgh0st"
+				],
+				"by_link": [
+					"https://dreamcastgh0st.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 22,
+				"score": 3.83
+			}
+		]
+	},
+	{
 		"jammer": "congusbongus",
 		"jammer_link": "https://congusbongus.itch.io/",
 		"list_game_sorted": [
@@ -1184,6 +1268,30 @@
 				"rank": 3,
 				"ratings": 7,
 				"score": 4.214
+			}
+		]
+	},
+	{
+		"jammer": "Hezztia",
+		"jammer_link": "https://hezztia.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Ignis Fatuus",
+				"title_link": "https://hezztia.itch.io/ignis-fatuus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483201",
+				"by": [
+					"Hezztia"
+				],
+				"by_link": [
+					"https://hezztia.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.2
 			}
 		]
 	},
@@ -2542,128 +2650,6 @@
 				"rank": 3,
 				"ratings": 16,
 				"score": 3.984
-			}
-		]
-	},
-	{
-		"jammer": "dasPanjo",
-		"jammer_link": "https://daspanjo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 35,
-				"jam_name": "Vikings",
-				"jam_link": "https://itch.io/jam/mini-jam-35-vikings",
-				"title": "Nords Odyssey",
-				"title_link": "https://jvolonte.itch.io/nordsodyssey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-35-vikings/rate/473480",
-				"by": [
-					"jvolonte",
-					"dasPanjo"
-				],
-				"by_link": [
-					"https://jvolonte.itch.io/",
-					"https://daspanjo.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 16,
-				"score": 3.984
-			}
-		]
-	},
-	{
-		"jammer": "Balstik",
-		"jammer_link": "https://balstik.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "The 64th Cohort",
-				"title_link": "https://balstik.itch.io/the-64th-cohort",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
-				"by": [
-					"Balstik",
-					"Pookitoki",
-					"Catlaiya",
-					"Kimi",
-					"petitc00kie",
-					"Trino"
-				],
-				"by_link": [
-					"https://balstik.itch.io/",
-					"https://pookitoki.itch.io/",
-					"https://catlaiya.itch.io/",
-					"https://kiminako.itch.io/",
-					"https://petitc00kie.itch.io/",
-					"https://trino.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 7,
-				"score": 3.942
-			}
-		]
-	},
-	{
-		"jammer": "petitc00kie",
-		"jammer_link": "https://petitc00kie.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "The 64th Cohort",
-				"title_link": "https://balstik.itch.io/the-64th-cohort",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
-				"by": [
-					"Balstik",
-					"Pookitoki",
-					"Catlaiya",
-					"Kimi",
-					"petitc00kie",
-					"Trino"
-				],
-				"by_link": [
-					"https://balstik.itch.io/",
-					"https://pookitoki.itch.io/",
-					"https://catlaiya.itch.io/",
-					"https://kiminako.itch.io/",
-					"https://petitc00kie.itch.io/",
-					"https://trino.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 7,
-				"score": 3.942
-			}
-		]
-	},
-	{
-		"jammer": "RabidTunes",
-		"jammer_link": "https://rabidtunes.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"title": "The Last Doughnut",
-				"title_link": "https://plazaro.itch.io/the-last-doughnut",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671853",
-				"by": [
-					"Patricia Lazaro",
-					"RabidTunes",
-					"Alejandro Royo"
-				],
-				"by_link": [
-					"https://plazaro.itch.io/",
-					"https://rabidtunes.itch.io/",
-					"https://aroyo.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 21,
-				"score": 3.94
 			}
 		]
 	}

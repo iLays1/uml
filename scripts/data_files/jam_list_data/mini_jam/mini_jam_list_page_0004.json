@@ -1,5 +1,296 @@
 [
 	{
+		"id": 110,
+		"jam_name": "Sacrifice",
+		"link": "https://itch.io/jam/mini-jam-110-sacrifice",
+		"list": [
+			{
+				"title": "MASAYOSHI",
+				"title_link": "https://filipex2000.itch.io/masayoshi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609567",
+				"by": [
+					"fil"
+				],
+				"by_link": [
+					"https://filipex2000.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.409
+			},
+			{
+				"title": "Ember Slash",
+				"title_link": "https://youdoyoubuddy.itch.io/ember-slash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609540",
+				"by": [
+					"YouDoYouBuddy"
+				],
+				"by_link": [
+					"https://youdoyoubuddy.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.304
+			},
+			{
+				"title": "Su'ccess and Fai'Lure",
+				"title_link": "https://ilprinni.itch.io/su-ccess-and-fai-lure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1610657",
+				"by": [
+					"ilPrinni"
+				],
+				"by_link": [
+					"https://ilprinni.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 11,
+				"score": 4.25
+			},
+			{
+				"title": "Corpse Wizard",
+				"title_link": "https://firebelley.itch.io/corpse-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609404",
+				"by": [
+					"Firebelley"
+				],
+				"by_link": [
+					"https://firebelley.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 28,
+				"score": 4.232
+			},
+			{
+				"title": "A Daydream",
+				"title_link": "https://dandelion-garden.itch.io/a-daydream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1611480",
+				"by": [
+					"Dandelion Garden"
+				],
+				"by_link": [
+					"https://dandelion-garden.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 15,
+				"score": 4.167
+			},
+			{
+				"title": "The Sunboy &amp; The Icarus",
+				"title_link": "https://murgn.itch.io/the-sunboy-the-icarus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609409",
+				"by": [
+					"Murgn",
+					"Staintocton"
+				],
+				"by_link": [
+					"https://murgn.itch.io/",
+					"https://staintocton.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 4.091
+			},
+			{
+				"title": "Blazing Settlement",
+				"title_link": "https://len-underbrink-devs.itch.io/blazing-settlement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1610537",
+				"by": [
+					"Len Underbrink Devs."
+				],
+				"by_link": [
+					"https://len-underbrink-devs.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 10,
+				"score": 4.025
+			},
+			{
+				"title": "Rat Collector",
+				"title_link": "https://liftyforever.itch.io/rat-collector",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608654",
+				"by": [
+					"LiftyForever"
+				],
+				"by_link": [
+					"https://liftyforever.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 11,
+				"score": 4.023
+			},
+			{
+				"title": "Rush Hour",
+				"title_link": "https://thejamark1.itch.io/rush-hour",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609491",
+				"by": [
+					"theJAMARK1"
+				],
+				"by_link": [
+					"https://thejamark1.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 17,
+				"score": 3.985
+			},
+			{
+				"title": "Tapamomupotupumato",
+				"title_link": "https://endorth.itch.io/tapamomupotupumato",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608208",
+				"by": [
+					"Endorth"
+				],
+				"by_link": [
+					"https://endorth.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 33,
+				"score": 3.985
+			},
+			{
+				"title": "Bridge Ghostructor",
+				"title_link": "https://picalines.itch.io/bridge-ghostructor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609383",
+				"by": [
+					"picalines"
+				],
+				"by_link": [
+					"https://picalines.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 17,
+				"score": 3.941
+			},
+			{
+				"title": "Language Erasure",
+				"title_link": "https://yeoyeo.itch.io/language-erasure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608634",
+				"by": [
+					"Yeo Yeo"
+				],
+				"by_link": [
+					"https://yeoyeo.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 12,
+				"score": 3.938
+			},
+			{
+				"title": "Surrounded",
+				"title_link": "https://le-z.itch.io/surrounded",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609374",
+				"by": [
+					"Le_Z"
+				],
+				"by_link": [
+					"https://le-z.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 20,
+				"score": 3.925
+			},
+			{
+				"title": "SacriFailure",
+				"title_link": "https://chimplement.itch.io/sacrifailure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608530",
+				"by": [
+					"Chimplement"
+				],
+				"by_link": [
+					"https://chimplement.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 33,
+				"score": 3.902
+			},
+			{
+				"title": "Ophisk",
+				"title_link": "https://fe26.itch.io/ophisk",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609635",
+				"by": [
+					"Fe26"
+				],
+				"by_link": [
+					"https://fe26.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 12,
+				"score": 3.875
+			},
+			{
+				"title": "Meltdown",
+				"title_link": "https://not-jam.itch.io/meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608176",
+				"by": [
+					"Not Jam"
+				],
+				"by_link": [
+					"https://not-jam.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 27,
+				"score": 3.87
+			},
+			{
+				"title": "Flightless",
+				"title_link": "https://zahranworrell.itch.io/flightless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608347",
+				"by": [
+					"ZahranW"
+				],
+				"by_link": [
+					"https://zahranworrell.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 12,
+				"score": 3.854
+			},
+			{
+				"title": "Lovely Sheep (找死咩)",
+				"title_link": "https://rainizou.itch.io/lovelysheep",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608973",
+				"by": [
+					"RainiZou",
+					"YanBuJin"
+				],
+				"by_link": [
+					"https://rainizou.itch.io/",
+					"https://yanbujin.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 55,
+				"score": 3.841
+			},
+			{
+				"title": "On top of corpses",
+				"title_link": "https://ojornag.itch.io/on-top-of-corpses",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1607436",
+				"by": [
+					"Ojornag"
+				],
+				"by_link": [
+					"https://ojornag.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 26,
+				"score": 3.827
+			},
+			{
+				"title": "A holy sacrifice",
+				"title_link": "https://cursedstudios.itch.io/a-holy-sacrifice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608840",
+				"by": [
+					"CursedStudios"
+				],
+				"by_link": [
+					"https://cursedstudios.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 3.821
+			}
+		]
+	},
+	{
 		"id": 109,
 		"jam_name": "Depths",
 		"link": "https://itch.io/jam/mini-jam-109-depths",
@@ -2707,323 +2998,6 @@
 				"rank": 20,
 				"ratings": 18,
 				"score": 3.75
-			}
-		]
-	},
-	{
-		"id": 100,
-		"jam_name": "Overload",
-		"link": "https://itch.io/jam/mini-jam-100-overload",
-		"list": [
-			{
-				"title": "Cave of your head",
-				"title_link": "https://zomare.itch.io/cave-of-your-head",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409599",
-				"by": [
-					"Zomare"
-				],
-				"by_link": [
-					"https://zomare.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 9,
-				"score": 4.444
-			},
-			{
-				"title": "Super Mutator",
-				"title_link": "https://elnikkino.itch.io/super-mutator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409987",
-				"by": [
-					"ElNikkino",
-					"hansfuchs",
-					"Toenchen",
-					"Micelna"
-				],
-				"by_link": [
-					"https://elnikkino.itch.io/",
-					"https://hansfuchs.itch.io/",
-					"https://toenchen.itch.io/",
-					"https://micelna.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 4.386
-			},
-			{
-				"title": "TYPE:CAST",
-				"title_link": "https://not-jam.itch.io/typecast",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407279",
-				"by": [
-					"Not Jam"
-				],
-				"by_link": [
-					"https://not-jam.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 43,
-				"score": 4.349
-			},
-			{
-				"title": "Fill It Out",
-				"title_link": "https://herof123.itch.io/fill-it-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409083",
-				"by": [
-					"Herof123",
-					"Ratainen",
-					"piirakka"
-				],
-				"by_link": [
-					"https://herof123.itch.io/",
-					"https://ratainen.itch.io/",
-					"https://profiili.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 8,
-				"score": 4.344
-			},
-			{
-				"title": "Métro, boulot, dodo",
-				"title_link": "https://cleofnt.itch.io/metro-boulot-dodo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407207",
-				"by": [
-					"Cléo Fontaine",
-					"Florian Launay",
-					"Purring Campfire"
-				],
-				"by_link": [
-					"https://cleofnt.itch.io/",
-					"https://florianl.itch.io/",
-					"https://purringcampfire.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 24,
-				"score": 4.26
-			},
-			{
-				"title": "VoiceOS",
-				"title_link": "https://czarnicholas.itch.io/voiceos",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409970",
-				"by": [
-					"Czar Nicholas II Games"
-				],
-				"by_link": [
-					"https://czarnicholas.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 4.227
-			},
-			{
-				"title": "Rule Overload",
-				"title_link": "https://mondayslunch.itch.io/rule-overload",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409857",
-				"by": [
-					"Monday's Lunch"
-				],
-				"by_link": [
-					"https://mondayslunch.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 9,
-				"score": 4.139
-			},
-			{
-				"title": "core_error",
-				"title_link": "https://cakestorm.itch.io/core-error",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409022",
-				"by": [
-					"Cakestorm"
-				],
-				"by_link": [
-					"https://cakestorm.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 26,
-				"score": 4.087
-			},
-			{
-				"title": "Reactor Overload - Mini Jam 100",
-				"title_link": "https://rgp95.itch.io/reactor-overload",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409772",
-				"by": [
-					"RGP95"
-				],
-				"by_link": [
-					"https://rgp95.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 4.083
-			},
-			{
-				"title": "circuit breaker",
-				"title_link": "https://bideogame.itch.io/circuit-breaker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1412902",
-				"by": [
-					"bideogame"
-				],
-				"by_link": [
-					"https://bideogame.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 12,
-				"score": 4.083
-			},
-			{
-				"title": "Hue-Man: Chaos Edition",
-				"title_link": "https://mythrilsmiths.itch.io/hue-man-chaos-edition",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409096",
-				"by": [
-					"MYTHRILSMITHS",
-					"ynthamy",
-					"riphitter",
-					"bozz🍕💀⚡",
-					"Spiraseven",
-					"SilverHammer77",
-					"blueradishz",
-					"Studio Vykanic"
-				],
-				"by_link": [
-					"https://mythrilsmiths.itch.io/",
-					"https://ynthamy.itch.io/",
-					"https://riphitter.itch.io/",
-					"https://bozzmp3.itch.io/",
-					"https://spiraseven.itch.io/",
-					"https://silverhammer77.itch.io/",
-					"https://blueradishz.itch.io/",
-					"https://studiovykanic.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 23,
-				"score": 4.076
-			},
-			{
-				"title": "Burnout Simulator",
-				"title_link": "https://amealky.itch.io/burnout-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408919",
-				"by": [
-					"Amealky",
-					"Padlynn"
-				],
-				"by_link": [
-					"https://amealky.itch.io/",
-					"https://padlynn.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 28,
-				"score": 4.071
-			},
-			{
-				"title": "LetterChaos",
-				"title_link": "https://pello.itch.io/word-chaos",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409713",
-				"by": [
-					"pello"
-				],
-				"by_link": [
-					"https://pello.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 21,
-				"score": 4.071
-			},
-			{
-				"title": "Dungeon of Anxiety",
-				"title_link": "https://kaasnake.itch.io/dungeon-of-anxiety",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408894",
-				"by": [
-					"KaaSnake"
-				],
-				"by_link": [
-					"https://kaasnake.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 22,
-				"score": 4.068
-			},
-			{
-				"title": "Casino Nights",
-				"title_link": "https://spratley.itch.io/casino-nights",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409851",
-				"by": [
-					"Spratley"
-				],
-				"by_link": [
-					"https://spratley.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 9,
-				"score": 4.056
-			},
-			{
-				"title": "Balance Wars",
-				"title_link": "https://mrnr15.itch.io/balance-wars",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408983",
-				"by": [
-					"Mr.Nr.15"
-				],
-				"by_link": [
-					"https://mrnr15.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 17,
-				"score": 4.044
-			},
-			{
-				"title": "Social Interaction Simulator",
-				"title_link": "https://brandenmb.itch.io/social-interaction-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409939",
-				"by": [
-					"brandenmb"
-				],
-				"by_link": [
-					"https://brandenmb.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 43,
-				"score": 4.029
-			},
-			{
-				"title": "Coffee Chaos",
-				"title_link": "https://spacespy.itch.io/coffee",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1410113",
-				"by": [
-					"Spacespy"
-				],
-				"by_link": [
-					"https://spacespy.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 25,
-				"score": 4.01
-			},
-			{
-				"title": "SideQuests - The Game",
-				"title_link": "https://royaljudas.itch.io/sidequests",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409696",
-				"by": [
-					"RoyalJudas"
-				],
-				"by_link": [
-					"https://royaljudas.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 13,
-				"score": 3.981
-			},
-			{
-				"title": "Disorder of the darkness [Jam version]",
-				"title_link": "https://stingby12.itch.io/disorder-of-the-darkness-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1406928",
-				"by": [
-					"Stingby12"
-				],
-				"by_link": [
-					"https://stingby12.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 20,
-				"score": 3.975
 			}
 		]
 	}

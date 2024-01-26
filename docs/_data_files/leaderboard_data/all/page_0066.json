@@ -387,6 +387,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Solar Sorcerer",
+				"title_link": "https://blodyx.itch.io/solar-sorcerer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482796",
+				"by": [
+					"Blodyx"
+				],
+				"by_link": [
+					"https://blodyx.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 13,
+				"score": 2.846
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",

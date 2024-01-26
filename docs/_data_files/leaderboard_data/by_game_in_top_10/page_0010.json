@@ -1,5 +1,129 @@
 [
 	{
+		"jammer": "sssemendyaev",
+		"jammer_link": "https://sssemendyaev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"title": "I will live",
+				"title_link": "https://sssemendyaev.itch.io/i-will-live",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2339808",
+				"by": [
+					"sssemendyaev"
+				],
+				"by_link": [
+					"https://sssemendyaev.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 8,
+				"score": 3.625
+			}
+		]
+	},
+	{
+		"jammer": "Monkosum",
+		"jammer_link": "https://monkosum.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 25,
+				"jam_name": "Spirits",
+				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
+				"title": "One Shade's Fate",
+				"title_link": "https://monkosum.itch.io/one-shades-fate-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402457",
+				"by": [
+					"Monkosum"
+				],
+				"by_link": [
+					"https://monkosum.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 6,
+				"score": 3.615
+			}
+		]
+	},
+	{
+		"jammer": "ScarfRavenStudios",
+		"jammer_link": "https://scarfravenstudios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"title": "The Eternal Queen's Rampage!",
+				"title_link": "https://scarfravenstudios.itch.io/the-eternal-queens-rampage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062857",
+				"by": [
+					"ScarfRavenStudios"
+				],
+				"by_link": [
+					"https://scarfravenstudios.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 14,
+				"score": 3.607
+			}
+		]
+	},
+	{
+		"jammer": "carnalmantrap",
+		"jammer_link": "https://carnalmantrap.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "The Fortune Channel",
+				"title_link": "https://carnalmantrap.itch.io/the-fortune-channel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164332",
+				"by": [
+					"carnalmantrap",
+					"artiethebeeboi"
+				],
+				"by_link": [
+					"https://carnalmantrap.itch.io/",
+					"https://artiethebeeboi.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 3.601
+			}
+		]
+	},
+	{
+		"jammer": "artiethebeeboi",
+		"jammer_link": "https://artiethebeeboi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "The Fortune Channel",
+				"title_link": "https://carnalmantrap.itch.io/the-fortune-channel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164332",
+				"by": [
+					"carnalmantrap",
+					"artiethebeeboi"
+				],
+				"by_link": [
+					"https://carnalmantrap.itch.io/",
+					"https://artiethebeeboi.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 3.601
+			}
+		]
+	},
+	{
 		"jammer": "Crixus",
 		"jammer_link": "https://crixusjam.itch.io/",
 		"list_game_sorted": [
@@ -322,30 +446,6 @@
 				"rank": 6,
 				"ratings": 14,
 				"score": 3.375
-			}
-		]
-	},
-	{
-		"jammer": "Jenislav",
-		"jammer_link": "https://jenislav.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"title": "Deus interim Machina",
-				"title_link": "https://jenislav.itch.io/deus-interim-machina",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449974",
-				"by": [
-					"Jenislav"
-				],
-				"by_link": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 18,
-				"score": 3.361
 			}
 		]
 	},
@@ -2490,120 +2590,6 @@
 				"rank": 7,
 				"ratings": 13,
 				"score": 3.769
-			}
-		]
-	},
-	{
-		"jammer": "niraami",
-		"jammer_link": "https://niraami.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 115,
-				"jam_name": "Noir",
-				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
-				"title": "Imsomed",
-				"title_link": "https://offln.itch.io/imsomed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1709341",
-				"by": [
-					"OFFLINE",
-					"niraami"
-				],
-				"by_link": [
-					"https://offln.itch.io/",
-					"https://niraami.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 11,
-				"score": 3.727
-			}
-		]
-	},
-	{
-		"jammer": "Digx7",
-		"jammer_link": "https://digx7.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"title": "No Time To Die",
-				"title_link": "https://digx7.itch.io/no-time-to-die",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934339",
-				"by": [
-					"Digx7"
-				],
-				"by_link": [
-					"https://digx7.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 11,
-				"score": 3.727
-			}
-		]
-	},
-	{
-		"jammer": "Piotr Matyja",
-		"jammer_link": "https://petermatyja.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 114,
-				"jam_name": "Anime",
-				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
-				"title": "Behind The Mind",
-				"title_link": "https://petermatyja.itch.io/behind-the-mind",
-				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691076",
-				"by": [
-					"Piotr Matyja",
-					"Ronuu",
-					"Holden",
-					"Areeee",
-					"Archikatz"
-				],
-				"by_link": [
-					"https://petermatyja.itch.io/",
-					"https://ronuu.itch.io/",
-					"https://holden22.itch.io/",
-					"https://areeee.itch.io/",
-					"https://exoddinary.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 20,
-				"score": 3.725
-			}
-		]
-	},
-	{
-		"jammer": "Ronuu",
-		"jammer_link": "https://ronuu.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 114,
-				"jam_name": "Anime",
-				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
-				"title": "Behind The Mind",
-				"title_link": "https://petermatyja.itch.io/behind-the-mind",
-				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691076",
-				"by": [
-					"Piotr Matyja",
-					"Ronuu",
-					"Holden",
-					"Areeee",
-					"Archikatz"
-				],
-				"by_link": [
-					"https://petermatyja.itch.io/",
-					"https://ronuu.itch.io/",
-					"https://holden22.itch.io/",
-					"https://areeee.itch.io/",
-					"https://exoddinary.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 20,
-				"score": 3.725
 			}
 		]
 	}

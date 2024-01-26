@@ -1,5 +1,167 @@
 [
 	{
+		"jammer": "Bobby_The_Goblin",
+		"jammer_link": "https://bobbythegoblin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			}
+		]
+	},
+	{
+		"jammer": "VikS",
+		"jammer_link": "https://viks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			}
+		]
+	},
+	{
+		"jammer": "HeroOfSkies",
+		"jammer_link": "https://heroofskies.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"title": "Slashin' Trash",
+				"title_link": "https://bobbythegoblin.itch.io/slashin-trash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457443",
+				"by": [
+					"Bobby_The_Goblin",
+					"VikS",
+					"HeroOfSkies",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://heroofskies.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 24,
+				"score": 4.458
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"title": "The Baron's Bounty",
+				"title_link": "https://heroofskies.itch.io/the-barons-bounty",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556640",
+				"by": [
+					"HeroOfSkies",
+					"Bobby_The_Goblin",
+					"VikS",
+					"Jenny Shen"
+				],
+				"by_link": [
+					"https://heroofskies.itch.io/",
+					"https://bobbythegoblin.itch.io/",
+					"https://viks.itch.io/",
+					"https://jennyshencomposer.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 6,
+				"score": 3.4
+			}
+		]
+	},
+	{
 		"jammer": "Jenny Shen",
 		"jammer_link": "https://jennyshencomposer.itch.io/",
 		"list_game_sorted": [
@@ -628,48 +790,6 @@
 		]
 	},
 	{
-		"jammer": "muupi",
-		"jammer_link": "https://muupi.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"title": "Zine",
-				"title_link": "https://muupi.itch.io/zine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2313228",
-				"by": [
-					"muupi"
-				],
-				"by_link": [
-					"https://muupi.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 7,
-				"score": 4.107
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 131,
-				"jam_name": "Solar",
-				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"title": "Solar Punks",
-				"title_link": "https://muupi.itch.io/solarpunks",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041011",
-				"by": [
-					"muupi"
-				],
-				"by_link": [
-					"https://muupi.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 12,
-				"score": 3.396
-			}
-		]
-	},
-	{
 		"jammer": "Larsspawn",
 		"jammer_link": "https://larsspawn.itch.io/",
 		"list_game_sorted": [
@@ -834,6 +954,48 @@
 				"rank": 9,
 				"ratings": 13,
 				"score": 3.827
+			}
+		]
+	},
+	{
+		"jammer": "Jenislav",
+		"jammer_link": "https://jenislav.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"title": "Deus interim Machina",
+				"title_link": "https://jenislav.itch.io/deus-interim-machina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449974",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 18,
+				"score": 3.361
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Herding Cats",
+				"title_link": "https://jenislav.itch.io/herding-cats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 22,
+				"score": 3.966
 			}
 		]
 	},
@@ -4286,140 +4448,6 @@
 				"rank": 14,
 				"ratings": 26,
 				"score": 3.808
-			}
-		]
-	},
-	{
-		"jammer": "MFauzan",
-		"jammer_link": "https://mfproject.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "The Blood Curse",
-				"title_link": "https://mfproject.itch.io/the-blood-curse",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769012",
-				"by": [
-					"MFauzan",
-					"davidoffcw"
-				],
-				"by_link": [
-					"https://mfproject.itch.io/",
-					"https://davidoffcw.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 18,
-				"score": 3.806
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"title": "HUMMIN' OUT",
-				"title_link": "https://mfproject.itch.io/hummin-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388772",
-				"by": [
-					"MFauzan",
-					"davidoffcw"
-				],
-				"by_link": [
-					"https://mfproject.itch.io/",
-					"https://davidoffcw.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 12,
-				"score": 3.875
-			}
-		]
-	},
-	{
-		"jammer": "davidoffcw",
-		"jammer_link": "https://davidoffcw.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "The Blood Curse",
-				"title_link": "https://mfproject.itch.io/the-blood-curse",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769012",
-				"by": [
-					"MFauzan",
-					"davidoffcw"
-				],
-				"by_link": [
-					"https://mfproject.itch.io/",
-					"https://davidoffcw.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 18,
-				"score": 3.806
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"title": "HUMMIN' OUT",
-				"title_link": "https://mfproject.itch.io/hummin-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388772",
-				"by": [
-					"MFauzan",
-					"davidoffcw"
-				],
-				"by_link": [
-					"https://mfproject.itch.io/",
-					"https://davidoffcw.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 12,
-				"score": 3.875
-			}
-		]
-	},
-	{
-		"jammer": "AhSpike",
-		"jammer_link": "https://ahspike.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"title": "Ghost Bridge",
-				"title_link": "https://ahspike.itch.io/ghost-bridge",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808201",
-				"by": [
-					"AhSpike"
-				],
-				"by_link": [
-					"https://ahspike.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 4.068
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 68,
-				"jam_name": "Sleep",
-				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"title": "Kawaii Dreams",
-				"title_link": "https://ahspike.itch.io/kawaii-dreams",
-				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837683",
-				"by": [
-					"AhSpike"
-				],
-				"by_link": [
-					"https://ahspike.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 7,
-				"score": 3.441
 			}
 		]
 	}

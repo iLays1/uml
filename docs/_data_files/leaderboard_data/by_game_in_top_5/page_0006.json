@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Tail Clap Games",
+		"jammer_link": "https://tailclap.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"title": "Cyndicate - Mafia Tycoon (Mobile friendly)",
+				"title_link": "https://tailclap.itch.io/cyndicate-mafia-management",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/725645",
+				"by": [
+					"Tail Clap Games"
+				],
+				"by_link": [
+					"https://tailclap.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 25,
+				"score": 4.08
+			}
+		]
+	},
+	{
+		"jammer": "John Peres",
+		"jammer_link": "https://johnperes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"title": "Love Bowling",
+				"title_link": "https://johnperes.itch.io/love-bowling",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689250",
+				"by": [
+					"John Peres"
+				],
+				"by_link": [
+					"https://johnperes.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 4.075
+			}
+		]
+	},
+	{
 		"jammer": "A Cup Of Coffee",
 		"jammer_link": "https://a-cup-of-coffee.itch.io/",
 		"list_game_sorted": [
@@ -2474,54 +2522,6 @@
 				"rank": 4,
 				"ratings": 4,
 				"score": 2.991
-			}
-		]
-	},
-	{
-		"jammer": "D_centum",
-		"jammer_link": "https://d-centum.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 58,
-				"jam_name": "Neon",
-				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
-				"title": "Payout",
-				"title_link": "https://d-centum.itch.io/payout",
-				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701312",
-				"by": [
-					"D_centum"
-				],
-				"by_link": [
-					"https://d-centum.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 2.955
-			}
-		]
-	},
-	{
-		"jammer": "cracken",
-		"jammer_link": "https://cracken.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 7,
-				"jam_name": "Greek Mythology",
-				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
-				"title": "Germes Adventures",
-				"title_link": "https://cracken.itch.io/germes-adventures",
-				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285322",
-				"by": [
-					"cracken"
-				],
-				"by_link": [
-					"https://cracken.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 8,
-				"score": 2.75
 			}
 		]
 	}

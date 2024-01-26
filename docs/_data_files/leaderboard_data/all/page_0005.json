@@ -1649,21 +1649,39 @@
 	},
 	{
 		"jammer": "Hosein_SunFlower",
-		"jammer_link": "https://hosein-sunfloawer.itch.io/",
+		"jammer_link": "https://hosein-sunflower.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "lantern Light",
+				"title_link": "https://hosein-sunflower.itch.io/lantern-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482440",
+				"by": [
+					"Hosein_SunFlower"
+				],
+				"by_link": [
+					"https://hosein-sunflower.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 11,
+				"score": 3.773
+			},
 			{
 				"jam_type": "major_jam",
 				"jam_id": 6,
 				"jam_name": "Major Jam 6: Life",
 				"jam_link": "https://itch.io/jam/major-jam-6-life",
 				"title": "Garden Errors",
-				"title_link": "https://hosein-sunfloawer.itch.io/garden-errors",
+				"title_link": "https://hosein-sunflower.itch.io/garden-errors",
 				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196703",
 				"by": [
 					"Hosein_SunFlower"
 				],
 				"by_link": [
-					"https://hosein-sunfloawer.itch.io/"
+					"https://hosein-sunflower.itch.io/"
 				],
 				"rank": 38,
 				"ratings": 17,
@@ -3758,8 +3776,8 @@
 		]
 	},
 	{
-		"jammer": "MrFGames",
-		"jammer_link": "https://mrfgames.itch.io/",
+		"jammer": "MurfGames",
+		"jammer_link": "https://murfgames.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3767,13 +3785,13 @@
 				"jam_name": "Chrono",
 				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
 				"title": "Chrono Hop",
-				"title_link": "https://mrfgames.itch.io/chrono-hop",
+				"title_link": "https://murfgames.itch.io/chrono-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653308",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 11,
@@ -3785,13 +3803,13 @@
 				"jam_name": "Major Jam 6: Life",
 				"jam_link": "https://itch.io/jam/major-jam-6-life",
 				"title": "Mark II",
-				"title_link": "https://mrfgames.itch.io/mark2",
+				"title_link": "https://murfgames.itch.io/mark2",
 				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195822",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 69,
 				"ratings": 8,
@@ -3803,13 +3821,13 @@
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
 				"title": "Evocator",
-				"title_link": "https://mrfgames.itch.io/evocator",
+				"title_link": "https://murfgames.itch.io/evocator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608883",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 153,
 				"ratings": 3,
@@ -3821,13 +3839,13 @@
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
 				"title": "Face-off with Fate",
-				"title_link": "https://mrfgames.itch.io/face-off-with-fate",
+				"title_link": "https://murfgames.itch.io/face-off-with-fate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633999",
 				"by": [
-					"MrFGames"
+					"MurfGames"
 				],
 				"by_link": [
-					"https://mrfgames.itch.io/"
+					"https://murfgames.itch.io/"
 				],
 				"rank": 322,
 				"ratings": 2,
@@ -4059,6 +4077,26 @@
 		"jammer": "Malithx26",
 		"jammer_link": "https://malithx26.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Heliomancy",
+				"title_link": "https://sealantern.itch.io/heliomancy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483096",
+				"by": [
+					"SeaLantern",
+					"Malithx26"
+				],
+				"by_link": [
+					"https://sealantern.itch.io/",
+					"https://malithx26.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 14,
+				"score": 2.929
+			},
 			{
 				"jam_type": "major_jam",
 				"jam_id": 6,

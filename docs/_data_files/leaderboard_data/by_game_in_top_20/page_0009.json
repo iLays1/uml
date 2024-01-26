@@ -1,5 +1,105 @@
 [
 	{
+		"jammer": "Tales98",
+		"jammer_link": "https://tales98.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"title": "Warm Buns",
+				"title_link": "https://tales98.itch.io/warm-buns",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888568",
+				"by": [
+					"Tales98",
+					"LarissaMCarvalho"
+				],
+				"by_link": [
+					"https://tales98.itch.io/",
+					"https://larissamcarvalho.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 11,
+				"score": 4.114
+			}
+		]
+	},
+	{
+		"jammer": "LarissaMCarvalho",
+		"jammer_link": "https://larissamcarvalho.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"title": "Warm Buns",
+				"title_link": "https://tales98.itch.io/warm-buns",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888568",
+				"by": [
+					"Tales98",
+					"LarissaMCarvalho"
+				],
+				"by_link": [
+					"https://tales98.itch.io/",
+					"https://larissamcarvalho.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 11,
+				"score": 4.114
+			}
+		]
+	},
+	{
+		"jammer": "Zoidburger",
+		"jammer_link": "https://zoid-burger.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"title": "Double-Barreled Doppelgänger",
+				"title_link": "https://zoid-burger.itch.io/double-barreled-doppelganger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749610",
+				"by": [
+					"Zoidburger"
+				],
+				"by_link": [
+					"https://zoid-burger.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 16,
+				"score": 4.109
+			}
+		]
+	},
+	{
+		"jammer": "Yatch",
+		"jammer_link": "https://yatchstudios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "V-Hunter Puzzler Dx",
+				"title_link": "https://yatchstudios.itch.io/v-hunter-puzzler-dx",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770633",
+				"by": [
+					"Yatch"
+				],
+				"by_link": [
+					"https://yatchstudios.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 19,
+				"score": 4.105
+			}
+		]
+	},
+	{
 		"jammer": "Startrix",
 		"jammer_link": "https://startrix.itch.io/",
 		"list_game_sorted": [
@@ -2426,108 +2526,6 @@
 				"rank": 5,
 				"ratings": 26,
 				"score": 4.096
-			}
-		]
-	},
-	{
-		"jammer": "Piroporopi",
-		"jammer_link": "https://piroporopi.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"title": "Ancient Song",
-				"title_link": "https://piroporopi.itch.io/ancient-song",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459536",
-				"by": [
-					"Piroporopi"
-				],
-				"by_link": [
-					"https://piroporopi.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 33,
-				"score": 4.091
-			}
-		]
-	},
-	{
-		"jammer": "WIIASD",
-		"jammer_link": "https://wiiasd.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"title": "Slimbing Up !",
-				"title_link": "https://wiiasd.itch.io/slimbing-up",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752198",
-				"by": [
-					"WIIASD"
-				],
-				"by_link": [
-					"https://wiiasd.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 29,
-				"score": 4.086
-			}
-		]
-	},
-	{
-		"jammer": "SavestateCorrupted",
-		"jammer_link": "https://savestatecorrupted.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"title": "Dream of the Machine",
-				"title_link": "https://ilprinni.itch.io/the-dreams-of-machines",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591372",
-				"by": [
-					"ilPrinni",
-					"SavestateCorrupted",
-					"Derpyzza"
-				],
-				"by_link": [
-					"https://ilprinni.itch.io/",
-					"https://savestatecorrupted.itch.io/",
-					"https://derpyzza.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 15,
-				"score": 4.083
-			}
-		]
-	},
-	{
-		"jammer": "finnp",
-		"jammer_link": "https://finnp.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "Fly my Children",
-				"title_link": "https://lexenson.itch.io/fly-my-children",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769845",
-				"by": [
-					"lexenson",
-					"finnp"
-				],
-				"by_link": [
-					"https://lexenson.itch.io/",
-					"https://finnp.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 21,
-				"score": 4.083
 			}
 		]
 	}

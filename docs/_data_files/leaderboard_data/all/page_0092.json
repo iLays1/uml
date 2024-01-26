@@ -316,6 +316,24 @@
 				"rank": 28,
 				"ratings": 8,
 				"score": 2.638
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Spell Duel: Light Edition",
+				"title_link": "https://bacon-beast.itch.io/spell-duel-light-edition",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483094",
+				"by": [
+					"BACON BEAST"
+				],
+				"by_link": [
+					"https://bacon-beast.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 9,
+				"score": 2.556
 			}
 		]
 	},
@@ -2238,8 +2256,8 @@
 		]
 	},
 	{
-		"jammer": "FRAE",
-		"jammer_link": "https://afrae.itch.io/",
+		"jammer": "Exavold",
+		"jammer_link": "https://exavold.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2247,14 +2265,14 @@
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
 				"title": "PSYCOON",
-				"title_link": "https://afrae.itch.io/psycoon",
+				"title_link": "https://exavold.itch.io/psycoon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2090996",
 				"by": [
-					"FRAE",
+					"Exavold",
 					"Chocowla"
 				],
 				"by_link": [
-					"https://afrae.itch.io/",
+					"https://exavold.itch.io/",
 					"https://chocowla.itch.io/"
 				],
 				"rank": 60,
@@ -2273,14 +2291,14 @@
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
 				"title": "PSYCOON",
-				"title_link": "https://afrae.itch.io/psycoon",
+				"title_link": "https://exavold.itch.io/psycoon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2090996",
 				"by": [
-					"FRAE",
+					"Exavold",
 					"Chocowla"
 				],
 				"by_link": [
-					"https://afrae.itch.io/",
+					"https://exavold.itch.io/",
 					"https://chocowla.itch.io/"
 				],
 				"rank": 60,

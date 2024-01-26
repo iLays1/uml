@@ -1046,8 +1046,8 @@
 		]
 	},
 	{
-		"jammer": "Akimaya",
-		"jammer_link": "https://akimaya.itch.io/",
+		"jammer": "thetwilightsoup",
+		"jammer_link": "https://thetwilightsoup.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1055,14 +1055,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -1081,14 +1081,14 @@
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"title": "Counting Sheep",
-				"title_link": "https://akimaya.itch.io/counting-sheep",
+				"title_link": "https://thetwilightsoup.itch.io/counting-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437480",
 				"by": [
-					"Akimaya",
+					"thetwilightsoup",
 					"PandaStuff1"
 				],
 				"by_link": [
-					"https://akimaya.itch.io/",
+					"https://thetwilightsoup.itch.io/",
 					"https://pandastuff1.itch.io/"
 				],
 				"rank": 3,
@@ -1441,6 +1441,24 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Candlelight",
+				"title_link": "https://tomasque.itch.io/candlelight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483052",
+				"by": [
+					"Tomasque"
+				],
+				"by_link": [
+					"https://tomasque.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 8,
+				"score": 3.688
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
@@ -1572,6 +1590,24 @@
 				"rank": 82,
 				"ratings": 8,
 				"score": 2.813
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairy Light",
+				"title_link": "https://khokun.itch.io/fairy-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482722",
+				"by": [
+					"khokun"
+				],
+				"by_link": [
+					"https://khokun.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 7,
+				"score": 2.464
 			}
 		]
 	},
@@ -2386,6 +2422,24 @@
 				"rank": 12,
 				"ratings": 8,
 				"score": 3.938
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fairy Lights",
+				"title_link": "https://teammelodies.itch.io/fairy-lights",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479310",
+				"by": [
+					"Team Melodies"
+				],
+				"by_link": [
+					"https://teammelodies.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 22,
+				"score": 3.523
 			}
 		]
 	},
@@ -2434,6 +2488,30 @@
 				"rank": 15,
 				"ratings": 22,
 				"score": 3.909
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Fountain of Youth",
+				"title_link": "https://beepone.itch.io/fountain-of-youth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483268",
+				"by": [
+					"Beepone",
+					"Avon",
+					"snj1300",
+					"davemohamed1"
+				],
+				"by_link": [
+					"https://beepone.itch.io/",
+					"https://cheekii.itch.io/",
+					"https://snj1300.itch.io/",
+					"https://davemohamed1.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 3,
+				"score": 1.855
 			}
 		]
 	},
@@ -2666,6 +2744,26 @@
 				"rank": 22,
 				"ratings": 7,
 				"score": 3.75
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Heliomancy",
+				"title_link": "https://sealantern.itch.io/heliomancy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483096",
+				"by": [
+					"SeaLantern",
+					"Malithx26"
+				],
+				"by_link": [
+					"https://sealantern.itch.io/",
+					"https://malithx26.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 14,
+				"score": 2.929
 			}
 		]
 	}

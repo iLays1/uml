@@ -1,5 +1,163 @@
 [
 	{
+		"jammer": "brook.p8",
+		"jammer_link": "https://gamedevbrook.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 26,
+				"jam_name": "Storms",
+				"jam_link": "https://itch.io/jam/mini-jam-26-storms",
+				"title": "GOLFNADO",
+				"title_link": "https://gamedevbrook.itch.io/golfnado",
+				"submission_page_link": "https://itch.io/jam/mini-jam-26-storms/rate/409106",
+				"by": [
+					"brook.p8"
+				],
+				"by_link": [
+					"https://gamedevbrook.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 12,
+				"score": 3.583
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 21,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-21-stories",
+				"title": "Code Hero",
+				"title_link": "https://gamedevbrook.itch.io/code-hero",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368709",
+				"by": [
+					"brook.p8",
+					"TheJadeRabbit0"
+				],
+				"by_link": [
+					"https://gamedevbrook.itch.io/",
+					"https://thejaderabbit0.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 3,
+				"score": 1.532
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"title": "Millennium Maximus",
+				"title_link": "https://gamedevbrook.itch.io/millenium-maximus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880538",
+				"by": [
+					"brook.p8"
+				],
+				"by_link": [
+					"https://gamedevbrook.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 17,
+				"score": 3.676
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 18,
+				"jam_name": "Dreams",
+				"jam_link": "https://itch.io/jam/mini-jam-18-dreams",
+				"title": "Dear Diary",
+				"title_link": "https://gamedevbrook.itch.io/dear-diary",
+				"submission_page_link": "https://itch.io/jam/mini-jam-18-dreams/rate/351199",
+				"by": [
+					"brook.p8"
+				],
+				"by_link": [
+					"https://gamedevbrook.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 7,
+				"score": 3.004
+			}
+		]
+	},
+	{
+		"jammer": "Mbox",
+		"jammer_link": "https://mbox47.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"title": "The Recalling",
+				"title_link": "https://mbox47.itch.io/the-recalling",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647506",
+				"by": [
+					"Mbox"
+				],
+				"by_link": [
+					"https://mbox47.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.8
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 59,
+				"jam_name": "Fortress",
+				"jam_link": "https://itch.io/jam/mini-jam-59",
+				"title": "Fort Apetit",
+				"title_link": "https://mbox47.itch.io/fort-apetit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/712616",
+				"by": [
+					"Mbox"
+				],
+				"by_link": [
+					"https://mbox47.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 6,
+				"score": 2.887
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"title": "Cat-trina",
+				"title_link": "https://mbox47.itch.io/cat-trina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044902",
+				"by": [
+					"Mbox"
+				],
+				"by_link": [
+					"https://mbox47.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 21,
+				"score": 3.905
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"title": "Donut Commando",
+				"title_link": "https://mbox47.itch.io/donut-commando",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672243",
+				"by": [
+					"Mbox"
+				],
+				"by_link": [
+					"https://mbox47.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.5
+			}
+		]
+	},
+	{
 		"jammer": "Dot",
 		"jammer_link": "https://trapezoid-games.itch.io/",
 		"list_game_sorted": [
@@ -152,72 +310,6 @@
 				"rank": 19,
 				"ratings": 10,
 				"score": 3.275
-			}
-		]
-	},
-	{
-		"jammer": "rutbny",
-		"jammer_link": "https://rutbny.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"title": "Divine Judgement",
-				"title_link": "https://inkspinner.itch.io/divine-judgement",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185726",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 21,
-				"score": 4.036
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"title": "UN-Mugging",
-				"title_link": "https://inkspinner.itch.io/un-mugging",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134826",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.107
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"title": "Asquired Taste",
-				"title_link": "https://inkspinner.itch.io/asquired-taste",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2000102",
-				"by": [
-					"Inkspinner",
-					"rutbny"
-				],
-				"by_link": [
-					"https://inkspinner.itch.io/",
-					"https://rutbny.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.183
 			}
 		]
 	},
@@ -670,66 +762,6 @@
 				"rank": 5,
 				"ratings": 15,
 				"score": 4.083
-			}
-		]
-	},
-	{
-		"jammer": "TripleCubes",
-		"jammer_link": "https://triplecubes.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 141,
-				"jam_name": "Stories",
-				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
-				"title": "The Queen is OP",
-				"title_link": "https://triplecubes.itch.io/the-queen-is-op",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2269137",
-				"by": [
-					"TripleCubes"
-				],
-				"by_link": [
-					"https://triplecubes.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 16,
-				"score": 3.734
-			},
-			{
-				"jam_type": "major_jam",
-				"jam_id": 6,
-				"jam_name": "Major Jam 6: Life",
-				"jam_link": "https://itch.io/jam/major-jam-6-life",
-				"title": "Digital Garden",
-				"title_link": "https://triplecubes.itch.io/digital-garden",
-				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196699",
-				"by": [
-					"TripleCubes"
-				],
-				"by_link": [
-					"https://triplecubes.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 13,
-				"score": 4.038
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"title": "Power Ups",
-				"title_link": "https://triplecubes.itch.io/power-ups",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2463006",
-				"by": [
-					"TripleCubes"
-				],
-				"by_link": [
-					"https://triplecubes.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 10,
-				"score": 4.025
 			}
 		]
 	},
@@ -2370,6 +2402,66 @@
 				"rank": 14,
 				"ratings": 8,
 				"score": 2.958
+			}
+		]
+	},
+	{
+		"jammer": "muupi",
+		"jammer_link": "https://muupi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Zine",
+				"title_link": "https://muupi.itch.io/zine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2313228",
+				"by": [
+					"muupi"
+				],
+				"by_link": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 7,
+				"score": 4.107
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Cards of Light",
+				"title_link": "https://muupi.itch.io/cards-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484686",
+				"by": [
+					"muupi"
+				],
+				"by_link": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 12,
+				"score": 3.958
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"title": "Solar Punks",
+				"title_link": "https://muupi.itch.io/solarpunks",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041011",
+				"by": [
+					"muupi"
+				],
+				"by_link": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 12,
+				"score": 3.396
 			}
 		]
 	},
@@ -6220,48 +6312,6 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 4.133
-			}
-		]
-	},
-	{
-		"jammer": "SMEZZYLIXO",
-		"jammer_link": "https://smezzylixo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"title": "Lich x Cutter",
-				"title_link": "https://smezzylixo.itch.io/lich-x-cutter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653610",
-				"by": [
-					"SMEZZYLIXO"
-				],
-				"by_link": [
-					"https://smezzylixo.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 31,
-				"score": 4.492
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"title": "SLICRX",
-				"title_link": "https://smezzylixo.itch.io/slicrx",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347746",
-				"by": [
-					"SMEZZYLIXO"
-				],
-				"by_link": [
-					"https://smezzylixo.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 22,
-				"score": 3.989
 			}
 		]
 	}

@@ -1,5 +1,81 @@
 [
 	{
+		"jammer": "Zel",
+		"jammer_link": "https://heyimzel.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 22,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-22-anime",
+				"title": "Ice Breaker",
+				"title_link": "https://heyimzel.itch.io/ice-breaker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-22-anime/rate/374549",
+				"by": [
+					"Zel"
+				],
+				"by_link": [
+					"https://heyimzel.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 2.944
+			}
+		]
+	},
+	{
+		"jammer": "honeytheyellowbear",
+		"jammer_link": "https://honeytheyellowbear.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 37,
+				"jam_name": "Engineering",
+				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
+				"title": "Softwar",
+				"title_link": "https://honeytheyellowbear.itch.io/softwar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487039",
+				"by": [
+					"honeytheyellowbear"
+				],
+				"by_link": [
+					"https://honeytheyellowbear.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 6,
+				"score": 2.833
+			}
+		]
+	},
+	{
+		"jammer": "Brián Piancino",
+		"jammer_link": "https://bpiancinov.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 58,
+				"jam_name": "Neon",
+				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
+				"title": "Geometry Hell",
+				"title_link": "https://optus23.itch.io/geometry-hell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701033",
+				"by": [
+					"Marc Gálvez",
+					"youis11",
+					"Brián Piancino"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://youis11.itch.io/",
+					"https://bpiancinov.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 2.833
+			}
+		]
+	},
+	{
 		"jammer": "charminhands",
 		"jammer_link": "https://charminhands.itch.io/",
 		"list_game_sorted": [
@@ -769,6 +845,58 @@
 				],
 				"rank": 6,
 				"ratings": 12,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "studioberry",
+		"jammer_link": "https://studioberry.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Skippy the Wizard",
+				"title_link": "https://studioberry.itch.io/skippy-the-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482940",
+				"by": [
+					"studioberry",
+					"gator-gaming"
+				],
+				"by_link": [
+					"https://studioberry.itch.io/",
+					"https://gator-gaming.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "gator-gaming",
+		"jammer_link": "https://gator-gaming.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Skippy the Wizard",
+				"title_link": "https://studioberry.itch.io/skippy-the-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482940",
+				"by": [
+					"studioberry",
+					"gator-gaming"
+				],
+				"by_link": [
+					"https://studioberry.itch.io/",
+					"https://gator-gaming.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
 				"score": 4
 			}
 		]
@@ -2472,134 +2600,6 @@
 				"rank": 6,
 				"ratings": 14,
 				"score": 3.482
-			}
-		]
-	},
-	{
-		"jammer": "Lowtonn",
-		"jammer_link": "https://lowtonn.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"title": "Wrong Sentence",
-				"title_link": "https://pokopish.itch.io/wrong-sentence",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2183892",
-				"by": [
-					"Pokopish",
-					"Breaddysticks",
-					"Gaby",
-					"Lowtonn"
-				],
-				"by_link": [
-					"https://pokopish.itch.io/",
-					"https://breaddysticks.itch.io/",
-					"https://gabrimer.itch.io/",
-					"https://lowtonn.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 14,
-				"score": 3.482
-			}
-		]
-	},
-	{
-		"jammer": "Scott Lininger",
-		"jammer_link": "https://scottlininger.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 1,
-				"jam_name": "Break Out",
-				"jam_link": "https://itch.io/jam/mini-jam",
-				"title": "Death Star Prison Break",
-				"title_link": "https://scottlininger.itch.io/death-star-prison-break",
-				"submission_page_link": "https://itch.io/jam/mini-jam/rate/255252",
-				"by": [
-					"Scott Lininger"
-				],
-				"by_link": [
-					"https://scottlininger.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 17,
-				"score": 3.471
-			}
-		]
-	},
-	{
-		"jammer": "In Haze Games",
-		"jammer_link": "https://in-haze.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 141,
-				"jam_name": "Stories",
-				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
-				"title": "need for exp",
-				"title_link": "https://in-haze.itch.io/need-for-exp",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2265867",
-				"by": [
-					"In Haze Games"
-				],
-				"by_link": [
-					"https://in-haze.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 8,
-				"score": 3.438
-			}
-		]
-	},
-	{
-		"jammer": "Dakotah",
-		"jammer_link": "https://lord-dakotah.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"title": "Crystal Defender",
-				"title_link": "https://lord-dakotah.itch.io/crystal-defender",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228068",
-				"by": [
-					"Dakotah"
-				],
-				"by_link": [
-					"https://lord-dakotah.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 12,
-				"score": 3.396
-			}
-		]
-	},
-	{
-		"jammer": "David",
-		"jammer_link": "https://davidarmenteros.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 132,
-				"jam_name": "Severed",
-				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"title": "Prophetic Paths",
-				"title_link": "https://ernani.itch.io/propheticpaths",
-				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070242",
-				"by": [
-					"ernani",
-					"David"
-				],
-				"by_link": [
-					"https://ernani.itch.io/",
-					"https://davidarmenteros.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 14,
-				"score": 3.375
 			}
 		]
 	}

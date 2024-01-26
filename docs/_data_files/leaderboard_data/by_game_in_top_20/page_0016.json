@@ -1,5 +1,117 @@
 [
 	{
+		"jammer": "Aurif",
+		"jammer_link": "https://aurif.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Ink.debug",
+				"title_link": "https://aurif.itch.io/inkdebug",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315447",
+				"by": [
+					"Aurif"
+				],
+				"by_link": [
+					"https://aurif.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 7,
+				"score": 3.643
+			}
+		]
+	},
+	{
+		"jammer": "DenGra",
+		"jammer_link": "https://dengra.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"title": "Sun Boss Battle",
+				"title_link": "https://dengra.itch.io/sun-boss-battle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983245",
+				"by": [
+					"DenGra"
+				],
+				"by_link": [
+					"https://dengra.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 18,
+				"score": 3.639
+			}
+		]
+	},
+	{
+		"jammer": "DrTronik",
+		"jammer_link": "https://tronik.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"title": "Chromatic Meltdown",
+				"title_link": "https://tronik.itch.io/chromatic-meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
+				"by": [
+					"DrTronik",
+					"Lavados",
+					"Papiermond",
+					"cuwuu",
+					"Loki+LPunicorn"
+				],
+				"by_link": [
+					"https://tronik.itch.io/",
+					"https://lavados28.itch.io/",
+					"https://papiermond.itch.io/",
+					"https://cuwuu.itch.io/",
+					"https://lokilpunicorn.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.636
+			}
+		]
+	},
+	{
+		"jammer": "Lavados",
+		"jammer_link": "https://lavados28.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"title": "Chromatic Meltdown",
+				"title_link": "https://tronik.itch.io/chromatic-meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220545",
+				"by": [
+					"DrTronik",
+					"Lavados",
+					"Papiermond",
+					"cuwuu",
+					"Loki+LPunicorn"
+				],
+				"by_link": [
+					"https://tronik.itch.io/",
+					"https://lavados28.itch.io/",
+					"https://papiermond.itch.io/",
+					"https://cuwuu.itch.io/",
+					"https://lokilpunicorn.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.636
+			}
+		]
+	},
+	{
 		"jammer": "Papiermond",
 		"jammer_link": "https://papiermond.itch.io/",
 		"list_game_sorted": [
@@ -2090,6 +2202,30 @@
 		]
 	},
 	{
+		"jammer": "Laicaisami",
+		"jammer_link": "https://laicaisami.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Lightweaver",
+				"title_link": "https://laicaisami.itch.io/lightweaver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483127",
+				"by": [
+					"Laicaisami"
+				],
+				"by_link": [
+					"https://laicaisami.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 17,
+				"score": 3.941
+			}
+		]
+	},
+	{
 		"jammer": "VorpalSnark",
 		"jammer_link": "https://vorpalsnark.itch.io/",
 		"list_game_sorted": [
@@ -2562,128 +2698,6 @@
 				"rank": 11,
 				"ratings": 11,
 				"score": 3.773
-			}
-		]
-	},
-	{
-		"jammer": "Owlrrex",
-		"jammer_link": "https://owlrrex.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "[GameJam]Vampire in the MirrorLand",
-				"title_link": "https://thetra00.itch.io/vampire-in-the-mirrorland",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769844",
-				"by": [
-					"Thetra00",
-					"Owlrrex"
-				],
-				"by_link": [
-					"https://thetra00.itch.io/",
-					"https://owlrrex.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 13,
-				"score": 3.769
-			}
-		]
-	},
-	{
-		"jammer": "Niicolas08",
-		"jammer_link": "https://niicolas08.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 65,
-				"jam_name": "Abandoned",
-				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
-				"title": "Save the Abandoned Cats",
-				"title_link": "https://niicolas08.itch.io/save-the-abandoned-cats",
-				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/792458",
-				"by": [
-					"Niicolas08"
-				],
-				"by_link": [
-					"https://niicolas08.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 15,
-				"score": 3.733
-			}
-		]
-	},
-	{
-		"jammer": "Daniel HCC",
-		"jammer_link": "https://danielhcc.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "Leaping For Life",
-				"title_link": "https://danielhcc.itch.io/leaping-for-life",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977853",
-				"by": [
-					"Daniel HCC"
-				],
-				"by_link": [
-					"https://danielhcc.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 14,
-				"score": 3.714
-			}
-		]
-	},
-	{
-		"jammer": "TNTC-Lab",
-		"jammer_link": "https://tntc-lab.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 57,
-				"jam_name": "Underground",
-				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
-				"title": "F- Student",
-				"title_link": "https://tntc-lab.itch.io/f-student",
-				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/682361",
-				"by": [
-					"TNTC-Lab"
-				],
-				"by_link": [
-					"https://tntc-lab.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 8,
-				"score": 3.688
-			}
-		]
-	},
-	{
-		"jammer": "Ampderg",
-		"jammer_link": "https://ampderg.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"title": "Do You Miss The Sky?",
-				"title_link": "https://ampderg.itch.io/sky",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672185",
-				"by": [
-					"Ampderg"
-				],
-				"by_link": [
-					"https://ampderg.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 14,
-				"score": 3.679
 			}
 		]
 	}

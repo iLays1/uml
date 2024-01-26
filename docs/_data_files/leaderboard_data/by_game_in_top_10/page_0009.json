@@ -1,5 +1,81 @@
 [
 	{
+		"jammer": "Zel",
+		"jammer_link": "https://heyimzel.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 22,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-22-anime",
+				"title": "Ice Breaker",
+				"title_link": "https://heyimzel.itch.io/ice-breaker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-22-anime/rate/374549",
+				"by": [
+					"Zel"
+				],
+				"by_link": [
+					"https://heyimzel.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 2.944
+			}
+		]
+	},
+	{
+		"jammer": "honeytheyellowbear",
+		"jammer_link": "https://honeytheyellowbear.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 37,
+				"jam_name": "Engineering",
+				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
+				"title": "Softwar",
+				"title_link": "https://honeytheyellowbear.itch.io/softwar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/487039",
+				"by": [
+					"honeytheyellowbear"
+				],
+				"by_link": [
+					"https://honeytheyellowbear.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 6,
+				"score": 2.833
+			}
+		]
+	},
+	{
+		"jammer": "Marc Gálvez",
+		"jammer_link": "https://optus23.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 58,
+				"jam_name": "Neon",
+				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
+				"title": "Geometry Hell",
+				"title_link": "https://optus23.itch.io/geometry-hell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701033",
+				"by": [
+					"Marc Gálvez",
+					"youis11",
+					"Brián Piancino"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://youis11.itch.io/",
+					"https://bpiancinov.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 2.833
+			}
+		]
+	},
+	{
 		"jammer": "youis11",
 		"jammer_link": "https://youis11.itch.io/",
 		"list_game_sorted": [
@@ -875,6 +951,58 @@
 				],
 				"rank": 6,
 				"ratings": 12,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "studioberry",
+		"jammer_link": "https://studioberry.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Skippy the Wizard",
+				"title_link": "https://studioberry.itch.io/skippy-the-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482940",
+				"by": [
+					"studioberry",
+					"gator-gaming"
+				],
+				"by_link": [
+					"https://studioberry.itch.io/",
+					"https://gator-gaming.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
+				"score": 4
+			}
+		]
+	},
+	{
+		"jammer": "gator-gaming",
+		"jammer_link": "https://gator-gaming.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Skippy the Wizard",
+				"title_link": "https://studioberry.itch.io/skippy-the-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482940",
+				"by": [
+					"studioberry",
+					"gator-gaming"
+				],
+				"by_link": [
+					"https://studioberry.itch.io/",
+					"https://gator-gaming.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 15,
 				"score": 4
 			}
 		]
@@ -2506,130 +2634,6 @@
 				"rank": 6,
 				"ratings": 22,
 				"score": 3.636
-			}
-		]
-	},
-	{
-		"jammer": "sssemendyaev",
-		"jammer_link": "https://sssemendyaev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"title": "I will live",
-				"title_link": "https://sssemendyaev.itch.io/i-will-live",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2339808",
-				"by": [
-					"sssemendyaev"
-				],
-				"by_link": [
-					"https://sssemendyaev.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 8,
-				"score": 3.625
-			}
-		]
-	},
-	{
-		"jammer": "Monkosum",
-		"jammer_link": "https://monkosum.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"title": "One Shade's Fate",
-				"title_link": "https://monkosum.itch.io/one-shades-fate-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402457",
-				"by": [
-					"Monkosum"
-				],
-				"by_link": [
-					"https://monkosum.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 6,
-				"score": 3.615
-			}
-		]
-	},
-	{
-		"jammer": "ScarfRavenStudios",
-		"jammer_link": "https://scarfravenstudios.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 81,
-				"jam_name": "Kaiju",
-				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"title": "The Eternal Queen's Rampage!",
-				"title_link": "https://scarfravenstudios.itch.io/the-eternal-queens-rampage",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062857",
-				"by": [
-					"ScarfRavenStudios"
-				],
-				"by_link": [
-					"https://scarfravenstudios.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 14,
-				"score": 3.607
-			}
-		]
-	},
-	{
-		"jammer": "carnalmantrap",
-		"jammer_link": "https://carnalmantrap.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"title": "The Fortune Channel",
-				"title_link": "https://carnalmantrap.itch.io/the-fortune-channel",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164332",
-				"by": [
-					"carnalmantrap",
-					"artiethebeeboi"
-				],
-				"by_link": [
-					"https://carnalmantrap.itch.io/",
-					"https://artiethebeeboi.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 3.601
-			}
-		]
-	},
-	{
-		"jammer": "artiethebeeboi",
-		"jammer_link": "https://artiethebeeboi.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"title": "The Fortune Channel",
-				"title_link": "https://carnalmantrap.itch.io/the-fortune-channel",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164332",
-				"by": [
-					"carnalmantrap",
-					"artiethebeeboi"
-				],
-				"by_link": [
-					"https://carnalmantrap.itch.io/",
-					"https://artiethebeeboi.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 3.601
 			}
 		]
 	}

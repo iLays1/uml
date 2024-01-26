@@ -1608,6 +1608,26 @@
 				"rank": 11,
 				"ratings": 11,
 				"score": 3.295
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "VANQUISH THEM",
+				"title_link": "https://antisonon.itch.io/vanquish-them",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482905",
+				"by": [
+					"Antisonon",
+					"TankTheta"
+				],
+				"by_link": [
+					"https://antisonon.itch.io/",
+					"https://tanktheta.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 8,
+				"score": 3.344
 			}
 		]
 	},
@@ -2119,6 +2139,26 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Mystic Leap",
+				"title_link": "https://lightningpickle.itch.io/mystic-leap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
+				"by": [
+					"LightningPickle",
+					"devgreb"
+				],
+				"by_link": [
+					"https://lightningpickle.itch.io/",
+					"https://devgreb.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 15,
+				"score": 3.433
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 143,
 				"jam_name": "Ink",
 				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
@@ -2163,6 +2203,26 @@
 		"jammer": "LightningPickle",
 		"jammer_link": "https://lightningpickle.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Mystic Leap",
+				"title_link": "https://lightningpickle.itch.io/mystic-leap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
+				"by": [
+					"LightningPickle",
+					"devgreb"
+				],
+				"by_link": [
+					"https://lightningpickle.itch.io/",
+					"https://devgreb.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 15,
+				"score": 3.433
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 143,

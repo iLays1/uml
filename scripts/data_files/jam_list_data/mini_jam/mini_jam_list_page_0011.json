@@ -1,5 +1,296 @@
 [
 	{
+		"id": 40,
+		"jam_name": "Hunters",
+		"link": "https://itch.io/jam/mini-jam-40-hunters",
+		"list": [
+			{
+				"title": "Bow Solver",
+				"title_link": "https://moonunit.itch.io/bow-solver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510683",
+				"by": [
+					"moonunit"
+				],
+				"by_link": [
+					"https://moonunit.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.364
+			},
+			{
+				"title": "Mousepad Miami",
+				"title_link": "https://zahranworrell.itch.io/mousepad-miami",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510209",
+				"by": [
+					"ZahranW"
+				],
+				"by_link": [
+					"https://zahranworrell.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.313
+			},
+			{
+				"title": "Humanter",
+				"title_link": "https://vulpesdev.itch.io/humanter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510417",
+				"by": [
+					"Vulpes"
+				],
+				"by_link": [
+					"https://vulpesdev.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 7,
+				"score": 4.214
+			},
+			{
+				"title": "Wild Hunters Ground",
+				"title_link": "https://lukasirzl.itch.io/wild-hunters-ground",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510210",
+				"by": [
+					"Lukas Irzl"
+				],
+				"by_link": [
+					"https://lukasirzl.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 8,
+				"score": 4.156
+			},
+			{
+				"title": "Space Madness",
+				"title_link": "https://mahmoodj.itch.io/space-madness",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510326",
+				"by": [
+					"Mahmood J"
+				],
+				"by_link": [
+					"https://mahmoodj.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 7,
+				"score": 3.964
+			},
+			{
+				"title": "Every bird is fed with its beak",
+				"title_link": "https://burntrobot.itch.io/every-bird-is-fed-with-its-beak",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510521",
+				"by": [
+					"Burnt Robot"
+				],
+				"by_link": [
+					"https://burntrobot.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 3.833
+			},
+			{
+				"title": "Fish Hunters",
+				"title_link": "https://foxgamedev.itch.io/fish-hunters",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510345",
+				"by": [
+					"Fox Game Dev",
+					"Patricia Lazaro",
+					"Alejandro Royo"
+				],
+				"by_link": [
+					"https://foxgamedev.itch.io/",
+					"https://plazaro.itch.io/",
+					"https://aroyo.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 6,
+				"score": 3.792
+			},
+			{
+				"title": "Star Dodge",
+				"title_link": "https://08jack.itch.io/star-dodge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510206",
+				"by": [
+					"08jack"
+				],
+				"by_link": [
+					"https://08jack.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 11,
+				"score": 3.773
+			},
+			{
+				"title": "Resource Hunter",
+				"title_link": "https://mxtgames.itch.io/resource-hunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510381",
+				"by": [
+					"MXT Games"
+				],
+				"by_link": [
+					"https://mxtgames.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 10,
+				"score": 3.7
+			},
+			{
+				"title": "Shadow Fiends",
+				"title_link": "https://massivetinyworkshop.itch.io/shadow-fiends",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510612",
+				"by": [
+					"MASSIVEtinyWorkshop"
+				],
+				"by_link": [
+					"https://massivetinyworkshop.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 6,
+				"score": 3.667
+			},
+			{
+				"title": "Red Wet Pump: Skull hunter",
+				"title_link": "https://pandemon.itch.io/red-wet-pump-skull-hunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/509908",
+				"by": [
+					"Pandemon"
+				],
+				"by_link": [
+					"https://pandemon.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 3.591
+			},
+			{
+				"title": "THHT 🏴‍☠️️",
+				"title_link": "https://xumr.itch.io/mj40",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510618",
+				"by": [
+					"xUMR"
+				],
+				"by_link": [
+					"https://xumr.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 6,
+				"score": 3.333
+			},
+			{
+				"title": "The Least Dangerous Game",
+				"title_link": "https://scalphamission.itch.io/the-least-deadliest-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510680",
+				"by": [
+					"ScalphaMission"
+				],
+				"by_link": [
+					"https://scalphamission.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 4,
+				"score": 3.215
+			},
+			{
+				"title": "Guns &amp; Ghouls",
+				"title_link": "https://theinsomniacgamemaker.itch.io/guns-ghouls",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510679",
+				"by": [
+					"theInsomniacGameMaker"
+				],
+				"by_link": [
+					"https://theinsomniacgamemaker.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 5,
+				"score": 3.195
+			},
+			{
+				"title": "Road to Northstead",
+				"title_link": "https://fydar.itch.io/road-to-northstead",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510458",
+				"by": [
+					"Anthony Marmont"
+				],
+				"by_link": [
+					"https://fydar.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 15,
+				"score": 3.167
+			},
+			{
+				"title": "The Approach",
+				"title_link": "https://ecstatic-games.itch.io/the-approach",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510475",
+				"by": [
+					"EcStatic Games"
+				],
+				"by_link": [
+					"https://ecstatic-games.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 9,
+				"score": 3.111
+			},
+			{
+				"title": "Hunt the Box",
+				"title_link": "https://nils-posthumus.itch.io/hunt-the-box",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510262",
+				"by": [
+					"MasterBooter"
+				],
+				"by_link": [
+					"https://nils-posthumus.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 8,
+				"score": 2.969
+			},
+			{
+				"title": "SeafoodHunters",
+				"title_link": "https://kinshuk25.itch.io/seafoodhunters",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510245",
+				"by": [
+					"kinshuk25"
+				],
+				"by_link": [
+					"https://kinshuk25.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 6,
+				"score": 2.958
+			},
+			{
+				"title": "First Time Hunting",
+				"title_link": "https://elbibeck.itch.io/first-time-hunting",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510304",
+				"by": [
+					"ElbiBeck"
+				],
+				"by_link": [
+					"https://elbibeck.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 12,
+				"score": 2.958
+			},
+			{
+				"title": "Nightmare Land",
+				"title_link": "https://momeg.itch.io/nightmare-land",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510670",
+				"by": [
+					"momeg"
+				],
+				"by_link": [
+					"https://momeg.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 5,
+				"score": 2.921
+			}
+		]
+	},
+	{
 		"id": 39,
 		"jam_name": "Monsters",
 		"link": "https://itch.io/jam/mini-jam-39-monsters",
@@ -2367,299 +2658,6 @@
 				"rank": 19,
 				"ratings": 4,
 				"score": 1.37
-			}
-		]
-	},
-	{
-		"id": 30,
-		"jam_name": "GBStudio",
-		"link": "https://itch.io/jam/mini-jam-30-gameboy",
-		"list": [
-			{
-				"title": "Nightfall",
-				"title_link": "https://josh-mcmillan.itch.io/nightfall",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438656",
-				"by": [
-					"Josh McMillan"
-				],
-				"by_link": [
-					"https://josh-mcmillan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 17,
-				"score": 4.176
-			},
-			{
-				"title": "SPLIT",
-				"title_link": "https://timsamoff.itch.io/split",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438654",
-				"by": [
-					"timsamoff"
-				],
-				"by_link": [
-					"https://timsamoff.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 10,
-				"score": 3.875
-			},
-			{
-				"title": "Special Delivery!",
-				"title_link": "https://team-basic.itch.io/special-delivery",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438628",
-				"by": [
-					"team_basic"
-				],
-				"by_link": [
-					"https://team-basic.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 12,
-				"score": 3.75
-			},
-			{
-				"title": "Soul Temple starring Fork Knight",
-				"title_link": "https://waddlebih.itch.io/soul-temple-starring-fork-knight",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438645",
-				"by": [
-					"WaddleBih"
-				],
-				"by_link": [
-					"https://waddlebih.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 7,
-				"score": 3.608
-			},
-			{
-				"title": "Pawsitive Home",
-				"title_link": "https://mushykins.itch.io/pawsitive-home",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438590",
-				"by": [
-					"Mushykins",
-					"Kuriie"
-				],
-				"by_link": [
-					"https://mushykins.itch.io/",
-					"https://kuriie.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 24,
-				"score": 3.604
-			},
-			{
-				"title": "Ghost",
-				"title_link": "https://baggie.itch.io/ghost",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438583",
-				"by": [
-					"Baggie"
-				],
-				"by_link": [
-					"https://baggie.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 15,
-				"score": 3.6
-			},
-			{
-				"title": "Where's Naldo?",
-				"title_link": "https://moshuo.itch.io/wheres-naldo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/437751",
-				"by": [
-					"moshuo"
-				],
-				"by_link": [
-					"https://moshuo.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 9,
-				"score": 3.583
-			},
-			{
-				"title": "OBSOLESCENCE",
-				"title_link": "https://wr41thx.itch.io/obsolescence",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438625",
-				"by": [
-					"wr41thx"
-				],
-				"by_link": [
-					"https://wr41thx.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 10,
-				"score": 3.55
-			},
-			{
-				"title": "Secret of Mage Yob",
-				"title_link": "https://niamov.itch.io/secret-of-mage-yob",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438375",
-				"by": [
-					"niamov"
-				],
-				"by_link": [
-					"https://niamov.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 14,
-				"score": 3.518
-			},
-			{
-				"title": "Viv and Bob",
-				"title_link": "https://impergatox.itch.io/viv-and-bob",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438633",
-				"by": [
-					"Impergatox"
-				],
-				"by_link": [
-					"https://impergatox.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 11,
-				"score": 3.455
-			},
-			{
-				"title": "the_boys",
-				"title_link": "https://lbacon.itch.io/the-boys",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438639",
-				"by": [
-					"Lbacon"
-				],
-				"by_link": [
-					"https://lbacon.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 6,
-				"score": 3.356
-			},
-			{
-				"title": "Game Boy: Become Human",
-				"title_link": "https://wildgamez.itch.io/game-boy-become-human",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438486",
-				"by": [
-					"Wildgamez"
-				],
-				"by_link": [
-					"https://wildgamez.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 9,
-				"score": 3.278
-			},
-			{
-				"title": "Mind Swap",
-				"title_link": "https://colludium.itch.io/mind-swap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438483",
-				"by": [
-					"colludium"
-				],
-				"by_link": [
-					"https://colludium.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 10,
-				"score": 3.275
-			},
-			{
-				"title": "Squaracter Squabble",
-				"title_link": "https://regularsalamander.itch.io/squaracter-squabble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438657",
-				"by": [
-					"RegularSalamander"
-				],
-				"by_link": [
-					"https://regularsalamander.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 6,
-				"score": 3.212
-			},
-			{
-				"title": "Auster",
-				"title_link": "https://treecki.itch.io/auster",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438652",
-				"by": [
-					"Treecki"
-				],
-				"by_link": [
-					"https://treecki.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 7,
-				"score": 3.174
-			},
-			{
-				"title": "Cosmic Chain",
-				"title_link": "https://lukemayo.itch.io/gb-jam-entry",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/437955",
-				"by": [
-					"Luke Mayo"
-				],
-				"by_link": [
-					"https://lukemayo.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.167
-			},
-			{
-				"title": "Crabs In Troubles",
-				"title_link": "https://raychop.itch.io/crabs-in-trouble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438640",
-				"by": [
-					"Raychop",
-					"Seb_gamedev",
-					"Vincent Pettineo"
-				],
-				"by_link": [
-					"https://raychop.itch.io/",
-					"https://seb-gamedev.itch.io/",
-					"https://vincent-pettineo.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 7,
-				"score": 3.14
-			},
-			{
-				"title": "We All Are Game Boys",
-				"title_link": "https://thejoun.itch.io/we-all-are-game-boys",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438524",
-				"by": [
-					"thejoun"
-				],
-				"by_link": [
-					"https://thejoun.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 12,
-				"score": 2.979
-			},
-			{
-				"title": "The Legend Of Twins",
-				"title_link": "https://manugamesdev.itch.io/the-legend-of-twins",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438456",
-				"by": [
-					"ManuGamesDev"
-				],
-				"by_link": [
-					"https://manugamesdev.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 15,
-				"score": 2.967
-			},
-			{
-				"title": "Deep Breath",
-				"title_link": "https://thexaver.itch.io/deepbreath",
-				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438535",
-				"by": [
-					"TheXaver"
-				],
-				"by_link": [
-					"https://thexaver.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 8,
-				"score": 2.938
 			}
 		]
 	}

@@ -1,5 +1,55 @@
 [
 	{
+		"jammer": "Dmytro Nebesh",
+		"jammer_link": "https://dnebesh.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"title": "Jay Walker: Rogue Pedestrian",
+				"title_link": "https://fredison.itch.io/jay-walker-rogue-pedestrian",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/723017",
+				"by": [
+					"Fredison",
+					"Pyromantic",
+					"Dmytro Nebesh"
+				],
+				"by_link": [
+					"https://fredison.itch.io/",
+					"https://pyromanticarts.itch.io/",
+					"https://dnebesh.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 27,
+				"score": 4.231
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 59,
+				"jam_name": "Fortress",
+				"jam_link": "https://itch.io/jam/mini-jam-59",
+				"title": "Heroes in a Hurry",
+				"title_link": "https://fredison.itch.io/heroes-in-a-hurry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/710635",
+				"by": [
+					"Fredison",
+					"SinigangShake",
+					"Dmytro Nebesh"
+				],
+				"by_link": [
+					"https://fredison.itch.io/",
+					"https://sinigangshake.itch.io/",
+					"https://dnebesh.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.318
+			}
+		]
+	},
+	{
 		"jammer": "Verduritas04",
 		"jammer_link": "https://verduritas04.itch.io/",
 		"list_game_sorted": [
@@ -292,6 +342,48 @@
 				"rank": 8,
 				"ratings": 13,
 				"score": 0.462
+			}
+		]
+	},
+	{
+		"jammer": "muupi",
+		"jammer_link": "https://muupi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Zine",
+				"title_link": "https://muupi.itch.io/zine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2313228",
+				"by": [
+					"muupi"
+				],
+				"by_link": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 7,
+				"score": 4.107
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Cards of Light",
+				"title_link": "https://muupi.itch.io/cards-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484686",
+				"by": [
+					"muupi"
+				],
+				"by_link": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 12,
+				"score": 3.958
 			}
 		]
 	},
@@ -604,6 +696,48 @@
 				"rank": 8,
 				"ratings": 11,
 				"score": 3.773
+			}
+		]
+	},
+	{
+		"jammer": "Kent",
+		"jammer_link": "https://gamesbykent.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"title": "grafted",
+				"title_link": "https://gamesbykent.itch.io/grafted",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2071364",
+				"by": [
+					"Kent"
+				],
+				"by_link": [
+					"https://gamesbykent.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 3.469
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "CLERICKILL",
+				"title_link": "https://gamesbykent.itch.io/clerickill",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479424",
+				"by": [
+					"Kent"
+				],
+				"by_link": [
+					"https://gamesbykent.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 24,
+				"score": 4
 			}
 		]
 	},
@@ -2304,6 +2438,48 @@
 		]
 	},
 	{
+		"jammer": "Jenislav",
+		"jammer_link": "https://jenislav.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"title": "Deus interim Machina",
+				"title_link": "https://jenislav.itch.io/deus-interim-machina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449974",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 18,
+				"score": 3.361
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Herding Cats",
+				"title_link": "https://jenislav.itch.io/herding-cats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 22,
+				"score": 3.966
+			}
+		]
+	},
+	{
 		"jammer": "Burnadet",
 		"jammer_link": "https://burnadet.itch.io/",
 		"list_game_sorted": [
@@ -3854,102 +4030,6 @@
 				"rank": 1,
 				"ratings": 20,
 				"score": 4.513
-			}
-		]
-	},
-	{
-		"jammer": "onl1ner",
-		"jammer_link": "https://onl1ner.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"title": "Holy Sheet",
-				"title_link": "https://onl1ner.itch.io/holy-sheet",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297678",
-				"by": [
-					"onl1ner"
-				],
-				"by_link": [
-					"https://onl1ner.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4.5
-			}
-		]
-	},
-	{
-		"jammer": "Matthew Coder",
-		"jammer_link": "https://matteo-dalessandro.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "Hypochondriac Vampire",
-				"title_link": "https://matteo-dalessandro.itch.io/hypochondriac-vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769228",
-				"by": [
-					"Matthew Coder"
-				],
-				"by_link": [
-					"https://matteo-dalessandro.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 22,
-				"score": 4.5
-			}
-		]
-	},
-	{
-		"jammer": "Aren",
-		"jammer_link": "https://aren227.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"title": "Beatshot",
-				"title_link": "https://aren227.itch.io/beatshot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1674838",
-				"by": [
-					"Aren"
-				],
-				"by_link": [
-					"https://aren227.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4.481
-			}
-		]
-	},
-	{
-		"jammer": "Chemist02",
-		"jammer_link": "https://chemist02.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"title": "Blocks",
-				"title_link": "https://chemist02.itch.io/blocks",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880458",
-				"by": [
-					"Chemist02"
-				],
-				"by_link": [
-					"https://chemist02.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 4.475
 			}
 		]
 	}

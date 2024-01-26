@@ -109,6 +109,7 @@ function html_nav(up_folder) {
 			<a href="./jam_list/mini_jam_page_0000.html">Jam list</a>
 			<a href="./jammer_search.html">Jammer search</a>
 			<a href="./stats/stats.html">Stats</a>
+			<a href="https://github.com/TripleCubes/uml">Github</a>
 		</div>`;
 	}
 
@@ -118,6 +119,7 @@ function html_nav(up_folder) {
 			<a href="../jam_list/mini_jam_page_0000.html">Jam list</a>
 			<a href="../jammer_search.html">Jammer search</a>
 			<a href="../stats/stats.html">Stats</a>
+			<a href="https://github.com/TripleCubes/uml">Github</a>
 		</div>`;
 }
 
