@@ -113,6 +113,8 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 			if (j >= NUM_OF_GAME_SHOWN) {
 				continue;
 			}
+			
+			let ilscore = SF.calculate_ilscore(game, list_game.length)
 
 			let push_data = {
 				title: game.title,
@@ -123,6 +125,7 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 				rank: game.rank,
 				ratings: game.ratings,
 				score: game.score,
+				ilscore: ilscore
 			};
 
 			if (publish_time_file_exist) {

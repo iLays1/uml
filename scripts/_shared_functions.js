@@ -11,6 +11,8 @@ module.exports = {
 	html_tag: html_tag,
 	html_nav: html_nav,
 	get_jam_name: get_jam_name,
+	calculate_ilscore: calculate_ilscore,
+	get_total_ilscore_from_jammer: get_total_ilscore_from_jammer,
 	get_jammer_short_link: get_jammer_short_link,
 	msec_to_str: msec_to_str,
 	html_major_jam_tag: html_major_jam_tag,
@@ -204,4 +206,16 @@ function html_early_tag(str) {
 
 function html_time_unknown_tag() {
 	return '<span class="time_unknown"></span>';
+function calculate_ilscore(game, entrants) {
+	let base = ((entrants - game.rank) + 1) * 2
+	let rating_percent = (game.score / 5.0)
+	return Math.floor(base * rating_percent)
+}
+
+function get_total_ilscore_from_jammer(jammer){
+	let total_ilscore = 0
+	for (let i = 0; i < jammer.list_game_sorted.length; i++) {
+		total_ilscore += jammer.list_game_sorted[i].ilscore
+	}
+	return total_ilscore
 }

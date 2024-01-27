@@ -50,6 +50,11 @@ async function main() {
 									INPUT_FOLDER_PATH + 'by_game_in_top_20/',
 									'Rank by game in top 20');
 	}
+	if (page_ref.hasOwnProperty('_ilscore')) {
+		await leaderboard_data(page_ref._ilscore.page, page_ref._ilscore.index, other_data.num_of_jammer_per_page,
+									INPUT_FOLDER_PATH + 'by_game_in_top_ilscore/',
+									'Rank by game score in top 10');
+	}
 
 	let h3_games_and_sort_btn = document.createElement('span');
 	h3_games_and_sort_btn.classList.add('h3_games_and_sort_btn');
@@ -97,6 +102,7 @@ function game_list_first_row(game_list) {
 	game.append(span('Rk', 'rank', 'Rank'));
 	game.append(span('Rt', 'ratings', 'Number of ratings'));
 	game.append(span('Score', 'score'));
+	game.append(span('ilScore', 'ilscore'));
 
 	game_list.append(game);
 }
@@ -189,6 +195,8 @@ function game_list(list_game_data) {
 
 		let score = span(obj_game.score, 'score');
 
+		let ilscore = span(obj_game.ilscore, 'ilscore');
+
 		game.append(title);
 		game.append(time_tag);
 		game.append(by_list);
@@ -196,6 +204,7 @@ function game_list(list_game_data) {
 		game.append(rank);
 		game.append(ratings);
 		game.append(score);
+		game.append(ilscore);
 
 		game_list.append(game);
 	}

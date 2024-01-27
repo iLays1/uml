@@ -41,6 +41,11 @@ async function main() {
 		toc_data_process(table_of_content, toc_data, '_20');
 	}
 
+	{
+		let toc_data = await create_files_ilscore(100, list_both_jam, OUTPUT_FOLDER_PATH + 'by_game_in_top_ilscore/');
+		toc_data_process(table_of_content, toc_data, '_ilscore');
+	}
+
 	await SF.write_json(table_of_content, OUTPUT_FOLDER_PATH, 'table_of_content.json');
 }
 
@@ -148,6 +153,65 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 	return toc_data;
 }
 
+async function create_files_ilscore(max_rank, list_both_jam, output_folder) {
+	let toc_data = [];
+	let list_result = [];
+	let num_of_mini_jam = list_both_jam.list_mini_jam.length;
+	let num_of_major_jam = list_both_jam.list_major_jam.length;
+
+	for (let i = 0; i < num_of_major_jam; i++) {
+		let jam_id = i + 1;
+		let jam_name_and_link = get_jam_name_and_link(list_both_jam.list_major_jam, jam_id);
+		let jam_name = jam_name_and_link.jam_name;
+		let jam_link = jam_name_and_link.jam_link;
+		await push_data_from_file(list_result, max_rank,
+							INPUT_MAJOR_JAM_FOLDER_PATH + 'major_jam_' + SF.int_to_str(jam_id) + '.json', 
+							'major_jam', jam_id, jam_name, jam_link);
+	}
+
+	for (let i = 0; i < num_of_mini_jam; i++) {
+		let jam_id = i + 1;
+		let jam_name_and_link = get_jam_name_and_link(list_both_jam.list_mini_jam, jam_id);
+		let jam_name = jam_name_and_link.jam_name;
+		let jam_link = jam_name_and_link.jam_link;
+		await push_data_from_file(list_result, max_rank,
+							INPUT_MINI_JAM_FOLDER_PATH + 'mini_jam_' + SF.int_to_str(jam_id) + '.json', 
+							'mini_jam', jam_id, jam_name, jam_link);
+	}
+
+	for (let i = 0; i < list_result.length; i++) {
+		let jammer = list_result[i];
+		jammer.list_game_sorted.sort((a, b) => {
+			return b.ilscore - a.ilscore;
+		});
+		jammer.total_ilscore = SF.get_total_ilscore_from_jammer(jammer)
+	}
+	if (max_rank <= 100) {
+		list_result.sort((a, b) => {
+			return b.total_ilscore - a.total_ilscore;
+		});
+	}
+	for (let i = 0; i < Math.ceil(list_result.length / NUM_OF_JAMMER_PER_PAGE); i++) {
+		let list_write = [];
+		for (let j = i*NUM_OF_JAMMER_PER_PAGE; j < (i+1)*NUM_OF_JAMMER_PER_PAGE; j++) {
+			if (j >= list_result.length) {
+				break;
+			}
+			toc_data.push({
+				jammer_link: list_result[j].jammer_link,
+				page: i,
+				index: list_write.length,
+			});
+
+			list_write.push(list_result[j]);
+		}
+		await SF.write_json(list_write, output_folder, 'page_' + SF.int_to_str(i) + '.json');
+	}
+	let other_data = create_other_data(list_result);
+	await SF.write_json(other_data, output_folder, 'other_data.json');
+	return toc_data;
+}
+
 function create_other_data(list) {
 	let num_of_game = 0;
 	let num_of_majorjammer = 0;
@@ -211,6 +275,7 @@ async function push_data_from_file_into_list(list, max_rank, path, jam_type, jam
 			let by = game_data.by[i_by];
 			let by_link = game_data.by_link[i_by];
 			let index = find_jammer_link_in_list(list, by_link);
+			let ilscore = SF.calculate_ilscore(game_data, jam_data.length)
 			let game = {
 				jam_type: jam_type,
 				jam_id: jam_id,
@@ -224,6 +289,7 @@ async function push_data_from_file_into_list(list, max_rank, path, jam_type, jam
 				rank: game_data.rank,
 				ratings: game_data.ratings,
 				score: game_data.score,
+				ilscore: ilscore,
 			};
 
 			if (publish_time_file_exist) {

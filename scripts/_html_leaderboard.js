@@ -12,11 +12,10 @@ async function main() {
 	await create_leaderboard_html(INPUT_FOLDER_PATH + 'by_game_in_top_5/', 'leaderboard_5_page_');
 	await create_leaderboard_html(INPUT_FOLDER_PATH + 'by_game_in_top_10/', 'leaderboard_10_page_');
 	await create_leaderboard_html(INPUT_FOLDER_PATH + 'by_game_in_top_20/', 'leaderboard_20_page_');
+	await create_leaderboard_html(INPUT_FOLDER_PATH + 'by_game_in_top_ilscore/', 'leaderboard_ilscore_page_');
 }
 
 // main();
-
-
 
 async function create_leaderboard_html(input_folder, output_filename_format) {
 	let other_data = await SF.read_json(input_folder + 'other_data.json');
@@ -50,7 +49,11 @@ async function create_html_file(page, num_of_page, num_of_jammer_per_page, jamme
 		let jammer_page_link_attribs = 'class="jammer_page" href="' + '../jammer.html?jammer=%22'
 										+ get_jammer_short_link(jammer.jammer_link) + '%22"';
 		let jammer_page_link_html = SF.html_tag('a', 'Jammer page', jammer_page_link_attribs, 3);
+		
 		str_html += jammer_page_link_html;
+
+
+		str_html += SF.html_tag('a', 'Total ilScore:' + jammer.total_ilscore, 'class="total_ilscore"', 3);
 
 		str_html += html_rank_list(jammer.list_game_sorted);
 
@@ -111,20 +114,22 @@ function html_game_list(game_list) {
 				a_by_list_html += ', ';
 			}
 		}
-		let by_list_html = SF.html_tag('span', a_by_list_html, 'class="by_list"', 5, true);
+		let by_list_html = SF.html_tag('span', a_by_list_html, 'class="by_list"', 6, true);
 
 		let a_jam_html = SF.html_tag('a', SF.get_jam_name(game.jam_name, game.jam_id, game.jam_type, true),
 										'href="' + game.jam_link + '"', 6);
 		let jam_html = SF.html_tag('span', a_jam_html, 'class="jam"', 5, true);
 
-		let rank_html = SF.html_tag('span', game.rank, 'class="rank"', 5);
+		let rank_html = SF.html_tag('span', game.rank, 'class="rank"', 6);
 
-		let ratings_html = SF.html_tag('span', game.ratings, 'class="ratings"', 5);
+		let ratings_html = SF.html_tag('span', game.ratings, 'class="ratings"', 6);
 
-		let score_html = SF.html_tag('span', game.score, 'class="score"', 5);
+		let score_html = SF.html_tag('span', game.score, 'class="score"', 6);
+
+		let ilscore_html = SF.html_tag('span', game.ilscore, 'class="ilscore"', 6);
 
 		let game_html = SF.html_tag('span', title_html + time_tag_html + by_list_html + jam_html 
-											+ rank_html + ratings_html + score_html,
+											+ rank_html + ratings_html + score_html + ilscore_html,
 											'class="game"', 4, true);
 
 		game_list_inner_html += game_html;
@@ -142,6 +147,8 @@ function html_table_title_row() {
 	str_html += SF.html_tag('span', 'Rk', 'class="rank" title="Rank"', 5);
 	str_html += SF.html_tag('span', 'Rt', 'class="ratings" title="Number of ratings"', 5);
 	str_html += SF.html_tag('span', 'Score', 'class="score"', 5);
+	str_html += SF.html_tag('span', 'ilScore', 'class="ilscore"', tabs);
+	
 	return SF.html_tag('span', str_html, 'class="game"', 4, true);
 }
 
@@ -154,6 +161,7 @@ function html_games_that_got_in_top(output_filename_format) {
 			<a href="./leaderboard_5_page_0000.html">5</a>
 			<a href="./leaderboard_10_page_0000.html">10</a>
 			<a href="./leaderboard_20_page_0000.html">20</a>
+			<a href="./leaderboard_ilscore_page_0000.html">ilScore</a>
 		</div>`;
 	}
 	if (output_filename_format == 'leaderboard_5_page_') {
@@ -164,6 +172,7 @@ function html_games_that_got_in_top(output_filename_format) {
 			<a href="./leaderboard_5_page_0000.html" class="link_highlight">5</a>
 			<a href="./leaderboard_10_page_0000.html">10</a>
 			<a href="./leaderboard_20_page_0000.html">20</a>
+			<a href="./leaderboard_ilscore_page_0000.html">ilScore</a>
 		</div>`;
 	}
 	if (output_filename_format == 'leaderboard_10_page_') {
@@ -174,6 +183,7 @@ function html_games_that_got_in_top(output_filename_format) {
 			<a href="./leaderboard_5_page_0000.html">5</a>
 			<a href="./leaderboard_10_page_0000.html" class="link_highlight">10</a>
 			<a href="./leaderboard_20_page_0000.html">20</a>
+			<a href="./leaderboard_ilscore_page_0000.html">ilScore</a>
 		</div>`;
 	}
 	if (output_filename_format == 'leaderboard_20_page_') {
@@ -184,6 +194,18 @@ function html_games_that_got_in_top(output_filename_format) {
 			<a href="./leaderboard_5_page_0000.html">5</a>
 			<a href="./leaderboard_10_page_0000.html">10</a>
 			<a href="./leaderboard_20_page_0000.html" class="link_highlight">20</a>
+			<a href="./leaderboard_ilscore_page_0000.html">ilScore</a>
+		</div>`;
+	}
+	if (output_filename_format == 'leaderboard_ilscore_page_') {
+		return `
+		<div id="games_that_got_in_top">
+			<span>Games that got in top: </span>
+			<a href="./leaderboard_1_page_0000.html">1</a>
+			<a href="./leaderboard_5_page_0000.html">5</a>
+			<a href="./leaderboard_10_page_0000.html">10</a>
+			<a href="./leaderboard_20_page_0000.html">20</a>
+			<a href="./leaderboard_ilscore_page_0000.html" class="link_highlight">ilScore</a>
 		</div>`;
 	}
 }
