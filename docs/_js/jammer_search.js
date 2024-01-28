@@ -49,8 +49,9 @@ async function search() {
 	let list_found = [];
 	for (let i = 0; i < lookup.length; i++) {
 		let jammer = lookup[i];
-		let index = jammer.jammer.toLowerCase().indexOf(str_search.toLowerCase());
-		if (index != -1) {
+		let name_index = jammer.jammer.toLowerCase().indexOf(str_search.toLowerCase());
+		let link_index = jammer.jammer_link.toLowerCase().indexOf(str_search.toLowerCase());
+		if (name_index != -1 || link_index != -1) {
 			list_found.push(jammer);
 			if (list_found.length >= 500) {
 				list_found.push('...');
