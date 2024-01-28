@@ -106,12 +106,18 @@ p {
 }
 
 @media only screen and (max-width: 915px) {
-	h3 {
-		max-width: calc(100vw - 20px);
+	/* h3 {
 	}
 
 	.h3_games_and_sort_btn {
+	} */
+
+	#result * {
 		max-width: calc(100vw - 20px);
+	}
+
+	.game_list * {
+		display: inline-block;
 	}
 
 	.major_jam_tag {
@@ -134,15 +140,15 @@ p {
 		padding-right: 10px;
 		padding-top: 10px;
 		padding-bottom: 10px;
-		width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		transform: translateX(-10px);
+	}
+
+	.game * {
+		min-width: auto;
 	}
 
 	.title {
 		display: block;
-		max-width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		padding-right: 0px;
 		font-weight: bold;
 		margin-bottom: 8px;
@@ -150,8 +156,6 @@ p {
 	
 	.by_list {
 		display: block;
-		max-width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		padding-right: 0px;
 		margin-bottom: 8px;
 	}
@@ -162,16 +166,12 @@ p {
 	
 	.jam {
 		display: block;
-		max-width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		padding-right: 0px;
 		margin-bottom: 8px;
 	}
 
 	.rank {
-		display: inline;
-		max-width: auto;
-		min-width: auto;
+		display: inline-block;
 		padding-right: 0px;
 		margin-right: 20px;
 	}
@@ -181,9 +181,7 @@ p {
 	}
 	
 	.ratings {
-		display: inline;
-		max-width: auto;
-		min-width: auto;
+		display: inline-block;
 		padding-right: 0px;
 		margin-right: 20px;
 	}
@@ -193,9 +191,7 @@ p {
 	}
 	
 	.score {
-		display: inline;
-		max-width: auto;
-		min-width: auto;
+		display: inline-block;
 		padding-right: 0px;
 		margin-right: 20px;
 	}

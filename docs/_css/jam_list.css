@@ -82,18 +82,24 @@
 }
 
 @media only screen and (max-width: 915px) {
+	#result * {
+		max-width: calc(100vw - 20px);
+	}
+
+	.game_list * {
+		display: inline-block;
+	}
+
 	.jam_title {
 		font-size: x-large;
 		margin-top: 30px;
 		margin-bottom: 10px;
-		max-width: calc(100vw - 20px);
 	}
 
 	.num_of_game, .num_of_jammer, .num_of_new_jammer {
 		display: block;
 		margin-left: 0px;
 		margin-bottom: 5px;
-		max-width: calc(100vw - 20px);
 	}
 
 	.num_of_new_jammer {
@@ -111,9 +117,11 @@
 		padding-right: 10px;
 		padding-top: 10px;
 		padding-bottom: 10px;
-		width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		transform: translateX(-10px);
+	}
+
+	.game * {
+		min-width: auto;
 	}
 
 	.title_rank {
@@ -126,8 +134,6 @@
 
 	.title {
 		display: block;
-		max-width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		padding-right: 0px;
 		font-weight: bold;
 		margin-bottom: 8px;
@@ -136,8 +142,6 @@
 
 	.by_list {
 		display: block;
-		max-width: calc(100vw - 20px);
-		min-width: calc(100vw - 20px);
 		padding-right: 0px;
 		margin-bottom: 8px;
 	}
@@ -147,9 +151,7 @@
 	}
 	
 	.ratings {
-		display: inline;
-		max-width: auto;
-		min-width: auto;
+		display: inline-block;
 		padding-right: 0px;
 		margin-right: 20px;
 	}
@@ -159,9 +161,7 @@
 	}
 	
 	.score {
-		display: inline;
-		max-width: auto;
-		min-width: auto;
+		display: inline-block;
 		padding-right: 0px;
 		margin-right: 20px;
 	}
