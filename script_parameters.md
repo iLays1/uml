@@ -19,7 +19,7 @@ Set `MINI_JAM_ID_MAX_CAP` to `30`, and the scraping will start from Mini Jam 30 
 Make sure to set `MINI_JAM_ID_MAX_CAP` back to `9999999` (pick a number larger than 10000) for normal scraping 
 
 ### LIST_REWRITE_THESE_FILES
-When scraping files, you might sometime get 429 error (too many requests) for some http requests. I mean I am waiting 6 seconds between requests so this shouldnt happen. But just in case, and also there might be other errors
+When scraping files, you might sometime get error 429 (too many requests) for some http requests. I mean I am waiting 6 seconds between requests so this shouldnt happen. But just in case, and also there might be other errors
 
 When `scrap_files.js` finished scraping, it will provide you a list of error http requests. You can use `LIST_REWRITE_THESE_FILES` and run `scrap_files.js` again to rescrap only the errored jam pages. There is a commented example in `scrap_files.js`
 
