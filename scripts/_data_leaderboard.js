@@ -122,7 +122,7 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 	}
 
 	// Write files and modify toc_data
-	// toc_data is used to lookup jammer fastly in the jammer page
+	// toc_data (toc means table of content) is used to lookup jammer fastly in the jammer page
 	for (let i = 0; i < Math.ceil(list_result.length / NUM_OF_JAMMER_PER_PAGE); i++) {
 		let list_write = [];
 		for (let j = i*NUM_OF_JAMMER_PER_PAGE; j < (i+1)*NUM_OF_JAMMER_PER_PAGE; j++) {
