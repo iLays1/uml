@@ -16,7 +16,7 @@ To generate the html files, you need the generated json files
 # How to use the scripts
 ### NOTICE: I asked the Mini Jam's hosts for permissions to use the minijamofficial.com private api and to publish the datas. You should also ask for the permissions like I did 
 
-To run the scripts, you need NodeJS installed. You also need [jsdom](https://www.npmjs.com/package/jsdom) module installed globally
+To run the scripts, you need NodeJS installed. If you want to scrap files you will also need [jsdom](https://www.npmjs.com/package/jsdom) module installed globally
 
 `cd` to the `scripts/` folder,
 
