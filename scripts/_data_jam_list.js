@@ -90,14 +90,14 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 			for (let k = 0; k < game.by_link.length; k++) {
 				let by_link = game.by_link[k];
 				let by = game.by[k];
-				if (!is_by_link_in_list(list_jammer_link_total, by_link)) {
+				if (!is_in_list(list_jammer_link_total, by_link)) {
 					list_jammer_link_total.push(by_link);
 					list_new_jammer.push({
 						by: by,
 						by_link: by_link,
 					});
 				}
-				if (!is_by_link_in_list(list_jammer_link, by_link)) {
+				if (!is_in_list(list_jammer_link, by_link)) {
 					list_jammer_link.push(by_link);
 				}
 			}
@@ -137,7 +137,7 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 	return num_of_game;
 }
 
-function is_by_link_in_list(list, by_link) {
+function is_in_list(list, by_link) {
 	for (let i = 0; i < list.length; i++) {
 		if (list[i] == by_link) {
 			return true;

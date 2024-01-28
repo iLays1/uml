@@ -54,26 +54,29 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 	let num_of_mini_jam = list_both_jam.list_mini_jam.length;
 	let num_of_major_jam = list_both_jam.list_major_jam.length;
 
+	// Push datas from major jam into list_result
 	for (let i = 0; i < num_of_major_jam; i++) {
 		let jam_id = i + 1;
 		let jam_name_and_link = get_jam_name_and_link(list_both_jam.list_major_jam, jam_id);
 		let jam_name = jam_name_and_link.jam_name;
 		let jam_link = jam_name_and_link.jam_link;
-		await push_data_from_file(list_result, max_rank,
+		await push_data_from_file_into_list(list_result, max_rank,
 							INPUT_MAJOR_JAM_FOLDER_PATH + 'major_jam_' + SF.int_to_str(jam_id) + '.json', 
 							'major_jam', jam_id, jam_name, jam_link);
 	}
 
+	// Push datas from mini jam into list_result
 	for (let i = 0; i < num_of_mini_jam; i++) {
 		let jam_id = i + 1;
 		let jam_name_and_link = get_jam_name_and_link(list_both_jam.list_mini_jam, jam_id);
 		let jam_name = jam_name_and_link.jam_name;
 		let jam_link = jam_name_and_link.jam_link;
-		await push_data_from_file(list_result, max_rank,
+		await push_data_from_file_into_list(list_result, max_rank,
 							INPUT_MINI_JAM_FOLDER_PATH + 'mini_jam_' + SF.int_to_str(jam_id) + '.json', 
 							'mini_jam', jam_id, jam_name, jam_link);
 	}
 
+	// Sort list_result.jammer.list_game_sorted
 	for (let i = 0; i < list_result.length; i++) {
 		let jammer = list_result[i];
 		jammer.list_game_sorted.sort((a, b) => {
@@ -85,6 +88,8 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 		});
 	}
 
+	// Sort the jammers
+	// The if block is so the all leaderboard, which have max_rank of 9999999 is not sorted
 	if (max_rank <= 100) {
 		list_result.sort((a, b) => {
 			let b_sub_a = b.list_game_sorted.length - a.list_game_sorted.length;
@@ -116,6 +121,8 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 		});
 	}
 
+	// Write files and modify toc_data
+	// toc_data is used to lookup jammer fastly in the jammer page
 	for (let i = 0; i < Math.ceil(list_result.length / NUM_OF_JAMMER_PER_PAGE); i++) {
 		let list_write = [];
 		for (let j = i*NUM_OF_JAMMER_PER_PAGE; j < (i+1)*NUM_OF_JAMMER_PER_PAGE; j++) {
@@ -185,7 +192,7 @@ function get_jam_name_and_link(jam_list, jam_id) {
 	}
 }
 
-async function push_data_from_file(list, max_rank, path, jam_type, jam_id, jam_name, jam_link) {
+async function push_data_from_file_into_list(list, max_rank, path, jam_type, jam_id, jam_name, jam_link) {
 	let jam_data = await SF.read_json(path);
 
 	for (let j = 0; j < jam_data.length; j++) {
@@ -198,6 +205,9 @@ async function push_data_from_file(list, max_rank, path, jam_type, jam_id, jam_n
 			let by = game_data.by[i_by];
 			let by_link = game_data.by_link[i_by];
 			let index = find_jammer_link_in_list(list, by_link);
+			// This look like duplicate code but hear me out, if I make a function that return a jammer object
+			// and push that object into list, The code will look pretty much the same. So I just leave it
+			// like this
 			if (index == -1) {
 				list.push({
 					jammer: by,
