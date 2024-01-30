@@ -82,9 +82,18 @@ function html_game_list(game_list) {
 		let game = game_list[i];
 
 		let a_title_html = SF.html_tag('a', game.title, 'href="' + game.title_link + '"', 6);
-		let title_html = SF.html_tag('span', 
-									game.jam_type == 'major_jam' ? a_title_html + html_major_jam_tag() : a_title_html, 
-									'class="title"', 5, true);
+		let title_inner_html = a_title_html;
+		if (game.jam_type == 'major_jam') {
+			title_inner_html += SF.html_major_jam_tag();
+		}
+		if (game.hasOwnProperty('t_publish_diff')) {
+			if (game.t_publish_diff > 0) {
+				title_inner_html += SF.html_late_tag(SF.msec_to_str(game.t_publish_diff));
+			} else {
+				title_inner_html += SF.html_early_tag(SF.msec_to_str(-game.t_publish_diff));
+			}
+		}
+		let title_html = SF.html_tag('span', title_inner_html, 'class="title"', 5, true);
 
 		let a_by_list_html = '';
 		for (let j = 0; j < game.by.length; j++) {
@@ -117,10 +126,6 @@ function html_game_list(game_list) {
 	}
 
 	return SF.html_tag('div', game_list_inner_html, 'class="game_list"', 3);
-}
-
-function html_major_jam_tag() {
-	return '<span class="major_jam_tag"></span>';
 }
 
 function html_table_title_row() {
