@@ -78,6 +78,14 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 		let jam_data = list_jam[i];
 		let list_game = await SF.read_json(input_path_format + SF.int_to_str(jam_data.id) + '.json');
 
+		let publish_time_data_json_path = input_path_format + SF.int_to_str(jam_data.id) 
+												+ '_publish_time.json';
+		let publish_time_data = {};
+		let publish_time_file_exist = SF.is_file_exist(publish_time_data_json_path);
+		if (publish_time_file_exist) {
+			publish_time_data = await SF.read_json(publish_time_data_json_path);
+		}
+
 		num_of_game += list_game.length;
 
 		let list_jammer_link = [];
@@ -105,8 +113,8 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 			if (j >= NUM_OF_GAME_SHOWN) {
 				continue;
 			}
-			
-			list_game_n.push({
+
+			let push_data = {
 				title: game.title,
 				title_link: game.title_link,
 				submission_page_link: game.submission_page_link,
@@ -115,7 +123,21 @@ async function create_file(page, list_jam, input_path_format, output_folder, out
 				rank: game.rank,
 				ratings: game.ratings,
 				score: game.score,
-			})
+			};
+
+			if (publish_time_file_exist) {
+				for (let k = 0; k < publish_time_data.list.length; k++) {
+					let time = publish_time_data.list[k];
+					if (time.link != game.title_link) {
+						continue;
+					}
+
+					push_data.t_publish_diff = time.time - publish_time_data.t_vote_start;
+					break;
+				}
+			}
+			
+			list_game_n.push(push_data)
 		}
 		list_result.push({
 			id: jam_data.id,

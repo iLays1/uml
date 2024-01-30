@@ -21,7 +21,8 @@
 				],
 				"rank": 1,
 				"ratings": 16,
-				"score": 4.359
+				"score": 4.359,
+				"t_publish_diff": -656000
 			},
 			{
 				"title": "SANITIZE THE DARK",
@@ -35,7 +36,8 @@
 				],
 				"rank": 2,
 				"ratings": 26,
-				"score": 4.26
+				"score": 4.26,
+				"t_publish_diff": 12529000
 			},
 			{
 				"title": "Ignis Fatuus",
@@ -63,7 +65,8 @@
 				],
 				"rank": 4,
 				"ratings": 12,
-				"score": 4.083
+				"score": 4.083,
+				"t_publish_diff": -241000
 			},
 			{
 				"title": "Into The Dark",
@@ -77,7 +80,8 @@
 				],
 				"rank": 5,
 				"ratings": 15,
-				"score": 4.05
+				"score": 4.05,
+				"t_publish_diff": -114203000
 			},
 			{
 				"title": "Skippy the Wizard",
@@ -93,7 +97,8 @@
 				],
 				"rank": 6,
 				"ratings": 15,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -995000
 			},
 			{
 				"title": "CLERICKILL",
@@ -121,7 +126,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.975
+				"score": 3.975,
+				"t_publish_diff": -38183000
 			},
 			{
 				"title": "Herding Cats",
@@ -135,7 +141,8 @@
 				],
 				"rank": 9,
 				"ratings": 22,
-				"score": 3.966
+				"score": 3.966,
+				"t_publish_diff": -1143000
 			},
 			{
 				"title": "Cards of Light",
@@ -149,7 +156,8 @@
 				],
 				"rank": 10,
 				"ratings": 12,
-				"score": 3.958
+				"score": 3.958,
+				"t_publish_diff": 67139000
 			},
 			{
 				"title": "Lightweaver",
@@ -163,7 +171,8 @@
 				],
 				"rank": 11,
 				"ratings": 17,
-				"score": 3.941
+				"score": 3.941,
+				"t_publish_diff": -863000
 			},
 			{
 				"title": "Felis Lux",
@@ -177,7 +186,8 @@
 				],
 				"rank": 12,
 				"ratings": 11,
-				"score": 3.841
+				"score": 3.841,
+				"t_publish_diff": -24852000
 			},
 			{
 				"title": "Fireflies",
@@ -191,7 +201,8 @@
 				],
 				"rank": 13,
 				"ratings": 17,
-				"score": 3.838
+				"score": 3.838,
+				"t_publish_diff": 99241000
 			},
 			{
 				"title": "Botanical Brew",
@@ -205,7 +216,8 @@
 				],
 				"rank": 14,
 				"ratings": 9,
-				"score": 3.833
+				"score": 3.833,
+				"t_publish_diff": 30000
 			},
 			{
 				"title": "Charon's River Ride!",
@@ -219,7 +231,8 @@
 				],
 				"rank": 15,
 				"ratings": 7,
-				"score": 3.786
+				"score": 3.786,
+				"t_publish_diff": -24207000
 			},
 			{
 				"title": "lantern Light",
@@ -233,7 +246,8 @@
 				],
 				"rank": 16,
 				"ratings": 11,
-				"score": 3.773
+				"score": 3.773,
+				"t_publish_diff": -23447000
 			},
 			{
 				"title": "Core",
@@ -247,7 +261,8 @@
 				],
 				"rank": 17,
 				"ratings": 25,
-				"score": 3.76
+				"score": 3.76,
+				"t_publish_diff": -5767000
 			},
 			{
 				"title": "Spirit of Balance",
@@ -261,7 +276,8 @@
 				],
 				"rank": 18,
 				"ratings": 11,
-				"score": 3.705
+				"score": 3.705,
+				"t_publish_diff": -13420000
 			},
 			{
 				"title": "Sporcery",
@@ -275,7 +291,8 @@
 				],
 				"rank": 19,
 				"ratings": 6,
-				"score": 3.703
+				"score": 3.703,
+				"t_publish_diff": 57925000
 			},
 			{
 				"title": "Candlelight",
@@ -289,7 +306,8 @@
 				],
 				"rank": 20,
 				"ratings": 8,
-				"score": 3.688
+				"score": 3.688,
+				"t_publish_diff": -9468000
 			}
 		]
 	},

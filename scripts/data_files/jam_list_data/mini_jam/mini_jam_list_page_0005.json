@@ -2787,7 +2787,8 @@
 				],
 				"rank": 1,
 				"ratings": 41,
-				"score": 4.311
+				"score": 4.311,
+				"t_publish_diff": -30212000
 			},
 			{
 				"title": "Fish N' Ships",
@@ -2801,7 +2802,8 @@
 				],
 				"rank": 2,
 				"ratings": 21,
-				"score": 4.048
+				"score": 4.048,
+				"t_publish_diff": -75682000
 			},
 			{
 				"title": "PYON PYON",
@@ -2815,7 +2817,8 @@
 				],
 				"rank": 3,
 				"ratings": 22,
-				"score": 4.034
+				"score": 4.034,
+				"t_publish_diff": -3778000
 			},
 			{
 				"title": "Farm Fresh Fish",
@@ -2831,7 +2834,8 @@
 				],
 				"rank": 4,
 				"ratings": 15,
-				"score": 4.017
+				"score": 4.017,
+				"t_publish_diff": -16294000
 			},
 			{
 				"title": "Unidentified Flying Monsters",
@@ -2845,7 +2849,8 @@
 				],
 				"rank": 5,
 				"ratings": 24,
-				"score": 3.99
+				"score": 3.99,
+				"t_publish_diff": -16929000
 			},
 			{
 				"title": "Galactic Fish Collector",
@@ -2859,7 +2864,8 @@
 				],
 				"rank": 6,
 				"ratings": 23,
-				"score": 3.989
+				"score": 3.989,
+				"t_publish_diff": -778000
 			},
 			{
 				"title": "They came from above (to steal our dang fish)",
@@ -2873,7 +2879,8 @@
 				],
 				"rank": 7,
 				"ratings": 33,
-				"score": 3.864
+				"score": 3.864,
+				"t_publish_diff": -15816000
 			},
 			{
 				"title": "Breeding fish",
@@ -2889,7 +2896,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.85
+				"score": 3.85,
+				"t_publish_diff": -11854000
 			},
 			{
 				"title": "EAFO",
@@ -2903,7 +2911,8 @@
 				],
 				"rank": 9,
 				"ratings": 27,
-				"score": 3.843
+				"score": 3.843,
+				"t_publish_diff": -2540000
 			},
 			{
 				"title": "An extra-fishy love",
@@ -2935,7 +2944,8 @@
 				],
 				"rank": 11,
 				"ratings": 19,
-				"score": 3.776
+				"score": 3.776,
+				"t_publish_diff": 70905000
 			},
 			{
 				"title": "The day THE FISH arrived!",
@@ -2963,7 +2973,8 @@
 				],
 				"rank": 13,
 				"ratings": 17,
-				"score": 3.706
+				"score": 3.706,
+				"t_publish_diff": -58324000
 			},
 			{
 				"title": "Eco Balance",
@@ -2979,7 +2990,8 @@
 				],
 				"rank": 14,
 				"ratings": 11,
-				"score": 3.705
+				"score": 3.705,
+				"t_publish_diff": 7604000
 			},
 			{
 				"title": "The lost UFO",
@@ -2993,7 +3005,8 @@
 				],
 				"rank": 15,
 				"ratings": 12,
-				"score": 3.646
+				"score": 3.646,
+				"t_publish_diff": -26730000
 			},
 			{
 				"title": "Unidentified Fishing Organization",
@@ -3007,7 +3020,8 @@
 				],
 				"rank": 16,
 				"ratings": 17,
-				"score": 3.632
+				"score": 3.632,
+				"t_publish_diff": -207000
 			},
 			{
 				"title": "Unidentified Fishing Object",
@@ -3021,7 +3035,8 @@
 				],
 				"rank": 17,
 				"ratings": 14,
-				"score": 3.625
+				"score": 3.625,
+				"t_publish_diff": -21976000
 			},
 			{
 				"title": "Fishes of Titan",
@@ -3035,7 +3050,8 @@
 				],
 				"rank": 18,
 				"ratings": 14,
-				"score": 3.589
+				"score": 3.589,
+				"t_publish_diff": -3343000
 			},
 			{
 				"title": "Krozok go FISH!",
@@ -3051,7 +3067,8 @@
 				],
 				"rank": 19,
 				"ratings": 13,
-				"score": 3.577
+				"score": 3.577,
+				"t_publish_diff": -2885000
 			},
 			{
 				"title": "U.F.I.S.H.",
@@ -3065,7 +3082,8 @@
 				],
 				"rank": 20,
 				"ratings": 30,
-				"score": 3.575
+				"score": 3.575,
+				"t_publish_diff": -19814000
 			}
 		]
 	}

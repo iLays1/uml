@@ -69,7 +69,15 @@ function html_game_list(game_list) {
 
 		let title_rank_html = SF.html_tag('span', game.rank + '. ', 'class="title_rank"', 7);
 		let a_title_html = SF.html_tag('a', title_rank_html + game.title, 'href="' + game.title_link + '"', 6, true);
-		let title_html = SF.html_tag('span', a_title_html, 'class="title"', 5, true);
+		let title_inner_html = a_title_html;
+		if (game.hasOwnProperty('t_publish_diff')) {
+			if (game.t_publish_diff > 0) {
+				title_inner_html += SF.html_late_tag(SF.msec_to_str(game.t_publish_diff));
+			} else {
+				title_inner_html += SF.html_early_tag(SF.msec_to_str(-game.t_publish_diff));
+			}
+		}
+		let title_html = SF.html_tag('span', title_inner_html, 'class="title"', 5, true);
 
 		let a_by_list_html = '';
 		for (let j = 0; j < game.by.length; j++) {

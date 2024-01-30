@@ -290,6 +290,9 @@ function get_jam_name(jam_name, jam_id, jam_type) {
 }
 
 function msec_to_str(t_msec) {
+	let t_sec = Math.floor(t_msec / (1000));
+	let t_sec_remains = t_sec % 60;
+
 	let t_min = Math.floor(t_msec / (1000*60));
 	let t_min_remains = t_min % 60;
 
@@ -307,7 +310,15 @@ function msec_to_str(t_msec) {
 		hour_str = t_hour_remains + 'h';
 	}
 
-	let min_str = t_min_remains + 'm';
+	let min_str = '';
+	if (t_day == 0 && t_min_remains != 0) {
+		min_str = t_min_remains + 'm';
+	}
 
-	return day_str + ' ' + hour_str + ' ' + min_str;
+	let sec_str = '';
+	if (t_day == 0 && t_hour == 0) {
+		sec_str = t_sec_remains + 's';
+	}
+
+	return day_str + ' ' + hour_str + ' ' + min_str + ' ' + sec_str;
 }
