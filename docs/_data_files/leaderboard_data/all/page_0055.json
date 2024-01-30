@@ -3176,7 +3176,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"title": "Spore Sorcery",
+				"title": "Sporcery",
 				"title_link": "https://nightmodegames.itch.io/spore-sorcery",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484106",
 				"by": [
@@ -3187,7 +3187,8 @@
 				],
 				"rank": 19,
 				"ratings": 6,
-				"score": 3.703
+				"score": 3.703,
+				"t_publish_diff": 57925000
 			},
 			{
 				"jam_type": "mini_jam",

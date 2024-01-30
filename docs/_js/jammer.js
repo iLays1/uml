@@ -149,8 +149,15 @@ function game_list(list_game_data) {
 		let title = span(title_a, 'title');
 
 		if (obj_game.jam_type == 'major_jam') {
-			let major_jam_tag = span('Major Jam', 'major_jam_tag');
-			title.append(major_jam_tag);
+			title.append(span('', 'major_jam_tag'));
+		}
+
+		if (obj_game.hasOwnProperty('t_publish_diff')) {
+			if (obj_game.t_publish_diff > 0) {
+				title.append(span(msec_to_str(obj_game.t_publish_diff), 'late_tag'));
+			} else {
+				title.append(span(msec_to_str(-obj_game.t_publish_diff), 'early_tag'));
+			}
 		}
 
 		let by_list = document.createElement('span');
@@ -280,4 +287,27 @@ function get_jam_name(jam_name, jam_id, jam_type) {
 	}
 
 	return (jam_type == 'major_jam' ? 'Major Jam ' : 'Mini Jam ') + jam_id + ': ' + jam_name;
+}
+
+function msec_to_str(t_msec) {
+	let t_min = Math.floor(t_msec / (1000*60));
+	let t_min_remains = t_min % 60;
+
+	let t_hour = Math.floor(t_msec / (1000*60*60));
+	let t_day = Math.floor(t_hour / 24);
+	let t_hour_remains = t_hour % 24;
+
+	let day_str = '';
+	if (t_day != 0) {
+		day_str = t_day + 'd';
+	}
+
+	let hour_str = '';
+	if (t_day != 0 || t_hour_remains != 0) {
+		hour_str = t_hour_remains + 'h';
+	}
+
+	let min_str = t_min_remains + 'm';
+
+	return day_str + ' ' + hour_str + ' ' + min_str;
 }

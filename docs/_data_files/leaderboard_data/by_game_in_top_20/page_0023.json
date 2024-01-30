@@ -1329,7 +1329,8 @@
 				],
 				"rank": 17,
 				"ratings": 25,
-				"score": 3.76
+				"score": 3.76,
+				"t_publish_diff": -5767000
 			}
 		]
 	},
@@ -2133,7 +2134,8 @@
 				],
 				"rank": 17,
 				"ratings": 14,
-				"score": 3.625
+				"score": 3.625,
+				"t_publish_diff": -21976000
 			}
 		]
 	},

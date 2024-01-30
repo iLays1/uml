@@ -383,7 +383,8 @@
 				],
 				"rank": 10,
 				"ratings": 12,
-				"score": 3.958
+				"score": 3.958,
+				"t_publish_diff": 67139000
 			}
 		]
 	},
@@ -549,7 +550,8 @@
 				],
 				"rank": 4,
 				"ratings": 15,
-				"score": 4.017
+				"score": 4.017,
+				"t_publish_diff": -16294000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2475,7 +2477,8 @@
 				],
 				"rank": 9,
 				"ratings": 22,
-				"score": 3.966
+				"score": 3.966,
+				"t_publish_diff": -1143000
 			}
 		]
 	},

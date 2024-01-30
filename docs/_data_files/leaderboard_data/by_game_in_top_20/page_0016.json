@@ -2202,7 +2202,7 @@
 		]
 	},
 	{
-		"jammer": "Laicaisami",
+		"jammer": "Laica Studios",
 		"jammer_link": "https://laicaisami.itch.io/",
 		"list_game_sorted": [
 			{
@@ -2214,14 +2214,15 @@
 				"title_link": "https://laicaisami.itch.io/lightweaver",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483127",
 				"by": [
-					"Laicaisami"
+					"Laica Studios"
 				],
 				"by_link": [
 					"https://laicaisami.itch.io/"
 				],
 				"rank": 11,
 				"ratings": 17,
-				"score": 3.941
+				"score": 3.941,
+				"t_publish_diff": -863000
 			}
 		]
 	},

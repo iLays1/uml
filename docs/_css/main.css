@@ -2,6 +2,38 @@
 	width: 825px;
 }
 
+.major_jam_tag, .late_tag, .early_tag {
+	float: right;
+	padding: 2px;
+	border-radius: 2px;
+	font-size: small;
+	margin-left: 7px;
+}
+
+.major_jam_tag {
+	background-color: rgb(255, 164, 164);
+}
+
+.major_jam_tag:after {
+	content: "Major Jam";
+}
+
+.late_tag {
+	background-color: rgb(164, 211, 255);
+}
+
+.late_tag:after {
+	content: " late";
+}
+
+.early_tag {
+	background-color: rgb(255, 231, 164);
+}
+
+.early_tag:after {
+	content: " early";
+}
+
 button {
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -100,6 +132,10 @@ body {
 }
 
 @media only screen and (max-width: 915px) {
+	.major_jam_tag {
+		float: none;
+	}
+
 	.rank_list {
 		margin-top: 0px;
 		margin-bottom: 10px;

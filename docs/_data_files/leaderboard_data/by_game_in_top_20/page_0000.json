@@ -239,7 +239,8 @@
 				],
 				"rank": 4,
 				"ratings": 12,
-				"score": 4.083
+				"score": 4.083,
+				"t_publish_diff": -241000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1091,7 +1092,8 @@
 				],
 				"rank": 3,
 				"ratings": 22,
-				"score": 4.034
+				"score": 4.034,
+				"t_publish_diff": -3778000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1687,7 +1689,8 @@
 				],
 				"rank": 4,
 				"ratings": 15,
-				"score": 4.017
+				"score": 4.017,
+				"t_publish_diff": -16294000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2577,7 +2580,8 @@
 				],
 				"rank": 20,
 				"ratings": 30,
-				"score": 3.575
+				"score": 3.575,
+				"t_publish_diff": -19814000
 			}
 		]
 	},
@@ -2891,7 +2895,8 @@
 				],
 				"rank": 5,
 				"ratings": 15,
-				"score": 4.05
+				"score": 4.05,
+				"t_publish_diff": -114203000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3359,7 +3364,8 @@
 				],
 				"rank": 11,
 				"ratings": 19,
-				"score": 3.776
+				"score": 3.776,
+				"t_publish_diff": 70905000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3617,7 +3623,8 @@
 				],
 				"rank": 1,
 				"ratings": 16,
-				"score": 4.359
+				"score": 4.359,
+				"t_publish_diff": -656000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -5013,7 +5020,8 @@
 				],
 				"rank": 1,
 				"ratings": 41,
-				"score": 4.311
+				"score": 4.311,
+				"t_publish_diff": -30212000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -5359,7 +5367,8 @@
 				],
 				"rank": 19,
 				"ratings": 13,
-				"score": 3.577
+				"score": 3.577,
+				"t_publish_diff": -2885000
 			}
 		]
 	},
@@ -5489,7 +5498,8 @@
 				],
 				"rank": 19,
 				"ratings": 13,
-				"score": 3.577
+				"score": 3.577,
+				"t_publish_diff": -2885000
 			}
 		]
 	},
@@ -6086,7 +6096,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"title": "Spore Sorcery",
+				"title": "Sporcery",
 				"title_link": "https://nightmodegames.itch.io/spore-sorcery",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484106",
 				"by": [
@@ -6097,7 +6107,8 @@
 				],
 				"rank": 19,
 				"ratings": 6,
-				"score": 3.703
+				"score": 3.703,
+				"t_publish_diff": 57925000
 			}
 		]
 	},
@@ -8303,7 +8314,8 @@
 				],
 				"rank": 4,
 				"ratings": 15,
-				"score": 4.017
+				"score": 4.017,
+				"t_publish_diff": -16294000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -8579,7 +8591,8 @@
 				],
 				"rank": 1,
 				"ratings": 16,
-				"score": 4.359
+				"score": 4.359,
+				"t_publish_diff": -656000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -8803,7 +8816,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.85
+				"score": 3.85,
+				"t_publish_diff": -11854000
 			}
 		]
 	},
@@ -8889,7 +8903,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.85
+				"score": 3.85,
+				"t_publish_diff": -11854000
 			}
 		]
 	},
@@ -9549,7 +9564,8 @@
 				],
 				"rank": 13,
 				"ratings": 17,
-				"score": 3.838
+				"score": 3.838,
+				"t_publish_diff": 99241000
 			}
 		]
 	},
@@ -10615,7 +10631,8 @@
 				],
 				"rank": 7,
 				"ratings": 33,
-				"score": 3.864
+				"score": 3.864,
+				"t_publish_diff": -15816000
 			},
 			{
 				"jam_type": "mini_jam",

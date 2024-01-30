@@ -871,7 +871,8 @@
 				],
 				"rank": 6,
 				"ratings": 15,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -995000
 			}
 		]
 	},
@@ -897,7 +898,8 @@
 				],
 				"rank": 6,
 				"ratings": 15,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -995000
 			}
 		]
 	},
@@ -921,7 +923,8 @@
 				],
 				"rank": 6,
 				"ratings": 23,
-				"score": 3.989
+				"score": 3.989,
+				"t_publish_diff": -778000
 			}
 		]
 	},

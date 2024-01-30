@@ -983,7 +983,8 @@
 				],
 				"rank": 24,
 				"ratings": 23,
-				"score": 3.533
+				"score": 3.533,
+				"t_publish_diff": -31513000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1049,7 +1050,8 @@
 				],
 				"rank": 24,
 				"ratings": 23,
-				"score": 3.533
+				"score": 3.533,
+				"t_publish_diff": -31513000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1591,7 +1593,8 @@
 				],
 				"rank": 33,
 				"ratings": 14,
-				"score": 3.357
+				"score": 3.357,
+				"t_publish_diff": -185000
 			},
 			{
 				"jam_type": "mini_jam",

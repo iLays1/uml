@@ -120,7 +120,7 @@ function html_game_list(game_list) {
 }
 
 function html_major_jam_tag() {
-	return '<span class="major_jam_tag">Major Jam</span>';
+	return '<span class="major_jam_tag"></span>';
 }
 
 function html_table_title_row() {

@@ -61,7 +61,7 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 		let jam_name = jam_name_and_link.jam_name;
 		let jam_link = jam_name_and_link.jam_link;
 		await push_data_from_file_into_list(list_result, max_rank,
-							INPUT_MAJOR_JAM_FOLDER_PATH + 'major_jam_' + SF.int_to_str(jam_id) + '.json', 
+							INPUT_MAJOR_JAM_FOLDER_PATH + 'major_jam_' + SF.int_to_str(jam_id), 
 							'major_jam', jam_id, jam_name, jam_link);
 	}
 
@@ -72,7 +72,7 @@ async function create_files(max_rank, list_both_jam, output_folder) {
 		let jam_name = jam_name_and_link.jam_name;
 		let jam_link = jam_name_and_link.jam_link;
 		await push_data_from_file_into_list(list_result, max_rank,
-							INPUT_MINI_JAM_FOLDER_PATH + 'mini_jam_' + SF.int_to_str(jam_id) + '.json', 
+							INPUT_MINI_JAM_FOLDER_PATH + 'mini_jam_' + SF.int_to_str(jam_id), 
 							'mini_jam', jam_id, jam_name, jam_link);
 	}
 
@@ -193,7 +193,13 @@ function get_jam_name_and_link(jam_list, jam_id) {
 }
 
 async function push_data_from_file_into_list(list, max_rank, path, jam_type, jam_id, jam_name, jam_link) {
-	let jam_data = await SF.read_json(path);
+	let jam_data = await SF.read_json(path + '.json');
+
+	let publish_time_file_exist = SF.is_file_exist(path + '_publish_time.json');
+	let publish_time_data = {};
+	if (publish_time_file_exist) {
+		publish_time_data = await SF.read_json(path + '_publish_time.json');
+	}
 
 	for (let j = 0; j < jam_data.length; j++) {
 		let game_data = jam_data[j];
@@ -205,43 +211,41 @@ async function push_data_from_file_into_list(list, max_rank, path, jam_type, jam
 			let by = game_data.by[i_by];
 			let by_link = game_data.by_link[i_by];
 			let index = find_jammer_link_in_list(list, by_link);
-			// This look like duplicate code but hear me out, if I make a function that return a jammer object
-			// and push that object into list, The code will look pretty much the same. So I just leave it
-			// like this
+			let game = {
+				jam_type: jam_type,
+				jam_id: jam_id,
+				jam_name: jam_name,
+				jam_link: jam_link,
+				title: game_data.title,
+				title_link: game_data.title_link,
+				submission_page_link: game_data.submission_page_link,
+				by: game_data.by,
+				by_link: game_data.by_link,
+				rank: game_data.rank,
+				ratings: game_data.ratings,
+				score: game_data.score,
+			};
+
+			if (publish_time_file_exist) {
+				for (let k = 0; k < publish_time_data.list.length; k++) {
+					let time = publish_time_data.list[k];
+					if (time.link != game_data.title_link) {
+						continue;
+					}
+
+					game.t_publish_diff = time.time - publish_time_data.t_vote_start;
+					break;
+				}
+			}
+
 			if (index == -1) {
 				list.push({
 					jammer: by,
 					jammer_link: by_link,
-					list_game_sorted: [{
-						jam_type: jam_type,
-						jam_id: jam_id,
-						jam_name: jam_name,
-						jam_link: jam_link,
-						title: game_data.title,
-						title_link: game_data.title_link,
-						submission_page_link: game_data.submission_page_link,
-						by: game_data.by,
-						by_link: game_data.by_link,
-						rank: game_data.rank,
-						ratings: game_data.ratings,
-						score: game_data.score,
-					}],
+					list_game_sorted: [ game ],
 				});
 			} else {
-				list[index].list_game_sorted.push({
-					jam_type: jam_type,
-					jam_id: jam_id,
-					jam_name: jam_name,
-					jam_link: jam_link,
-					title: game_data.title,
-					title_link: game_data.title_link,
-					submission_page_link: game_data.submission_page_link,
-					by: game_data.by,
-					by_link: game_data.by_link,
-					rank: game_data.rank,
-					ratings: game_data.ratings,
-					score: game_data.score,
-				});
+				list[index].list_game_sorted.push(game);
 			}
 		}
 	} 

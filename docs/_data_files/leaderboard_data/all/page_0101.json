@@ -563,7 +563,8 @@
 				],
 				"rank": 60,
 				"ratings": 13,
-				"score": 2.885
+				"score": 2.885,
+				"t_publish_diff": -35260000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -655,7 +656,8 @@
 				],
 				"rank": 119,
 				"ratings": 3,
-				"score": 1.8
+				"score": 1.8,
+				"t_publish_diff": 146094000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -701,7 +703,8 @@
 				],
 				"rank": 119,
 				"ratings": 3,
-				"score": 1.8
+				"score": 1.8,
+				"t_publish_diff": 146094000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -764,16 +767,19 @@
 				"by": [
 					"Christess12",
 					"Nerushi",
-					"Ard3ntly"
+					"Ard3ntly",
+					"just the dani"
 				],
 				"by_link": [
 					"https://christess12.itch.io/",
 					"https://nerushi.itch.io/",
-					"https://ard3ntly.itch.io/"
+					"https://ard3ntly.itch.io/",
+					"https://justthedanii.itch.io/"
 				],
 				"rank": 68,
 				"ratings": 6,
-				"score": 2.816
+				"score": 2.816,
+				"t_publish_diff": -2847000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -961,7 +967,8 @@
 				],
 				"rank": 6,
 				"ratings": 15,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -995000
 			}
 		]
 	},
@@ -987,12 +994,13 @@
 				],
 				"rank": 6,
 				"ratings": 15,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -995000
 			}
 		]
 	},
 	{
-		"jammer": "Laicaisami",
+		"jammer": "Laica Studios",
 		"jammer_link": "https://laicaisami.itch.io/",
 		"list_game_sorted": [
 			{
@@ -1004,14 +1012,15 @@
 				"title_link": "https://laicaisami.itch.io/lightweaver",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483127",
 				"by": [
-					"Laicaisami"
+					"Laica Studios"
 				],
 				"by_link": [
 					"https://laicaisami.itch.io/"
 				],
 				"rank": 11,
 				"ratings": 17,
-				"score": 3.941
+				"score": 3.941,
+				"t_publish_diff": -863000
 			}
 		]
 	},
@@ -1035,7 +1044,8 @@
 				],
 				"rank": 12,
 				"ratings": 11,
-				"score": 3.841
+				"score": 3.841,
+				"t_publish_diff": -24852000
 			}
 		]
 	},
@@ -1059,7 +1069,8 @@
 				],
 				"rank": 14,
 				"ratings": 9,
-				"score": 3.833
+				"score": 3.833,
+				"t_publish_diff": 30000
 			}
 		]
 	},
@@ -1083,7 +1094,8 @@
 				],
 				"rank": 15,
 				"ratings": 7,
-				"score": 3.786
+				"score": 3.786,
+				"t_publish_diff": -24207000
 			}
 		]
 	},
@@ -1107,7 +1119,8 @@
 				],
 				"rank": 17,
 				"ratings": 25,
-				"score": 3.76
+				"score": 3.76,
+				"t_publish_diff": -5767000
 			}
 		]
 	},
@@ -1131,7 +1144,8 @@
 				],
 				"rank": 18,
 				"ratings": 11,
-				"score": 3.705
+				"score": 3.705,
+				"t_publish_diff": -13420000
 			}
 		]
 	},
@@ -1155,7 +1169,8 @@
 				],
 				"rank": 21,
 				"ratings": 7,
-				"score": 3.643
+				"score": 3.643,
+				"t_publish_diff": -44205000
 			}
 		]
 	},
@@ -1183,7 +1198,8 @@
 				],
 				"rank": 22,
 				"ratings": 13,
-				"score": 3.635
+				"score": 3.635,
+				"t_publish_diff": -11441000
 			}
 		]
 	},
@@ -1211,7 +1227,8 @@
 				],
 				"rank": 22,
 				"ratings": 13,
-				"score": 3.635
+				"score": 3.635,
+				"t_publish_diff": -11441000
 			}
 		]
 	},
@@ -1239,7 +1256,8 @@
 				],
 				"rank": 22,
 				"ratings": 13,
-				"score": 3.635
+				"score": 3.635,
+				"t_publish_diff": -11441000
 			}
 		]
 	},
@@ -1292,6 +1310,31 @@
 				"rank": 23,
 				"ratings": 29,
 				"score": 3.629
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Starlight",
+				"title_link": "https://christess12.itch.io/starlight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483118",
+				"by": [
+					"Christess12",
+					"Nerushi",
+					"Ard3ntly",
+					"just the dani"
+				],
+				"by_link": [
+					"https://christess12.itch.io/",
+					"https://nerushi.itch.io/",
+					"https://ard3ntly.itch.io/",
+					"https://justthedanii.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 6,
+				"score": 2.816,
+				"t_publish_diff": -2847000
 			}
 		]
 	},
@@ -1323,7 +1366,8 @@
 				],
 				"rank": 26,
 				"ratings": 6,
-				"score": 3.549
+				"score": 3.549,
+				"t_publish_diff": 4685000
 			}
 		]
 	},
@@ -1355,7 +1399,8 @@
 				],
 				"rank": 26,
 				"ratings": 6,
-				"score": 3.549
+				"score": 3.549,
+				"t_publish_diff": 4685000
 			}
 		]
 	},
@@ -1387,7 +1432,8 @@
 				],
 				"rank": 26,
 				"ratings": 6,
-				"score": 3.549
+				"score": 3.549,
+				"t_publish_diff": 4685000
 			}
 		]
 	},
@@ -1419,7 +1465,8 @@
 				],
 				"rank": 26,
 				"ratings": 6,
-				"score": 3.549
+				"score": 3.549,
+				"t_publish_diff": 4685000
 			}
 		]
 	},
@@ -1451,7 +1498,8 @@
 				],
 				"rank": 26,
 				"ratings": 6,
-				"score": 3.549
+				"score": 3.549,
+				"t_publish_diff": 4685000
 			}
 		]
 	},
@@ -1475,7 +1523,8 @@
 				],
 				"rank": 28,
 				"ratings": 11,
-				"score": 3.455
+				"score": 3.455,
+				"t_publish_diff": -40548000
 			}
 		]
 	},
@@ -1583,7 +1632,8 @@
 				],
 				"rank": 33,
 				"ratings": 23,
-				"score": 3.402
+				"score": 3.402,
+				"t_publish_diff": -780000
 			}
 		]
 	},
@@ -1607,7 +1657,8 @@
 				],
 				"rank": 34,
 				"ratings": 7,
-				"score": 3.357
+				"score": 3.357,
+				"t_publish_diff": -28087000
 			}
 		]
 	},
@@ -1633,7 +1684,8 @@
 				],
 				"rank": 35,
 				"ratings": 8,
-				"score": 3.344
+				"score": 3.344,
+				"t_publish_diff": 17313000
 			}
 		]
 	},
@@ -1657,7 +1709,8 @@
 				],
 				"rank": 35,
 				"ratings": 8,
-				"score": 3.344
+				"score": 3.344,
+				"t_publish_diff": -12323000
 			}
 		]
 	},
@@ -1685,7 +1738,8 @@
 				],
 				"rank": 37,
 				"ratings": 6,
-				"score": 3.318
+				"score": 3.318,
+				"t_publish_diff": -255716000
 			}
 		]
 	},
@@ -1713,7 +1767,8 @@
 				],
 				"rank": 37,
 				"ratings": 6,
-				"score": 3.318
+				"score": 3.318,
+				"t_publish_diff": -255716000
 			}
 		]
 	},
@@ -1741,7 +1796,8 @@
 				],
 				"rank": 37,
 				"ratings": 6,
-				"score": 3.318
+				"score": 3.318,
+				"t_publish_diff": -255716000
 			}
 		]
 	},
@@ -1765,7 +1821,8 @@
 				],
 				"rank": 37,
 				"ratings": 6,
-				"score": 3.318
+				"score": 3.318,
+				"t_publish_diff": 173465000
 			}
 		]
 	},
@@ -1789,7 +1846,8 @@
 				],
 				"rank": 40,
 				"ratings": 16,
-				"score": 3.25
+				"score": 3.25,
+				"t_publish_diff": -21506000
 			}
 		]
 	},
@@ -1815,7 +1873,8 @@
 				],
 				"rank": 41,
 				"ratings": 10,
-				"score": 3.225
+				"score": 3.225,
+				"t_publish_diff": -13805000
 			}
 		]
 	},
@@ -1839,7 +1898,8 @@
 				],
 				"rank": 42,
 				"ratings": 6,
-				"score": 3.202
+				"score": 3.202,
+				"t_publish_diff": -4500000
 			}
 		]
 	},
@@ -1865,7 +1925,8 @@
 				],
 				"rank": 43,
 				"ratings": 7,
-				"score": 3.179
+				"score": 3.179,
+				"t_publish_diff": 283001000
 			}
 		]
 	},
@@ -1891,7 +1952,8 @@
 				],
 				"rank": 43,
 				"ratings": 7,
-				"score": 3.179
+				"score": 3.179,
+				"t_publish_diff": 283001000
 			}
 		]
 	},
@@ -1921,7 +1983,8 @@
 				],
 				"rank": 45,
 				"ratings": 8,
-				"score": 3.156
+				"score": 3.156,
+				"t_publish_diff": -133855000
 			}
 		]
 	},
@@ -1951,7 +2014,8 @@
 				],
 				"rank": 45,
 				"ratings": 8,
-				"score": 3.156
+				"score": 3.156,
+				"t_publish_diff": -133855000
 			}
 		]
 	},
@@ -1981,7 +2045,8 @@
 				],
 				"rank": 45,
 				"ratings": 8,
-				"score": 3.156
+				"score": 3.156,
+				"t_publish_diff": -133855000
 			}
 		]
 	},
@@ -2011,7 +2076,8 @@
 				],
 				"rank": 45,
 				"ratings": 8,
-				"score": 3.156
+				"score": 3.156,
+				"t_publish_diff": -133855000
 			}
 		]
 	},
@@ -2037,7 +2103,8 @@
 				],
 				"rank": 46,
 				"ratings": 27,
-				"score": 3.13
+				"score": 3.13,
+				"t_publish_diff": -3351000
 			}
 		]
 	},
@@ -2063,7 +2130,8 @@
 				],
 				"rank": 46,
 				"ratings": 27,
-				"score": 3.13
+				"score": 3.13,
+				"t_publish_diff": -3351000
 			}
 		]
 	},
@@ -2111,7 +2179,8 @@
 				],
 				"rank": 48,
 				"ratings": 12,
-				"score": 3.083
+				"score": 3.083,
+				"t_publish_diff": -1283000
 			}
 		]
 	},
@@ -2135,7 +2204,8 @@
 				],
 				"rank": 49,
 				"ratings": 9,
-				"score": 3.056
+				"score": 3.056,
+				"t_publish_diff": -1978000
 			}
 		]
 	},
@@ -2159,7 +2229,8 @@
 				],
 				"rank": 51,
 				"ratings": 11,
-				"score": 2.977
+				"score": 2.977,
+				"t_publish_diff": -15487000
 			}
 		]
 	},
@@ -2193,7 +2264,8 @@
 				],
 				"rank": 54,
 				"ratings": 33,
-				"score": 2.939
+				"score": 2.939,
+				"t_publish_diff": -101000
 			}
 		]
 	},
@@ -2227,7 +2299,8 @@
 				],
 				"rank": 54,
 				"ratings": 33,
-				"score": 2.939
+				"score": 2.939,
+				"t_publish_diff": -101000
 			}
 		]
 	},
@@ -2261,7 +2334,8 @@
 				],
 				"rank": 54,
 				"ratings": 33,
-				"score": 2.939
+				"score": 2.939,
+				"t_publish_diff": -101000
 			}
 		]
 	},
@@ -2295,7 +2369,8 @@
 				],
 				"rank": 54,
 				"ratings": 33,
-				"score": 2.939
+				"score": 2.939,
+				"t_publish_diff": -101000
 			}
 		]
 	},
@@ -2329,7 +2404,8 @@
 				],
 				"rank": 54,
 				"ratings": 33,
-				"score": 2.939
+				"score": 2.939,
+				"t_publish_diff": -101000
 			}
 		]
 	},
@@ -2363,7 +2439,8 @@
 				],
 				"rank": 54,
 				"ratings": 33,
-				"score": 2.939
+				"score": 2.939,
+				"t_publish_diff": -101000
 			}
 		]
 	},
@@ -2387,7 +2464,8 @@
 				],
 				"rank": 55,
 				"ratings": 6,
-				"score": 2.932
+				"score": 2.932,
+				"t_publish_diff": -3278000
 			}
 		]
 	},
@@ -2411,7 +2489,8 @@
 				],
 				"rank": 56,
 				"ratings": 14,
-				"score": 2.929
+				"score": 2.929,
+				"t_publish_diff": -767000
 			}
 		]
 	},
@@ -2437,7 +2516,8 @@
 				],
 				"rank": 58,
 				"ratings": 9,
-				"score": 2.917
+				"score": 2.917,
+				"t_publish_diff": -317000
 			}
 		]
 	},
@@ -2463,7 +2543,8 @@
 				],
 				"rank": 58,
 				"ratings": 9,
-				"score": 2.917
+				"score": 2.917,
+				"t_publish_diff": -317000
 			}
 		]
 	},
@@ -2487,7 +2568,8 @@
 				],
 				"rank": 61,
 				"ratings": 18,
-				"score": 2.861
+				"score": 2.861,
+				"t_publish_diff": -41979000
 			}
 		]
 	},
@@ -2517,7 +2599,8 @@
 				],
 				"rank": 63,
 				"ratings": 8,
-				"score": 2.844
+				"score": 2.844,
+				"t_publish_diff": -474000
 			}
 		]
 	},
@@ -2541,7 +2624,8 @@
 				],
 				"rank": 64,
 				"ratings": 5,
-				"score": 2.831
+				"score": 2.831,
+				"t_publish_diff": 128613000
 			}
 		]
 	},
@@ -2567,7 +2651,8 @@
 				],
 				"rank": 65,
 				"ratings": 5,
-				"score": 2.831
+				"score": 2.831,
+				"t_publish_diff": 103031000
 			}
 		]
 	},
@@ -2593,7 +2678,8 @@
 				],
 				"rank": 65,
 				"ratings": 5,
-				"score": 2.831
+				"score": 2.831,
+				"t_publish_diff": 103031000
 			}
 		]
 	},
@@ -2617,7 +2703,8 @@
 				],
 				"rank": 66,
 				"ratings": 7,
-				"score": 2.821
+				"score": 2.821,
+				"t_publish_diff": -15327000
 			}
 		]
 	},
@@ -2641,7 +2728,8 @@
 				],
 				"rank": 66,
 				"ratings": 14,
-				"score": 2.821
+				"score": 2.821,
+				"t_publish_diff": -893000
 			}
 		]
 	},
@@ -2660,16 +2748,19 @@
 				"by": [
 					"Christess12",
 					"Nerushi",
-					"Ard3ntly"
+					"Ard3ntly",
+					"just the dani"
 				],
 				"by_link": [
 					"https://christess12.itch.io/",
 					"https://nerushi.itch.io/",
-					"https://ard3ntly.itch.io/"
+					"https://ard3ntly.itch.io/",
+					"https://justthedanii.itch.io/"
 				],
 				"rank": 68,
 				"ratings": 6,
-				"score": 2.816
+				"score": 2.816,
+				"t_publish_diff": -2847000
 			}
 		]
 	},
@@ -2688,16 +2779,19 @@
 				"by": [
 					"Christess12",
 					"Nerushi",
-					"Ard3ntly"
+					"Ard3ntly",
+					"just the dani"
 				],
 				"by_link": [
 					"https://christess12.itch.io/",
 					"https://nerushi.itch.io/",
-					"https://ard3ntly.itch.io/"
+					"https://ard3ntly.itch.io/",
+					"https://justthedanii.itch.io/"
 				],
 				"rank": 68,
 				"ratings": 6,
-				"score": 2.816
+				"score": 2.816,
+				"t_publish_diff": -2847000
 			}
 		]
 	}

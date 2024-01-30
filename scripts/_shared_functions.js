@@ -2,6 +2,7 @@ const fs = require('fs').promises;
 const fs_sync = require('fs');
 
 module.exports = {
+	is_file_exist: is_file_exist,
 	read_json: read_json,
 	write_json: write_json,
 	write_file_str: write_file_str,
@@ -11,6 +12,10 @@ module.exports = {
 	html_nav: html_nav,
 	get_jam_name: get_jam_name,
 	get_jammer_short_link: get_jammer_short_link,
+}
+
+function is_file_exist(path) {
+	return fs_sync.existsSync(path);
 }
 
 async function read_json(path) {
