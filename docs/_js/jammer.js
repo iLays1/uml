@@ -160,7 +160,7 @@ function game_list(list_game_data) {
 			let by_link = obj_game.by_link[i];
 			let a = document.createElement('a');
 			a.innerHTML = by;
-			a.href = by_link;
+			a.href = './jammer.html?jammer="' + get_jammer_short_link(by_link) + '"';
 			by_list.append(a);
 			if (i != obj_game.by.length - 1) {
 				by_list.append(', ');

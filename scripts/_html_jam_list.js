@@ -75,7 +75,9 @@ function html_game_list(game_list) {
 		for (let j = 0; j < game.by.length; j++) {
 			let by = game.by[j];
 			let by_link = game.by_link[j];
-			a_by_list_html += SF.html_tag('a', by, 'href="' + by_link + '"', 6);
+			a_by_list_html += SF.html_tag('a', by, 'href="../jammer.html?jammer=%22' 
+														+ SF.get_jammer_short_link(by_link) 
+														+ '%22"', 6);
 			if (j != game.by.length - 1) {
 				a_by_list_html += ', ';
 			}

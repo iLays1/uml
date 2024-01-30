@@ -10,6 +10,7 @@ module.exports = {
 	html_tag: html_tag,
 	html_nav: html_nav,
 	get_jam_name: get_jam_name,
+	get_jammer_short_link: get_jammer_short_link,
 }
 
 async function read_json(path) {
@@ -132,4 +133,12 @@ function get_jam_name(jam_name, jam_id, jam_type) {
 	}
 
 	return (jam_type == 'major_jam' ? 'Major Jam ' : 'Mini Jam ') + jam_id + ': ' + jam_name;
+}
+
+function get_jammer_short_link(link) {
+	link = link.replaceAll('https://', '');
+	if (link[link.length - 1] == '/') {
+		link = link.slice(0, link.length - 1);
+	}
+	return link;
 }
