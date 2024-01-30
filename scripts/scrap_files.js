@@ -6,72 +6,75 @@ const OUTPUT_JAM_LIST_FOLDER_PATH = './scrapped_files/jam_list/';
 const OUTPUT_MAJOR_JAM_FOLDER_PATH = './scrapped_files/major_jam/';
 const OUTPUT_MINI_JAM_FOLDER_PATH = './scrapped_files/mini_jam/';
 
-const WAIT_BETWEEN_HTTPS_GETS = 6;
 
-const GET_FIRST_MINIJAM_IN_API = true;
+const WAIT_BETWEEN_HTTPS_GETS      = 6;
 
-const CREATE_JAM_LIST_FILE = true;
-const CREATE_MAJOR_JAM_FILES = false;
-const CREATE_MINI_JAM_FILES = false;
-const MINI_JAM_ID_MAX_CAP = 99999999;
+const GET_FIRST_MINIJAM_IN_API     = true;
+
+const USE_JAM_LIST_JSON            = true;
+
+const CREATE_JAM_LIST_FILE         = true;
+const CREATE_MAJOR_JAM_FILES       = true;
+const CREATE_MINI_JAM_FILES        = true;
+const CREATE_JAM_RESULT_FILES      = false;
+const CREATE_SUBMISSION_TIME_FILES = true;
+
+const MINI_JAM_ID_MAX_CAP =          99999999;
+
 const LIST_REWRITE_THESE_FILES = [
-	// {
-	//     link: 'https://itch.io/jam/mini-jam-91-ufo',
-	//     folder_path: OUTPUT_MINI_JAM_FOLDER_PATH,
-	//     file_name: 'mini_jam_0091.json',
-	// },
-	// {
-	//     link: 'https://itch.io/jam/mini-jam-80-cats',
-	//     folder_path: OUTPUT_MINI_JAM_FOLDER_PATH,
-	//     file_name: 'mini_jam_0080.json',
-	// },
-	// {
-	//     link: 'https://itch.io/jam/mini-jam-60',
-	//     folder_path: OUTPUT_MINI_JAM_FOLDER_PATH,
-	//     file_name: 'mini_jam_0060.json',
-	// },
-	// {
-	//     link: 'https://itch.io/jam/mini-jam-16-western',
-	//     folder_path: OUTPUT_MINI_JAM_FOLDER_PATH,
-	//     file_name: 'mini_jam_0016.json',
-	// },
+	'https://itch.io/jam/mini-jam-150-magic',
+	'https://itch.io/jam/mini-jam-91-ufo',
 ];
+
 
 let list_failed_https_gets = [];
 
 async function main() {
 	let list_major_jam = get_major_jam_list();
-	let list_jam = await get_jam_list();
+	let list_mini_jam = [];
+	if (USE_JAM_LIST_JSON) {
+		list_mini_jam = await get_mini_jam_list_from_json();
+	} else {
+		list_mini_jam = await get_mini_jam_list();
+	}
 
 	if (LIST_REWRITE_THESE_FILES.length == 0) {
-		if (CREATE_JAM_LIST_FILE && MINI_JAM_ID_MAX_CAP > 10000) {
+
+		if (!USE_JAM_LIST_JSON && CREATE_JAM_LIST_FILE && MINI_JAM_ID_MAX_CAP > 10000) {
 			SF.write_json({
 				list_major_jam: list_major_jam,
-				list_mini_jam: list_jam,
+				list_mini_jam: list_mini_jam,
 			}, OUTPUT_JAM_LIST_FOLDER_PATH, 'jam_list.json');
 		}
 
 		if (CREATE_MAJOR_JAM_FILES) {
 			console.log('creating major jam files');
 			for (let i = 0; i < list_major_jam.length; i++) {
-				let file_name = 'major_jam_' + SF.int_to_str(list_major_jam[i].id) + '.json';
-				await result_page__create_file(list_major_jam[i].link + '/results', 
-													OUTPUT_MAJOR_JAM_FOLDER_PATH, file_name);
+				let file_name = 'major_jam_' + SF.int_to_str(list_major_jam[i].id);
+				await create_file(list_major_jam[i].link, 
+									OUTPUT_MAJOR_JAM_FOLDER_PATH, file_name);
 			}
 		}
 	
 		if (CREATE_MINI_JAM_FILES) {
 			console.log('creating mini jam files');
-			for (let i = 0; i < list_jam.length; i++) {
-				let file_name = 'mini_jam_' + SF.int_to_str(list_jam[i].id) + '.json';
-				await result_page__create_file(list_jam[i].link + '/results', 
-													OUTPUT_MINI_JAM_FOLDER_PATH, file_name);
+			for (let i = 0; i < list_mini_jam.length; i++) {
+				let file_name = 'mini_jam_' + SF.int_to_str(list_mini_jam[i].id);
+				await create_file(list_mini_jam[i].link, 
+									OUTPUT_MINI_JAM_FOLDER_PATH, file_name);
 			}
 		}
 	} else {
 		for (let i = 0; i < LIST_REWRITE_THESE_FILES.length; i++) {
-			let rewrite = LIST_REWRITE_THESE_FILES[i];
-			await result_page__create_file(rewrite.link + '/results', rewrite.folder_path, rewrite.file_name);
+			let rewrite_link = LIST_REWRITE_THESE_FILES[i];
+			let jam_info = get_jam_info_from_link(list_major_jam, list_mini_jam, rewrite_link);
+
+			let folder_path = OUTPUT_MAJOR_JAM_FOLDER_PATH;
+			if (jam_info.type == 'mini_jam') {
+				folder_path = OUTPUT_MINI_JAM_FOLDER_PATH;
+			}
+
+			await create_file(rewrite_link, folder_path, jam_info.type + '_' + SF.int_to_str(jam_info.id));
 		}
 	}
 
@@ -87,6 +90,35 @@ async function main() {
 main();
 
 
+
+function get_jam_info_from_link(list_major_jam, list_mini_jam, link) {
+	for (let i = 0; i < list_major_jam.length; i++) {
+		let jam = list_major_jam[i];
+		if (jam.link == link) {
+			return {
+				type: 'major_jam',
+				id: jam.id,
+				jam_name: jam.jam_name,
+				link: jam.link,
+			}
+		}
+	}
+
+	for (let i = 0; i < list_mini_jam.length; i++) {
+		let jam = list_mini_jam[i];
+		if (jam.link == link) {
+			return {
+				type: 'mini_jam',
+				id: jam.id,
+				jam_name: jam.jam_name,
+				link: jam.link,
+			}
+		}
+	}
+
+	console.log(link + ' not found');
+	return null;
+}
 
 function get_major_jam_list() {
 	let list = [];
@@ -109,7 +141,12 @@ function get_major_jam_list() {
 	return list;
 }
 
-async function get_jam_list() {
+async function get_mini_jam_list() {
+	let mini_jam_id_max_cap = MINI_JAM_ID_MAX_CAP;
+	if (LIST_REWRITE_THESE_FILES.length != 0) {
+		mini_jam_id_max_cap = 9999999;
+	}
+
 	let api_link = 'https://minijamofficial.com/api/fetchMiniJams?n=';
 
 	let first_data_page_num = GET_FIRST_MINIJAM_IN_API ? '0' : '1';
@@ -122,7 +159,7 @@ async function get_jam_list() {
 	let list = [];
 
 	for (let i = 0; i < first_data.jamId.length; i++) {
-		if (first_data.jamId[i] > MINI_JAM_ID_MAX_CAP) {
+		if (first_data.jamId[i] > mini_jam_id_max_cap) {
 			continue;
 		}
 		list.push({
@@ -136,7 +173,7 @@ async function get_jam_list() {
 	for (let i_page = i_page_start; i_page <= max_page; i_page++) {
 		let data = JSON.parse(await https_get(api_link + i_page));
 		for (let i = 0; i < data.jamId.length; i++) {
-			if (data.jamId[i] > MINI_JAM_ID_MAX_CAP) {
+			if (data.jamId[i] > mini_jam_id_max_cap) {
 				continue;
 			}
 			list.push({
@@ -153,6 +190,22 @@ async function get_jam_list() {
 	console.log('the last jam id is ' + list[list.length-1].id);
 	console.log('if this value is not 1 then the script have bug, please report it to me')
 	console.log('----------------------------------------------------');
+
+	return list;
+}
+
+async function get_mini_jam_list_from_json() {
+	let list = [];
+	let jam_list_json = await SF.read_json(OUTPUT_JAM_LIST_FOLDER_PATH + 'jam_list.json');
+
+	for (let i = 0; i < jam_list_json.list_mini_jam.length; i++) {
+		let jam = jam_list_json.list_mini_jam[i];
+		list.push({
+			id: jam.id,
+			jam_name: jam.jam_name,
+			link: jam.link,
+		});
+	}
 
 	return list;
 }
@@ -198,22 +251,49 @@ async function wait(time_sec) {
 	});
 }
 
-async function result_page__create_file(link, folder_path, file_name) {
-	let list_game_dom = await result_page__get_game_dom_list(link);
+async function create_file(link, folder_path, file_name) {
+	let list_game_dom = [];
+	let t_vote_start = 0;
 
-	list_data = [];
-	
-	for (let i = 0; i < list_game_dom.length; i++) {
-		list_data.push(result_page__get_game_data(i, list_game_dom[i]));
+	if (CREATE_JAM_RESULT_FILES) {
+		let list_game_dom_obj = await result_page__get_game_dom_list(link + '/results');
+		list_game_dom = list_game_dom_obj.list_game_dom;
+		t_vote_start = list_game_dom_obj.t_vote_start;
+	} else {
+		t_vote_start = await result_page__get_jam_vote_start_time_from_link(link + '/results');
 	}
 
-	await SF.write_json(list_data, folder_path, file_name);
+	if (CREATE_JAM_RESULT_FILES) {
+		list_data = [];
+	
+		for (let i = 0; i < list_game_dom.length; i++) {
+			list_data.push(result_page__get_game_data(list_game_dom[i]));
+		}
+	
+		await SF.write_json(list_data, folder_path, file_name + '.json');
+	}
+
+	if (CREATE_SUBMISSION_TIME_FILES) {
+		let list_publish_time_data = await feed_page__get_game_publish_time_list(link + '/feed');
+		await SF.write_json({
+			t_vote_start: t_vote_start, 
+			list: list_publish_time_data,
+		}, folder_path, file_name + '_publish_time.json');
+	}
+}
+
+async function result_page__get_jam_vote_start_time_from_link(link) {
+	let page_0_dom_str = await https_get(link);
+	let page_0_dom = new jsdom.JSDOM(page_0_dom_str);
+	let t_vote_start = result_page__get_jam_vote_start_time_from_dom(page_0_dom);
+	return t_vote_start;
 }
 
 async function result_page__get_game_dom_list(link) {
 	let page_0_dom_str = await https_get(link);
 	let page_0_dom = new jsdom.JSDOM(page_0_dom_str);
 	let max_num_page = result_page__get_max_num_page(page_0_dom);
+	let t_vote_start = result_page__get_jam_vote_start_time_from_dom(page_0_dom);
 	let list_game_dom = [];
 
 	list_game_dom = list_game_dom.concat(Array.from(page_0_dom.window.document.querySelectorAll('.game_rank')));
@@ -225,7 +305,10 @@ async function result_page__get_game_dom_list(link) {
 		list_game_dom = list_game_dom.concat(Array.from(dom.window.document.querySelectorAll('.game_rank')));
 	}
 
-	return list_game_dom;
+	return {
+		t_vote_start: t_vote_start,
+		list_game_dom: list_game_dom,
+	};
 }
 
 function result_page__get_max_num_page(dom) {
@@ -238,7 +321,12 @@ function result_page__get_max_num_page(dom) {
 	return 0;
 }
 
-function result_page__get_game_data(i, game) {
+function result_page__get_jam_vote_start_time_from_dom(dom) {
+	let element = Array.from(dom.window.document.querySelectorAll('.jam_summary .date_format'))[1];
+	return Date.parse(element.innerHTML + ' UTC');
+}
+
+function result_page__get_game_data(game) {
 	let summary = game.querySelector('.game_summary');
 	let table = game.querySelector('.ranking_results_table');
 
@@ -256,6 +344,38 @@ function result_page__get_game_data(i, game) {
 	};
 
 	return data;
+}
+
+async function feed_page__get_game_publish_time_list(link) {
+	let list = [];
+
+	let page_dom_str = await https_get(link);
+	let page_dom = new jsdom.JSDOM(page_dom_str);
+	while (true) {
+		let list_event_row = page_dom.window.document.querySelectorAll('.event_row');
+		for (let i = 0; i < list_event_row.length; i++) {
+			let event_row = list_event_row[i];
+			if (event_row.querySelector('.event_user_action > strong').innerHTML != 'published a game') {
+				continue;
+			}
+			let time_msec = Date.parse(event_row.querySelector('.event_user_action > .event_time').title + ' UTC');
+			let game_link = event_row.querySelector('.event_content .object_title').href;
+			list.push({
+				time: time_msec,
+				link: game_link,
+			});
+		}
+
+		let next_page_link = page_dom.window.document.querySelector('.next_page > a');
+		if (next_page_link == null) {
+			break;
+		}
+
+		page_dom_str = await https_get(link + next_page_link.getAttribute('href'));
+		page_dom = new jsdom.JSDOM(page_dom_str);
+	}
+
+	return list;
 }
 
 function game_data__get_table_data(table) {
