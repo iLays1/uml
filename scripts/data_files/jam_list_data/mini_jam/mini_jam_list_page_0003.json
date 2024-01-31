@@ -25,7 +25,8 @@
 				],
 				"rank": 1,
 				"ratings": 12,
-				"score": 4.042
+				"score": 4.042,
+				"t_publish_diff": -1118000
 			},
 			{
 				"title": "R.I.T.U.A.L",
@@ -39,7 +40,8 @@
 				],
 				"rank": 2,
 				"ratings": 23,
-				"score": 4.011
+				"score": 4.011,
+				"t_publish_diff": -26587000
 			},
 			{
 				"title": "Dino's Nightmare",
@@ -55,7 +57,8 @@
 				],
 				"rank": 3,
 				"ratings": 11,
-				"score": 3.886
+				"score": 3.886,
+				"t_publish_diff": -36408000
 			},
 			{
 				"title": "Underworld Grave",
@@ -69,7 +72,8 @@
 				],
 				"rank": 4,
 				"ratings": 9,
-				"score": 3.861
+				"score": 3.861,
+				"t_publish_diff": -54427000
 			},
 			{
 				"title": "OMG Demons!",
@@ -83,7 +87,8 @@
 				],
 				"rank": 5,
 				"ratings": 10,
-				"score": 3.8
+				"score": 3.8,
+				"t_publish_diff": -15174000
 			},
 			{
 				"title": "The Devil's Spawn",
@@ -97,7 +102,8 @@
 				],
 				"rank": 6,
 				"ratings": 9,
-				"score": 3.75
+				"score": 3.75,
+				"t_publish_diff": 111386000
 			},
 			{
 				"title": "Do No Harm",
@@ -111,7 +117,8 @@
 				],
 				"rank": 7,
 				"ratings": 23,
-				"score": 3.565
+				"score": 3.565,
+				"t_publish_diff": -20925000
 			},
 			{
 				"title": "Fallen From Above",
@@ -125,7 +132,8 @@
 				],
 				"rank": 8,
 				"ratings": 16,
-				"score": 3.531
+				"score": 3.531,
+				"t_publish_diff": -23298000
 			},
 			{
 				"title": "GEHENNA",
@@ -143,7 +151,8 @@
 				],
 				"rank": 9,
 				"ratings": 11,
-				"score": 3.523
+				"score": 3.523,
+				"t_publish_diff": -3822000
 			},
 			{
 				"title": "Stealth in Hell",
@@ -157,7 +166,8 @@
 				],
 				"rank": 10,
 				"ratings": 12,
-				"score": 3.521
+				"score": 3.521,
+				"t_publish_diff": -21597000
 			},
 			{
 				"title": "Love will find a way",
@@ -171,7 +181,8 @@
 				],
 				"rank": 11,
 				"ratings": 13,
-				"score": 3.519
+				"score": 3.519,
+				"t_publish_diff": -11200000
 			},
 			{
 				"title": "Heavenly Hell",
@@ -185,7 +196,8 @@
 				],
 				"rank": 12,
 				"ratings": 9,
-				"score": 3.444
+				"score": 3.444,
+				"t_publish_diff": -129331000
 			},
 			{
 				"title": "The Game of Theseus",
@@ -199,7 +211,8 @@
 				],
 				"rank": 13,
 				"ratings": 19,
-				"score": 3.408
+				"score": 3.408,
+				"t_publish_diff": -70559000
 			},
 			{
 				"title": "CodeChaos",
@@ -213,7 +226,8 @@
 				],
 				"rank": 14,
 				"ratings": 10,
-				"score": 3.375
+				"score": 3.375,
+				"t_publish_diff": -12477000
 			},
 			{
 				"title": "SoulFlame",
@@ -227,7 +241,8 @@
 				],
 				"rank": 15,
 				"ratings": 8,
-				"score": 3.281
+				"score": 3.281,
+				"t_publish_diff": -32638000
 			},
 			{
 				"title": "Redemption Arc",
@@ -245,7 +260,8 @@
 				],
 				"rank": 16,
 				"ratings": 8,
-				"score": 3.25
+				"score": 3.25,
+				"t_publish_diff": -66000
 			},
 			{
 				"title": "Navigate",
@@ -265,7 +281,8 @@
 				],
 				"rank": 17,
 				"ratings": 14,
-				"score": 3.232
+				"score": 3.232,
+				"t_publish_diff": -4607000
 			},
 			{
 				"title": "Devils Garden",
@@ -279,7 +296,8 @@
 				],
 				"rank": 18,
 				"ratings": 8,
-				"score": 3.219
+				"score": 3.219,
+				"t_publish_diff": -19899000
 			},
 			{
 				"title": "Devil Blanc",
@@ -297,7 +315,8 @@
 				],
 				"rank": 19,
 				"ratings": 14,
-				"score": 3.196
+				"score": 3.196,
+				"t_publish_diff": 4953000
 			},
 			{
 				"title": "Frog's Climb",
@@ -335,7 +354,8 @@
 				],
 				"rank": 1,
 				"ratings": 9,
-				"score": 4.167
+				"score": 4.167,
+				"t_publish_diff": 82313000
 			},
 			{
 				"title": "The Pilgrims",
@@ -357,7 +377,8 @@
 				],
 				"rank": 2,
 				"ratings": 30,
-				"score": 3.95
+				"score": 3.95,
+				"t_publish_diff": -13305000
 			},
 			{
 				"title": "War is Heaven (game jam version)",
@@ -371,7 +392,8 @@
 				],
 				"rank": 3,
 				"ratings": 31,
-				"score": 3.855
+				"score": 3.855,
+				"t_publish_diff": 194000
 			},
 			{
 				"title": "Heaven Invaders",
@@ -387,7 +409,8 @@
 				],
 				"rank": 4,
 				"ratings": 23,
-				"score": 3.837
+				"score": 3.837,
+				"t_publish_diff": -971000
 			},
 			{
 				"title": "Heaven Lost",
@@ -401,7 +424,8 @@
 				],
 				"rank": 5,
 				"ratings": 16,
-				"score": 3.719
+				"score": 3.719,
+				"t_publish_diff": -41348000
 			},
 			{
 				"title": "Vigor Hero",
@@ -419,7 +443,8 @@
 				],
 				"rank": 6,
 				"ratings": 39,
-				"score": 3.66
+				"score": 3.66,
+				"t_publish_diff": -19806000
 			},
 			{
 				"title": "Shut-In Angel (Gamejam-Version)",
@@ -433,7 +458,8 @@
 				],
 				"rank": 7,
 				"ratings": 17,
-				"score": 3.471
+				"score": 3.471,
+				"t_publish_diff": 4406000
 			},
 			{
 				"title": "Duel in Dice",
@@ -447,7 +473,8 @@
 				],
 				"rank": 8,
 				"ratings": 26,
-				"score": 3.404
+				"score": 3.404,
+				"t_publish_diff": -54329000
 			},
 			{
 				"title": "Ball Breaker",
@@ -461,7 +488,8 @@
 				],
 				"rank": 9,
 				"ratings": 16,
-				"score": 3.328
+				"score": 3.328,
+				"t_publish_diff": -17938000
 			},
 			{
 				"title": "When Pigs Fly",
@@ -477,7 +505,8 @@
 				],
 				"rank": 10,
 				"ratings": 23,
-				"score": 3.326
+				"score": 3.326,
+				"t_publish_diff": -61222000
 			},
 			{
 				"title": "Paradise End",
@@ -491,7 +520,8 @@
 				],
 				"rank": 11,
 				"ratings": 11,
-				"score": 3.318
+				"score": 3.318,
+				"t_publish_diff": -109662000
 			},
 			{
 				"title": "Misery Blissness",
@@ -523,7 +553,8 @@
 				],
 				"rank": 13,
 				"ratings": 16,
-				"score": 3.172
+				"score": 3.172,
+				"t_publish_diff": -11444000
 			},
 			{
 				"title": "Junk Removal Jim",
@@ -537,7 +568,8 @@
 				],
 				"rank": 14,
 				"ratings": 28,
-				"score": 3.161
+				"score": 3.161,
+				"t_publish_diff": -35735000
 			},
 			{
 				"title": "a cat café called heaven",
@@ -581,7 +613,8 @@
 				],
 				"rank": 17,
 				"ratings": 5,
-				"score": 3.083
+				"score": 3.083,
+				"t_publish_diff": -30257000
 			},
 			{
 				"title": "God Slayer1.1.1(YCDPN)",
@@ -595,7 +628,8 @@
 				],
 				"rank": 18,
 				"ratings": 10,
-				"score": 3.075
+				"score": 3.075,
+				"t_publish_diff": -52421000
 			},
 			{
 				"title": "Eggmaggedon",
@@ -617,7 +651,8 @@
 				],
 				"rank": 19,
 				"ratings": 11,
-				"score": 3.045
+				"score": 3.045,
+				"t_publish_diff": 1944000
 			},
 			{
 				"title": "Holy chess!",
@@ -633,7 +668,8 @@
 				],
 				"rank": 20,
 				"ratings": 9,
-				"score": 3.028
+				"score": 3.028,
+				"t_publish_diff": -7718000
 			}
 		]
 	},
@@ -657,7 +693,8 @@
 				],
 				"rank": 1,
 				"ratings": 22,
-				"score": 4.5
+				"score": 4.5,
+				"t_publish_diff": -55674000
 			},
 			{
 				"title": "Vampire's hunt",
@@ -675,7 +712,8 @@
 				],
 				"rank": 2,
 				"ratings": 11,
-				"score": 4.182
+				"score": 4.182,
+				"t_publish_diff": -16710000
 			},
 			{
 				"title": "Erratic Bloody",
@@ -689,7 +727,8 @@
 				],
 				"rank": 3,
 				"ratings": 22,
-				"score": 4.148
+				"score": 4.148,
+				"t_publish_diff": 7730000
 			},
 			{
 				"title": "V-Hunter Puzzler Dx",
@@ -733,7 +772,8 @@
 				],
 				"rank": 6,
 				"ratings": 6,
-				"score": 4.042
+				"score": 4.042,
+				"t_publish_diff": -30559000
 			},
 			{
 				"title": "Blood and Dice",
@@ -747,7 +787,8 @@
 				],
 				"rank": 7,
 				"ratings": 14,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -8924000
 			},
 			{
 				"title": "Blood(loss) is lethal",
@@ -763,7 +804,8 @@
 				],
 				"rank": 8,
 				"ratings": 14,
-				"score": 3.911
+				"score": 3.911,
+				"t_publish_diff": -22369000
 			},
 			{
 				"title": "Draculad",
@@ -777,7 +819,8 @@
 				],
 				"rank": 9,
 				"ratings": 8,
-				"score": 3.813
+				"score": 3.813,
+				"t_publish_diff": -1611000
 			},
 			{
 				"title": "The Blood Curse",
@@ -793,7 +836,8 @@
 				],
 				"rank": 10,
 				"ratings": 18,
-				"score": 3.806
+				"score": 3.806,
+				"t_publish_diff": -1844000
 			},
 			{
 				"title": "[GameJam]Vampire in the MirrorLand",
@@ -809,7 +853,8 @@
 				],
 				"rank": 11,
 				"ratings": 13,
-				"score": 3.769
+				"score": 3.769,
+				"t_publish_diff": -22109000
 			},
 			{
 				"title": "The Vampire Night",
@@ -823,7 +868,8 @@
 				],
 				"rank": 12,
 				"ratings": 10,
-				"score": 3.75
+				"score": 3.75,
+				"t_publish_diff": -37208000
 			},
 			{
 				"title": "Blood Drive",
@@ -837,7 +883,8 @@
 				],
 				"rank": 13,
 				"ratings": 14,
-				"score": 3.714
+				"score": 3.714,
+				"t_publish_diff": -474000
 			},
 			{
 				"title": "Allergic Vampire",
@@ -853,7 +900,8 @@
 				],
 				"rank": 14,
 				"ratings": 23,
-				"score": 3.685
+				"score": 3.685,
+				"t_publish_diff": -1815000
 			},
 			{
 				"title": "Vampire Eats",
@@ -867,7 +915,8 @@
 				],
 				"rank": 15,
 				"ratings": 9,
-				"score": 3.667
+				"score": 3.667,
+				"t_publish_diff": -77349000
 			},
 			{
 				"title": "Aleph",
@@ -881,7 +930,8 @@
 				],
 				"rank": 16,
 				"ratings": 16,
-				"score": 3.656
+				"score": 3.656,
+				"t_publish_diff": -977000
 			},
 			{
 				"title": "Vampire Hunter",
@@ -895,7 +945,8 @@
 				],
 				"rank": 17,
 				"ratings": 6,
-				"score": 3.625
+				"score": 3.625,
+				"t_publish_diff": -7640000
 			},
 			{
 				"title": "Blood Warden",
@@ -909,7 +960,8 @@
 				],
 				"rank": 18,
 				"ratings": 34,
-				"score": 3.625
+				"score": 3.625,
+				"t_publish_diff": -109676000
 			},
 			{
 				"title": "Bloody Shooter",
@@ -923,7 +975,8 @@
 				],
 				"rank": 18,
 				"ratings": 12,
-				"score": 3.625
+				"score": 3.625,
+				"t_publish_diff": -25128000
 			},
 			{
 				"title": "Vampire Village Attack",
@@ -937,7 +990,8 @@
 				],
 				"rank": 18,
 				"ratings": 6,
-				"score": 3.625
+				"score": 3.625,
+				"t_publish_diff": 16289000
 			}
 		]
 	},
@@ -961,7 +1015,8 @@
 				],
 				"rank": 1,
 				"ratings": 27,
-				"score": 4.259
+				"score": 4.259,
+				"t_publish_diff": 33512000
 			},
 			{
 				"title": "Haunted Shotgun",
@@ -975,7 +1030,8 @@
 				],
 				"rank": 2,
 				"ratings": 23,
-				"score": 4.207
+				"score": 4.207,
+				"t_publish_diff": -41463000
 			},
 			{
 				"title": "Shotgun Night",
@@ -989,7 +1045,8 @@
 				],
 				"rank": 3,
 				"ratings": 49,
-				"score": 4.158
+				"score": 4.158,
+				"t_publish_diff": -34301000
 			},
 			{
 				"title": "Double-Barreled Doppelgänger",
@@ -1003,7 +1060,8 @@
 				],
 				"rank": 4,
 				"ratings": 16,
-				"score": 4.109
+				"score": 4.109,
+				"t_publish_diff": -17202000
 			},
 			{
 				"title": "Ghost Revenge",
@@ -1017,7 +1075,8 @@
 				],
 				"rank": 5,
 				"ratings": 26,
-				"score": 4.019
+				"score": 4.019,
+				"t_publish_diff": -1045000
 			},
 			{
 				"title": "Possession Session",
@@ -1031,7 +1090,8 @@
 				],
 				"rank": 6,
 				"ratings": 25,
-				"score": 4.01
+				"score": 4.01,
+				"t_publish_diff": -10449000
 			},
 			{
 				"title": "Midnight Frenzy",
@@ -1045,7 +1105,8 @@
 				],
 				"rank": 7,
 				"ratings": 37,
-				"score": 4.007
+				"score": 4.007,
+				"t_publish_diff": -159575000
 			},
 			{
 				"title": "Specter Hunt",
@@ -1059,7 +1120,8 @@
 				],
 				"rank": 8,
 				"ratings": 27,
-				"score": 3.935
+				"score": 3.935,
+				"t_publish_diff": -1670000
 			},
 			{
 				"title": "Salty Ghosts",
@@ -1073,7 +1135,8 @@
 				],
 				"rank": 9,
 				"ratings": 11,
-				"score": 3.909
+				"score": 3.909,
+				"t_publish_diff": -21447000
 			},
 			{
 				"title": "Buck Off!",
@@ -1087,7 +1150,8 @@
 				],
 				"rank": 10,
 				"ratings": 21,
-				"score": 3.869
+				"score": 3.869,
+				"t_publish_diff": -15043000
 			},
 			{
 				"title": "EctoShot",
@@ -1115,7 +1179,8 @@
 				],
 				"rank": 12,
 				"ratings": 22,
-				"score": 3.841
+				"score": 3.841,
+				"t_publish_diff": -2800000
 			},
 			{
 				"title": "Soul Keeper",
@@ -1129,7 +1194,8 @@
 				],
 				"rank": 13,
 				"ratings": 17,
-				"score": 3.838
+				"score": 3.838,
+				"t_publish_diff": -14656000
 			},
 			{
 				"title": "Ghost Catchers",
@@ -1143,7 +1209,8 @@
 				],
 				"rank": 14,
 				"ratings": 23,
-				"score": 3.837
+				"score": 3.837,
+				"t_publish_diff": -15019000
 			},
 			{
 				"title": "SHOTinGUNception",
@@ -1159,7 +1226,8 @@
 				],
 				"rank": 15,
 				"ratings": 34,
-				"score": 3.831
+				"score": 3.831,
+				"t_publish_diff": -43456000
 			},
 			{
 				"title": "ghost hunter",
@@ -1173,7 +1241,8 @@
 				],
 				"rank": 16,
 				"ratings": 10,
-				"score": 3.825
+				"score": 3.825,
+				"t_publish_diff": -46463000
 			},
 			{
 				"title": "All Out Ghost Warfare",
@@ -1187,7 +1256,8 @@
 				],
 				"rank": 17,
 				"ratings": 8,
-				"score": 3.813
+				"score": 3.813,
+				"t_publish_diff": -8975000
 			},
 			{
 				"title": "shotgolf",
@@ -1203,7 +1273,8 @@
 				],
 				"rank": 18,
 				"ratings": 37,
-				"score": 3.804
+				"score": 3.804,
+				"t_publish_diff": -284000
 			},
 			{
 				"title": "John that kills ghosts",
@@ -1217,7 +1288,8 @@
 				],
 				"rank": 19,
 				"ratings": 7,
-				"score": 3.795
+				"score": 3.795,
+				"t_publish_diff": -57681000
 			},
 			{
 				"title": "1BIT Shotgun",
@@ -1231,7 +1303,8 @@
 				],
 				"rank": 20,
 				"ratings": 23,
-				"score": 3.739
+				"score": 3.739,
+				"t_publish_diff": -8886000
 			}
 		]
 	},
@@ -1259,7 +1332,8 @@
 				],
 				"rank": 1,
 				"ratings": 14,
-				"score": 4.554
+				"score": 4.554,
+				"t_publish_diff": -4201000
 			},
 			{
 				"title": "The Gamest Boy",
@@ -1275,7 +1349,8 @@
 				],
 				"rank": 2,
 				"ratings": 8,
-				"score": 4.344
+				"score": 4.344,
+				"t_publish_diff": -6450000
 			},
 			{
 				"title": "Gum Runner",
@@ -1293,7 +1368,8 @@
 				],
 				"rank": 3,
 				"ratings": 13,
-				"score": 4.25
+				"score": 4.25,
+				"t_publish_diff": -21832000
 			},
 			{
 				"title": "Shawawofi*",
@@ -1307,7 +1383,8 @@
 				],
 				"rank": 4,
 				"ratings": 12,
-				"score": 4.208
+				"score": 4.208,
+				"t_publish_diff": -28439000
 			},
 			{
 				"title": "Honey I Shrunk The Beekeeper",
@@ -1321,7 +1398,8 @@
 				],
 				"rank": 5,
 				"ratings": 12,
-				"score": 4.146
+				"score": 4.146,
+				"t_publish_diff": -400000
 			},
 			{
 				"title": "Noodle Arms Pick Pocket",
@@ -1335,7 +1413,8 @@
 				],
 				"rank": 6,
 				"ratings": 7,
-				"score": 4.071
+				"score": 4.071,
+				"t_publish_diff": -25972000
 			},
 			{
 				"title": "Spare The Change",
@@ -1353,7 +1432,8 @@
 				],
 				"rank": 7,
 				"ratings": 11,
-				"score": 3.932
+				"score": 3.932,
+				"t_publish_diff": -1486000
 			},
 			{
 				"title": "Castle Defenders",
@@ -1367,7 +1447,8 @@
 				],
 				"rank": 7,
 				"ratings": 11,
-				"score": 3.932
+				"score": 3.932,
+				"t_publish_diff": -111413000
 			},
 			{
 				"title": "Bomb Buddy",
@@ -1381,7 +1462,8 @@
 				],
 				"rank": 9,
 				"ratings": 21,
-				"score": 3.929
+				"score": 3.929,
+				"t_publish_diff": -28500000
 			},
 			{
 				"title": "Operation: Pocket Sand",
@@ -1395,7 +1477,8 @@
 				],
 				"rank": 10,
 				"ratings": 6,
-				"score": 3.917
+				"score": 3.917,
+				"t_publish_diff": 109068000
 			},
 			{
 				"title": "Nobu",
@@ -1409,7 +1492,8 @@
 				],
 				"rank": 11,
 				"ratings": 11,
-				"score": 3.864
+				"score": 3.864,
+				"t_publish_diff": -43401000
 			},
 			{
 				"title": "Mini Jam #116 : Pocket Sized",
@@ -1423,7 +1507,8 @@
 				],
 				"rank": 12,
 				"ratings": 6,
-				"score": 3.833
+				"score": 3.833,
+				"t_publish_diff": -15298000
 			},
 			{
 				"title": "[GameJam]Tatarun",
@@ -1437,7 +1522,8 @@
 				],
 				"rank": 13,
 				"ratings": 13,
-				"score": 3.827
+				"score": 3.827,
+				"t_publish_diff": -134952000
 			},
 			{
 				"title": "Mini Rogue",
@@ -1451,7 +1537,8 @@
 				],
 				"rank": 14,
 				"ratings": 9,
-				"score": 3.694
+				"score": 3.694,
+				"t_publish_diff": -29208000
 			},
 			{
 				"title": "Dark Tower",
@@ -1465,7 +1552,8 @@
 				],
 				"rank": 15,
 				"ratings": 16,
-				"score": 3.594
+				"score": 3.594,
+				"t_publish_diff": -6204000
 			},
 			{
 				"title": "Mat Wars",
@@ -1483,7 +1571,8 @@
 				],
 				"rank": 16,
 				"ratings": 8,
-				"score": 3.563
+				"score": 3.563,
+				"t_publish_diff": -17184000
 			},
 			{
 				"title": "pocket memory",
@@ -1497,7 +1586,8 @@
 				],
 				"rank": 17,
 				"ratings": 7,
-				"score": 3.5
+				"score": 3.5,
+				"t_publish_diff": -180199000
 			},
 			{
 				"title": "Sherlock Golm's",
@@ -1517,7 +1607,8 @@
 				],
 				"rank": 18,
 				"ratings": 5,
-				"score": 3.423
+				"score": 3.423,
+				"t_publish_diff": -335000
 			},
 			{
 				"title": "Kitten Blocks",
@@ -1531,7 +1622,8 @@
 				],
 				"rank": 19,
 				"ratings": 9,
-				"score": 3.417
+				"score": 3.417,
+				"t_publish_diff": -9504000
 			},
 			{
 				"title": "Carrot Catcher",
@@ -1551,7 +1643,8 @@
 				],
 				"rank": 20,
 				"ratings": 5,
-				"score": 3.378
+				"score": 3.378,
+				"t_publish_diff": -609000
 			}
 		]
 	},
@@ -1575,7 +1668,8 @@
 				],
 				"rank": 1,
 				"ratings": 13,
-				"score": 4.231
+				"score": 4.231,
+				"t_publish_diff": -852000
 			},
 			{
 				"title": "Mayfly PI",
@@ -1593,7 +1687,8 @@
 				],
 				"rank": 2,
 				"ratings": 15,
-				"score": 4.217
+				"score": 4.217,
+				"t_publish_diff": -27000
 			},
 			{
 				"title": "Cube's Journey",
@@ -1607,7 +1702,8 @@
 				],
 				"rank": 3,
 				"ratings": 20,
-				"score": 4.175
+				"score": 4.175,
+				"t_publish_diff": -8776000
 			},
 			{
 				"title": "Dark",
@@ -1621,7 +1717,8 @@
 				],
 				"rank": 4,
 				"ratings": 10,
-				"score": 3.9
+				"score": 3.9,
+				"t_publish_diff": -5321000
 			},
 			{
 				"title": "Like tears in the rain",
@@ -1635,7 +1732,8 @@
 				],
 				"rank": 5,
 				"ratings": 12,
-				"score": 3.854
+				"score": 3.854,
+				"t_publish_diff": -13833000
 			},
 			{
 				"title": "Temp Co and Co",
@@ -1649,7 +1747,8 @@
 				],
 				"rank": 6,
 				"ratings": 10,
-				"score": 3.775
+				"score": 3.775,
+				"t_publish_diff": -129362000
 			},
 			{
 				"title": "Imsomed",
@@ -1665,7 +1764,8 @@
 				],
 				"rank": 7,
 				"ratings": 11,
-				"score": 3.727
+				"score": 3.727,
+				"t_publish_diff": -189000
 			},
 			{
 				"title": "Fade Into Noir",
@@ -1679,7 +1779,8 @@
 				],
 				"rank": 8,
 				"ratings": 15,
-				"score": 3.633
+				"score": 3.633,
+				"t_publish_diff": -456000
 			},
 			{
 				"title": "This Great Beast",
@@ -1695,7 +1796,8 @@
 				],
 				"rank": 9,
 				"ratings": 8,
-				"score": 3.624
+				"score": 3.624,
+				"t_publish_diff": -1349000
 			},
 			{
 				"title": "Detective Horse",
@@ -1709,7 +1811,8 @@
 				],
 				"rank": 10,
 				"ratings": 17,
-				"score": 3.515
+				"score": 3.515,
+				"t_publish_diff": -3208000
 			},
 			{
 				"title": "And the Light Fades out",
@@ -1725,7 +1828,8 @@
 				],
 				"rank": 11,
 				"ratings": 11,
-				"score": 3.455
+				"score": 3.455,
+				"t_publish_diff": -10343000
 			},
 			{
 				"title": "Shoo Ghosties (MiniJam Version)",
@@ -1753,7 +1857,8 @@
 				],
 				"rank": 13,
 				"ratings": 7,
-				"score": 3.307
+				"score": 3.307,
+				"t_publish_diff": -9650000
 			},
 			{
 				"title": "Disappearing Act",
@@ -1767,7 +1872,8 @@
 				],
 				"rank": 14,
 				"ratings": 9,
-				"score": 3.278
+				"score": 3.278,
+				"t_publish_diff": 12525000
 			},
 			{
 				"title": "Noir Jump",
@@ -1795,7 +1901,8 @@
 				],
 				"rank": 16,
 				"ratings": 6,
-				"score": 3.266
+				"score": 3.266,
+				"t_publish_diff": -52075000
 			},
 			{
 				"title": "Cramé, Léon",
@@ -1809,7 +1916,8 @@
 				],
 				"rank": 17,
 				"ratings": 9,
-				"score": 3.222
+				"score": 3.222,
+				"t_publish_diff": 80333000
 			},
 			{
 				"title": "Temp City",
@@ -1823,7 +1931,8 @@
 				],
 				"rank": 18,
 				"ratings": 8,
-				"score": 3.182
+				"score": 3.182,
+				"t_publish_diff": -373000
 			},
 			{
 				"title": "Beat the Stick",
@@ -1837,7 +1946,8 @@
 				],
 				"rank": 19,
 				"ratings": 11,
-				"score": 3.091
+				"score": 3.091,
+				"t_publish_diff": -888000
 			},
 			{
 				"title": "leaf noir (prototype)",
@@ -1857,7 +1967,8 @@
 				],
 				"rank": 20,
 				"ratings": 7,
-				"score": 3.087
+				"score": 3.087,
+				"t_publish_diff": -83000
 			}
 		]
 	},
@@ -1881,7 +1992,8 @@
 				],
 				"rank": 1,
 				"ratings": 12,
-				"score": 3.979
+				"score": 3.979,
+				"t_publish_diff": -17402000
 			},
 			{
 				"title": "SlotMachineDungeon",
@@ -1895,7 +2007,8 @@
 				],
 				"rank": 2,
 				"ratings": 16,
-				"score": 3.922
+				"score": 3.922,
+				"t_publish_diff": -2817000
 			},
 			{
 				"title": "Shogun Killer",
@@ -1909,7 +2022,8 @@
 				],
 				"rank": 3,
 				"ratings": 11,
-				"score": 3.909
+				"score": 3.909,
+				"t_publish_diff": 13008000
 			},
 			{
 				"title": "Stasis",
@@ -1925,7 +2039,8 @@
 				],
 				"rank": 4,
 				"ratings": 16,
-				"score": 3.906
+				"score": 3.906,
+				"t_publish_diff": -89954000
 			},
 			{
 				"title": "That Time I Reincarnated Into A Tree",
@@ -1939,7 +2054,8 @@
 				],
 				"rank": 5,
 				"ratings": 17,
-				"score": 3.897
+				"score": 3.897,
+				"t_publish_diff": -526000
 			},
 			{
 				"title": "Swordlock",
@@ -1975,7 +2091,8 @@
 				],
 				"rank": 7,
 				"ratings": 20,
-				"score": 3.725
+				"score": 3.725,
+				"t_publish_diff": -10915000
 			},
 			{
 				"title": "Innkept",
@@ -1991,7 +2108,8 @@
 				],
 				"rank": 8,
 				"ratings": 13,
-				"score": 3.692
+				"score": 3.692,
+				"t_publish_diff": -13423000
 			},
 			{
 				"title": "That time i got locked in a MINIGAME Collection",
@@ -2005,7 +2123,8 @@
 				],
 				"rank": 9,
 				"ratings": 22,
-				"score": 3.67
+				"score": 3.67,
+				"t_publish_diff": -504000
 			},
 			{
 				"title": "KeyNote",
@@ -2019,7 +2138,8 @@
 				],
 				"rank": 10,
 				"ratings": 10,
-				"score": 3.475
+				"score": 3.475,
+				"t_publish_diff": -232000
 			},
 			{
 				"title": "Soul Locked",
@@ -2033,7 +2153,8 @@
 				],
 				"rank": 11,
 				"ratings": 10,
-				"score": 3.35
+				"score": 3.35,
+				"t_publish_diff": -24790000
 			},
 			{
 				"title": "Midnight Recording Session",
@@ -2049,7 +2170,8 @@
 				],
 				"rank": 12,
 				"ratings": 5,
-				"score": 3.338
+				"score": 3.338,
+				"t_publish_diff": 80346000
 			},
 			{
 				"title": "Lost Souls",
@@ -2063,7 +2185,8 @@
 				],
 				"rank": 13,
 				"ratings": 10,
-				"score": 3.325
+				"score": 3.325,
+				"t_publish_diff": -2627000
 			},
 			{
 				"title": "Earth Savior Super Fighting Robo",
@@ -2091,7 +2214,8 @@
 				],
 				"rank": 15,
 				"ratings": 11,
-				"score": 3.273
+				"score": 3.273,
+				"t_publish_diff": -11698000
 			},
 			{
 				"title": "Spirit Conductor Blue",
@@ -2105,7 +2229,8 @@
 				],
 				"rank": 16,
 				"ratings": 10,
-				"score": 3.225
+				"score": 3.225,
+				"t_publish_diff": -30122000
 			},
 			{
 				"title": "First Battle",
@@ -2119,7 +2244,8 @@
 				],
 				"rank": 17,
 				"ratings": 9,
-				"score": 3.194
+				"score": 3.194,
+				"t_publish_diff": 71094000
 			},
 			{
 				"title": "Slime Attack: Under Attack By Slimes In Another World?!?",
@@ -2133,7 +2259,8 @@
 				],
 				"rank": 18,
 				"ratings": 13,
-				"score": 3.192
+				"score": 3.192,
+				"t_publish_diff": -80065000
 			},
 			{
 				"title": "no escape",
@@ -2149,7 +2276,8 @@
 				],
 				"rank": 19,
 				"ratings": 18,
-				"score": 3.181
+				"score": 3.181,
+				"t_publish_diff": -20148000
 			},
 			{
 				"title": "Dino Spin",
@@ -2163,7 +2291,8 @@
 				],
 				"rank": 20,
 				"ratings": 14,
-				"score": 3.179
+				"score": 3.179,
+				"t_publish_diff": -8791000
 			}
 		]
 	},
@@ -2187,7 +2316,8 @@
 				],
 				"rank": 1,
 				"ratings": 13,
-				"score": 4.481
+				"score": 4.481,
+				"t_publish_diff": 123336000
 			},
 			{
 				"title": "Froggy's Battle - Jam",
@@ -2215,7 +2345,8 @@
 				],
 				"rank": 3,
 				"ratings": 13,
-				"score": 4.269
+				"score": 4.269,
+				"t_publish_diff": -4194000
 			},
 			{
 				"title": "Clockwork Angel",
@@ -2229,7 +2360,8 @@
 				],
 				"rank": 4,
 				"ratings": 14,
-				"score": 4.232
+				"score": 4.232,
+				"t_publish_diff": -23835000
 			},
 			{
 				"title": "The Mighty Mipple",
@@ -2243,7 +2375,8 @@
 				],
 				"rank": 5,
 				"ratings": 6,
-				"score": 4.208
+				"score": 4.208,
+				"t_publish_diff": -193000
 			},
 			{
 				"title": "Combobulate",
@@ -2257,7 +2390,8 @@
 				],
 				"rank": 6,
 				"ratings": 13,
-				"score": 4.173
+				"score": 4.173,
+				"t_publish_diff": -21815000
 			},
 			{
 				"title": "Serpent Blade",
@@ -2279,7 +2413,8 @@
 				],
 				"rank": 7,
 				"ratings": 10,
-				"score": 4.1
+				"score": 4.1,
+				"t_publish_diff": -1629000
 			},
 			{
 				"title": "Paradox",
@@ -2293,7 +2428,8 @@
 				],
 				"rank": 8,
 				"ratings": 15,
-				"score": 3.983
+				"score": 3.983,
+				"t_publish_diff": -5338000
 			},
 			{
 				"title": "Birthday Strike",
@@ -2325,7 +2461,8 @@
 				],
 				"rank": 10,
 				"ratings": 8,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -23029000
 			},
 			{
 				"title": "Mask Of Reality",
@@ -2357,7 +2494,8 @@
 				],
 				"rank": 12,
 				"ratings": 17,
-				"score": 3.853
+				"score": 3.853,
+				"t_publish_diff": -548000
 			},
 			{
 				"title": "Case on the Belmont Express",
@@ -2377,7 +2515,8 @@
 				],
 				"rank": 13,
 				"ratings": 13,
-				"score": 3.769
+				"score": 3.769,
+				"t_publish_diff": 1048000
 			},
 			{
 				"title": "Mechalike",
@@ -2391,7 +2530,8 @@
 				],
 				"rank": 14,
 				"ratings": 8,
-				"score": 3.719
+				"score": 3.719,
+				"t_publish_diff": 4392000
 			},
 			{
 				"title": "Angry Sun",
@@ -2405,7 +2545,8 @@
 				],
 				"rank": 15,
 				"ratings": 5,
-				"score": 3.697
+				"score": 3.697,
+				"t_publish_diff": 5699000
 			},
 			{
 				"title": "Edgeblast",
@@ -2419,7 +2560,8 @@
 				],
 				"rank": 16,
 				"ratings": 22,
-				"score": 3.693
+				"score": 3.693,
+				"t_publish_diff": -35467000
 			},
 			{
 				"title": "STARCAT :: GodStar Slayer",
@@ -2433,7 +2575,8 @@
 				],
 				"rank": 17,
 				"ratings": 15,
-				"score": 3.65
+				"score": 3.65,
+				"t_publish_diff": -1610000
 			},
 			{
 				"title": "Eye Eye Eye!",
@@ -2447,7 +2590,8 @@
 				],
 				"rank": 18,
 				"ratings": 16,
-				"score": 3.641
+				"score": 3.641,
+				"t_publish_diff": -11000
 			},
 			{
 				"title": "Loop Launch",
@@ -2461,7 +2605,8 @@
 				],
 				"rank": 19,
 				"ratings": 9,
-				"score": 3.639
+				"score": 3.639,
+				"t_publish_diff": 535000
 			},
 			{
 				"title": "RADIALOOP",
@@ -2475,7 +2620,8 @@
 				],
 				"rank": 20,
 				"ratings": 11,
-				"score": 3.614
+				"score": 3.614,
+				"t_publish_diff": -18668000
 			}
 		]
 	},
@@ -2499,7 +2645,8 @@
 				],
 				"rank": 1,
 				"ratings": 31,
-				"score": 4.492
+				"score": 4.492,
+				"t_publish_diff": -5589000
 			},
 			{
 				"title": "Chrono Hop",
@@ -2513,7 +2660,8 @@
 				],
 				"rank": 2,
 				"ratings": 11,
-				"score": 4.409
+				"score": 4.409,
+				"t_publish_diff": -23942000
 			},
 			{
 				"title": "RoboQ",
@@ -2533,7 +2681,8 @@
 				],
 				"rank": 3,
 				"ratings": 10,
-				"score": 4.225
+				"score": 4.225,
+				"t_publish_diff": -1295000
 			},
 			{
 				"title": "QWE",
@@ -2547,7 +2696,8 @@
 				],
 				"rank": 4,
 				"ratings": 20,
-				"score": 4.088
+				"score": 4.088,
+				"t_publish_diff": -42962000
 			},
 			{
 				"title": "Knight Time",
@@ -2565,7 +2715,8 @@
 				],
 				"rank": 5,
 				"ratings": 13,
-				"score": 4.077
+				"score": 4.077,
+				"t_publish_diff": -1653000
 			},
 			{
 				"title": "Timewinder",
@@ -2579,7 +2730,8 @@
 				],
 				"rank": 6,
 				"ratings": 11,
-				"score": 4.068
+				"score": 4.068,
+				"t_publish_diff": -30990000
 			},
 			{
 				"title": "Bamboo Roll",
@@ -2593,7 +2745,8 @@
 				],
 				"rank": 7,
 				"ratings": 11,
-				"score": 4.023
+				"score": 4.023,
+				"t_publish_diff": 40835000
 			},
 			{
 				"title": "Pieces of Time",
@@ -2607,7 +2760,8 @@
 				],
 				"rank": 8,
 				"ratings": 13,
-				"score": 4.019
+				"score": 4.019,
+				"t_publish_diff": -1073000
 			},
 			{
 				"title": "Swap Jumper",
@@ -2621,7 +2775,8 @@
 				],
 				"rank": 9,
 				"ratings": 21,
-				"score": 3.976
+				"score": 3.976,
+				"t_publish_diff": -41541000
 			},
 			{
 				"title": "Oracle's Inn",
@@ -2637,7 +2792,8 @@
 				],
 				"rank": 10,
 				"ratings": 19,
-				"score": 3.974
+				"score": 3.974,
+				"t_publish_diff": -5463000
 			},
 			{
 				"title": "Age Muddle",
@@ -2651,7 +2807,8 @@
 				],
 				"rank": 11,
 				"ratings": 18,
-				"score": 3.958
+				"score": 3.958,
+				"t_publish_diff": -1741000
 			},
 			{
 				"title": "Sandwitch Shop",
@@ -2665,7 +2822,8 @@
 				],
 				"rank": 12,
 				"ratings": 10,
-				"score": 3.925
+				"score": 3.925,
+				"t_publish_diff": 10631000
 			},
 			{
 				"title": "Snakelight!",
@@ -2693,7 +2851,8 @@
 				],
 				"rank": 14,
 				"ratings": 10,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -44888000
 			},
 			{
 				"title": "The Counterfeit Watcher",
@@ -2707,7 +2866,8 @@
 				],
 				"rank": 15,
 				"ratings": 11,
-				"score": 3.864
+				"score": 3.864,
+				"t_publish_diff": -25142000
 			},
 			{
 				"title": "Block of Time",
@@ -2721,7 +2881,8 @@
 				],
 				"rank": 16,
 				"ratings": 21,
-				"score": 3.857
+				"score": 3.857,
+				"t_publish_diff": -30032000
 			},
 			{
 				"title": "Maurice's odyssey",
@@ -2739,7 +2900,8 @@
 				],
 				"rank": 17,
 				"ratings": 12,
-				"score": 3.854
+				"score": 3.854,
+				"t_publish_diff": -209000
 			},
 			{
 				"title": "Close call",
@@ -2753,7 +2915,8 @@
 				],
 				"rank": 18,
 				"ratings": 10,
-				"score": 3.8
+				"score": 3.8,
+				"t_publish_diff": -51956000
 			},
 			{
 				"title": "Time Trap Tower",
@@ -2767,7 +2930,8 @@
 				],
 				"rank": 19,
 				"ratings": 12,
-				"score": 3.792
+				"score": 3.792,
+				"t_publish_diff": -243000
 			},
 			{
 				"title": "ChronoShooter",
@@ -2781,7 +2945,8 @@
 				],
 				"rank": 20,
 				"ratings": 11,
-				"score": 3.75
+				"score": 3.75,
+				"t_publish_diff": 34790000
 			}
 		]
 	},
@@ -2805,7 +2970,8 @@
 				],
 				"rank": 1,
 				"ratings": 26,
-				"score": 4.423
+				"score": 4.423,
+				"t_publish_diff": -19654000
 			},
 			{
 				"title": "SATURA",
@@ -2819,7 +2985,8 @@
 				],
 				"rank": 2,
 				"ratings": 16,
-				"score": 4.328
+				"score": 4.328,
+				"t_publish_diff": 152560000
 			},
 			{
 				"title": "The Devil On My Shoulder",
@@ -2833,7 +3000,8 @@
 				],
 				"rank": 3,
 				"ratings": 24,
-				"score": 4.302
+				"score": 4.302,
+				"t_publish_diff": -568000
 			},
 			{
 				"title": "Hall of Palettes",
@@ -2863,7 +3031,8 @@
 				],
 				"rank": 5,
 				"ratings": 13,
-				"score": 4.25
+				"score": 4.25,
+				"t_publish_diff": 1621000
 			},
 			{
 				"title": "Color Collect",
@@ -2877,7 +3046,8 @@
 				],
 				"rank": 6,
 				"ratings": 64,
-				"score": 4.188
+				"score": 4.188,
+				"t_publish_diff": -6664000
 			},
 			{
 				"title": "Timelooper",
@@ -2891,7 +3061,8 @@
 				],
 				"rank": 7,
 				"ratings": 49,
-				"score": 4.163
+				"score": 4.163,
+				"t_publish_diff": -44979000
 			},
 			{
 				"title": "Cursed Walker",
@@ -2907,7 +3078,8 @@
 				],
 				"rank": 8,
 				"ratings": 59,
-				"score": 4.136
+				"score": 4.136,
+				"t_publish_diff": -8742000
 			},
 			{
 				"title": "Not so empty canvas",
@@ -2921,7 +3093,8 @@
 				],
 				"rank": 9,
 				"ratings": 10,
-				"score": 4.125
+				"score": 4.125,
+				"t_publish_diff": -27618000
 			},
 			{
 				"title": "MirrorTap",
@@ -2935,7 +3108,8 @@
 				],
 				"rank": 9,
 				"ratings": 10,
-				"score": 4.125
+				"score": 4.125,
+				"t_publish_diff": 64545000
 			},
 			{
 				"title": "Ghost Colors",
@@ -2949,7 +3123,8 @@
 				],
 				"rank": 11,
 				"ratings": 7,
-				"score": 4.076
+				"score": 4.076,
+				"t_publish_diff": -117430000
 			},
 			{
 				"title": "Curse of The Nekomancer",
@@ -2963,7 +3138,8 @@
 				],
 				"rank": 12,
 				"ratings": 30,
-				"score": 4.075
+				"score": 4.075,
+				"t_publish_diff": -14511000
 			},
 			{
 				"title": "Loose Bits",
@@ -2991,7 +3167,8 @@
 				],
 				"rank": 14,
 				"ratings": 11,
-				"score": 4.068
+				"score": 4.068,
+				"t_publish_diff": -207000
 			},
 			{
 				"title": "SUICIDIUM",
@@ -3007,7 +3184,8 @@
 				],
 				"rank": 14,
 				"ratings": 11,
-				"score": 4.068
+				"score": 4.068,
+				"t_publish_diff": -143060000
 			},
 			{
 				"title": "Spirit Quest",
@@ -3021,7 +3199,8 @@
 				],
 				"rank": 17,
 				"ratings": 8,
-				"score": 4.063
+				"score": 4.063,
+				"t_publish_diff": -208173000
 			},
 			{
 				"title": "Shadow",
@@ -3035,7 +3214,8 @@
 				],
 				"rank": 18,
 				"ratings": 9,
-				"score": 4.056
+				"score": 4.056,
+				"t_publish_diff": -64022000
 			},
 			{
 				"title": "Achromatopsia",
@@ -3053,7 +3233,8 @@
 				],
 				"rank": 19,
 				"ratings": 22,
-				"score": 4.023
+				"score": 4.023,
+				"t_publish_diff": -9058000
 			},
 			{
 				"title": "Memory Color Grid",
@@ -3067,7 +3248,8 @@
 				],
 				"rank": 20,
 				"ratings": 15,
-				"score": 4.017
+				"score": 4.017,
+				"t_publish_diff": -26551000
 			},
 			{
 				"title": "One Pong Man",
@@ -3081,7 +3263,8 @@
 				],
 				"rank": 21,
 				"ratings": 21,
-				"score": 4
+				"score": 4,
+				"t_publish_diff": -700000
 			}
 		]
 	}

@@ -19,7 +19,8 @@
 				],
 				"rank": 1,
 				"ratings": 17,
-				"score": 4.176
+				"score": 4.176,
+				"t_publish_diff": -451000
 			},
 			{
 				"title": "SPLIT",
@@ -33,7 +34,8 @@
 				],
 				"rank": 2,
 				"ratings": 10,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -1361000
 			},
 			{
 				"title": "Special Delivery!",
@@ -61,7 +63,8 @@
 				],
 				"rank": 4,
 				"ratings": 7,
-				"score": 3.608
+				"score": 3.608,
+				"t_publish_diff": -2419000
 			},
 			{
 				"title": "Pawsitive Home",
@@ -91,7 +94,8 @@
 				],
 				"rank": 6,
 				"ratings": 15,
-				"score": 3.6
+				"score": 3.6,
+				"t_publish_diff": -17177000
 			},
 			{
 				"title": "Where's Naldo?",
@@ -105,7 +109,8 @@
 				],
 				"rank": 7,
 				"ratings": 9,
-				"score": 3.583
+				"score": 3.583,
+				"t_publish_diff": -59156000
 			},
 			{
 				"title": "OBSOLESCENCE",
@@ -119,7 +124,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.55
+				"score": 3.55,
+				"t_publish_diff": -6712000
 			},
 			{
 				"title": "Secret of Mage Yob",
@@ -133,7 +139,8 @@
 				],
 				"rank": 9,
 				"ratings": 14,
-				"score": 3.518
+				"score": 3.518,
+				"t_publish_diff": -13887000
 			},
 			{
 				"title": "Viv and Bob",
@@ -161,7 +168,8 @@
 				],
 				"rank": 12,
 				"ratings": 6,
-				"score": 3.356
+				"score": 3.356,
+				"t_publish_diff": -3519000
 			},
 			{
 				"title": "Game Boy: Become Human",
@@ -175,7 +183,8 @@
 				],
 				"rank": 13,
 				"ratings": 9,
-				"score": 3.278
+				"score": 3.278,
+				"t_publish_diff": -31991000
 			},
 			{
 				"title": "Mind Swap",
@@ -217,7 +226,8 @@
 				],
 				"rank": 16,
 				"ratings": 7,
-				"score": 3.174
+				"score": 3.174,
+				"t_publish_diff": -1433000
 			},
 			{
 				"title": "Cosmic Chain",
@@ -231,7 +241,8 @@
 				],
 				"rank": 17,
 				"ratings": 9,
-				"score": 3.167
+				"score": 3.167,
+				"t_publish_diff": -4528000
 			},
 			{
 				"title": "Crabs In Troubles",
@@ -249,7 +260,8 @@
 				],
 				"rank": 18,
 				"ratings": 7,
-				"score": 3.14
+				"score": 3.14,
+				"t_publish_diff": -2820000
 			},
 			{
 				"title": "We All Are Game Boys",
@@ -263,7 +275,8 @@
 				],
 				"rank": 19,
 				"ratings": 12,
-				"score": 2.979
+				"score": 2.979,
+				"t_publish_diff": -15079000
 			},
 			{
 				"title": "The Legend Of Twins",
@@ -277,7 +290,8 @@
 				],
 				"rank": 20,
 				"ratings": 15,
-				"score": 2.967
+				"score": 2.967,
+				"t_publish_diff": -32285000
 			},
 			{
 				"title": "Deep Breath",
@@ -291,7 +305,8 @@
 				],
 				"rank": 21,
 				"ratings": 8,
-				"score": 2.938
+				"score": 2.938,
+				"t_publish_diff": -20816000
 			}
 		]
 	},
@@ -315,7 +330,8 @@
 				],
 				"rank": 1,
 				"ratings": 21,
-				"score": 3.988
+				"score": 3.988,
+				"t_publish_diff": -10481000
 			},
 			{
 				"title": "Ninja Tactics",
@@ -329,7 +345,8 @@
 				],
 				"rank": 2,
 				"ratings": 26,
-				"score": 3.913
+				"score": 3.913,
+				"t_publish_diff": 3716000
 			},
 			{
 				"title": "Sushi Ninja (v1.0.4)",
@@ -343,7 +360,8 @@
 				],
 				"rank": 3,
 				"ratings": 17,
-				"score": 3.882
+				"score": 3.882,
+				"t_publish_diff": -17096000
 			},
 			{
 				"title": "Shafurai",
@@ -357,7 +375,8 @@
 				],
 				"rank": 4,
 				"ratings": 18,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -7015000
 			},
 			{
 				"title": "Super Prowler",
@@ -371,7 +390,8 @@
 				],
 				"rank": 5,
 				"ratings": 9,
-				"score": 3.869
+				"score": 3.869,
+				"t_publish_diff": -3114000
 			},
 			{
 				"title": "NO COMBAT, the red ninja odyssey",
@@ -385,7 +405,8 @@
 				],
 				"rank": 6,
 				"ratings": 12,
-				"score": 3.583
+				"score": 3.583,
+				"t_publish_diff": -110236000
 			},
 			{
 				"title": "Shadow",
@@ -399,7 +420,8 @@
 				],
 				"rank": 7,
 				"ratings": 24,
-				"score": 3.542
+				"score": 3.542,
+				"t_publish_diff": -117547000
 			},
 			{
 				"title": "SHHH! IM TRYING TO SLEEP",
@@ -413,7 +435,8 @@
 				],
 				"rank": 8,
 				"ratings": 13,
-				"score": 3.538
+				"score": 3.538,
+				"t_publish_diff": -53442000
 			},
 			{
 				"title": "Ninja Noire",
@@ -427,7 +450,8 @@
 				],
 				"rank": 9,
 				"ratings": 13,
-				"score": 3.519
+				"score": 3.519,
+				"t_publish_diff": -7677000
 			},
 			{
 				"title": "Super Ninja Game",
@@ -441,7 +465,8 @@
 				],
 				"rank": 10,
 				"ratings": 11,
-				"score": 3.432
+				"score": 3.432,
+				"t_publish_diff": -15671000
 			},
 			{
 				"title": "Flute Ninja",
@@ -457,7 +482,8 @@
 				],
 				"rank": 11,
 				"ratings": 17,
-				"score": 3.397
+				"score": 3.397,
+				"t_publish_diff": -33310000
 			},
 			{
 				"title": "Ronja",
@@ -471,7 +497,8 @@
 				],
 				"rank": 12,
 				"ratings": 14,
-				"score": 3.286
+				"score": 3.286,
+				"t_publish_diff": -21001000
 			},
 			{
 				"title": "Spiked Ninja",
@@ -485,7 +512,8 @@
 				],
 				"rank": 13,
 				"ratings": 17,
-				"score": 3.206
+				"score": 3.206,
+				"t_publish_diff": -22431000
 			},
 			{
 				"title": "Ninji",
@@ -499,7 +527,8 @@
 				],
 				"rank": 14,
 				"ratings": 15,
-				"score": 3.15
+				"score": 3.15,
+				"t_publish_diff": -99448000
 			},
 			{
 				"title": "Ninja Launch",
@@ -527,7 +556,8 @@
 				],
 				"rank": 16,
 				"ratings": 9,
-				"score": 2.789
+				"score": 2.789,
+				"t_publish_diff": -21947000
 			},
 			{
 				"title": "Lights Out Ninja (Mini-Jam-29)",
@@ -541,7 +571,8 @@
 				],
 				"rank": 18,
 				"ratings": 9,
-				"score": 2.638
+				"score": 2.638,
+				"t_publish_diff": -7304000
 			},
 			{
 				"title": "Shuriken Target Practice",
@@ -555,7 +586,8 @@
 				],
 				"rank": 19,
 				"ratings": 11,
-				"score": 2.477
+				"score": 2.477,
+				"t_publish_diff": -13501000
 			},
 			{
 				"title": "Nin Time",
@@ -569,7 +601,8 @@
 				],
 				"rank": 20,
 				"ratings": 10,
-				"score": 2.36
+				"score": 2.36,
+				"t_publish_diff": -116410000
 			},
 			{
 				"title": "Move In Ninja",
@@ -585,7 +618,8 @@
 				],
 				"rank": 21,
 				"ratings": 5,
-				"score": 2.225
+				"score": 2.225,
+				"t_publish_diff": -14686000
 			}
 		]
 	},
@@ -657,7 +691,8 @@
 				],
 				"rank": 4,
 				"ratings": 5,
-				"score": 3.423
+				"score": 3.423,
+				"t_publish_diff": -8781000
 			},
 			{
 				"title": "Dry",
@@ -671,7 +706,8 @@
 				],
 				"rank": 5,
 				"ratings": 18,
-				"score": 3.25
+				"score": 3.25,
+				"t_publish_diff": -73375000
 			},
 			{
 				"title": "Scurvyyy",
@@ -699,7 +735,8 @@
 				],
 				"rank": 5,
 				"ratings": 8,
-				"score": 3.25
+				"score": 3.25,
+				"t_publish_diff": -14393000
 			},
 			{
 				"title": "Airship Pirates",
@@ -713,7 +750,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.2
+				"score": 3.2,
+				"t_publish_diff": -35794000
 			},
 			{
 				"title": "thirsty pirate",
@@ -727,7 +765,8 @@
 				],
 				"rank": 9,
 				"ratings": 12,
-				"score": 3.188
+				"score": 3.188,
+				"t_publish_diff": -214361000
 			},
 			{
 				"title": "Pirate Vs. Deep",
@@ -755,7 +794,8 @@
 				],
 				"rank": 11,
 				"ratings": 9,
-				"score": 3.167
+				"score": 3.167,
+				"t_publish_diff": -28603000
 			},
 			{
 				"title": "Gold Skull",
@@ -769,7 +809,8 @@
 				],
 				"rank": 12,
 				"ratings": 10,
-				"score": 3.025
+				"score": 3.025,
+				"t_publish_diff": -18854000
 			},
 			{
 				"title": "Grand Theft Boaty",
@@ -783,7 +824,8 @@
 				],
 				"rank": 14,
 				"ratings": 6,
-				"score": 2.958
+				"score": 2.958,
+				"t_publish_diff": -67174000
 			},
 			{
 				"title": "FLYING PIRATES",
@@ -797,7 +839,8 @@
 				],
 				"rank": 15,
 				"ratings": 9,
-				"score": 2.917
+				"score": 2.917,
+				"t_publish_diff": -1660000
 			},
 			{
 				"title": "Cpt.Spoky the coin collector",
@@ -811,7 +854,8 @@
 				],
 				"rank": 16,
 				"ratings": 9,
-				"score": 2.889
+				"score": 2.889,
+				"t_publish_diff": -29882000
 			},
 			{
 				"title": "Piracy",
@@ -825,7 +869,8 @@
 				],
 				"rank": 17,
 				"ratings": 6,
-				"score": 2.833
+				"score": 2.833,
+				"t_publish_diff": -50660000
 			},
 			{
 				"title": "Office Mutiny",
@@ -839,7 +884,8 @@
 				],
 				"rank": 18,
 				"ratings": 8,
-				"score": 2.781
+				"score": 2.781,
+				"t_publish_diff": -21577000
 			},
 			{
 				"title": "Unnamed pirate",
@@ -853,7 +899,8 @@
 				],
 				"rank": 19,
 				"ratings": 9,
-				"score": 2.778
+				"score": 2.778,
+				"t_publish_diff": -15208000
 			},
 			{
 				"title": "Super! Pirate! Fight! Club! - Extreme Edition",
@@ -867,7 +914,8 @@
 				],
 				"rank": 20,
 				"ratings": 12,
-				"score": 2.646
+				"score": 2.646,
+				"t_publish_diff": -22532000
 			},
 			{
 				"title": "The Skirmish",
@@ -881,7 +929,8 @@
 				],
 				"rank": 21,
 				"ratings": 6,
-				"score": 2.542
+				"score": 2.542,
+				"t_publish_diff": -25659000
 			}
 		]
 	},
@@ -905,7 +954,8 @@
 				],
 				"rank": 1,
 				"ratings": 11,
-				"score": 3.932
+				"score": 3.932,
+				"t_publish_diff": -485000
 			},
 			{
 				"title": "Jam Stand",
@@ -919,7 +969,8 @@
 				],
 				"rank": 2,
 				"ratings": 8,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -11897000
 			},
 			{
 				"title": "Jammy Party",
@@ -961,7 +1012,8 @@
 				],
 				"rank": 5,
 				"ratings": 6,
-				"score": 3.083
+				"score": 3.083,
+				"t_publish_diff": -47492000
 			},
 			{
 				"title": "A CATastrophic Weekend",
@@ -975,7 +1027,8 @@
 				],
 				"rank": 6,
 				"ratings": 4,
-				"score": 3.005
+				"score": 3.005,
+				"t_publish_diff": -37356000
 			},
 			{
 				"title": "Cakertron 3000",
@@ -989,7 +1042,8 @@
 				],
 				"rank": 7,
 				"ratings": 6,
-				"score": 3
+				"score": 3,
+				"t_publish_diff": -29319000
 			},
 			{
 				"title": "Cake?!",
@@ -1017,7 +1071,8 @@
 				],
 				"rank": 9,
 				"ratings": 8,
-				"score": 2.531
+				"score": 2.531,
+				"t_publish_diff": -111457000
 			},
 			{
 				"title": "Top",
@@ -1031,7 +1086,8 @@
 				],
 				"rank": 10,
 				"ratings": 4,
-				"score": 2.475
+				"score": 2.475,
+				"t_publish_diff": -13173000
 			},
 			{
 				"title": "Cake Catcher",
@@ -1045,7 +1101,8 @@
 				],
 				"rank": 11,
 				"ratings": 6,
-				"score": 2.458
+				"score": 2.458,
+				"t_publish_diff": -12561000
 			},
 			{
 				"title": "Let's Get This Bread",
@@ -1059,7 +1116,8 @@
 				],
 				"rank": 12,
 				"ratings": 9,
-				"score": 2.444
+				"score": 2.444,
+				"t_publish_diff": -26948000
 			},
 			{
 				"title": "Hanabi-tou",
@@ -1073,7 +1131,8 @@
 				],
 				"rank": 13,
 				"ratings": 3,
-				"score": 2.313
+				"score": 2.313,
+				"t_publish_diff": -19270000
 			},
 			{
 				"title": "Triple Jam",
@@ -1087,7 +1146,8 @@
 				],
 				"rank": 14,
 				"ratings": 3,
-				"score": 2.245
+				"score": 2.245,
+				"t_publish_diff": -53179000
 			},
 			{
 				"title": "Get Balloons into The Mini Jam",
@@ -1115,7 +1175,8 @@
 				],
 				"rank": 16,
 				"ratings": 7,
-				"score": 2.143
+				"score": 2.143,
+				"t_publish_diff": -243000
 			},
 			{
 				"title": "Jammed and Loaded!",
@@ -1129,7 +1190,8 @@
 				],
 				"rank": 17,
 				"ratings": 4,
-				"score": 2.121
+				"score": 2.121,
+				"t_publish_diff": -287000
 			},
 			{
 				"title": "Celebrate or Die",
@@ -1143,7 +1205,8 @@
 				],
 				"rank": 19,
 				"ratings": 4,
-				"score": 1.945
+				"score": 1.945,
+				"t_publish_diff": -57036000
 			},
 			{
 				"title": "Mafiaoso",
@@ -1157,7 +1220,8 @@
 				],
 				"rank": 20,
 				"ratings": 2,
-				"score": 1.667
+				"score": 1.667,
+				"t_publish_diff": -41859000
 			},
 			{
 				"title": "The Celebration",
@@ -1209,7 +1273,8 @@
 				],
 				"rank": 2,
 				"ratings": 9,
-				"score": 3.917
+				"score": 3.917,
+				"t_publish_diff": -879000
 			},
 			{
 				"title": "Coughing Up a Storm",
@@ -1223,7 +1288,8 @@
 				],
 				"rank": 3,
 				"ratings": 6,
-				"score": 3.792
+				"score": 3.792,
+				"t_publish_diff": -10650000
 			},
 			{
 				"title": "Stormgen (v1.0.2)",
@@ -1237,7 +1303,8 @@
 				],
 				"rank": 4,
 				"ratings": 11,
-				"score": 3.75
+				"score": 3.75,
+				"t_publish_diff": -5419000
 			},
 			{
 				"title": "Refuge",
@@ -1251,7 +1318,8 @@
 				],
 				"rank": 5,
 				"ratings": 5,
-				"score": 3.743
+				"score": 3.743,
+				"t_publish_diff": -1738000
 			},
 			{
 				"title": "Let's Storm Them",
@@ -1265,7 +1333,8 @@
 				],
 				"rank": 6,
 				"ratings": 12,
-				"score": 3.708
+				"score": 3.708,
+				"t_publish_diff": -8052000
 			},
 			{
 				"title": "GOLFNADO",
@@ -1279,7 +1348,8 @@
 				],
 				"rank": 7,
 				"ratings": 12,
-				"score": 3.583
+				"score": 3.583,
+				"t_publish_diff": -109699000
 			},
 			{
 				"title": "Tempest Breaker",
@@ -1293,7 +1363,8 @@
 				],
 				"rank": 8,
 				"ratings": 6,
-				"score": 3.5
+				"score": 3.5,
+				"t_publish_diff": -36041000
 			},
 			{
 				"title": "Sad Cloud Simulator",
@@ -1307,7 +1378,8 @@
 				],
 				"rank": 9,
 				"ratings": 5,
-				"score": 3.469
+				"score": 3.469,
+				"t_publish_diff": -291000
 			},
 			{
 				"title": "Storms",
@@ -1339,7 +1411,8 @@
 				],
 				"rank": 11,
 				"ratings": 6,
-				"score": 3.333
+				"score": 3.333,
+				"t_publish_diff": 86570000
 			},
 			{
 				"title": "Storm night (at the forest)[INCOMPLETE]",
@@ -1353,7 +1426,8 @@
 				],
 				"rank": 12,
 				"ratings": 7,
-				"score": 3.143
+				"score": 3.143,
+				"t_publish_diff": -29771000
 			},
 			{
 				"title": "Enter the Maelstrom",
@@ -1367,7 +1441,8 @@
 				],
 				"rank": 13,
 				"ratings": 5,
-				"score": 2.876
+				"score": 2.876,
+				"t_publish_diff": -6910000
 			},
 			{
 				"title": "Storm Battle",
@@ -1381,7 +1456,8 @@
 				],
 				"rank": 14,
 				"ratings": 6,
-				"score": 2.542
+				"score": 2.542,
+				"t_publish_diff": -18472000
 			},
 			{
 				"title": "Farm Stormer",
@@ -1395,7 +1471,8 @@
 				],
 				"rank": 15,
 				"ratings": 6,
-				"score": 2.5
+				"score": 2.5,
+				"t_publish_diff": 1869000
 			},
 			{
 				"title": "Storm's Coming",
@@ -1409,7 +1486,8 @@
 				],
 				"rank": 16,
 				"ratings": 7,
-				"score": 2.429
+				"score": 2.429,
+				"t_publish_diff": -3164000
 			},
 			{
 				"title": "The Computer Farmer",
@@ -1423,7 +1501,8 @@
 				],
 				"rank": 17,
 				"ratings": 4,
-				"score": 2.347
+				"score": 2.347,
+				"t_publish_diff": -11142000
 			},
 			{
 				"title": "Monster Storm",
@@ -1437,7 +1516,8 @@
 				],
 				"rank": 18,
 				"ratings": 7,
-				"score": 2.321
+				"score": 2.321,
+				"t_publish_diff": -84479000
 			},
 			{
 				"title": "Mini Jam 26: Storms",
@@ -1451,7 +1531,8 @@
 				],
 				"rank": 19,
 				"ratings": 3,
-				"score": 2.298
+				"score": 2.298,
+				"t_publish_diff": -14556000
 			},
 			{
 				"title": "StormFight",
@@ -1465,7 +1546,8 @@
 				],
 				"rank": 21,
 				"ratings": 7,
-				"score": 1.929
+				"score": 1.929,
+				"t_publish_diff": -13365000
 			}
 		]
 	},
@@ -1491,7 +1573,8 @@
 				],
 				"rank": 1,
 				"ratings": 39,
-				"score": 4.667
+				"score": 4.667,
+				"t_publish_diff": 906000
 			},
 			{
 				"title": "Spirits Within : The Washing Machine?",
@@ -1507,7 +1590,8 @@
 				],
 				"rank": 2,
 				"ratings": 34,
-				"score": 4.294
+				"score": 4.294,
+				"t_publish_diff": -5053000
 			},
 			{
 				"title": "Songs of Change",
@@ -1523,7 +1607,8 @@
 				],
 				"rank": 3,
 				"ratings": 12,
-				"score": 4.125
+				"score": 4.125,
+				"t_publish_diff": -21453000
 			},
 			{
 				"title": "Hauntin' (jam build)",
@@ -1537,7 +1622,8 @@
 				],
 				"rank": 4,
 				"ratings": 10,
-				"score": 4.1
+				"score": 4.1,
+				"t_publish_diff": -2843000
 			},
 			{
 				"title": "Midnight Drive",
@@ -1579,7 +1665,8 @@
 				],
 				"rank": 7,
 				"ratings": 18,
-				"score": 3.611
+				"score": 3.611,
+				"t_publish_diff": -32429000
 			},
 			{
 				"title": "Spirit Rush",
@@ -1595,7 +1682,8 @@
 				],
 				"rank": 8,
 				"ratings": 12,
-				"score": 3.604
+				"score": 3.604,
+				"t_publish_diff": -23386000
 			},
 			{
 				"title": "The Lost Spirits",
@@ -1609,7 +1697,8 @@
 				],
 				"rank": 9,
 				"ratings": 8,
-				"score": 3.5
+				"score": 3.5,
+				"t_publish_diff": -57899000
 			},
 			{
 				"title": "Shrine Reaper",
@@ -1623,7 +1712,8 @@
 				],
 				"rank": 10,
 				"ratings": 14,
-				"score": 3.429
+				"score": 3.429,
+				"t_publish_diff": -133666000
 			},
 			{
 				"title": "Ghost&amp;Whiskey",
@@ -1637,7 +1727,8 @@
 				],
 				"rank": 11,
 				"ratings": 15,
-				"score": 3.417
+				"score": 3.417,
+				"t_publish_diff": -13945000
 			},
 			{
 				"title": "Keys of Heaven",
@@ -1651,7 +1742,8 @@
 				],
 				"rank": 12,
 				"ratings": 7,
-				"score": 3.416
+				"score": 3.416,
+				"t_publish_diff": -32817000
 			},
 			{
 				"title": "Spirit Island",
@@ -1667,7 +1759,8 @@
 				],
 				"rank": 12,
 				"ratings": 7,
-				"score": 3.416
+				"score": 3.416,
+				"t_publish_diff": -3079000
 			},
 			{
 				"title": "A Stair With No Steps",
@@ -1699,7 +1792,8 @@
 				],
 				"rank": 15,
 				"ratings": 6,
-				"score": 3.317
+				"score": 3.317,
+				"t_publish_diff": -93601000
 			},
 			{
 				"title": "Spirit Esper (Game Jam)",
@@ -1713,7 +1807,8 @@
 				],
 				"rank": 16,
 				"ratings": 8,
-				"score": 3.313
+				"score": 3.313,
+				"t_publish_diff": -14778000
 			},
 			{
 				"title": "Spirit Mixer",
@@ -1727,7 +1822,8 @@
 				],
 				"rank": 17,
 				"ratings": 7,
-				"score": 3.312
+				"score": 3.312,
+				"t_publish_diff": 89368000
 			},
 			{
 				"title": "Wicked Manor",
@@ -1741,7 +1837,8 @@
 				],
 				"rank": 18,
 				"ratings": 9,
-				"score": 3.278
+				"score": 3.278,
+				"t_publish_diff": -38894000
 			},
 			{
 				"title": "To The Grave",
@@ -1769,7 +1866,8 @@
 				],
 				"rank": 20,
 				"ratings": 9,
-				"score": 3.083
+				"score": 3.083,
+				"t_publish_diff": -8221000
 			}
 		]
 	},
@@ -1793,7 +1891,8 @@
 				],
 				"rank": 1,
 				"ratings": 14,
-				"score": 4.696
+				"score": 4.696,
+				"t_publish_diff": -12935000
 			},
 			{
 				"title": "TER",
@@ -1821,7 +1920,8 @@
 				],
 				"rank": 3,
 				"ratings": 10,
-				"score": 4.4
+				"score": 4.4,
+				"t_publish_diff": -1707000
 			},
 			{
 				"title": "Moon Flipper",
@@ -1835,7 +1935,8 @@
 				],
 				"rank": 4,
 				"ratings": 11,
-				"score": 4.091
+				"score": 4.091,
+				"t_publish_diff": -1430000
 			},
 			{
 				"title": "SpaceTripp",
@@ -1849,7 +1950,8 @@
 				],
 				"rank": 5,
 				"ratings": 9,
-				"score": 3.944
+				"score": 3.944,
+				"t_publish_diff": -5139000
 			},
 			{
 				"title": "Welcome to the VOID",
@@ -1863,7 +1965,8 @@
 				],
 				"rank": 6,
 				"ratings": 17,
-				"score": 3.882
+				"score": 3.882,
+				"t_publish_diff": -58571000
 			},
 			{
 				"title": "StarCat Mini",
@@ -1891,7 +1994,8 @@
 				],
 				"rank": 8,
 				"ratings": 12,
-				"score": 3.792
+				"score": 3.792,
+				"t_publish_diff": -14524000
 			},
 			{
 				"title": "Earth Attack",
@@ -1937,7 +2041,8 @@
 				],
 				"rank": 11,
 				"ratings": 11,
-				"score": 3.5
+				"score": 3.5,
+				"t_publish_diff": -131000
 			},
 			{
 				"title": "Spaceface's Requiem",
@@ -1951,7 +2056,8 @@
 				],
 				"rank": 12,
 				"ratings": 8,
-				"score": 3.469
+				"score": 3.469,
+				"t_publish_diff": -22181000
 			},
 			{
 				"title": "SpaceGame",
@@ -1965,7 +2071,8 @@
 				],
 				"rank": 13,
 				"ratings": 12,
-				"score": 3.313
+				"score": 3.313,
+				"t_publish_diff": -1073000
 			},
 			{
 				"title": "ASTERONAUT",
@@ -1985,7 +2092,8 @@
 				],
 				"rank": 14,
 				"ratings": 10,
-				"score": 3.225
+				"score": 3.225,
+				"t_publish_diff": -23447000
 			},
 			{
 				"title": "Pretty edgy nerds in space",
@@ -2027,7 +2135,8 @@
 				],
 				"rank": 17,
 				"ratings": 5,
-				"score": 3.103
+				"score": 3.103,
+				"t_publish_diff": -652000
 			},
 			{
 				"title": "Space Jumper",
@@ -2041,7 +2150,8 @@
 				],
 				"rank": 18,
 				"ratings": 11,
-				"score": 3.068
+				"score": 3.068,
+				"t_publish_diff": -25880000
 			},
 			{
 				"title": "Space Leaper",
@@ -2055,7 +2165,8 @@
 				],
 				"rank": 19,
 				"ratings": 8,
-				"score": 3.031
+				"score": 3.031,
+				"t_publish_diff": -53207000
 			},
 			{
 				"title": "RymdEstrad",
@@ -2093,7 +2204,8 @@
 				],
 				"rank": 1,
 				"ratings": 14,
-				"score": 3.554
+				"score": 3.554,
+				"t_publish_diff": -1968000
 			},
 			{
 				"title": "Sushi Time",
@@ -2111,7 +2223,8 @@
 				],
 				"rank": 2,
 				"ratings": 25,
-				"score": 3.47
+				"score": 3.47,
+				"t_publish_diff": -12331000
 			},
 			{
 				"title": "Time Route",
@@ -2127,7 +2240,8 @@
 				],
 				"rank": 3,
 				"ratings": 7,
-				"score": 3.37
+				"score": 3.37,
+				"t_publish_diff": 25857000
 			},
 			{
 				"title": "Seasons of Change",
@@ -2141,7 +2255,8 @@
 				],
 				"rank": 4,
 				"ratings": 9,
-				"score": 3.361
+				"score": 3.361,
+				"t_publish_diff": -482000
 			},
 			{
 				"title": "One Minute to Die",
@@ -2155,7 +2270,8 @@
 				],
 				"rank": 5,
 				"ratings": 15,
-				"score": 3.333
+				"score": 3.333,
+				"t_publish_diff": -29630000
 			},
 			{
 				"title": "time difference",
@@ -2183,7 +2299,8 @@
 				],
 				"rank": 7,
 				"ratings": 14,
-				"score": 3.304
+				"score": 3.304,
+				"t_publish_diff": -56000
 			},
 			{
 				"title": "Through Time and Space",
@@ -2215,7 +2332,8 @@
 				],
 				"rank": 9,
 				"ratings": 10,
-				"score": 3.275
+				"score": 3.275,
+				"t_publish_diff": -5463000
 			},
 			{
 				"title": "A Point In Time",
@@ -2239,7 +2357,8 @@
 				],
 				"rank": 10,
 				"ratings": 11,
-				"score": 3.273
+				"score": 3.273,
+				"t_publish_diff": -3950000
 			},
 			{
 				"title": "Yui's Hourglass",
@@ -2253,7 +2372,8 @@
 				],
 				"rank": 11,
 				"ratings": 13,
-				"score": 3.269
+				"score": 3.269,
+				"t_publish_diff": -1389000
 			},
 			{
 				"title": "The ClockWorker",
@@ -2275,7 +2395,8 @@
 				],
 				"rank": 12,
 				"ratings": 15,
-				"score": 3.267
+				"score": 3.267,
+				"t_publish_diff": -2126000
 			},
 			{
 				"title": "Time Leaper",
@@ -2289,7 +2410,8 @@
 				],
 				"rank": 13,
 				"ratings": 8,
-				"score": 3.241
+				"score": 3.241,
+				"t_publish_diff": -46748000
 			},
 			{
 				"title": "Cozy Time Rail (game jam version)",
@@ -2317,7 +2439,8 @@
 				],
 				"rank": 15,
 				"ratings": 9,
-				"score": 3.167
+				"score": 3.167,
+				"t_publish_diff": -110226000
 			},
 			{
 				"title": "Late for Work",
@@ -2331,7 +2454,8 @@
 				],
 				"rank": 16,
 				"ratings": 13,
-				"score": 2.962
+				"score": 2.962,
+				"t_publish_diff": 38856000
 			},
 			{
 				"title": "Time Got Crazy, it's raining Sheeps",
@@ -2345,7 +2469,8 @@
 				],
 				"rank": 17,
 				"ratings": 12,
-				"score": 2.938
+				"score": 2.938,
+				"t_publish_diff": -6597000
 			},
 			{
 				"title": "100 Steps Forward!",
@@ -2373,7 +2498,8 @@
 				],
 				"rank": 19,
 				"ratings": 7,
-				"score": 2.866
+				"score": 2.866,
+				"t_publish_diff": -16757000
 			},
 			{
 				"title": "Note Fighter",
@@ -2387,7 +2513,8 @@
 				],
 				"rank": 20,
 				"ratings": 14,
-				"score": 2.857
+				"score": 2.857,
+				"t_publish_diff": -17505000
 			}
 		]
 	},
@@ -2413,7 +2540,8 @@
 				],
 				"rank": 1,
 				"ratings": 15,
-				"score": 4.25
+				"score": 4.25,
+				"t_publish_diff": -1473000
 			},
 			{
 				"title": "PepperTown",
@@ -2427,7 +2555,8 @@
 				],
 				"rank": 2,
 				"ratings": 13,
-				"score": 3.827
+				"score": 3.827,
+				"t_publish_diff": -72157000
 			},
 			{
 				"title": "That Time I Tried to Become an Isekai Protagonist",
@@ -2455,7 +2584,8 @@
 				],
 				"rank": 4,
 				"ratings": 8,
-				"score": 3.359
+				"score": 3.359,
+				"t_publish_diff": -20314000
 			},
 			{
 				"title": "Ice Breaker",
@@ -2469,7 +2599,8 @@
 				],
 				"rank": 5,
 				"ratings": 5,
-				"score": 2.944
+				"score": 2.944,
+				"t_publish_diff": -82804000
 			},
 			{
 				"title": "Ring Out",
@@ -2483,7 +2614,8 @@
 				],
 				"rank": 6,
 				"ratings": 9,
-				"score": 2.75
+				"score": 2.75,
+				"t_publish_diff": -10697000
 			},
 			{
 				"title": "Elysian Rings Prototype Version",
@@ -2497,7 +2629,8 @@
 				],
 				"rank": 7,
 				"ratings": 12,
-				"score": 2.667
+				"score": 2.667,
+				"t_publish_diff": -548000
 			},
 			{
 				"title": "Manabu-chan's New School",
@@ -2511,7 +2644,8 @@
 				],
 				"rank": 8,
 				"ratings": 11,
-				"score": 2.432
+				"score": 2.432,
+				"t_publish_diff": -2161000
 			},
 			{
 				"title": "Monster Girl High School!",
@@ -2525,7 +2659,8 @@
 				],
 				"rank": 9,
 				"ratings": 5,
-				"score": 2.199
+				"score": 2.199,
+				"t_publish_diff": -29114000
 			},
 			{
 				"title": "eraticate",
@@ -2539,7 +2674,8 @@
 				],
 				"rank": 10,
 				"ratings": 9,
-				"score": 2.056
+				"score": 2.056,
+				"t_publish_diff": -3319000
 			},
 			{
 				"title": "Super Magical Anime Sisters",
@@ -2553,7 +2689,8 @@
 				],
 				"rank": 11,
 				"ratings": 12,
-				"score": 1.958
+				"score": 1.958,
+				"t_publish_diff": -37456000
 			},
 			{
 				"title": "The SuperNyan",
@@ -2593,7 +2730,8 @@
 				],
 				"rank": 1,
 				"ratings": 13,
-				"score": 3.712
+				"score": 3.712,
+				"t_publish_diff": -89000
 			},
 			{
 				"title": "Too many mouths",
@@ -2607,7 +2745,8 @@
 				],
 				"rank": 2,
 				"ratings": 11,
-				"score": 3.705
+				"score": 3.705,
+				"t_publish_diff": -1096000
 			},
 			{
 				"title": "Hero's Pet",
@@ -2621,7 +2760,8 @@
 				],
 				"rank": 3,
 				"ratings": 9,
-				"score": 3.25
+				"score": 3.25,
+				"t_publish_diff": -1361000
 			},
 			{
 				"title": "Psychedelic Limbo",
@@ -2651,7 +2791,8 @@
 				],
 				"rank": 5,
 				"ratings": 7,
-				"score": 2.679
+				"score": 2.679,
+				"t_publish_diff": -948000
 			},
 			{
 				"title": "Aquaticus (Anti-Hero)",
@@ -2665,7 +2806,8 @@
 				],
 				"rank": 6,
 				"ratings": 9,
-				"score": 2.667
+				"score": 2.667,
+				"t_publish_diff": -1705000
 			},
 			{
 				"title": "Solomon Story",
@@ -2679,7 +2821,8 @@
 				],
 				"rank": 7,
 				"ratings": 4,
-				"score": 2.603
+				"score": 2.603,
+				"t_publish_diff": -5743000
 			},
 			{
 				"title": "You Just Water Flowers, Apparently.",
@@ -2721,7 +2864,8 @@
 				],
 				"rank": 10,
 				"ratings": 5,
-				"score": 2.419
+				"score": 2.419,
+				"t_publish_diff": -34914000
 			},
 			{
 				"title": "Recursed",
@@ -2735,7 +2879,8 @@
 				],
 				"rank": 11,
 				"ratings": 5,
-				"score": 2.1
+				"score": 2.1,
+				"t_publish_diff": -789000
 			},
 			{
 				"title": "Young Squire",
@@ -2749,7 +2894,8 @@
 				],
 				"rank": 12,
 				"ratings": 3,
-				"score": 2.003
+				"score": 2.003,
+				"t_publish_diff": -24855000
 			},
 			{
 				"title": "Code Hero",
@@ -2765,7 +2911,8 @@
 				],
 				"rank": 13,
 				"ratings": 3,
-				"score": 1.532
+				"score": 1.532,
+				"t_publish_diff": -52389000
 			}
 		]
 	}

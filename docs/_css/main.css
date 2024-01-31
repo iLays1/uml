@@ -27,6 +27,7 @@
 }
 
 .early_tag {
+	/* display: none; */
 	background-color: rgb(255, 231, 164);
 }
 

@@ -11,19 +11,22 @@ const WAIT_BETWEEN_HTTPS_GETS      = 6;
 
 const GET_FIRST_MINIJAM_IN_API     = true;
 
-const USE_JAM_LIST_JSON            = true;
+const USE_JAM_LIST_JSON            = false;
 
 const CREATE_JAM_LIST_FILE         = true;
 const CREATE_MAJOR_JAM_FILES       = true;
 const CREATE_MINI_JAM_FILES        = true;
-const CREATE_JAM_RESULT_FILES      = false;
+
+const CREATE_JAM_RESULT_FILES      = true;
 const CREATE_SUBMISSION_TIME_FILES = true;
 
-const MINI_JAM_ID_MAX_CAP =          99999999;
+const MINI_JAM_ID_MAX_CAP          = 47;
 
 const LIST_REWRITE_THESE_FILES = [
-	'https://itch.io/jam/mini-jam-150-magic',
-	'https://itch.io/jam/mini-jam-91-ufo',
+	// 'https://itch.io/jam/mini-jam-150-magic',
+	// 'https://itch.io/jam/mini-jam-91-ufo',
+	// 'https://itch.io/jam/mini-jam-129-poison',
+	// 'https://itch.io/jam/mini-jam-52-summit',
 ];
 
 
@@ -47,7 +50,7 @@ async function main() {
 			}, OUTPUT_JAM_LIST_FOLDER_PATH, 'jam_list.json');
 		}
 
-		if (CREATE_MAJOR_JAM_FILES) {
+		if (CREATE_MAJOR_JAM_FILES && MINI_JAM_ID_MAX_CAP > 10000) {
 			console.log('creating major jam files');
 			for (let i = 0; i < list_major_jam.length; i++) {
 				let file_name = 'major_jam_' + SF.int_to_str(list_major_jam[i].id);
@@ -195,11 +198,19 @@ async function get_mini_jam_list() {
 }
 
 async function get_mini_jam_list_from_json() {
+	let mini_jam_id_max_cap = MINI_JAM_ID_MAX_CAP;
+	if (LIST_REWRITE_THESE_FILES.length != 0) {
+		mini_jam_id_max_cap = 9999999;
+	}
+
 	let list = [];
 	let jam_list_json = await SF.read_json(OUTPUT_JAM_LIST_FOLDER_PATH + 'jam_list.json');
 
 	for (let i = 0; i < jam_list_json.list_mini_jam.length; i++) {
 		let jam = jam_list_json.list_mini_jam[i];
+		if (jam.id > mini_jam_id_max_cap) {
+			continue;
+		}
 		list.push({
 			id: jam.id,
 			jam_name: jam.jam_name,
@@ -213,7 +224,7 @@ async function get_mini_jam_list_from_json() {
 async function https_get(link) {
 	await wait(WAIT_BETWEEN_HTTPS_GETS);
 	return new Promise((resolve) => {
-		https.get(link, function(res) {
+		https.get(link, { timeout: 300000 }, function(res) {
 			let str_data = '';
 
 			if (res.statusCode != 200) {
@@ -240,6 +251,11 @@ async function https_get(link) {
 				resolve(str_data);
 			});
 		}).on('error', function(err) {
+			if (err instanceof AggregateError) {
+				console.log('http get error: aggregate error:' + err.message);
+				console.log(err.errors);
+				return;
+			}
 			console.log('http get error: ' + err);
 		});
 	});
