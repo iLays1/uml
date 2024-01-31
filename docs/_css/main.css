@@ -1,6 +1,9 @@
+:root {
+	--result-w: 900px;
+}
+
 #result {
-	width: 900px;
-	/* width: 825px; */
+	width: var(--result-w);
 }
 
 .major_jam_tag, .late, .early, .time_unknown {
@@ -89,6 +92,10 @@ body {
 * {
 	font-family: sans-serif;
 	color: rgb(37, 37, 37);
+}
+
+.page_links {
+	max-width: var(--result-w);
 }
 
 .page_links > a {
@@ -222,7 +229,6 @@ body {
 	padding-right: 14px;
 }
 
-/* @media only screen and (max-width: 915px) { */
 @media only screen and (max-width: 990px) {
 	#result * {
 		max-width: calc(100vw - 20px);
