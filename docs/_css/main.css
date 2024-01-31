@@ -172,8 +172,8 @@ body {
 
 .jam {
 	display: inline-block;
-	max-width: 175px;
-	min-width: 175px;
+	max-width: 160px;
+	min-width: 160px;
 	padding-right: 14px;
 }
 
@@ -203,8 +203,8 @@ body {
 
 .title {
 	display: inline-block;
-	max-width: 280px;
-	min-width: 280px;
+	max-width: 295px;
+	min-width: 295px;
 	padding-right: 14px;
 }
 

@@ -113,7 +113,7 @@ function html_game_list(game_list) {
 		}
 		let by_list_html = SF.html_tag('span', a_by_list_html, 'class="by_list"', 5, true);
 
-		let a_jam_html = SF.html_tag('a', SF.get_jam_name(game.jam_name, game.jam_id, game.jam_type),
+		let a_jam_html = SF.html_tag('a', SF.get_jam_name(game.jam_name, game.jam_id, game.jam_type, true),
 										'href="' + game.jam_link + '"', 6);
 		let jam_html = SF.html_tag('span', a_jam_html, 'class="jam"', 5, true);
 

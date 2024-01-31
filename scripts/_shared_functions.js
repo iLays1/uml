@@ -134,7 +134,7 @@ function html_nav(up_folder) {
 		</div>`;
 }
 
-function get_jam_name(jam_name, jam_id, jam_type) {
+function get_jam_name(jam_name, jam_id, jam_type, short_name = false) {
 	if (jam_type == 'major_jam') {
 		let colon_pos = jam_name.indexOf(':');
 		if (colon_pos != -1) {
@@ -142,6 +142,9 @@ function get_jam_name(jam_name, jam_id, jam_type) {
 		}
 	}
 
+	if (short_name) {
+		return (jam_type == 'major_jam' ? 'MJ+ ' : 'MJ ') + jam_id + ': ' + jam_name;
+	}
 	return (jam_type == 'major_jam' ? 'Major Jam ' : 'Mini Jam ') + jam_id + ': ' + jam_name;
 }
 
