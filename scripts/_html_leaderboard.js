@@ -86,14 +86,19 @@ function html_game_list(game_list) {
 		if (game.jam_type == 'major_jam') {
 			title_inner_html += SF.html_major_jam_tag();
 		}
+		let title_html = SF.html_tag('span', title_inner_html, 'class="title"', 5, true);
+
+		let time_tag_inner_html = '';
 		if (game.hasOwnProperty('t_publish_diff')) {
 			if (game.t_publish_diff > 0) {
-				title_inner_html += SF.html_late_tag(SF.msec_to_str(game.t_publish_diff));
+				time_tag_inner_html = SF.html_late_tag(SF.msec_to_str(game.t_publish_diff));
 			} else {
-				title_inner_html += SF.html_early_tag(SF.msec_to_str(-game.t_publish_diff));
+				time_tag_inner_html = SF.html_early_tag(SF.msec_to_str(-game.t_publish_diff));
 			}
+		} else {
+			time_tag_inner_html = SF.html_time_unknown_tag();
 		}
-		let title_html = SF.html_tag('span', title_inner_html, 'class="title"', 5, true);
+		let time_tag_html = SF.html_tag('span', time_tag_inner_html, 'class="time_tag"', 5);
 
 		let a_by_list_html = '';
 		for (let j = 0; j < game.by.length; j++) {
@@ -118,8 +123,8 @@ function html_game_list(game_list) {
 
 		let score_html = SF.html_tag('span', game.score, 'class="score"', 5);
 
-		let game_html = SF.html_tag('span', title_html + by_list_html + jam_html + rank_html 
-											+ ratings_html + score_html,
+		let game_html = SF.html_tag('span', title_html + time_tag_html + by_list_html + jam_html 
+											+ rank_html + ratings_html + score_html,
 											'class="game"', 4, true);
 
 		game_list_inner_html += game_html;
@@ -131,10 +136,11 @@ function html_game_list(game_list) {
 function html_table_title_row() {
 	let str_html = '';
 	str_html += SF.html_tag('span', 'Game Title', 'class="title"', 5);
+	str_html += SF.html_tag('span', 'Time', 'class="time_tag"', 5);
 	str_html += SF.html_tag('span', 'By', 'class="by_list"', 5);
 	str_html += SF.html_tag('span', 'Jam', 'class="jam"', 5);
-	str_html += SF.html_tag('span', 'Rank', 'class="rank"', 5);
-	str_html += SF.html_tag('span', 'Ratings', 'class="ratings"', 5);
+	str_html += SF.html_tag('span', 'Rnk', 'class="rank" title="Rank"', 5);
+	str_html += SF.html_tag('span', 'Rts', 'class="ratings" title="Number of ratings"', 5);
 	str_html += SF.html_tag('span', 'Score', 'class="score"', 5);
 	return SF.html_tag('span', str_html, 'class="game"', 4, true);
 }

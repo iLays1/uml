@@ -1,13 +1,22 @@
 #result {
-	width: 825px;
+	width: 900px;
+	/* width: 825px; */
 }
 
-.major_jam_tag, .late_tag, .early_tag {
+.major_jam_tag, .late, .early, .time_unknown {
 	float: right;
 	padding: 2px;
 	border-radius: 2px;
 	font-size: small;
 	margin-left: 7px;
+}
+
+.late, .early, .time_unknown {
+	margin-left: 0px;
+	float: none;
+	display: inline-block;
+	text-align: center;
+	width: 90px;
 }
 
 .major_jam_tag {
@@ -18,21 +27,29 @@
 	content: "Major Jam";
 }
 
-.late_tag {
+.late {
+	
 	background-color: rgb(164, 211, 255);
 }
 
-.late_tag:after {
+.late:after {
 	content: " late";
 }
 
-.early_tag {
-	/* display: none; */
+.early {
 	background-color: rgb(255, 231, 164);
 }
 
-.early_tag:after {
+.early:after {
 	content: " early";
+}
+
+.time_unknown {
+	background-color: rgb(194, 194, 194);
+}
+
+.time_unknown:after {
+	content: "NA";
 }
 
 button {
@@ -132,8 +149,86 @@ body {
 	background-color: rgb(255, 249, 214);
 }
 
-@media only screen and (max-width: 915px) {
-	.major_jam_tag, .late_tag, .early_tag {
+.time_tag {
+	display: inline-block;
+	max-width: 95px;
+	min-width: 95px;
+	padding-right: 14px;
+}
+
+.by_list {
+	display: inline-block;
+	max-width: 150px;
+	min-width: 150px;
+	padding-right: 14px;
+}
+
+.jam {
+	display: inline-block;
+	max-width: 175px;
+	min-width: 175px;
+	padding-right: 14px;
+}
+
+.game {
+	min-width: calc(100% + 2px);
+	padding-left: 3px;
+	border-radius: 2px;
+	transform: translateX(-3px);
+	white-space: nowrap;
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.game > * {
+	vertical-align: top;
+	white-space: normal;
+}
+
+.game:nth-child(even) {
+	background-color: rgb(255, 236, 230);
+}
+
+.game:nth-child(1) {
+	font-weight: bold;
+}
+
+.title {
+	display: inline-block;
+	max-width: 280px;
+	min-width: 280px;
+	padding-right: 14px;
+}
+
+.rank {
+	display: inline-block;
+	max-width: 35px;
+	min-width: 35px;
+	padding-right: 14px;
+}
+
+.ratings {
+	display: inline-block;
+	max-width: 35px;
+	min-width: 35px;
+	padding-right: 14px;
+}
+
+.score {
+	display: inline-block;
+	max-width: 60px;
+	min-width: 60px;
+	padding-right: 14px;
+}
+
+/* @media only screen and (max-width: 915px) { */
+@media only screen and (max-width: 990px) {
+	#result * {
+		max-width: calc(100vw - 20px);
+	}
+
+	.major_jam_tag, .late, .early, .time_unknown {
 		float: none;
 	}
 
@@ -155,5 +250,88 @@ body {
 	.page_links > a {
 		display: inline-block;
 		margin-bottom: 5px;
+	}
+
+	.game_list * {
+		display: inline-block;
+	}
+
+	.game:nth-child(1) {
+		display: none;
+	}
+
+	.game_list {
+		display: block;
+	}
+
+	.game {
+		white-space: normal;
+		border-radius: 0px;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		transform: translateX(-10px);
+	}
+
+	.game * {
+		min-width: auto;
+	}
+
+	.title {
+		display: block;
+		padding-right: 0px;
+		font-weight: bold;
+		margin-bottom: 8px;
+	}
+
+	.by_list {
+		display: block;
+		padding-right: 0px;
+		margin-bottom: 8px;
+	}
+
+	.time_tag {
+		margin-bottom: 6px;
+	}
+
+	.by_list:before {
+		content: 'by ';
+	}
+	
+	.jam {
+		display: block;
+		padding-right: 0px;
+		margin-bottom: 8px;
+	}
+
+	.rank {
+		display: inline-block;
+		padding-right: 0px;
+		margin-right: 20px;
+	}
+
+	.rank:before {
+		content: 'Rank: ';
+	}
+	
+	.ratings {
+		display: inline-block;
+		padding-right: 0px;
+		margin-right: 20px;
+	}
+
+	.ratings:before {
+		content: 'Ratings: ';
+	}
+	
+	.score {
+		display: inline-block;
+		padding-right: 0px;
+		margin-right: 20px;
+	}
+
+	.score::before {
+		content: 'Score: ';
 	}
 }

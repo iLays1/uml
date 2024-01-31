@@ -16,6 +16,7 @@ module.exports = {
 	html_major_jam_tag: html_major_jam_tag,
 	html_late_tag: html_late_tag,
 	html_early_tag: html_early_tag,
+	html_time_unknown_tag: html_time_unknown_tag,
 }
 
 function is_file_exist(path) {
@@ -165,25 +166,25 @@ function msec_to_str(t_msec) {
 
 	let day_str = '';
 	if (t_day != 0) {
-		day_str = t_day + 'd';
+		day_str = t_day + 'd ';
 	}
 
 	let hour_str = '';
 	if (t_day != 0 || t_hour_remains != 0) {
-		hour_str = t_hour_remains + 'h';
+		hour_str = t_hour_remains + 'h ';
 	}
 
 	let min_str = '';
 	if (t_day == 0 && t_min_remains != 0) {
-		min_str = t_min_remains + 'm';
+		min_str = t_min_remains + 'm ';
 	}
 
 	let sec_str = '';
 	if (t_day == 0 && t_hour == 0) {
-		sec_str = t_sec_remains + 's';
+		sec_str = t_sec_remains + 's ';
 	}
 
-	return day_str + ' ' + hour_str + ' ' + min_str + ' ' + sec_str;
+	return day_str + hour_str + min_str + sec_str;
 }
 
 function html_major_jam_tag() {
@@ -191,9 +192,13 @@ function html_major_jam_tag() {
 }
 
 function html_late_tag(str) {
-	return '<span class="late_tag">' + str + '</span>';
+	return '<span class="late">' + str + '</span>';
 }
 
 function html_early_tag(str) {
-	return '<span class="early_tag">' + str + '</span>';
+	return '<span class="early">' + str + '</span>';
+}
+
+function html_time_unknown_tag() {
+	return '<span class="time_unknown"></span>';
 }

@@ -91,10 +91,11 @@ function game_list_first_row(game_list) {
 	game.classList.add('game');
 
 	game.append(span('Title', 'title'));
+	game.append(span('Time', 'time_tag'));
 	game.append(span('By', 'by_list'));
 	game.append(span('Jam', 'jam'));
-	game.append(span('Rank', 'rank'));
-	game.append(span('Ratings', 'ratings'));
+	game.append(span('Rnk', 'rank', 'Rank'));
+	game.append(span('Rts', 'ratings', 'Number of ratings'));
 	game.append(span('Score', 'score'));
 
 	game_list.append(game);
@@ -152,12 +153,15 @@ function game_list(list_game_data) {
 			title.append(span('', 'major_jam_tag'));
 		}
 
+		let time_tag = span('', 'time_tag');
 		if (obj_game.hasOwnProperty('t_publish_diff')) {
 			if (obj_game.t_publish_diff > 0) {
-				title.append(span(msec_to_str(obj_game.t_publish_diff), 'late_tag'));
+				time_tag.append(span(msec_to_str(obj_game.t_publish_diff), 'late'));
 			} else {
-				title.append(span(msec_to_str(-obj_game.t_publish_diff), 'early_tag'));
+				time_tag.append(span(msec_to_str(-obj_game.t_publish_diff), 'early'));
 			}
+		} else {
+			time_tag.append(span('', 'time_unknown'));
 		}
 
 		let by_list = document.createElement('span');
@@ -186,6 +190,7 @@ function game_list(list_game_data) {
 		let score = span(obj_game.score, 'score');
 
 		game.append(title);
+		game.append(time_tag);
 		game.append(by_list);
 		game.append(jam);
 		game.append(rank);
@@ -198,9 +203,10 @@ function game_list(list_game_data) {
 	result_div.append(game_list);
 }
 
-function span(append, class_name) {
+function span(append, class_name, title = '') {
 	let span = document.createElement('span');
 	span.classList.add(class_name);
+	span.title = title;
 	span.append(append);
 	return span;
 }
@@ -286,7 +292,7 @@ function get_jam_name(jam_name, jam_id, jam_type) {
 		}
 	}
 
-	return (jam_type == 'major_jam' ? 'Major Jam ' : 'Mini Jam ') + jam_id + ': ' + jam_name;
+	return (jam_type == 'major_jam' ? 'MJ+ ' : 'MJ ') + jam_id + ': ' + jam_name;
 }
 
 function msec_to_str(t_msec) {
@@ -302,23 +308,23 @@ function msec_to_str(t_msec) {
 
 	let day_str = '';
 	if (t_day != 0) {
-		day_str = t_day + 'd';
+		day_str = t_day + 'd ';
 	}
 
 	let hour_str = '';
 	if (t_day != 0 || t_hour_remains != 0) {
-		hour_str = t_hour_remains + 'h';
+		hour_str = t_hour_remains + 'h ';
 	}
 
 	let min_str = '';
 	if (t_day == 0 && t_min_remains != 0) {
-		min_str = t_min_remains + 'm';
+		min_str = t_min_remains + 'm ';
 	}
 
 	let sec_str = '';
 	if (t_day == 0 && t_hour == 0) {
-		sec_str = t_sec_remains + 's';
+		sec_str = t_sec_remains + 's ';
 	}
 
-	return day_str + ' ' + hour_str + ' ' + min_str + ' ' + sec_str;
+	return day_str + hour_str + min_str + sec_str;
 }
