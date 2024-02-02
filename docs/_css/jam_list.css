@@ -22,3 +22,15 @@
 	max-width: 300px;
 	min-width: 300px;
 }
+
+@media only screen and (max-width: 990px) {
+	.num_of_game, .num_of_jammer, .num_of_new_jammer {
+		display: block;
+		margin-left: 0px;
+		margin-bottom: 5px;
+	}
+
+	.rank {
+		display: none;
+	}
+}
