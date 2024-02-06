@@ -7,9 +7,9 @@ const OUTPUT_MAJOR_JAM_FOLDER_PATH = './scrapped_files/major_jam/';
 const OUTPUT_MINI_JAM_FOLDER_PATH = './scrapped_files/mini_jam/';
 
 
-const WAIT_BETWEEN_HTTPS_GETS      = 6;
+const WAIT_BETWEEN_HTTPS_GETS      = 1;
 
-const GET_FIRST_MINIJAM_IN_API     = true;
+const GET_FIRST_MINIJAM_IN_API     = false;
 
 const USE_JAM_LIST_JSON            = false;
 
@@ -20,7 +20,7 @@ const CREATE_MINI_JAM_FILES        = true;
 const CREATE_JAM_RESULT_FILES      = true;
 const CREATE_SUBMISSION_TIME_FILES = true;
 
-const MINI_JAM_ID_MAX_CAP          = 47;
+const MINI_JAM_ID_MAX_CAP          = 99999999;
 
 const LIST_REWRITE_THESE_FILES = [
 	// 'https://itch.io/jam/mini-jam-150-magic',
@@ -224,7 +224,7 @@ async function get_mini_jam_list_from_json() {
 async function https_get(link) {
 	await wait(WAIT_BETWEEN_HTTPS_GETS);
 	return new Promise((resolve) => {
-		https.get(link, { timeout: 300000 }, function(res) {
+		https.get(link, { timeout: 0 }, async function(res) {
 			let str_data = '';
 
 			if (res.statusCode != 200) {
@@ -241,6 +241,9 @@ async function https_get(link) {
 					link: link,
 					raw_headers: res.rawHeaders,
 				});
+				console.log('retrying')
+				resolve(await https_get(link));
+				return;
 			}
 
 			res.setEncoding('utf8');
@@ -250,13 +253,16 @@ async function https_get(link) {
 			res.on('end', function() {
 				resolve(str_data);
 			});
-		}).on('error', function(err) {
+		}).on('error', async function(err) {
 			if (err instanceof AggregateError) {
 				console.log('http get error: aggregate error:' + err.message);
 				console.log(err.errors);
 				return;
 			}
 			console.log('http get error: ' + err);
+			console.log('retrying');
+			resolve(await https_get(link));
+			return;
 		});
 	});
 }

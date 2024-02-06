@@ -1,30 +1,5 @@
 [
 	{
-		"jammer": "Dinysaw",
-		"jammer_link": "https://dinysaw.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Spider Feeder",
-				"title_link": "https://dinysaw.itch.io/spider-feeder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1864590",
-				"by": [
-					"Dinysaw"
-				],
-				"by_link": [
-					"https://dinysaw.itch.io/"
-				],
-				"rank": 174,
-				"ratings": 4,
-				"score": 1.739,
-				"t_publish_diff": -172475000
-			}
-		]
-	},
-	{
 		"jammer": "TannYuld",
 		"jammer_link": "https://tannyuld.itch.io/",
 		"list_game_sorted": [
@@ -3103,6 +3078,31 @@
 				"ratings": 6,
 				"score": 2.43,
 				"t_publish_diff": -34621000
+			}
+		]
+	},
+	{
+		"jammer": "Marinos33",
+		"jammer_link": "https://marinos33.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"title": "A hot escape",
+				"title_link": "https://marinos33.itch.io/a-hot-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888535",
+				"by": [
+					"Marinos33"
+				],
+				"by_link": [
+					"https://marinos33.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 6,
+				"score": 2.392,
+				"t_publish_diff": -62938000
 			}
 		]
 	}

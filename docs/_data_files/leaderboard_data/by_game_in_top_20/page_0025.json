@@ -1,5 +1,30 @@
 [
 	{
+		"jammer": "WalGallen",
+		"jammer_link": "https://walgallen.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"title": "KOTOMASHO: I Can't Believe This NEET Guy Turned Into a Magical Girl!",
+				"title_link": "https://walgallen.itch.io/kotomasho",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511419",
+				"by": [
+					"WalGallen"
+				],
+				"by_link": [
+					"https://walgallen.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 41,
+				"score": 3.64,
+				"t_publish_diff": -1835000
+			}
+		]
+	},
+	{
 		"jammer": "bloomtoy",
 		"jammer_link": "https://bloomtoy.itch.io/",
 		"list_game_sorted": [
@@ -2537,41 +2562,6 @@
 	{
 		"jammer": "curelapse",
 		"jammer_link": "https://curelapse.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"title": "Succu-Bus",
-				"title_link": "https://gwelkind.itch.io/succu-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593069",
-				"by": [
-					"Gwelkind",
-					"saucysaja",
-					"curelapse",
-					"Aedric",
-					"tetracup",
-					"Xazzy"
-				],
-				"by_link": [
-					"https://gwelkind.itch.io/",
-					"https://saucysaja.itch.io/",
-					"https://curelapse.itch.io/",
-					"https://aedric.itch.io/",
-					"https://tetracup.itch.io/",
-					"https://xazzy.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 24,
-				"score": 3.771,
-				"t_publish_diff": 85337000
-			}
-		]
-	},
-	{
-		"jammer": "Aedric",
-		"jammer_link": "https://aedric.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

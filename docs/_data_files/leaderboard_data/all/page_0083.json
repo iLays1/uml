@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "Marynator",
-		"jammer_link": "https://marynator.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"title": "Our last day",
-				"title_link": "https://lucaszilke.itch.io/our-last-day",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831407",
-				"by": [
-					"lucaszilke",
-					"devindecibel",
-					"Marynator",
-					"Jey"
-				],
-				"by_link": [
-					"https://lucaszilke.itch.io/",
-					"https://devindecibel.itch.io/",
-					"https://marynator.itch.io/",
-					"https://missjeyjones.itch.io/"
-				],
-				"rank": 86,
-				"ratings": 8,
-				"score": 2.208,
-				"t_publish_diff": -9046000
-			}
-		]
-	},
-	{
 		"jammer": "Jey",
 		"jammer_link": "https://missjeyjones.itch.io/",
 		"list_game_sorted": [
@@ -1897,8 +1866,8 @@
 		]
 	},
 	{
-		"jammer": "Kirill-Blip",
-		"jammer_link": "https://kirill-blip.itch.io/",
+		"jammer": "Rogalikk Games",
+		"jammer_link": "https://rogalikk-games.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1906,17 +1875,18 @@
 				"jam_name": "Intermission",
 				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
 				"title": "Robots&amp;Planet",
-				"title_link": "https://kirill-blip.itch.io/robotsandplanet",
+				"title_link": "https://rogalikk-games.itch.io/robotsandplanet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851226",
 				"by": [
-					"Kirill-Blip"
+					"Rogalikk Games"
 				],
 				"by_link": [
-					"https://kirill-blip.itch.io/"
+					"https://rogalikk-games.itch.io/"
 				],
 				"rank": 37,
 				"ratings": 4,
-				"score": 1.843
+				"score": 1.843,
+				"t_publish_diff": -51708000
 			}
 		]
 	},
@@ -3010,8 +2980,8 @@
 		]
 	},
 	{
-		"jammer": "TechPingui",
-		"jammer_link": "https://techpingui.itch.io/",
+		"jammer": "PIXALITY",
+		"jammer_link": "https://pixality-official.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3019,17 +2989,18 @@
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
 				"title": "Sigbot",
-				"title_link": "https://techpingui.itch.io/sigbot",
+				"title_link": "https://pixality-official.itch.io/sigbot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1910737",
 				"by": [
-					"TechPingui"
+					"PIXALITY"
 				],
 				"by_link": [
-					"https://techpingui.itch.io/"
+					"https://pixality-official.itch.io/"
 				],
 				"rank": 31,
 				"ratings": 10,
-				"score": 2.95
+				"score": 2.95,
+				"t_publish_diff": -42328000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3037,17 +3008,18 @@
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
 				"title": "Robocrak",
-				"title_link": "https://techpingui.itch.io/robocrak",
+				"title_link": "https://pixality-official.itch.io/robocrak",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868026",
 				"by": [
-					"TechPingui"
+					"PIXALITY"
 				],
 				"by_link": [
-					"https://techpingui.itch.io/"
+					"https://pixality-official.itch.io/"
 				],
 				"rank": 34,
 				"ratings": 10,
-				"score": 3.5
+				"score": 3.5,
+				"t_publish_diff": -41247000
 			}
 		]
 	},
@@ -3335,6 +3307,30 @@
 				"ratings": 16,
 				"score": 3.453,
 				"t_publish_diff": -34584000
+			}
+		]
+	},
+	{
+		"jammer": "pro_grammeur",
+		"jammer_link": "https://pro-grammeur.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Spider cave",
+				"title_link": "https://pro-grammeur.itch.io/spider-cave",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869302",
+				"by": [
+					"pro_grammeur"
+				],
+				"by_link": [
+					"https://pro-grammeur.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 21,
+				"score": 3.452
 			}
 		]
 	}

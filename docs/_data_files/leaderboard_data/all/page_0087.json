@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "perplexgg",
-		"jammer_link": "https://perplexgg.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"title": "Bubbly Tim's Time Bubble Trouble",
-				"title_link": "https://perplexgg.itch.io/bubbly-tims-time-bubble-trouble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935108",
-				"by": [
-					"perplexgg",
-					"fdkubba"
-				],
-				"by_link": [
-					"https://perplexgg.itch.io/",
-					"https://fdkubba.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 15,
-				"score": 3.117,
-				"t_publish_diff": -95000
-			}
-		]
-	},
-	{
 		"jammer": "fdkubba",
 		"jammer_link": "https://fdkubba.itch.io/",
 		"list_game_sorted": [
@@ -3368,6 +3341,50 @@
 				"ratings": 6,
 				"score": 2.614,
 				"t_publish_diff": 787000
+			}
+		]
+	},
+	{
+		"jammer": "ExpCake",
+		"jammer_link": "https://expcake.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"title": "Mush Ants",
+				"title_link": "https://expcake.itch.io/mush-ants",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999949",
+				"by": [
+					"ExpCake"
+				],
+				"by_link": [
+					"https://expcake.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 4,
+				"score": 2.033,
+				"t_publish_diff": -8092000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"title": "Meld",
+				"title_link": "https://expcake.itch.io/meld",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956629",
+				"by": [
+					"ExpCake"
+				],
+				"by_link": [
+					"https://expcake.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 8,
+				"score": 2.599,
+				"t_publish_diff": -1961000
 			}
 		]
 	}

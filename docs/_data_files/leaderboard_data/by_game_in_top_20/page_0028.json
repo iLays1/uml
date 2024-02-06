@@ -1,5 +1,30 @@
 [
 	{
+		"jammer": "Luis Lasbelin",
+		"jammer_link": "https://luislasbelin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 15,
+				"jam_name": "Technology",
+				"jam_link": "https://itch.io/jam/mini-jam-15-technology",
+				"title": "The Not-Very-Useful Machine",
+				"title_link": "https://luislasbelin.itch.io/the-not-very-useful-machine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-15-technology/rate/332233",
+				"by": [
+					"Luis Lasbelin"
+				],
+				"by_link": [
+					"https://luislasbelin.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 13,
+				"score": 2.404,
+				"t_publish_diff": -39462000
+			}
+		]
+	},
+	{
 		"jammer": "FiblitDoesStuff",
 		"jammer_link": "https://fiblitdoesstuff.itch.io/",
 		"list_game_sorted": [

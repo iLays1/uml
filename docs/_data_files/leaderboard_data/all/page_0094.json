@@ -1,55 +1,5 @@
 [
 	{
-		"jammer": "Fooples",
-		"jammer_link": "https://fooples.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"title": "Island Hopper",
-				"title_link": "https://fooples.itch.io/island-hopper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113597",
-				"by": [
-					"Fooples"
-				],
-				"by_link": [
-					"https://fooples.itch.io/"
-				],
-				"rank": 73,
-				"ratings": 8,
-				"score": 2.711,
-				"t_publish_diff": -23789000
-			}
-		]
-	},
-	{
-		"jammer": "NawwaBe",
-		"jammer_link": "https://nawwabe.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"title": "Unfortunately I got lost",
-				"title_link": "https://nawwabe.itch.io/unfortunately-i-got-lost",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113959",
-				"by": [
-					"NawwaBe"
-				],
-				"by_link": [
-					"https://nawwabe.itch.io/"
-				],
-				"rank": 75,
-				"ratings": 10,
-				"score": 2.6,
-				"t_publish_diff": -2280000
-			}
-		]
-	},
-	{
 		"jammer": "dustdfg",
 		"jammer_link": "https://dustdfg.itch.io/",
 		"list_game_sorted": [
@@ -516,8 +466,8 @@
 		]
 	},
 	{
-		"jammer": "Eternal Echo Studios",
-		"jammer_link": "https://eternal-echo-studios.itch.io/",
+		"jammer": "FazzyDev(●'◡'●)",
+		"jammer_link": "https://fazzydev.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -525,13 +475,13 @@
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
 				"title": "Summer Island",
-				"title_link": "https://eternal-echo-studios.itch.io/summer-island",
+				"title_link": "https://fazzydev.itch.io/summer-island",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2111849",
 				"by": [
-					"Eternal Echo Studios"
+					"FazzyDev(●'◡'●)"
 				],
 				"by_link": [
-					"https://eternal-echo-studios.itch.io/"
+					"https://fazzydev.itch.io/"
 				],
 				"rank": 84,
 				"ratings": 4,
@@ -2837,6 +2787,60 @@
 				"ratings": 9,
 				"score": 2.654,
 				"t_publish_diff": -422000
+			}
+		]
+	},
+	{
+		"jammer": "anarchiccoffee",
+		"jammer_link": "https://anarchiccoffee.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "GeonHome",
+				"title_link": "https://funtul.itch.io/muratik",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2156495",
+				"by": [
+					"FUNTUL",
+					"yaffi",
+					"anarchiccoffee"
+				],
+				"by_link": [
+					"https://funtul.itch.io/",
+					"https://yaffi.itch.io/",
+					"https://anarchiccoffee.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 9,
+				"score": 2.654,
+				"t_publish_diff": -422000
+			}
+		]
+	},
+	{
+		"jammer": "Layrex",
+		"jammer_link": "https://layrexs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "Self-Development",
+				"title_link": "https://layrexs.itch.io/self-development",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2154819",
+				"by": [
+					"Layrex"
+				],
+				"by_link": [
+					"https://layrexs.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 8,
+				"score": 2.632,
+				"t_publish_diff": -141504000
 			}
 		]
 	}

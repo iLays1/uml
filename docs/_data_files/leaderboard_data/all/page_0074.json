@@ -1,30 +1,5 @@
 [
 	{
-		"jammer": "Lyssillic",
-		"jammer_link": "https://lyssillic.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"title": "Paint by Time",
-				"title_link": "https://lyssillic.itch.io/paint-by-time",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634767",
-				"by": [
-					"Lyssillic"
-				],
-				"by_link": [
-					"https://lyssillic.itch.io/"
-				],
-				"rank": 278,
-				"ratings": 5,
-				"score": 2.174,
-				"t_publish_diff": -6152000
-			}
-		]
-	},
-	{
 		"jammer": "Ataxion",
 		"jammer_link": "https://ataxion.itch.io/",
 		"list_game_sorted": [
@@ -2324,7 +2299,7 @@
 				],
 				"by_link": [
 					"https://pneumavoid.itch.io/",
-					"https://winglessduck.itch.io/"
+					"https://marcherin.itch.io/"
 				],
 				"rank": 360,
 				"ratings": 1,
@@ -2335,7 +2310,7 @@
 	},
 	{
 		"jammer": "marcherin",
-		"jammer_link": "https://winglessduck.itch.io/",
+		"jammer_link": "https://marcherin.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2351,7 +2326,7 @@
 				],
 				"by_link": [
 					"https://pneumavoid.itch.io/",
-					"https://winglessduck.itch.io/"
+					"https://marcherin.itch.io/"
 				],
 				"rank": 360,
 				"ratings": 1,
@@ -3068,6 +3043,31 @@
 				"ratings": 2,
 				"score": 1.063,
 				"t_publish_diff": -132940000
+			}
+		]
+	},
+	{
+		"jammer": "LordCrablord",
+		"jammer_link": "https://lordcrablord.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"title": "Color Reaper",
+				"title_link": "https://lordcrablord.itch.io/color-reaper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633297",
+				"by": [
+					"LordCrablord"
+				],
+				"by_link": [
+					"https://lordcrablord.itch.io/"
+				],
+				"rank": 387,
+				"ratings": 2,
+				"score": 1.063,
+				"t_publish_diff": -102031000
 			}
 		]
 	}

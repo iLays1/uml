@@ -1,51 +1,5 @@
 [
 	{
-		"jammer": "Bernique",
-		"jammer_link": "https://bernique.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"title": "Close call",
-				"title_link": "https://bernique.itch.io/close-call",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1652357",
-				"by": [
-					"Bernique"
-				],
-				"by_link": [
-					"https://bernique.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 10,
-				"score": 3.8,
-				"t_publish_diff": -51956000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"title": "Hell Feast",
-				"title_link": "https://bernique.itch.io/hell-feast",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608911",
-				"by": [
-					"Bernique",
-					"JhimJhim"
-				],
-				"by_link": [
-					"https://bernique.itch.io/",
-					"https://jhimjhim.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 13,
-				"score": 3.269,
-				"t_publish_diff": -30462000
-			}
-		]
-	},
-	{
 		"jammer": "JhimJhim",
 		"jammer_link": "https://jhimjhim.itch.io/",
 		"list_game_sorted": [
@@ -3045,6 +2999,35 @@
 	{
 		"jammer": "UhGoomba",
 		"jammer_link": "https://uhgoomba.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"title": "Nayra's Cave",
+				"title_link": "https://uhgoomba.itch.io/nyras-cave",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609708",
+				"by": [
+					"UhGoomba",
+					"ThePoisonDartFrog",
+					"ApolloPlease36"
+				],
+				"by_link": [
+					"https://uhgoomba.itch.io/",
+					"https://thepoisondartfrog.itch.io/",
+					"https://apolloplease36.itch.io/"
+				],
+				"rank": 180,
+				"ratings": 2,
+				"score": 1.67,
+				"t_publish_diff": 6291000
+			}
+		]
+	},
+	{
+		"jammer": "ThePoisonDartFrog",
+		"jammer_link": "https://thepoisondartfrog.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

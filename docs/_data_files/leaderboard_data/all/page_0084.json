@@ -1,29 +1,5 @@
 [
 	{
-		"jammer": "pro_grammeur",
-		"jammer_link": "https://pro-grammeur.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Spider cave",
-				"title_link": "https://pro-grammeur.itch.io/spider-cave",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869302",
-				"by": [
-					"pro_grammeur"
-				],
-				"by_link": [
-					"https://pro-grammeur.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 21,
-				"score": 3.452
-			}
-		]
-	},
-	{
 		"jammer": "JoeyTheHorrible",
 		"jammer_link": "https://joeythehorrible.itch.io/",
 		"list_game_sorted": [
@@ -3206,6 +3182,31 @@
 				"ratings": 8,
 				"score": 1.761,
 				"t_publish_diff": -2001000
+			}
+		]
+	},
+	{
+		"jammer": "Dinysaw",
+		"jammer_link": "https://dinysaw.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Spider Feeder",
+				"title_link": "https://dinysaw.itch.io/spider-feeder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1864590",
+				"by": [
+					"Dinysaw"
+				],
+				"by_link": [
+					"https://dinysaw.itch.io/"
+				],
+				"rank": 174,
+				"ratings": 4,
+				"score": 1.739,
+				"t_publish_diff": -172475000
 			}
 		]
 	}

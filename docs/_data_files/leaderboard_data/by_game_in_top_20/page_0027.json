@@ -1,5 +1,29 @@
 [
 	{
+		"jammer": "salube",
+		"jammer_link": "https://salube.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "13. Friday",
+				"title_link": "https://salube.itch.io/13-friday",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444943",
+				"by": [
+					"salube"
+				],
+				"by_link": [
+					"https://salube.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 4,
+				"score": 1.37
+			}
+		]
+	},
+	{
 		"jammer": "Porkite",
 		"jammer_link": "https://porkite.itch.io/",
 		"list_game_sorted": [
@@ -2623,31 +2647,6 @@
 				"ratings": 4,
 				"score": 2.46,
 				"t_publish_diff": -20416000
-			}
-		]
-	},
-	{
-		"jammer": "Luis Lasbelin",
-		"jammer_link": "https://luislasbelin.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 15,
-				"jam_name": "Technology",
-				"jam_link": "https://itch.io/jam/mini-jam-15-technology",
-				"title": "The Not-Very-Useful Machine",
-				"title_link": "https://luislasbelin.itch.io/the-not-very-useful-machine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-15-technology/rate/332233",
-				"by": [
-					"Luis Lasbelin"
-				],
-				"by_link": [
-					"https://luislasbelin.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 13,
-				"score": 2.404,
-				"t_publish_diff": -39462000
 			}
 		]
 	}

@@ -1,56 +1,5 @@
 [
 	{
-		"jammer": "20083540",
-		"jammer_link": "https://20083540.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 131,
-				"jam_name": "Solar",
-				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"title": "Solar Soldier",
-				"title_link": "https://20083540.itch.io/solar-soldier",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045752",
-				"by": [
-					"20083540",
-					"olivalu"
-				],
-				"by_link": [
-					"https://20083540.itch.io/",
-					"https://olivalu.itch.io/"
-				],
-				"rank": 51,
-				"ratings": 6,
-				"score": 1.531,
-				"t_publish_diff": 3284000
-			}
-		]
-	},
-	{
-		"jammer": "BasementStudios",
-		"jammer_link": "https://basementstudios.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 131,
-				"jam_name": "Solar",
-				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"title": "Solar Drift",
-				"title_link": "https://basementstudios.itch.io/solar-drift",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045498",
-				"by": [
-					"BasementStudios"
-				],
-				"by_link": [
-					"https://basementstudios.itch.io/"
-				],
-				"rank": 52,
-				"ratings": 5,
-				"score": 1.528
-			}
-		]
-	},
-	{
 		"jammer": "jalnyr",
 		"jammer_link": "https://jalnyr.itch.io/",
 		"list_game_sorted": [
@@ -1044,8 +993,7 @@
 				],
 				"rank": 56,
 				"ratings": 1,
-				"score": 1.021,
-				"t_publish_diff": -21931000
+				"score": 1.021
 			}
 		]
 	},
@@ -1160,8 +1108,8 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"title": "Starpuffs",
-				"title_link": "https://cedar-street.itch.io/starpuffs",
+				"title": "Starpuffs (Alpha Version)",
+				"title_link": "https://cedar-street.itch.io/starpuffs-alpha",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2097379",
 				"by": [
 					"Cedar Street"
@@ -2747,7 +2695,7 @@
 					"david100awesome",
 					"DannyDavel",
 					"OddTop",
-					"The.Pixelist.Creator"
+					"TPC"
 				],
 				"by_link": [
 					"https://david100awesome.itch.io/",
@@ -2771,7 +2719,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -2808,7 +2756,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -2831,7 +2779,7 @@
 		]
 	},
 	{
-		"jammer": "The.Pixelist.Creator",
+		"jammer": "TPC",
 		"jammer_link": "https://thepixelistcreator.itch.io/",
 		"list_game_sorted": [
 			{
@@ -2846,7 +2794,7 @@
 					"david100awesome",
 					"DannyDavel",
 					"OddTop",
-					"The.Pixelist.Creator"
+					"TPC"
 				],
 				"by_link": [
 					"https://david100awesome.itch.io/",
@@ -2870,7 +2818,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -2907,7 +2855,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -2962,7 +2910,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -2999,7 +2947,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -3036,7 +2984,7 @@
 				"by": [
 					"david100awesome",
 					"CabronZyro",
-					"The.Pixelist.Creator",
+					"TPC",
 					"Fire Cat705",
 					"El_Papu1111",
 					"ActuallyAlek",
@@ -3136,6 +3084,56 @@
 				"ratings": 5,
 				"score": 2.263,
 				"t_publish_diff": -971000
+			}
+		]
+	},
+	{
+		"jammer": "BlueAzoth",
+		"jammer_link": "https://blueazoth.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"title": "Blendarama",
+				"title_link": "https://blueazoth.itch.io/blendarama",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2088749",
+				"by": [
+					"BlueAzoth"
+				],
+				"by_link": [
+					"https://blueazoth.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 7,
+				"score": 2.646,
+				"t_publish_diff": -6260000
+			}
+		]
+	},
+	{
+		"jammer": "Kode Clown",
+		"jammer_link": "https://kode-clown.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"title": "Flower Fued",
+				"title_link": "https://kode-clown.itch.io/flower-fued",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091395",
+				"by": [
+					"Kode Clown"
+				],
+				"by_link": [
+					"https://kode-clown.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 10,
+				"score": 2.625,
+				"t_publish_diff": -37149000
 			}
 		]
 	}

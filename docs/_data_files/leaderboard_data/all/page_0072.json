@@ -1,30 +1,5 @@
 [
 	{
-		"jammer": "Spruce wiz",
-		"jammer_link": "https://spruce-wiz.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"title": "Color spectrum (game jam demo)",
-				"title_link": "https://spruce-wiz.itch.io/color-spectrum",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634196",
-				"by": [
-					"Spruce wiz"
-				],
-				"by_link": [
-					"https://spruce-wiz.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 10,
-				"score": 3.725,
-				"t_publish_diff": -32699000
-			}
-		]
-	},
-	{
 		"jammer": "meerian",
 		"jammer_link": "https://meerian.itch.io/",
 		"list_game_sorted": [
@@ -3146,6 +3121,31 @@
 				"ratings": 10,
 				"score": 3.075,
 				"t_publish_diff": -171000
+			}
+		]
+	},
+	{
+		"jammer": "AndreaDev",
+		"jammer_link": "https://andreadev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"title": "RGB Knight",
+				"title_link": "https://andreadev.itch.io/rgb-knight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634791",
+				"by": [
+					"AndreaDev"
+				],
+				"by_link": [
+					"https://andreadev.itch.io/"
+				],
+				"rank": 169,
+				"ratings": 8,
+				"score": 3.063,
+				"t_publish_diff": -10744000
 			}
 		]
 	}

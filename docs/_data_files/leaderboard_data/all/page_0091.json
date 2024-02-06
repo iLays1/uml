@@ -1,56 +1,5 @@
 [
 	{
-		"jammer": "Ryan_TV",
-		"jammer_link": "https://ryan-tv.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"title": "Lunarling",
-				"title_link": "https://bigurino2010.itch.io/lunarling",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020958",
-				"by": [
-					"Bigurino2010",
-					"Ryan_TV"
-				],
-				"by_link": [
-					"https://bigurino2010.itch.io/",
-					"https://ryan-tv.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 7,
-				"score": 2.643,
-				"t_publish_diff": -22258000
-			}
-		]
-	},
-	{
-		"jammer": "Bellok",
-		"jammer_link": "https://bellok.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"title": "MoonTen",
-				"title_link": "https://bellok.itch.io/moonten",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019268",
-				"by": [
-					"Bellok"
-				],
-				"by_link": [
-					"https://bellok.itch.io/"
-				],
-				"rank": 130,
-				"ratings": 9,
-				"score": 2.639
-			}
-		]
-	},
-	{
 		"jammer": "KonstantinKolovski",
 		"jammer_link": "https://konstantinkolovski.itch.io/",
 		"list_game_sorted": [
@@ -450,7 +399,7 @@
 	},
 	{
 		"jammer": "Hero's Code",
-		"jammer_link": "https://alextheher0.itch.io/",
+		"jammer_link": "https://heros-code.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -458,13 +407,13 @@
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
 				"title": "Fire In The Hole!",
-				"title_link": "https://alextheher0.itch.io/fire-in-the-hole",
+				"title_link": "https://heros-code.itch.io/fire-in-the-hole",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021426",
 				"by": [
 					"Hero's Code"
 				],
 				"by_link": [
-					"https://alextheher0.itch.io/"
+					"https://heros-code.itch.io/"
 				],
 				"rank": 152,
 				"ratings": 7,
@@ -2892,6 +2841,57 @@
 				"ratings": 4,
 				"score": 1.583,
 				"t_publish_diff": -143000
+			}
+		]
+	},
+	{
+		"jammer": "20083540",
+		"jammer_link": "https://20083540.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"title": "Solar Soldier",
+				"title_link": "https://20083540.itch.io/solar-soldier",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045752",
+				"by": [
+					"20083540",
+					"olivalu"
+				],
+				"by_link": [
+					"https://20083540.itch.io/",
+					"https://olivalu.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 6,
+				"score": 1.531,
+				"t_publish_diff": 3284000
+			}
+		]
+	},
+	{
+		"jammer": "BasementStudios",
+		"jammer_link": "https://basementstudios.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"title": "Solar Drift",
+				"title_link": "https://basementstudios.itch.io/solar-drift",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045498",
+				"by": [
+					"BasementStudios"
+				],
+				"by_link": [
+					"https://basementstudios.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 5,
+				"score": 1.528
 			}
 		]
 	}

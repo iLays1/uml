@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "anarchiccoffee",
-		"jammer_link": "https://anarchiccoffee.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"title": "GeonHome",
-				"title_link": "https://funtul.itch.io/muratik",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2156495",
-				"by": [
-					"FUNTUL",
-					"yaffi",
-					"anarchiccoffee"
-				],
-				"by_link": [
-					"https://funtul.itch.io/",
-					"https://yaffi.itch.io/",
-					"https://anarchiccoffee.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 9,
-				"score": 2.654,
-				"t_publish_diff": -422000
-			}
-		]
-	},
-	{
-		"jammer": "Layrex",
-		"jammer_link": "https://layrexs.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"title": "Self-Development",
-				"title_link": "https://layrexs.itch.io/self-development",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2154819",
-				"by": [
-					"Layrex"
-				],
-				"by_link": [
-					"https://layrexs.itch.io/"
-				],
-				"rank": 34,
-				"ratings": 8,
-				"score": 2.632,
-				"t_publish_diff": -141504000
-			}
-		]
-	},
-	{
 		"jammer": "BroodyGaming",
 		"jammer_link": "https://broodygaming.itch.io/",
 		"list_game_sorted": [
@@ -1768,7 +1714,7 @@
 		]
 	},
 	{
-		"jammer": "Caged Flame",
+		"jammer": "Caged Flame Studios",
 		"jammer_link": "https://caged-flame-studios.itch.io/",
 		"list_game_sorted": [
 			{
@@ -1780,7 +1726,7 @@
 				"title_link": "https://caged-flame-studios.itch.io/will-of-the-feyts",
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228142",
 				"by": [
-					"Caged Flame"
+					"Caged Flame Studios"
 				],
 				"by_link": [
 					"https://caged-flame-studios.itch.io/"
@@ -2086,7 +2032,7 @@
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
 				"title": "Dungeon Dater - Mini Jam 140",
-				"title_link": "https://sethnerd.itch.io/dungeongardengame",
+				"title_link": "https://snerds.itch.io/dungeongardengame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
 				"by": [
 					"snerd",
@@ -2096,7 +2042,7 @@
 					"Kangator"
 				],
 				"by_link": [
-					"https://sethnerd.itch.io/",
+					"https://snerds.itch.io/",
 					"https://hoxfire.itch.io/",
 					"https://ajuicypineapple3114.itch.io/",
 					"https://twitchywhalez.itch.io/",
@@ -2119,7 +2065,7 @@
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
 				"title": "Dungeon Dater - Mini Jam 140",
-				"title_link": "https://sethnerd.itch.io/dungeongardengame",
+				"title_link": "https://snerds.itch.io/dungeongardengame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
 				"by": [
 					"snerd",
@@ -2129,7 +2075,7 @@
 					"Kangator"
 				],
 				"by_link": [
-					"https://sethnerd.itch.io/",
+					"https://snerds.itch.io/",
 					"https://hoxfire.itch.io/",
 					"https://ajuicypineapple3114.itch.io/",
 					"https://twitchywhalez.itch.io/",
@@ -2152,7 +2098,7 @@
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
 				"title": "Dungeon Dater - Mini Jam 140",
-				"title_link": "https://sethnerd.itch.io/dungeongardengame",
+				"title_link": "https://snerds.itch.io/dungeongardengame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
 				"by": [
 					"snerd",
@@ -2162,7 +2108,7 @@
 					"Kangator"
 				],
 				"by_link": [
-					"https://sethnerd.itch.io/",
+					"https://snerds.itch.io/",
 					"https://hoxfire.itch.io/",
 					"https://ajuicypineapple3114.itch.io/",
 					"https://twitchywhalez.itch.io/",
@@ -2746,6 +2692,72 @@
 	{
 		"jammer": "Aaron Pastor",
 		"jammer_link": "https://playfree-labs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Wardrobe Warrior",
+				"title_link": "https://playfree-labs.itch.io/wardrobe-warrior",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246220",
+				"by": [
+					"Aaron Pastor",
+					"NicholasPerell",
+					"Neverbloom",
+					"ZEN",
+					"Amaterasu903"
+				],
+				"by_link": [
+					"https://playfree-labs.itch.io/",
+					"https://nicholasperell.itch.io/",
+					"https://neverbloomlyra.itch.io/",
+					"https://zen-studios.itch.io/",
+					"https://amaterasu903.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 6,
+				"score": 2.625,
+				"t_publish_diff": -389000
+			}
+		]
+	},
+	{
+		"jammer": "NicholasPerell",
+		"jammer_link": "https://nicholasperell.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Wardrobe Warrior",
+				"title_link": "https://playfree-labs.itch.io/wardrobe-warrior",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246220",
+				"by": [
+					"Aaron Pastor",
+					"NicholasPerell",
+					"Neverbloom",
+					"ZEN",
+					"Amaterasu903"
+				],
+				"by_link": [
+					"https://playfree-labs.itch.io/",
+					"https://nicholasperell.itch.io/",
+					"https://neverbloomlyra.itch.io/",
+					"https://zen-studios.itch.io/",
+					"https://amaterasu903.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 6,
+				"score": 2.625,
+				"t_publish_diff": -389000
+			}
+		]
+	},
+	{
+		"jammer": "Neverbloom",
+		"jammer_link": "https://neverbloomlyra.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

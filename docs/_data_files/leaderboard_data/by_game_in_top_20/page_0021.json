@@ -100,7 +100,7 @@
 	},
 	{
 		"jammer": "Alfa Labs",
-		"jammer_link": "https://babbel.itch.io/",
+		"jammer_link": "https://alfa-labs.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -108,13 +108,13 @@
 				"jam_name": "Nintendo 64",
 				"jam_link": "https://itch.io/jam/mini-jam-64",
 				"title": "Roller Master",
-				"title_link": "https://babbel.itch.io/roller-master",
+				"title_link": "https://alfa-labs.itch.io/roller-master",
 				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/777508",
 				"by": [
 					"Alfa Labs"
 				],
 				"by_link": [
-					"https://babbel.itch.io/"
+					"https://alfa-labs.itch.io/"
 				],
 				"rank": 14,
 				"ratings": 7,

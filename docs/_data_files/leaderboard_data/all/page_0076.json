@@ -1,38 +1,5 @@
 [
 	{
-		"jammer": "JordiAlbaDev",
-		"jammer_link": "https://jordialbadev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"title": "Serpent Blade",
-				"title_link": "https://andrew-raya.itch.io/serpent-blade",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1669360",
-				"by": [
-					"Andrew Raya",
-					"JordiAlbaDev",
-					"Sergi Gómez Segura",
-					"Belmontes",
-					"Guillem Llovera Castillo"
-				],
-				"by_link": [
-					"https://andrew-raya.itch.io/",
-					"https://jordialbadev.itch.io/",
-					"https://sergigs-artist.itch.io/",
-					"https://martamontesserra.itch.io/",
-					"https://guillem-llovera-castillo.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 10,
-				"score": 4.1,
-				"t_publish_diff": -1629000
-			}
-		]
-	},
-	{
 		"jammer": "Sergi Gómez Segura",
 		"jammer_link": "https://sergigs-artist.itch.io/",
 		"list_game_sorted": [
@@ -1099,7 +1066,7 @@
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
 				"title": "Dungeon Dater - Mini Jam 140",
-				"title_link": "https://sethnerd.itch.io/dungeongardengame",
+				"title_link": "https://snerds.itch.io/dungeongardengame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
 				"by": [
 					"snerd",
@@ -1109,7 +1076,7 @@
 					"Kangator"
 				],
 				"by_link": [
-					"https://sethnerd.itch.io/",
+					"https://snerds.itch.io/",
 					"https://hoxfire.itch.io/",
 					"https://ajuicypineapple3114.itch.io/",
 					"https://twitchywhalez.itch.io/",
@@ -1517,7 +1484,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"title": "Stewart's Trials ( MiniJam-113 )",
+				"title": "Stewart's Trials",
 				"title_link": "https://pockolas.itch.io/stewarts-trials",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673110",
 				"by": [
@@ -2974,8 +2941,8 @@
 		]
 	},
 	{
-		"jammer": "tanruss1",
-		"jammer_link": "https://tanruss1.itch.io/",
+		"jammer": "Rowanoke",
+		"jammer_link": "https://rowanokes.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2983,13 +2950,13 @@
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
 				"title": "Tower of Darkness",
-				"title_link": "https://tanruss1.itch.io/tower-of-darkness",
+				"title_link": "https://rowanokes.itch.io/tower-of-darkness",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673113",
 				"by": [
-					"tanruss1"
+					"Rowanoke"
 				],
 				"by_link": [
-					"https://tanruss1.itch.io/"
+					"https://rowanokes.itch.io/"
 				],
 				"rank": 103,
 				"ratings": 2,
@@ -3231,6 +3198,31 @@
 				"ratings": 12,
 				"score": 3.979,
 				"t_publish_diff": -17402000
+			}
+		]
+	},
+	{
+		"jammer": "sparklewing",
+		"jammer_link": "https://sparklewing.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"title": "SlotMachineDungeon",
+				"title_link": "https://sparklewing.itch.io/slotmachinedungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691033",
+				"by": [
+					"sparklewing"
+				],
+				"by_link": [
+					"https://sparklewing.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 16,
+				"score": 3.922,
+				"t_publish_diff": -2817000
 			}
 		]
 	}

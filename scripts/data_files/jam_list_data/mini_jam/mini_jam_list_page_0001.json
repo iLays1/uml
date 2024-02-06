@@ -120,7 +120,7 @@
 			},
 			{
 				"title": "Dungeon Dater - Mini Jam 140",
-				"title_link": "https://sethnerd.itch.io/dungeongardengame",
+				"title_link": "https://snerds.itch.io/dungeongardengame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
 				"by": [
 					"snerd",
@@ -130,7 +130,7 @@
 					"Kangator"
 				],
 				"by_link": [
-					"https://sethnerd.itch.io/",
+					"https://snerds.itch.io/",
 					"https://hoxfire.itch.io/",
 					"https://ajuicypineapple3114.itch.io/",
 					"https://twitchywhalez.itch.io/",
@@ -2354,8 +2354,8 @@
 				"t_publish_diff": -36527000
 			},
 			{
-				"title": "Starpuffs",
-				"title_link": "https://cedar-street.itch.io/starpuffs",
+				"title": "Starpuffs (Alpha Version)",
+				"title_link": "https://cedar-street.itch.io/starpuffs-alpha",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2097379",
 				"by": [
 					"Cedar Street"
@@ -2395,17 +2395,18 @@
 			},
 			{
 				"title": "Spice of the Seasons",
-				"title_link": "https://conradoclark.itch.io/spice-of-the-seasons",
+				"title_link": "https://lunicosm.itch.io/spice-of-the-seasons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092384",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 7,
 				"ratings": 20,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -949000
 			},
 			{
 				"title": "Maze Runner",

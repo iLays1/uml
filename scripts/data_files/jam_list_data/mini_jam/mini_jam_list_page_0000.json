@@ -1917,8 +1917,8 @@
 		"jam_name": "Nightmare",
 		"link": "https://itch.io/jam/mini-jam-144-nightmare",
 		"num_of_game": 68,
-		"num_of_jammer": 88,
-		"num_of_new_jammer": 60,
+		"num_of_jammer": 89,
+		"num_of_new_jammer": 61,
 		"list": [
 			{
 				"title": "Sugary Nightmare",
@@ -2154,10 +2154,12 @@
 				"title_link": "https://mrmemo.itch.io/nightmare-hunter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341316",
 				"by": [
-					"Mr.Memo"
+					"Mr.Memo",
+					"Luco3003"
 				],
 				"by_link": [
-					"https://mrmemo.itch.io/"
+					"https://mrmemo.itch.io/",
+					"https://luco3003.itch.io/"
 				],
 				"rank": 16,
 				"ratings": 7,

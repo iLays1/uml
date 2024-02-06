@@ -666,9 +666,9 @@
 		"id": 128,
 		"jam_name": "Health",
 		"link": "https://itch.io/jam/mini-jam-128-health",
-		"num_of_game": 135,
-		"num_of_jammer": 174,
-		"num_of_new_jammer": 114,
+		"num_of_game": 134,
+		"num_of_jammer": 173,
+		"num_of_new_jammer": 113,
 		"list": [
 			{
 				"title": "Peak",
@@ -753,17 +753,18 @@
 			},
 			{
 				"title": "Hospiral: Nursing Loop",
-				"title_link": "https://conradoclark.itch.io/hospiral-nursing-loop",
+				"title_link": "https://lunicosm.itch.io/hospiral-nursing-loop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977730",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 6,
 				"ratings": 21,
-				"score": 3.94
+				"score": 3.94,
+				"t_publish_diff": -1545000
 			},
 			{
 				"title": "Down is Up",
@@ -1206,17 +1207,18 @@
 			},
 			{
 				"title": "CatJam: Operation Survival",
-				"title_link": "https://conradoclark.itch.io/catjam-operation-survivor",
+				"title_link": "https://lunicosm.itch.io/catjam-operation-survivor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956659",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 14,
 				"ratings": 15,
-				"score": 3.817
+				"score": 3.817,
+				"t_publish_diff": -6000
 			},
 			{
 				"title": "Munchkittens",

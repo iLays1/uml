@@ -499,17 +499,18 @@
 			},
 			{
 				"title": "Uncadaveric",
-				"title_link": "https://conradoclark.itch.io/uncadaveric",
+				"title_link": "https://lunicosm.itch.io/uncadaveric",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1592372",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 12,
 				"ratings": 17,
-				"score": 3.926
+				"score": 3.926,
+				"t_publish_diff": 90406000
 			},
 			{
 				"title": "Armageddon",
@@ -649,9 +650,9 @@
 		"id": 108,
 		"jam_name": "Seaside",
 		"link": "https://itch.io/jam/mini-jam-108-seaside",
-		"num_of_game": 221,
-		"num_of_jammer": 284,
-		"num_of_new_jammer": 198,
+		"num_of_game": 220,
+		"num_of_jammer": 283,
+		"num_of_new_jammer": 197,
 		"list": [
 			{
 				"title": "Cracked Crab Cabal",
@@ -753,7 +754,7 @@
 				"by": [
 					"Gwelkind",
 					"Eschen",
-					"Andre Roz"
+					"EZIRA (Andre Roz)"
 				],
 				"by_link": [
 					"https://gwelkind.itch.io/",
@@ -1638,17 +1639,18 @@
 			},
 			{
 				"title": "Platformia Dreamin'",
-				"title_link": "https://conradoclark.itch.io/platformia-dreamin",
+				"title_link": "https://lunicosm.itch.io/platformia-dreamin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511861",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 23,
-				"score": 4.011
+				"score": 4.011,
+				"t_publish_diff": 6487000
 			},
 			{
 				"title": "Interstitial Hyperdreaming",
@@ -1818,17 +1820,17 @@
 			},
 			{
 				"title": "Holy Sheep",
-				"title_link": "https://zsylver.itch.io/holy-sheep",
+				"title_link": "https://sylverdev.itch.io/holy-sheep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510879",
 				"by": [
-					"sylver",
+					"SylverDev",
 					"iPengin",
 					"Silver5478",
 					"ShazSupreme",
 					"SpectreVIX"
 				],
 				"by_link": [
-					"https://zsylver.itch.io/",
+					"https://sylverdev.itch.io/",
 					"https://ipengin.itch.io/",
 					"https://silver5478.itch.io/",
 					"https://shazsupreme.itch.io/",
@@ -2124,13 +2126,13 @@
 			},
 			{
 				"title": "You Are An Idiot",
-				"title_link": "https://sethnerd.itch.io/you-are-an-idiot",
+				"title_link": "https://snerds.itch.io/you-are-an-idiot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491361",
 				"by": [
 					"snerd"
 				],
 				"by_link": [
-					"https://sethnerd.itch.io/"
+					"https://snerds.itch.io/"
 				],
 				"rank": 13,
 				"ratings": 40,
@@ -2248,8 +2250,8 @@
 		"id": 103,
 		"jam_name": "Darkness",
 		"link": "https://itch.io/jam/mini-jam-103-darkness",
-		"num_of_game": 153,
-		"num_of_jammer": 181,
+		"num_of_game": 152,
+		"num_of_jammer": 180,
 		"num_of_new_jammer": 126,
 		"list": [
 			{

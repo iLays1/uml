@@ -1,55 +1,5 @@
 [
 	{
-		"jammer": "BlueAzoth",
-		"jammer_link": "https://blueazoth.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"title": "Blendarama",
-				"title_link": "https://blueazoth.itch.io/blendarama",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2088749",
-				"by": [
-					"BlueAzoth"
-				],
-				"by_link": [
-					"https://blueazoth.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 7,
-				"score": 2.646,
-				"t_publish_diff": -6260000
-			}
-		]
-	},
-	{
-		"jammer": "Kode Clown",
-		"jammer_link": "https://kode-clown.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"title": "Flower Fued",
-				"title_link": "https://kode-clown.itch.io/flower-fued",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091395",
-				"by": [
-					"Kode Clown"
-				],
-				"by_link": [
-					"https://kode-clown.itch.io/"
-				],
-				"rank": 86,
-				"ratings": 10,
-				"score": 2.625,
-				"t_publish_diff": -37149000
-			}
-		]
-	},
-	{
 		"jammer": "anexas5",
 		"jammer_link": "https://anexas5.itch.io/",
 		"list_game_sorted": [
@@ -2370,12 +2320,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112519",
 				"by": [
 					"NpcStudios",
-					"T3_t",
+					"Rkashi",
 					"JonathanFerreira"
 				],
 				"by_link": [
 					"https://npcstudios.itch.io/",
-					"https://t3-t.itch.io/",
+					"https://rkashi.itch.io/",
 					"https://jonathanferreira.itch.io/"
 				],
 				"rank": 53,
@@ -2386,8 +2336,8 @@
 		]
 	},
 	{
-		"jammer": "T3_t",
-		"jammer_link": "https://t3-t.itch.io/",
+		"jammer": "Rkashi",
+		"jammer_link": "https://rkashi.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2399,12 +2349,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112519",
 				"by": [
 					"NpcStudios",
-					"T3_t",
+					"Rkashi",
 					"JonathanFerreira"
 				],
 				"by_link": [
 					"https://npcstudios.itch.io/",
-					"https://t3-t.itch.io/",
+					"https://rkashi.itch.io/",
 					"https://jonathanferreira.itch.io/"
 				],
 				"rank": 53,
@@ -2428,12 +2378,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112519",
 				"by": [
 					"NpcStudios",
-					"T3_t",
+					"Rkashi",
 					"JonathanFerreira"
 				],
 				"by_link": [
 					"https://npcstudios.itch.io/",
-					"https://t3-t.itch.io/",
+					"https://rkashi.itch.io/",
 					"https://jonathanferreira.itch.io/"
 				],
 				"rank": 53,
@@ -2690,7 +2640,7 @@
 					"david100awesome",
 					"DannyDavel",
 					"OddTop",
-					"The.Pixelist.Creator"
+					"TPC"
 				],
 				"by_link": [
 					"https://david100awesome.itch.io/",
@@ -2721,7 +2671,7 @@
 					"david100awesome",
 					"DannyDavel",
 					"OddTop",
-					"The.Pixelist.Creator"
+					"TPC"
 				],
 				"by_link": [
 					"https://david100awesome.itch.io/",
@@ -2840,6 +2790,56 @@
 				"rank": 72,
 				"ratings": 8,
 				"score": 2.767
+			}
+		]
+	},
+	{
+		"jammer": "Fooples",
+		"jammer_link": "https://fooples.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"title": "Island Hopper",
+				"title_link": "https://fooples.itch.io/island-hopper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113597",
+				"by": [
+					"Fooples"
+				],
+				"by_link": [
+					"https://fooples.itch.io/"
+				],
+				"rank": 73,
+				"ratings": 8,
+				"score": 2.711,
+				"t_publish_diff": -23789000
+			}
+		]
+	},
+	{
+		"jammer": "NawwaBe",
+		"jammer_link": "https://nawwabe.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"title": "Unfortunately I got lost",
+				"title_link": "https://nawwabe.itch.io/unfortunately-i-got-lost",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113959",
+				"by": [
+					"NawwaBe"
+				],
+				"by_link": [
+					"https://nawwabe.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 10,
+				"score": 2.6,
+				"t_publish_diff": -2280000
 			}
 		]
 	}

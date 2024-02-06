@@ -1,49 +1,5 @@
 [
 	{
-		"jammer": "ExpCake",
-		"jammer_link": "https://expcake.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"title": "Mush Ants",
-				"title_link": "https://expcake.itch.io/mush-ants",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999949",
-				"by": [
-					"ExpCake"
-				],
-				"by_link": [
-					"https://expcake.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 4,
-				"score": 2.033,
-				"t_publish_diff": -8092000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 127,
-				"jam_name": "Cats",
-				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"title": "Meld",
-				"title_link": "https://expcake.itch.io/meld",
-				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956629",
-				"by": [
-					"ExpCake"
-				],
-				"by_link": [
-					"https://expcake.itch.io/"
-				],
-				"rank": 75,
-				"ratings": 8,
-				"score": 2.599,
-				"t_publish_diff": -1961000
-			}
-		]
-	},
-	{
 		"jammer": "SSerum",
 		"jammer_link": "https://sserum.itch.io/",
 		"list_game_sorted": [
@@ -1799,30 +1755,6 @@
 		]
 	},
 	{
-		"jammer": "SineolGames",
-		"jammer_link": "https://sineolgames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "Crane Climber",
-				"title_link": "https://sineolgames.itch.io/crane-climber",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976433",
-				"by": [
-					"SineolGames"
-				],
-				"by_link": [
-					"https://sineolgames.itch.io/"
-				],
-				"rank": 41,
-				"ratings": 23,
-				"score": 3.239
-			}
-		]
-	},
-	{
 		"jammer": "not_davido",
 		"jammer_link": "https://not-davido.itch.io/",
 		"list_game_sorted": [
@@ -2993,7 +2925,7 @@
 	},
 	{
 		"jammer": "A devel guy",
-		"jammer_link": "https://vitorestor.itch.io/",
+		"jammer_link": "https://adevelguy.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3001,18 +2933,68 @@
 				"jam_name": "Health",
 				"jam_link": "https://itch.io/jam/mini-jam-128-health",
 				"title": "Dr. Bird",
-				"title_link": "https://vitorestor.itch.io/dr-bird",
+				"title_link": "https://adevelguy.itch.io/dr-bird",
 				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976157",
 				"by": [
 					"A devel guy"
 				],
 				"by_link": [
-					"https://vitorestor.itch.io/"
+					"https://adevelguy.itch.io/"
 				],
 				"rank": 91,
 				"ratings": 5,
 				"score": 2.227,
 				"t_publish_diff": -88659000
+			}
+		]
+	},
+	{
+		"jammer": "HenryBitz",
+		"jammer_link": "https://henrybitz.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"title": "First-Aid Kit-Ten",
+				"title_link": "https://henrybitz.itch.io/first-aid-kit-ten",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977443",
+				"by": [
+					"HenryBitz"
+				],
+				"by_link": [
+					"https://henrybitz.itch.io/"
+				],
+				"rank": 92,
+				"ratings": 4,
+				"score": 2.165,
+				"t_publish_diff": -16323000
+			}
+		]
+	},
+	{
+		"jammer": "NikRetaNCAM",
+		"jammer_link": "https://nikretancam.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"title": "UPRUSH",
+				"title_link": "https://nikretancam.itch.io/uprush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976708",
+				"by": [
+					"NikRetaNCAM"
+				],
+				"by_link": [
+					"https://nikretancam.itch.io/"
+				],
+				"rank": 94,
+				"ratings": 5,
+				"score": 2.13,
+				"t_publish_diff": -50090000
 			}
 		]
 	}

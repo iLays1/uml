@@ -1064,7 +1064,7 @@
 	},
 	{
 		"jammer": "Thinker",
-		"jammer_link": "https://conradoclark.itch.io/",
+		"jammer_link": "https://lunicosm.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1072,17 +1072,18 @@
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
 				"title": "Platformia Dreamin'",
-				"title_link": "https://conradoclark.itch.io/platformia-dreamin",
+				"title_link": "https://lunicosm.itch.io/platformia-dreamin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511861",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 23,
-				"score": 4.011
+				"score": 4.011,
+				"t_publish_diff": 6487000
 			}
 		]
 	},
@@ -2481,7 +2482,7 @@
 		]
 	},
 	{
-		"jammer": "na-es",
+		"jammer": "Sean",
 		"jammer_link": "https://na-es.itch.io/",
 		"list_game_sorted": [
 			{
@@ -2493,7 +2494,7 @@
 				"title_link": "https://na-es.itch.io/wasde",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331828",
 				"by": [
-					"na-es"
+					"Sean"
 				],
 				"by_link": [
 					"https://na-es.itch.io/"

@@ -688,8 +688,8 @@
 		]
 	},
 	{
-		"jammer": "Cynical Circus",
-		"jammer_link": "https://cynical-circus.itch.io/",
+		"jammer": "Lozt22catz",
+		"jammer_link": "https://lozt22catz.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "major_jam",
@@ -697,13 +697,13 @@
 				"jam_name": "Major Jam 6: Life",
 				"jam_link": "https://itch.io/jam/major-jam-6-life",
 				"title": "Grapple Point - Game Jam Version",
-				"title_link": "https://cynical-circus.itch.io/grapple-point",
+				"title_link": "https://lozt22catz.itch.io/grapple-point",
 				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196985",
 				"by": [
-					"Cynical Circus"
+					"Lozt22catz"
 				],
 				"by_link": [
-					"https://cynical-circus.itch.io/"
+					"https://lozt22catz.itch.io/"
 				],
 				"rank": 93,
 				"ratings": 14,
@@ -3588,27 +3588,7 @@
 				],
 				"rank": 24,
 				"ratings": 6,
-				"score": 2.994,
-				"t_publish_diff": -16314000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"title": "CLONE STRIKER",
-				"title_link": "https://anarchygames.itch.io/clone-striker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1468812",
-				"by": [
-					"AnarchyGames"
-				],
-				"by_link": [
-					"https://anarchygames.itch.io/"
-				],
-				"rank": 65,
-				"ratings": 5,
-				"score": 2.965,
-				"t_publish_diff": -37011000
+				"score": 2.994
 			}
 		]
 	},

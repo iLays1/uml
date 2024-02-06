@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "quweert",
+		"jammer_link": "https://quweert.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Turtle Island Defense",
+				"title_link": "https://nocity.itch.io/turtle-island-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592806",
+				"by": [
+					"Nocity",
+					"quweert",
+					"FarBeyond Studio",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://nocity.itch.io/",
+					"https://quweert.itch.io/",
+					"https://farbeyond-studio.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.489,
+				"t_publish_diff": -1578000
+			}
+		]
+	},
+	{
 		"jammer": "FarBeyond Studio",
 		"jammer_link": "https://farbeyond-studio.itch.io/",
 		"list_game_sorted": [
@@ -2680,31 +2711,6 @@
 				"rank": 18,
 				"ratings": 26,
 				"score": 3.644
-			}
-		]
-	},
-	{
-		"jammer": "WalGallen",
-		"jammer_link": "https://walgallen.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"title": "KOTOMASHO: I Can't Believe This NEET Guy Turned Into a Magical Girl!",
-				"title_link": "https://walgallen.itch.io/kotomasho",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511419",
-				"by": [
-					"WalGallen"
-				],
-				"by_link": [
-					"https://walgallen.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 41,
-				"score": 3.64,
-				"t_publish_diff": -1835000
 			}
 		]
 	}

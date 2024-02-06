@@ -164,10 +164,39 @@
 				"title_link": "https://mrmemo.itch.io/nightmare-hunter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341316",
 				"by": [
-					"Mr.Memo"
+					"Mr.Memo",
+					"Luco3003"
 				],
 				"by_link": [
-					"https://mrmemo.itch.io/"
+					"https://mrmemo.itch.io/",
+					"https://luco3003.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 3.241,
+				"t_publish_diff": -53000
+			}
+		]
+	},
+	{
+		"jammer": "Luco3003",
+		"jammer_link": "https://luco3003.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"title": "Nightmare Hunter",
+				"title_link": "https://mrmemo.itch.io/nightmare-hunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341316",
+				"by": [
+					"Mr.Memo",
+					"Luco3003"
+				],
+				"by_link": [
+					"https://mrmemo.itch.io/",
+					"https://luco3003.itch.io/"
 				],
 				"rank": 16,
 				"ratings": 7,
@@ -2702,37 +2731,6 @@
 	{
 		"jammer": "Nocity",
 		"jammer_link": "https://nocity.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"title": "Turtle Island Defense",
-				"title_link": "https://nocity.itch.io/turtle-island-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592806",
-				"by": [
-					"Nocity",
-					"quweert",
-					"FarBeyond Studio",
-					"Haiyoooo | Artist"
-				],
-				"by_link": [
-					"https://nocity.itch.io/",
-					"https://quweert.itch.io/",
-					"https://farbeyond-studio.itch.io/",
-					"https://haiyoooo.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.489,
-				"t_publish_diff": -1578000
-			}
-		]
-	},
-	{
-		"jammer": "quweert",
-		"jammer_link": "https://quweert.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

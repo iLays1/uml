@@ -3128,7 +3128,8 @@
 				],
 				"rank": 83,
 				"ratings": 7,
-				"score": 1.837
+				"score": 1.837,
+				"t_publish_diff": -43727000
 			}
 		]
 	},
@@ -3210,14 +3211,14 @@
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
 				"title": "Shop Till It Drops",
-				"title_link": "https://babbel.itch.io/minijam71",
+				"title_link": "https://alfa-labs.itch.io/minijam71",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878229",
 				"by": [
 					"Alfa Labs",
 					"Mack"
 				],
 				"by_link": [
-					"https://babbel.itch.io/",
+					"https://alfa-labs.itch.io/",
 					"https://inabluemoon.itch.io/"
 				],
 				"rank": 87,

@@ -6036,7 +6036,7 @@
 				"by": [
 					"Gwelkind",
 					"Eschen",
-					"Andre Roz"
+					"EZIRA (Andre Roz)"
 				],
 				"by_link": [
 					"https://gwelkind.itch.io/",
@@ -7401,7 +7401,7 @@
 	},
 	{
 		"jammer": "Thinker",
-		"jammer_link": "https://conradoclark.itch.io/",
+		"jammer_link": "https://lunicosm.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -7409,17 +7409,18 @@
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
 				"title": "Platformia Dreamin'",
-				"title_link": "https://conradoclark.itch.io/platformia-dreamin",
+				"title_link": "https://lunicosm.itch.io/platformia-dreamin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511861",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 23,
-				"score": 4.011
+				"score": 4.011,
+				"t_publish_diff": 6487000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -7427,17 +7428,18 @@
 				"jam_name": "Health",
 				"jam_link": "https://itch.io/jam/mini-jam-128-health",
 				"title": "Hospiral: Nursing Loop",
-				"title_link": "https://conradoclark.itch.io/hospiral-nursing-loop",
+				"title_link": "https://lunicosm.itch.io/hospiral-nursing-loop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977730",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 6,
 				"ratings": 21,
-				"score": 3.94
+				"score": 3.94,
+				"t_publish_diff": -1545000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -7445,17 +7447,18 @@
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
 				"title": "Spice of the Seasons",
-				"title_link": "https://conradoclark.itch.io/spice-of-the-seasons",
+				"title_link": "https://lunicosm.itch.io/spice-of-the-seasons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092384",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 7,
 				"ratings": 20,
-				"score": 3.875
+				"score": 3.875,
+				"t_publish_diff": -949000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -7463,17 +7466,18 @@
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
 				"title": "Uncadaveric",
-				"title_link": "https://conradoclark.itch.io/uncadaveric",
+				"title_link": "https://lunicosm.itch.io/uncadaveric",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1592372",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 12,
 				"ratings": 17,
-				"score": 3.926
+				"score": 3.926,
+				"t_publish_diff": 90406000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -7481,17 +7485,18 @@
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
 				"title": "CatJam: Operation Survival",
-				"title_link": "https://conradoclark.itch.io/catjam-operation-survivor",
+				"title_link": "https://lunicosm.itch.io/catjam-operation-survivor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956659",
 				"by": [
 					"Thinker"
 				],
 				"by_link": [
-					"https://conradoclark.itch.io/"
+					"https://lunicosm.itch.io/"
 				],
 				"rank": 14,
 				"ratings": 15,
-				"score": 3.817
+				"score": 3.817,
+				"t_publish_diff": -6000
 			}
 		]
 	},

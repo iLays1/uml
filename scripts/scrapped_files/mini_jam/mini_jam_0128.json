@@ -237,13 +237,13 @@
 	},
 	{
 		"title": "Hospiral: Nursing Loop",
-		"title_link": "https://conradoclark.itch.io/hospiral-nursing-loop",
+		"title_link": "https://lunicosm.itch.io/hospiral-nursing-loop",
 		"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977730",
 		"by": [
 			"Thinker"
 		],
 		"by_link": [
-			"https://conradoclark.itch.io/"
+			"https://lunicosm.itch.io/"
 		],
 		"rank": 6,
 		"ratings": 21,
@@ -1497,13 +1497,13 @@
 	},
 	{
 		"title": "Flipside",
-		"title_link": "https://andrew-ingram.itch.io/flipside",
+		"title_link": "https://insomnia-wins.itch.io/flipside",
 		"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977824",
 		"by": [
-			"Andrew Ingram"
+			"Insomnia_Wins"
 		],
 		"by_link": [
-			"https://andrew-ingram.itch.io/"
+			"https://insomnia-wins.itch.io/"
 		],
 		"rank": 33,
 		"ratings": 26,
@@ -1878,52 +1878,6 @@
 				"rank": 79,
 				"score": 2.429,
 				"raw_score": 2.429
-			}
-		]
-	},
-	{
-		"title": "Crane Climber",
-		"title_link": "https://sineolgames.itch.io/crane-climber",
-		"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976433",
-		"by": [
-			"SineolGames"
-		],
-		"by_link": [
-			"https://sineolgames.itch.io/"
-		],
-		"rank": 41,
-		"ratings": 23,
-		"score": 3.239,
-		"table_data": [
-			{
-				"criteria": "Use of the Limitation",
-				"rank": 22,
-				"score": 3.696,
-				"raw_score": 3.696
-			},
-			{
-				"criteria": "Enjoyment",
-				"rank": 38,
-				"score": 3,
-				"raw_score": 3
-			},
-			{
-				"criteria": "Overall",
-				"rank": 41,
-				"score": 3.239,
-				"raw_score": 3.239
-			},
-			{
-				"criteria": "Presentation",
-				"rank": 53,
-				"score": 3.174,
-				"raw_score": 3.174
-			},
-			{
-				"criteria": "Concept",
-				"rank": 54,
-				"score": 3.087,
-				"raw_score": 3.087
 			}
 		]
 	},
@@ -4205,13 +4159,13 @@
 	},
 	{
 		"title": "Dr. Bird",
-		"title_link": "https://vitorestor.itch.io/dr-bird",
+		"title_link": "https://adevelguy.itch.io/dr-bird",
 		"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976157",
 		"by": [
 			"A devel guy"
 		],
 		"by_link": [
-			"https://vitorestor.itch.io/"
+			"https://adevelguy.itch.io/"
 		],
 		"rank": 91,
 		"ratings": 5,

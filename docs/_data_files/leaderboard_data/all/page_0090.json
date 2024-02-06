@@ -1,83 +1,5 @@
 [
 	{
-		"jammer": "lumi kha",
-		"jammer_link": "https://lumi-kha.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"title": "Waning Spirits",
-				"title_link": "https://driifty.itch.io/waning-spirits",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2024948",
-				"by": [
-					"Driifty",
-					"Austin Melio",
-					"lumi kha",
-					"auvea",
-					"Minescratcher",
-					"Adrian M",
-					"varelacg",
-					"toadwyn"
-				],
-				"by_link": [
-					"https://driifty.itch.io/",
-					"https://ausclaw.itch.io/",
-					"https://lumi-kha.itch.io/",
-					"https://auvea.itch.io/",
-					"https://minescratcher.itch.io/",
-					"https://amd1999.itch.io/",
-					"https://varelacg.itch.io/",
-					"https://toadwyn.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 10,
-				"score": 3.75,
-				"t_publish_diff": 187156000
-			}
-		]
-	},
-	{
-		"jammer": "varelacg",
-		"jammer_link": "https://varelacg.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"title": "Waning Spirits",
-				"title_link": "https://driifty.itch.io/waning-spirits",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2024948",
-				"by": [
-					"Driifty",
-					"Austin Melio",
-					"lumi kha",
-					"auvea",
-					"Minescratcher",
-					"Adrian M",
-					"varelacg",
-					"toadwyn"
-				],
-				"by_link": [
-					"https://driifty.itch.io/",
-					"https://ausclaw.itch.io/",
-					"https://lumi-kha.itch.io/",
-					"https://auvea.itch.io/",
-					"https://minescratcher.itch.io/",
-					"https://amd1999.itch.io/",
-					"https://varelacg.itch.io/",
-					"https://toadwyn.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 10,
-				"score": 3.75,
-				"t_publish_diff": 187156000
-			}
-		]
-	},
-	{
 		"jammer": "toadwyn",
 		"jammer_link": "https://toadwyn.itch.io/",
 		"list_game_sorted": [
@@ -3307,6 +3229,57 @@
 				"rank": 128,
 				"ratings": 8,
 				"score": 2.656
+			}
+		]
+	},
+	{
+		"jammer": "Ryan_TV",
+		"jammer_link": "https://ryan-tv.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "Lunarling",
+				"title_link": "https://bigurino2010.itch.io/lunarling",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020958",
+				"by": [
+					"Bigurino2010",
+					"Ryan_TV"
+				],
+				"by_link": [
+					"https://bigurino2010.itch.io/",
+					"https://ryan-tv.itch.io/"
+				],
+				"rank": 129,
+				"ratings": 7,
+				"score": 2.643,
+				"t_publish_diff": -22258000
+			}
+		]
+	},
+	{
+		"jammer": "Bellok",
+		"jammer_link": "https://bellok.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "MoonTen",
+				"title_link": "https://bellok.itch.io/moonten",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019268",
+				"by": [
+					"Bellok"
+				],
+				"by_link": [
+					"https://bellok.itch.io/"
+				],
+				"rank": 130,
+				"ratings": 9,
+				"score": 2.639
 			}
 		]
 	}

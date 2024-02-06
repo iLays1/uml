@@ -2079,8 +2079,8 @@
 		]
 	},
 	{
-		"jammer": "Godresky",
-		"jammer_link": "https://godresky.itch.io/",
+		"jammer": "anjuk",
+		"jammer_link": "https://anjuk.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2088,17 +2088,18 @@
 				"jam_name": "Adventure",
 				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
 				"title": "Collateral",
-				"title_link": "https://godresky.itch.io/collateral",
+				"title_link": "https://anjuk.itch.io/collateral",
 				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/893736",
 				"by": [
-					"Godresky"
+					"anjuk"
 				],
 				"by_link": [
-					"https://godresky.itch.io/"
+					"https://anjuk.itch.io/"
 				],
 				"rank": 33,
 				"ratings": 6,
-				"score": 2.906
+				"score": 2.906,
+				"t_publish_diff": -28110000
 			},
 			{
 				"jam_type": "major_jam",
@@ -2106,17 +2107,18 @@
 				"jam_name": "Major Jam 4: Cosmic",
 				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
 				"title": "Drifting Spaceship",
-				"title_link": "https://godresky.itch.io/drifting-spaceship",
+				"title_link": "https://anjuk.itch.io/drifting-spaceship",
 				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160717",
 				"by": [
-					"Godresky"
+					"anjuk"
 				],
 				"by_link": [
-					"https://godresky.itch.io/"
+					"https://anjuk.itch.io/"
 				],
 				"rank": 65,
 				"ratings": 6,
-				"score": 2.97
+				"score": 2.97,
+				"t_publish_diff": -10783000
 			}
 		]
 	},
@@ -3695,7 +3697,8 @@
 				],
 				"rank": 101,
 				"ratings": 3,
-				"score": 2.237
+				"score": 2.237,
+				"t_publish_diff": 692000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3713,7 +3716,8 @@
 				],
 				"rank": 105,
 				"ratings": 3,
-				"score": 2.245
+				"score": 2.245,
+				"t_publish_diff": -410000
 			}
 		]
 	},
@@ -3739,7 +3743,8 @@
 				],
 				"rank": 101,
 				"ratings": 3,
-				"score": 2.237
+				"score": 2.237,
+				"t_publish_diff": 692000
 			}
 		]
 	},

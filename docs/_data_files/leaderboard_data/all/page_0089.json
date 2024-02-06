@@ -1,55 +1,5 @@
 [
 	{
-		"jammer": "HenryBitz",
-		"jammer_link": "https://henrybitz.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "First-Aid Kit-Ten",
-				"title_link": "https://henrybitz.itch.io/first-aid-kit-ten",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977443",
-				"by": [
-					"HenryBitz"
-				],
-				"by_link": [
-					"https://henrybitz.itch.io/"
-				],
-				"rank": 92,
-				"ratings": 4,
-				"score": 2.165,
-				"t_publish_diff": -16323000
-			}
-		]
-	},
-	{
-		"jammer": "NikRetaNCAM",
-		"jammer_link": "https://nikretancam.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"title": "UPRUSH",
-				"title_link": "https://nikretancam.itch.io/uprush",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976708",
-				"by": [
-					"NikRetaNCAM"
-				],
-				"by_link": [
-					"https://nikretancam.itch.io/"
-				],
-				"rank": 94,
-				"ratings": 5,
-				"score": 2.13,
-				"t_publish_diff": -50090000
-			}
-		]
-	},
-	{
 		"jammer": "Requieem",
 		"jammer_link": "https://requieem.itch.io/",
 		"list_game_sorted": [
@@ -3221,6 +3171,84 @@
 	{
 		"jammer": "Austin Melio",
 		"jammer_link": "https://ausclaw.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "Waning Spirits",
+				"title_link": "https://driifty.itch.io/waning-spirits",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2024948",
+				"by": [
+					"Driifty",
+					"Austin Melio",
+					"lumi kha",
+					"auvea",
+					"Minescratcher",
+					"Adrian M",
+					"varelacg",
+					"toadwyn"
+				],
+				"by_link": [
+					"https://driifty.itch.io/",
+					"https://ausclaw.itch.io/",
+					"https://lumi-kha.itch.io/",
+					"https://auvea.itch.io/",
+					"https://minescratcher.itch.io/",
+					"https://amd1999.itch.io/",
+					"https://varelacg.itch.io/",
+					"https://toadwyn.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 10,
+				"score": 3.75,
+				"t_publish_diff": 187156000
+			}
+		]
+	},
+	{
+		"jammer": "lumi kha",
+		"jammer_link": "https://lumi-kha.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "Waning Spirits",
+				"title_link": "https://driifty.itch.io/waning-spirits",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2024948",
+				"by": [
+					"Driifty",
+					"Austin Melio",
+					"lumi kha",
+					"auvea",
+					"Minescratcher",
+					"Adrian M",
+					"varelacg",
+					"toadwyn"
+				],
+				"by_link": [
+					"https://driifty.itch.io/",
+					"https://ausclaw.itch.io/",
+					"https://lumi-kha.itch.io/",
+					"https://auvea.itch.io/",
+					"https://minescratcher.itch.io/",
+					"https://amd1999.itch.io/",
+					"https://varelacg.itch.io/",
+					"https://toadwyn.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 10,
+				"score": 3.75,
+				"t_publish_diff": 187156000
+			}
+		]
+	},
+	{
+		"jammer": "varelacg",
+		"jammer_link": "https://varelacg.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

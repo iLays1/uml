@@ -1,30 +1,5 @@
 [
 	{
-		"jammer": "LordCrablord",
-		"jammer_link": "https://lordcrablord.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"title": "Color Reaper",
-				"title_link": "https://lordcrablord.itch.io/color-reaper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633297",
-				"by": [
-					"LordCrablord"
-				],
-				"by_link": [
-					"https://lordcrablord.itch.io/"
-				],
-				"rank": 387,
-				"ratings": 2,
-				"score": 1.063,
-				"t_publish_diff": -102031000
-			}
-		]
-	},
-	{
 		"jammer": "LeKeu",
 		"jammer_link": "https://lekeu.itch.io/",
 		"list_game_sorted": [
@@ -3452,6 +3427,39 @@
 	{
 		"jammer": "Andrew Raya",
 		"jammer_link": "https://andrew-raya.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"title": "Serpent Blade",
+				"title_link": "https://andrew-raya.itch.io/serpent-blade",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1669360",
+				"by": [
+					"Andrew Raya",
+					"JordiAlbaDev",
+					"Sergi Gómez Segura",
+					"Belmontes",
+					"Guillem Llovera Castillo"
+				],
+				"by_link": [
+					"https://andrew-raya.itch.io/",
+					"https://jordialbadev.itch.io/",
+					"https://sergigs-artist.itch.io/",
+					"https://martamontesserra.itch.io/",
+					"https://guillem-llovera-castillo.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 10,
+				"score": 4.1,
+				"t_publish_diff": -1629000
+			}
+		]
+	},
+	{
+		"jammer": "JordiAlbaDev",
+		"jammer_link": "https://jordialbadev.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

@@ -571,7 +571,7 @@
 		]
 	},
 	{
-		"jammer": "Akai Maple",
+		"jammer": "Astral Lunar Games",
 		"jammer_link": "https://naganen.itch.io/",
 		"list_game_sorted": [
 			{
@@ -583,7 +583,7 @@
 				"title_link": "https://naganen.itch.io/nyanko-wants-food",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044011",
 				"by": [
-					"Akai Maple"
+					"Astral Lunar Games"
 				],
 				"by_link": [
 					"https://naganen.itch.io/"
@@ -2377,8 +2377,8 @@
 		]
 	},
 	{
-		"jammer": "SamarGameDev",
-		"jammer_link": "https://samargamedev.itch.io/",
+		"jammer": "SomeGames.Dev",
+		"jammer_link": "https://somegamesdev.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2386,17 +2386,18 @@
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
 				"title": "Slime Attack",
-				"title_link": "https://samargamedev.itch.io/slime-attack",
+				"title_link": "https://somegamesdev.itch.io/slime-attack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062262",
 				"by": [
-					"SamarGameDev"
+					"SomeGames.Dev"
 				],
 				"by_link": [
-					"https://samargamedev.itch.io/"
+					"https://somegamesdev.itch.io/"
 				],
 				"rank": 54,
 				"ratings": 12,
-				"score": 2.083
+				"score": 2.083,
+				"t_publish_diff": -55278000
 			}
 		]
 	},

@@ -286,7 +286,7 @@
 		"by": [
 			"Gwelkind",
 			"Eschen",
-			"Andre Roz"
+			"EZIRA (Andre Roz)"
 		],
 		"by_link": [
 			"https://gwelkind.itch.io/",
@@ -5592,52 +5592,6 @@
 				"rank": 129,
 				"score": 2.67,
 				"raw_score": 2.8
-			}
-		]
-	},
-	{
-		"title": "Death at Sea [Web]",
-		"title_link": "https://zylror.itch.io/death-at-sea-web",
-		"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1570873",
-		"by": [
-			"Zylror"
-		],
-		"by_link": [
-			"https://zylror.itch.io/"
-		],
-		"rank": 122,
-		"ratings": 9,
-		"score": 2.764,
-		"table_data": [
-			{
-				"criteria": "Use of the Limitation",
-				"rank": 77,
-				"score": 3.317,
-				"raw_score": 3.667
-			},
-			{
-				"criteria": "Enjoyment",
-				"rank": 111,
-				"score": 2.714,
-				"raw_score": 3
-			},
-			{
-				"criteria": "Overall",
-				"rank": 122,
-				"score": 2.764,
-				"raw_score": 3.056
-			},
-			{
-				"criteria": "Concept",
-				"rank": 128,
-				"score": 2.613,
-				"raw_score": 2.889
-			},
-			{
-				"criteria": "Presentation",
-				"rank": 149,
-				"score": 2.412,
-				"raw_score": 2.667
 			}
 		]
 	},

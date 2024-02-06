@@ -1,71 +1,5 @@
 [
 	{
-		"jammer": "NicholasPerell",
-		"jammer_link": "https://nicholasperell.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"title": "Wardrobe Warrior",
-				"title_link": "https://playfree-labs.itch.io/wardrobe-warrior",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246220",
-				"by": [
-					"Aaron Pastor",
-					"NicholasPerell",
-					"Neverbloom",
-					"ZEN",
-					"Amaterasu903"
-				],
-				"by_link": [
-					"https://playfree-labs.itch.io/",
-					"https://nicholasperell.itch.io/",
-					"https://neverbloomlyra.itch.io/",
-					"https://zen-studios.itch.io/",
-					"https://amaterasu903.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 6,
-				"score": 2.625,
-				"t_publish_diff": -389000
-			}
-		]
-	},
-	{
-		"jammer": "Neverbloom",
-		"jammer_link": "https://neverbloomlyra.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"title": "Wardrobe Warrior",
-				"title_link": "https://playfree-labs.itch.io/wardrobe-warrior",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246220",
-				"by": [
-					"Aaron Pastor",
-					"NicholasPerell",
-					"Neverbloom",
-					"ZEN",
-					"Amaterasu903"
-				],
-				"by_link": [
-					"https://playfree-labs.itch.io/",
-					"https://nicholasperell.itch.io/",
-					"https://neverbloomlyra.itch.io/",
-					"https://zen-studios.itch.io/",
-					"https://amaterasu903.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 6,
-				"score": 2.625,
-				"t_publish_diff": -389000
-			}
-		]
-	},
-	{
 		"jammer": "ZEN",
 		"jammer_link": "https://zen-studios.itch.io/",
 		"list_game_sorted": [
@@ -3201,6 +3135,64 @@
 				"ratings": 6,
 				"score": 2.917,
 				"t_publish_diff": 62927000
+			}
+		]
+	},
+	{
+		"jammer": "Mr_GrANT",
+		"jammer_link": "https://mr-grant.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Ink Friends",
+				"title_link": "https://mr-grant.itch.io/ink-friends",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315512",
+				"by": [
+					"Mr_GrANT"
+				],
+				"by_link": [
+					"https://mr-grant.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 4,
+				"score": 2.909,
+				"t_publish_diff": -14425000
+			}
+		]
+	},
+	{
+		"jammer": "Max Peace Music",
+		"jammer_link": "https://max-peace-music.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Dagger's Edge",
+				"title_link": "https://fcolor04.itch.io/daggers-edge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2314528",
+				"by": [
+					"Marcin Smoła (FColor04)",
+					"NoopsinK",
+					"Max Peace Music",
+					"Skyllake",
+					"Perverted Soul"
+				],
+				"by_link": [
+					"https://fcolor04.itch.io/",
+					"https://noopsink.itch.io/",
+					"https://max-peace-music.itch.io/",
+					"https://skyllake.itch.io/",
+					"https://perverted-soul.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 6,
+				"score": 2.875,
+				"t_publish_diff": 2244000
 			}
 		]
 	}

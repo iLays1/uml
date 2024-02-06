@@ -1,30 +1,5 @@
 [
 	{
-		"jammer": "img3nius",
-		"jammer_link": "https://img3nius.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"title": "Ghost Buster",
-				"title_link": "https://img3nius.itch.io/ghost-buster",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748587",
-				"by": [
-					"img3nius"
-				],
-				"by_link": [
-					"https://img3nius.itch.io/"
-				],
-				"rank": 117,
-				"ratings": 11,
-				"score": 2.409,
-				"t_publish_diff": -55156000
-			}
-		]
-	},
-	{
 		"jammer": "owls_again",
 		"jammer_link": "https://owls-again.itch.io/",
 		"list_game_sorted": [
@@ -977,7 +952,7 @@
 		]
 	},
 	{
-		"jammer": "Team Ferxaros",
+		"jammer": "Games By Ferzium",
 		"jammer_link": "https://ferzium.itch.io/",
 		"list_game_sorted": [
 			{
@@ -989,7 +964,7 @@
 				"title_link": "https://ferzium.itch.io/subokuhotel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1747507",
 				"by": [
-					"Team Ferxaros"
+					"Games By Ferzium"
 				],
 				"by_link": [
 					"https://ferzium.itch.io/"
@@ -3065,6 +3040,88 @@
 				"ratings": 7,
 				"score": 3.393,
 				"t_publish_diff": -7208000
+			}
+		]
+	},
+	{
+		"jammer": "O4FoxSake",
+		"jammer_link": "https://o4foxsake.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"title": "Yarn",
+				"title_link": "https://o4foxsake.itch.io/yarn",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1953636",
+				"by": [
+					"O4FoxSake"
+				],
+				"by_link": [
+					"https://o4foxsake.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 35,
+				"score": 4.114,
+				"t_publish_diff": -18122000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Carent",
+				"title_link": "https://o4foxsake.itch.io/carent",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1788814",
+				"by": [
+					"O4FoxSake"
+				],
+				"by_link": [
+					"https://o4foxsake.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 16,
+				"score": 3.172,
+				"t_publish_diff": -11444000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"title": "Oppilo",
+				"title_link": "https://o4foxsake.itch.io/oppilo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1807390",
+				"by": [
+					"O4FoxSake"
+				],
+				"by_link": [
+					"https://o4foxsake.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 8,
+				"score": 3.125,
+				"t_publish_diff": -38507000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "Sanguis",
+				"title_link": "https://o4foxsake.itch.io/vamp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1767508",
+				"by": [
+					"O4FoxSake"
+				],
+				"by_link": [
+					"https://o4foxsake.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 11,
+				"score": 3.386,
+				"t_publish_diff": -32972000
 			}
 		]
 	}

@@ -1,30 +1,5 @@
 [
 	{
-		"jammer": "AndreaDev",
-		"jammer_link": "https://andreadev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"title": "RGB Knight",
-				"title_link": "https://andreadev.itch.io/rgb-knight",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634791",
-				"by": [
-					"AndreaDev"
-				],
-				"by_link": [
-					"https://andreadev.itch.io/"
-				],
-				"rank": 169,
-				"ratings": 8,
-				"score": 3.063,
-				"t_publish_diff": -10744000
-			}
-		]
-	},
-	{
 		"jammer": "Goossyaa",
 		"jammer_link": "https://goossyaa.itch.io/",
 		"list_game_sorted": [
@@ -3135,6 +3110,31 @@
 				"ratings": 4,
 				"score": 2.21,
 				"t_publish_diff": -465000
+			}
+		]
+	},
+	{
+		"jammer": "Lyssillic",
+		"jammer_link": "https://lyssillic.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"title": "Paint by Time",
+				"title_link": "https://lyssillic.itch.io/paint-by-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634767",
+				"by": [
+					"Lyssillic"
+				],
+				"by_link": [
+					"https://lyssillic.itch.io/"
+				],
+				"rank": 278,
+				"ratings": 5,
+				"score": 2.174,
+				"t_publish_diff": -6152000
 			}
 		]
 	}

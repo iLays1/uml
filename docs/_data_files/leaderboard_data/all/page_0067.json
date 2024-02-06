@@ -2038,30 +2038,6 @@
 		]
 	},
 	{
-		"jammer": "Zylror",
-		"jammer_link": "https://zylror.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"title": "Death at Sea [Web]",
-				"title_link": "https://zylror.itch.io/death-at-sea-web",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1570873",
-				"by": [
-					"Zylror"
-				],
-				"by_link": [
-					"https://zylror.itch.io/"
-				],
-				"rank": 122,
-				"ratings": 9,
-				"score": 2.764
-			}
-		]
-	},
-	{
 		"jammer": "LoafStudio",
 		"jammer_link": "https://loafstudio.itch.io/",
 		"list_game_sorted": [
@@ -3378,6 +3354,50 @@
 				"ratings": 3,
 				"score": 1.691,
 				"t_publish_diff": 8287000
+			}
+		]
+	},
+	{
+		"jammer": "merlinott",
+		"jammer_link": "https://merlinott.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"title": "Trapped",
+				"title_link": "https://merlinott.itch.io/trapped",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810911",
+				"by": [
+					"merlinott"
+				],
+				"by_link": [
+					"https://merlinott.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 9,
+				"score": 3.167,
+				"t_publish_diff": -7281000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"title": "Lost Fish",
+				"title_link": "https://merlinott.itch.io/lost-fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572262",
+				"by": [
+					"merlinott"
+				],
+				"by_link": [
+					"https://merlinott.itch.io/"
+				],
+				"rank": 169,
+				"ratings": 11,
+				"score": 2.295,
+				"t_publish_diff": -14692000
 			}
 		]
 	}

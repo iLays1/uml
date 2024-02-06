@@ -44,7 +44,8 @@
 				],
 				"rank": 27,
 				"ratings": 9,
-				"score": 1.612
+				"score": 1.612,
+				"t_publish_diff": -6097000
 			}
 		]
 	},
@@ -1425,11 +1426,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203877",
 				"by": [
 					"Slaps",
-					"Iceadin"
+					"ailukhin"
 				],
 				"by_link": [
 					"https://s1aps.itch.io/",
-					"https://iceadin.itch.io/"
+					"https://ailukhin.itch.io/"
 				],
 				"rank": 43,
 				"ratings": 9,

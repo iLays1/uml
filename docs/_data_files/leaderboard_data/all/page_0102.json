@@ -1,40 +1,5 @@
 [
 	{
-		"jammer": "Shaer_Maer",
-		"jammer_link": "https://shaer-maer.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"title": "Follow the Spark",
-				"title_link": "https://sealnf.itch.io/followthespark",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481453",
-				"by": [
-					"Seals And Faces",
-					"Shaer_Maer",
-					"vunria",
-					"Atrium Garden",
-					"Bullwafka",
-					"kiririn39m"
-				],
-				"by_link": [
-					"https://sealnf.itch.io/",
-					"https://shaer-maer.itch.io/",
-					"https://vunria.itch.io/",
-					"https://atriumgarden.itch.io/",
-					"https://bullwafka.itch.io/",
-					"https://kiririn39m.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 8,
-				"score": 2.813,
-				"t_publish_diff": -25704000
-			}
-		]
-	},
-	{
 		"jammer": "vunria",
 		"jammer_link": "https://vunria.itch.io/",
 		"list_game_sorted": [

@@ -1,38 +1,5 @@
 [
 	{
-		"jammer": "DuffusWaffleButt",
-		"jammer_link": "https://duffuswafflebutt.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"title": "The Pilgrims",
-				"title_link": "https://arzza.itch.io/thepilgrims",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
-				"by": [
-					"Arzza",
-					"R3D",
-					"DuffusWaffleButt",
-					"CloMousse",
-					"Roxling"
-				],
-				"by_link": [
-					"https://arzza.itch.io/",
-					"https://r3david.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://clomousse.itch.io/",
-					"https://roxling.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 3.95,
-				"t_publish_diff": -13305000
-			}
-		]
-	},
-	{
 		"jammer": "CloMousse",
 		"jammer_link": "https://clomousse.itch.io/",
 		"list_game_sorted": [
@@ -3140,6 +3107,75 @@
 	{
 		"jammer": "Grigorii Pika",
 		"jammer_link": "https://lockd.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"title": "Dino's Nightmare",
+				"title_link": "https://lockd.itch.io/dinos-nightmare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810196",
+				"by": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 11,
+				"score": 3.886,
+				"t_publish_diff": -36408000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"title": "Windows Defense",
+				"title_link": "https://lockd.itch.io/windows-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832094",
+				"by": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 21,
+				"score": 3.595,
+				"t_publish_diff": -16015000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"title": "Stay Choppy",
+				"title_link": "https://valdevelopment.itch.io/stay-choppy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889796",
+				"by": [
+					"Vladislav Fedorov",
+					"Grigorii Pika"
+				],
+				"by_link": [
+					"https://valdevelopment.itch.io/",
+					"https://lockd.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 6,
+				"score": 3.125,
+				"t_publish_diff": -13515000
+			}
+		]
+	},
+	{
+		"jammer": "Vladislav Fedorov",
+		"jammer_link": "https://valdevelopment.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

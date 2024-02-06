@@ -1,5 +1,40 @@
 [
 	{
+		"jammer": "Aedric",
+		"jammer_link": "https://aedric.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"title": "Succu-Bus",
+				"title_link": "https://gwelkind.itch.io/succu-bus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593069",
+				"by": [
+					"Gwelkind",
+					"saucysaja",
+					"curelapse",
+					"Aedric",
+					"tetracup",
+					"Xazzy"
+				],
+				"by_link": [
+					"https://gwelkind.itch.io/",
+					"https://saucysaja.itch.io/",
+					"https://curelapse.itch.io/",
+					"https://aedric.itch.io/",
+					"https://tetracup.itch.io/",
+					"https://xazzy.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 24,
+				"score": 3.771,
+				"t_publish_diff": 85337000
+			}
+		]
+	},
+	{
 		"jammer": "tetracup",
 		"jammer_link": "https://tetracup.itch.io/",
 		"list_game_sorted": [
@@ -2606,30 +2641,6 @@
 				"ratings": 4,
 				"score": 1.582,
 				"t_publish_diff": -12459000
-			}
-		]
-	},
-	{
-		"jammer": "salube",
-		"jammer_link": "https://salube.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 31,
-				"jam_name": "Movies",
-				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
-				"title": "13. Friday",
-				"title_link": "https://salube.itch.io/13-friday",
-				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444943",
-				"by": [
-					"salube"
-				],
-				"by_link": [
-					"https://salube.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 4,
-				"score": 1.37
 			}
 		]
 	}

@@ -1,74 +1,5 @@
 [
 	{
-		"jammer": "Vladislav Fedorov",
-		"jammer_link": "https://valdevelopment.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 120,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
-				"title": "Dino's Nightmare",
-				"title_link": "https://lockd.itch.io/dinos-nightmare",
-				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810196",
-				"by": [
-					"Grigorii Pika",
-					"Vladislav Fedorov"
-				],
-				"by_link": [
-					"https://lockd.itch.io/",
-					"https://valdevelopment.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 11,
-				"score": 3.886,
-				"t_publish_diff": -36408000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"title": "Windows Defense",
-				"title_link": "https://lockd.itch.io/windows-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832094",
-				"by": [
-					"Grigorii Pika",
-					"Vladislav Fedorov"
-				],
-				"by_link": [
-					"https://lockd.itch.io/",
-					"https://valdevelopment.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 21,
-				"score": 3.595,
-				"t_publish_diff": -16015000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 124,
-				"jam_name": "Warmth",
-				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"title": "Stay Choppy",
-				"title_link": "https://valdevelopment.itch.io/stay-choppy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889796",
-				"by": [
-					"Vladislav Fedorov",
-					"Grigorii Pika"
-				],
-				"by_link": [
-					"https://valdevelopment.itch.io/",
-					"https://lockd.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 6,
-				"score": 3.125,
-				"t_publish_diff": -13515000
-			}
-		]
-	},
-	{
 		"jammer": "Constantin Liétard",
 		"jammer_link": "https://screenshakes.itch.io/",
 		"list_game_sorted": [
@@ -3471,6 +3402,37 @@
 	{
 		"jammer": "devindecibel",
 		"jammer_link": "https://devindecibel.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"title": "Our last day",
+				"title_link": "https://lucaszilke.itch.io/our-last-day",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831407",
+				"by": [
+					"lucaszilke",
+					"devindecibel",
+					"Marynator",
+					"Jey"
+				],
+				"by_link": [
+					"https://lucaszilke.itch.io/",
+					"https://devindecibel.itch.io/",
+					"https://marynator.itch.io/",
+					"https://missjeyjones.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 8,
+				"score": 2.208,
+				"t_publish_diff": -9046000
+			}
+		]
+	},
+	{
+		"jammer": "Marynator",
+		"jammer_link": "https://marynator.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
