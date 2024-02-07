@@ -11,8 +11,6 @@ async function main() {
 
 	let options = ScrapFiles.options_obj_create();
 	options.list_rewrite_these_files = [link];
-	options.create_jam_list_file = false;
-	options.use_jam_list_json = true;
 
 	await ScrapFiles.main(options);
 }
