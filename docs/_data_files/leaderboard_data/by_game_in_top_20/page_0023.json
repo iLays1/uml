@@ -1,5 +1,441 @@
 [
 	{
+		"jammer": "MitchIsMe",
+		"jammer_link": "https://mitchisme.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"title": "Curse of the Cavern",
+				"title_link": "https://mitchisme.itch.io/curse-of-the-cavern",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2414570",
+				"by": [
+					"MitchIsMe"
+				],
+				"by_link": [
+					"https://mitchisme.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 16,
+				"score": 3.391,
+				"t_publish_diff": -4759000
+			}
+		]
+	},
+	{
+		"jammer": "Oriorii",
+		"jammer_link": "https://oriolcs2.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "Víctor Segura",
+		"jammer_link": "https://victorgg-11.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "didaclis",
+		"jammer_link": "https://didaclis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "RoperoIvan",
+		"jammer_link": "https://roperoivan.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "PeterMcP",
+		"jammer_link": "https://petermcp.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "Pol Recasens",
+		"jammer_link": "https://polhostrex.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "Akius",
+		"jammer_link": "https://akius.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "christt105",
+		"jammer_link": "https://christt105.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375
+			}
+		]
+	},
+	{
+		"jammer": "Verianno",
+		"jammer_link": "https://verianno.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"title": "Deceptive City",
+				"title_link": "https://verianno.itch.io/deceptive-city",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134468",
+				"by": [
+					"Verianno"
+				],
+				"by_link": [
+					"https://verianno.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 19,
+				"score": 3.355,
+				"t_publish_diff": -15581000
+			}
+		]
+	},
+	{
+		"jammer": "AmarthGul",
+		"jammer_link": "https://amarthgul.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 78,
+				"jam_name": "Bugs",
+				"jam_link": "https://itch.io/jam/mini-jam-78-bugs",
+				"title": "Do Dung Cybugs Push Code Balls",
+				"title_link": "https://amarthgul.itch.io/do-dung-cybugs-push-code-balls",
+				"submission_page_link": "https://itch.io/jam/mini-jam-78-bugs/rate/1002495",
+				"by": [
+					"AmarthGul"
+				],
+				"by_link": [
+					"https://amarthgul.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 8,
+				"score": 3.326,
+				"t_publish_diff": -28170000
+			}
+		]
+	},
+	{
+		"jammer": "Acropolise",
+		"jammer_link": "https://acropolis.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"title": "Roasis",
+				"title_link": "https://acropolis.itch.io/roasis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632944",
+				"by": [
+					"Acropolise"
+				],
+				"by_link": [
+					"https://acropolis.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 21,
+				"score": 3.324,
+				"t_publish_diff": -26693000
+			}
+		]
+	},
+	{
 		"jammer": "Raiku",
 		"jammer_link": "https://rykuzustudios310.itch.io/",
 		"list_game_sorted": [
@@ -2267,6 +2703,58 @@
 		]
 	},
 	{
+		"jammer": "Dreadware Games",
+		"jammer_link": "https://dreadware-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Midas' Maw",
+				"title_link": "https://dreadware-games.itch.io/midas-maw",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513136",
+				"by": [
+					"Dreadware Games"
+				],
+				"by_link": [
+					"https://dreadware-games.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.614,
+				"t_publish_diff": -642000
+			}
+		]
+	},
+	{
+		"jammer": "WrysIlia",
+		"jammer_link": "https://wrysilia.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon scales hunter",
+				"title_link": "https://catlaiya.itch.io/dragonsscaleshunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2514832",
+				"by": [
+					"Catlaiya",
+					"WrysIlia"
+				],
+				"by_link": [
+					"https://catlaiya.itch.io/",
+					"https://wrysilia.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.614,
+				"t_publish_diff": 133666000
+			}
+		]
+	},
+	{
 		"jammer": "copperrhombus",
 		"jammer_link": "https://copperrhombus.itch.io/",
 		"list_game_sorted": [
@@ -2378,384 +2866,6 @@
 				"rank": 17,
 				"ratings": 14,
 				"score": 3.607
-			}
-		]
-	},
-	{
-		"jammer": "Katarsis",
-		"jammer_link": "https://katarsis.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 60,
-				"jam_name": "Crime",
-				"jam_link": "https://itch.io/jam/mini-jam-60",
-				"title": "The Great Duckscape",
-				"title_link": "https://fritootheend.itch.io/the-great-duckscape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726622",
-				"by": [
-					"Evelyn",
-					"Bremka",
-					"Quill",
-					"Katarsis"
-				],
-				"by_link": [
-					"https://fritootheend.itch.io/",
-					"https://bremka.itch.io/",
-					"https://quillington.itch.io/",
-					"https://katarsis.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 14,
-				"score": 3.607
-			}
-		]
-	},
-	{
-		"jammer": "ocean24",
-		"jammer_link": "https://ocean24.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"title": "Final Flame",
-				"title_link": "https://ocean24.itch.io/final-flame",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364448",
-				"by": [
-					"ocean24"
-				],
-				"by_link": [
-					"https://ocean24.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 7,
-				"score": 3.607,
-				"t_publish_diff": -22672000
-			}
-		]
-	},
-	{
-		"jammer": "Sannyix",
-		"jammer_link": "https://sannyix.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"title": "Dangerous Cave of Danger",
-				"title_link": "https://sannyix.itch.io/dangerous-cave-of-danger",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366300",
-				"by": [
-					"Sannyix"
-				],
-				"by_link": [
-					"https://sannyix.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.591,
-				"t_publish_diff": -221000
-			}
-		]
-	},
-	{
-		"jammer": "Team Leaf",
-		"jammer_link": "https://team-leaf.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Sneaky Snacks",
-				"title_link": "https://team-leaf.itch.io/sneaky-snacks",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689226",
-				"by": [
-					"Team Leaf",
-					"Rivercloud",
-					"IronFeatherGames"
-				],
-				"by_link": [
-					"https://team-leaf.itch.io/",
-					"https://rivercloud.itch.io/",
-					"https://ironfeathergames.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.583,
-				"t_publish_diff": 5000
-			}
-		]
-	},
-	{
-		"jammer": "Rivercloud",
-		"jammer_link": "https://rivercloud.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Sneaky Snacks",
-				"title_link": "https://team-leaf.itch.io/sneaky-snacks",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689226",
-				"by": [
-					"Team Leaf",
-					"Rivercloud",
-					"IronFeatherGames"
-				],
-				"by_link": [
-					"https://team-leaf.itch.io/",
-					"https://rivercloud.itch.io/",
-					"https://ironfeathergames.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.583,
-				"t_publish_diff": 5000
-			}
-		]
-	},
-	{
-		"jammer": "IronFeatherGames",
-		"jammer_link": "https://ironfeathergames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Sneaky Snacks",
-				"title_link": "https://team-leaf.itch.io/sneaky-snacks",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/689226",
-				"by": [
-					"Team Leaf",
-					"Rivercloud",
-					"IronFeatherGames"
-				],
-				"by_link": [
-					"https://team-leaf.itch.io/",
-					"https://rivercloud.itch.io/",
-					"https://ironfeathergames.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.583,
-				"t_publish_diff": 5000
-			}
-		]
-	},
-	{
-		"jammer": "Markus Unger",
-		"jammer_link": "https://markusungerdev.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 94,
-				"jam_name": "Baking",
-				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"title": "Bread and Butter 🍞🔥",
-				"title_link": "https://ernani.itch.io/breadandbutter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1294705",
-				"by": [
-					"ernani",
-					"Markus Unger"
-				],
-				"by_link": [
-					"https://ernani.itch.io/",
-					"https://markusungerdev.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 21,
-				"score": 3.583,
-				"t_publish_diff": -20256000
-			}
-		]
-	},
-	{
-		"jammer": "ohcurtains",
-		"jammer_link": "https://ohcurtains.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"title": "Fugue Blaster",
-				"title_link": "https://ohcurtains.itch.io/fugue-blaster",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1552777",
-				"by": [
-					"ohcurtains"
-				],
-				"by_link": [
-					"https://ohcurtains.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 24,
-				"score": 3.583,
-				"t_publish_diff": -5136000
-			}
-		]
-	},
-	{
-		"jammer": "Mister303",
-		"jammer_link": "https://mister-303.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 67,
-				"jam_name": "Void",
-				"jam_link": "https://itch.io/jam/mini-jam-67-void",
-				"title": "What the Void",
-				"title_link": "https://mister-303.itch.io/what-the-void",
-				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/822528",
-				"by": [
-					"Mister303"
-				],
-				"by_link": [
-					"https://mister-303.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 15,
-				"score": 3.567
-			}
-		]
-	},
-	{
-		"jammer": "Pepotrouille",
-		"jammer_link": "https://pepotrouille.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"title": "Sisyphus and the Pumpkin",
-				"title_link": "https://pepotrouille.itch.io/sisyphus-and-the-pumpkin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1202902",
-				"by": [
-					"Pepotrouille"
-				],
-				"by_link": [
-					"https://pepotrouille.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 23,
-				"score": 3.554,
-				"t_publish_diff": -29846000
-			}
-		]
-	},
-	{
-		"jammer": "jill",
-		"jammer_link": "https://oatmealine.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"title": "Cathy Ray's Tubular Training",
-				"title_link": "https://oatmealine.itch.io/cathy-rays-tubular-training",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1908386",
-				"by": [
-					"jill",
-					"maggiemagius"
-				],
-				"by_link": [
-					"https://oatmealine.itch.io/",
-					"https://maggiemagius.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.545,
-				"t_publish_diff": -195000
-			}
-		]
-	},
-	{
-		"jammer": "maggiemagius",
-		"jammer_link": "https://maggiemagius.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"title": "Cathy Ray's Tubular Training",
-				"title_link": "https://oatmealine.itch.io/cathy-rays-tubular-training",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1908386",
-				"by": [
-					"jill",
-					"maggiemagius"
-				],
-				"by_link": [
-					"https://oatmealine.itch.io/",
-					"https://maggiemagius.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.545,
-				"t_publish_diff": -195000
-			}
-		]
-	},
-	{
-		"jammer": "petunio123",
-		"jammer_link": "https://petunio123.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 116,
-				"jam_name": "Pocket Sized",
-				"jam_link": "https://itch.io/jam/mini-jam-116-pocket-sized",
-				"title": "pocket memory",
-				"title_link": "https://petunio123.itch.io/pocket-memory",
-				"submission_page_link": "https://itch.io/jam/mini-jam-116-pocket-sized/rate/1726351",
-				"by": [
-					"petunio123"
-				],
-				"by_link": [
-					"https://petunio123.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 7,
-				"score": 3.5,
-				"t_publish_diff": -180199000
-			}
-		]
-	},
-	{
-		"jammer": "Nocity",
-		"jammer_link": "https://nocity.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"title": "Turtle Island Defense",
-				"title_link": "https://nocity.itch.io/turtle-island-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592806",
-				"by": [
-					"Nocity",
-					"quweert",
-					"FarBeyond Studio",
-					"Haiyoooo | Artist"
-				],
-				"by_link": [
-					"https://nocity.itch.io/",
-					"https://quweert.itch.io/",
-					"https://farbeyond-studio.itch.io/",
-					"https://haiyoooo.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 9,
-				"score": 3.489,
-				"t_publish_diff": -1578000
 			}
 		]
 	}

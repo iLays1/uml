@@ -1,5 +1,318 @@
 [
 	{
+		"id": 141,
+		"jam_name": "Stories",
+		"link": "https://itch.io/jam/mini-jam-141-stories",
+		"num_of_game": 43,
+		"num_of_jammer": 49,
+		"num_of_new_jammer": 28,
+		"list": [
+			{
+				"title": "Cheat Codes",
+				"title_link": "https://jnwjchannel.itch.io/cheat-codes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266878",
+				"by": [
+					"Jax"
+				],
+				"by_link": [
+					"https://jnwjchannel.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 29,
+				"score": 4.069,
+				"t_publish_diff": -45195000
+			},
+			{
+				"title": "Overtoasted",
+				"title_link": "https://fortyvszero.itch.io/overtoasted",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267805",
+				"by": [
+					"FortyVsZero"
+				],
+				"by_link": [
+					"https://fortyvszero.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 19,
+				"score": 3.763,
+				"t_publish_diff": -30486000
+			},
+			{
+				"title": "The Queen is OP",
+				"title_link": "https://triplecubes.itch.io/the-queen-is-op",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2269137",
+				"by": [
+					"TripleCubes"
+				],
+				"by_link": [
+					"https://triplecubes.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 16,
+				"score": 3.734,
+				"t_publish_diff": 33023000
+			},
+			{
+				"title": "Goldilocks: Genisys",
+				"title_link": "https://clapmonster.itch.io/goldilocks-genisys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268548",
+				"by": [
+					"Clapmonster"
+				],
+				"by_link": [
+					"https://clapmonster.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 3.671,
+				"t_publish_diff": -1740000
+			},
+			{
+				"title": "Combustum",
+				"title_link": "https://aerial301.itch.io/combustum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266414",
+				"by": [
+					"aerial301"
+				],
+				"by_link": [
+					"https://aerial301.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 11,
+				"score": 3.614
+			},
+			{
+				"title": "need for exp",
+				"title_link": "https://in-haze.itch.io/need-for-exp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2265867",
+				"by": [
+					"In Haze Games"
+				],
+				"by_link": [
+					"https://in-haze.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 8,
+				"score": 3.438
+			},
+			{
+				"title": "A Headless Story",
+				"title_link": "https://thenyx.itch.io/a-headless-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268319",
+				"by": [
+					"Nyx_Dev"
+				],
+				"by_link": [
+					"https://thenyx.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.411,
+				"t_publish_diff": -12019000
+			},
+			{
+				"title": "Over 9000!",
+				"title_link": "https://lord-pillows.itch.io/9000",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268459",
+				"by": [
+					"Piellow"
+				],
+				"by_link": [
+					"https://lord-pillows.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 13,
+				"score": 3.404
+			},
+			{
+				"title": "The Sky is Grey Today",
+				"title_link": "https://hgyvtfgc.itch.io/the-sky-is-grey-today",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268456",
+				"by": [
+					"Name"
+				],
+				"by_link": [
+					"https://hgyvtfgc.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.365,
+				"t_publish_diff": -5841000
+			},
+			{
+				"title": "N.U.K.E.",
+				"title_link": "https://matharoo.itch.io/nuke",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268117",
+				"by": [
+					"Gurpreet Singh Matharoo"
+				],
+				"by_link": [
+					"https://matharoo.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 7,
+				"score": 3.305,
+				"t_publish_diff": -21476000
+			},
+			{
+				"title": "The Great Elder",
+				"title_link": "https://belfarfinoli.itch.io/the-great-elder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268453",
+				"by": [
+					"Belfar &amp; Finoli",
+					"Eduardo \"mrtheduts\" Souza",
+					"Matheus"
+				],
+				"by_link": [
+					"https://belfarfinoli.itch.io/",
+					"https://mrtheduts.itch.io/",
+					"https://theusbrz.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 10,
+				"score": 3.289,
+				"t_publish_diff": -6505000
+			},
+			{
+				"title": "Dragon Party",
+				"title_link": "https://dgeisert.itch.io/dragon-party",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268408",
+				"by": [
+					"dg"
+				],
+				"by_link": [
+					"https://dgeisert.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 13,
+				"score": 3.231,
+				"t_publish_diff": -8572000
+			},
+			{
+				"title": "Knife Runner",
+				"title_link": "https://gazzola.itch.io/knife-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2262483",
+				"by": [
+					"Tiago Gazzola",
+					"Igor Flores"
+				],
+				"by_link": [
+					"https://gazzola.itch.io/",
+					"https://igorflores.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 10,
+				"score": 3.218,
+				"t_publish_diff": -3330000
+			},
+			{
+				"title": "Bookworm",
+				"title_link": "https://ryanlaycock.itch.io/bookworm",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266245",
+				"by": [
+					"ryanlaycock"
+				],
+				"by_link": [
+					"https://ryanlaycock.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 12,
+				"score": 3.208,
+				"t_publish_diff": -213000
+			},
+			{
+				"title": "Booreau",
+				"title_link": "https://telathion.itch.io/booreau",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268313",
+				"by": [
+					"telathion"
+				],
+				"by_link": [
+					"https://telathion.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 10,
+				"score": 3.099
+			},
+			{
+				"title": "How do you live like this ?",
+				"title_link": "https://zhanko.itch.io/how-do-you-live-like-this",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2269190",
+				"by": [
+					"Zhanko"
+				],
+				"by_link": [
+					"https://zhanko.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.071,
+				"t_publish_diff": 34060000
+			},
+			{
+				"title": "Cats Are Over Powered",
+				"title_link": "https://777theultra.itch.io/cats-are-over-powered",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268534",
+				"by": [
+					"777theultra"
+				],
+				"by_link": [
+					"https://777theultra.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 18,
+				"score": 3.056,
+				"t_publish_diff": -1200000
+			},
+			{
+				"title": "Booma",
+				"title_link": "https://addsense.itch.io/champ",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268578",
+				"by": [
+					"addsense"
+				],
+				"by_link": [
+					"https://addsense.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 14,
+				"score": 3.018
+			},
+			{
+				"title": "My Sweet Library",
+				"title_link": "https://kivenkojulia.itch.io/my-sweet-library",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267500",
+				"by": [
+					"Julia Kivenko"
+				],
+				"by_link": [
+					"https://kivenkojulia.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 12,
+				"score": 3,
+				"t_publish_diff": -37777000
+			},
+			{
+				"title": "Take Over",
+				"title_link": "https://therealreynold.itch.io/take-over",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268204",
+				"by": [
+					"TheRealReynold",
+					"loddisjourney"
+				],
+				"by_link": [
+					"https://therealreynold.itch.io/",
+					"https://loddisjourney.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 13,
+				"score": 2.981,
+				"t_publish_diff": -17441000
+			}
+		]
+	},
+	{
 		"id": 140,
 		"jam_name": "Dungeons",
 		"link": "https://itch.io/jam/mini-jam-140-dungeons",
@@ -2930,323 +3243,6 @@
 				"ratings": 5,
 				"score": 3.058,
 				"t_publish_diff": 210571000
-			}
-		]
-	},
-	{
-		"id": 131,
-		"jam_name": "Solar",
-		"link": "https://itch.io/jam/mini-jam-131-solar",
-		"num_of_game": 59,
-		"num_of_jammer": 70,
-		"num_of_new_jammer": 28,
-		"list": [
-			{
-				"title": "Running Hot",
-				"title_link": "https://fmlad.itch.io/running-hot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045533",
-				"by": [
-					"Fmlad"
-				],
-				"by_link": [
-					"https://fmlad.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 18,
-				"score": 4.208
-			},
-			{
-				"title": "Rise &amp; Shine",
-				"title_link": "https://smidge7.itch.io/rise-and-shine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041054",
-				"by": [
-					"Smidge7"
-				],
-				"by_link": [
-					"https://smidge7.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 31,
-				"score": 4.185,
-				"t_publish_diff": -188588000
-			},
-			{
-				"title": "Solar King Vs Vampire",
-				"title_link": "https://lord-coconut.itch.io/solar-king-vs-vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045028",
-				"by": [
-					"Lord_Coconut"
-				],
-				"by_link": [
-					"https://lord-coconut.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.15,
-				"t_publish_diff": -18093000
-			},
-			{
-				"title": "Sun and Ashe",
-				"title_link": "https://antist.itch.io/sun-ashe",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2044774",
-				"by": [
-					"Antist"
-				],
-				"by_link": [
-					"https://antist.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 4.023,
-				"t_publish_diff": -23277000
-			},
-			{
-				"title": "Bad Sunrise",
-				"title_link": "https://sawd-games.itch.io/bad-sunrise",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2042114",
-				"by": [
-					"SAWD Games",
-					"DaBonky"
-				],
-				"by_link": [
-					"https://sawd-games.itch.io/",
-					"https://dabonky.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 25,
-				"score": 3.84,
-				"t_publish_diff": -193000
-			},
-			{
-				"title": "Greeen Goo Glide",
-				"title_link": "https://fezumlix.itch.io/greeen-goo-glide",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045318",
-				"by": [
-					"Fezumlix"
-				],
-				"by_link": [
-					"https://fezumlix.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 16,
-				"score": 3.688,
-				"t_publish_diff": -9800000
-			},
-			{
-				"title": "Boom Boom Froggy",
-				"title_link": "https://brandloose.itch.io/boom-boom-froggy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045667",
-				"by": [
-					"Brandloose"
-				],
-				"by_link": [
-					"https://brandloose.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 25,
-				"score": 3.68,
-				"t_publish_diff": -658000
-			},
-			{
-				"title": "helping yourself",
-				"title_link": "https://birdfourbirdfour.itch.io/helping-yourself",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2044343",
-				"by": [
-					"birdfour"
-				],
-				"by_link": [
-					"https://birdfourbirdfour.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 10,
-				"score": 3.6,
-				"t_publish_diff": -33383000
-			},
-			{
-				"title": "Sol Iterations",
-				"title_link": "https://tom-purcell.itch.io/sol-interations",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2043513",
-				"by": [
-					"Tom Purcell"
-				],
-				"by_link": [
-					"https://tom-purcell.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 3.55,
-				"t_publish_diff": -50170000
-			},
-			{
-				"title": "Burnt Out",
-				"title_link": "https://mack-conn.itch.io/burnt-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/1999831",
-				"by": [
-					"mack_conn"
-				],
-				"by_link": [
-					"https://mack-conn.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 11,
-				"score": 3.545,
-				"t_publish_diff": -2431017000
-			},
-			{
-				"title": "SUNSHAMAN",
-				"title_link": "https://alexdv1.itch.io/sunshaman",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041602",
-				"by": [
-					"AlexdV",
-					"DrDeadlock",
-					"duplo"
-				],
-				"by_link": [
-					"https://alexdv1.itch.io/",
-					"https://drdeadlock.itch.io/",
-					"https://duplooo.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 15,
-				"score": 3.5
-			},
-			{
-				"title": "Orbital Defense",
-				"title_link": "https://cocaw.itch.io/orbitaldefense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2042919",
-				"by": [
-					"cocaw"
-				],
-				"by_link": [
-					"https://cocaw.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 10,
-				"score": 3.4,
-				"t_publish_diff": -11507000
-			},
-			{
-				"title": "Solar Punks",
-				"title_link": "https://muupi.itch.io/solarpunks",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041011",
-				"by": [
-					"muupi"
-				],
-				"by_link": [
-					"https://muupi.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 12,
-				"score": 3.396,
-				"t_publish_diff": -14819000
-			},
-			{
-				"title": "Dracula's Errand",
-				"title_link": "https://mucrow.itch.io/draculas-errand",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045591",
-				"by": [
-					"mucrow"
-				],
-				"by_link": [
-					"https://mucrow.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 14,
-				"score": 3.339
-			},
-			{
-				"title": "Eternal Possession",
-				"title_link": "https://brigdog.itch.io/eternal-possession",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2040523",
-				"by": [
-					"BrigDog"
-				],
-				"by_link": [
-					"https://brigdog.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 12,
-				"score": 3.333,
-				"t_publish_diff": -132650000
-			},
-			{
-				"title": "Don't Don't Blow Up the Sun",
-				"title_link": "https://crgss.itch.io/dont-dont-blow-up-the-sun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045705",
-				"by": [
-					"CRG"
-				],
-				"by_link": [
-					"https://crgss.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 8,
-				"score": 3.3,
-				"t_publish_diff": 1777000
-			},
-			{
-				"title": "Like Moths to a Star",
-				"title_link": "https://mewore.itch.io/like-moths-to-a-star",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045291",
-				"by": [
-					"Mewore",
-					"nyu"
-				],
-				"by_link": [
-					"https://mewore.itch.io/",
-					"https://neuetanz.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.273,
-				"t_publish_diff": -216000
-			},
-			{
-				"title": "Solar Friendship",
-				"title_link": "https://pkmollman.itch.io/solar-friendship",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2043758",
-				"by": [
-					"pkmollman",
-					"CombatByrd"
-				],
-				"by_link": [
-					"https://pkmollman.itch.io/",
-					"https://combatbyrd.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 16,
-				"score": 3.234,
-				"t_publish_diff": -46436000
-			},
-			{
-				"title": "Son of Sun",
-				"title_link": "https://davidovichz.itch.io/son-of-sun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045701",
-				"by": [
-					"davidovichzx"
-				],
-				"by_link": [
-					"https://davidovichz.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 9,
-				"score": 3.194,
-				"t_publish_diff": 54000
-			},
-			{
-				"title": "Starbound Sail",
-				"title_link": "https://avimations.itch.io/starbound-sail",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2042226",
-				"by": [
-					"Avimations"
-				],
-				"by_link": [
-					"https://avimations.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 9,
-				"score": 3.167,
-				"t_publish_diff": -118650000
 			}
 		]
 	}

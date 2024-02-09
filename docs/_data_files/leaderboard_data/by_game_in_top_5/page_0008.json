@@ -1,5 +1,88 @@
 [
 	{
+		"jammer": "Maria GameDev",
+		"jammer_link": "https://maria-gamedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Oasisles",
+				"title_link": "https://skopjie.itch.io/oasisles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592268",
+				"by": [
+					"Skopjie",
+					"Maria GameDev",
+					"Alejandro_gamedev"
+				],
+				"by_link": [
+					"https://skopjie.itch.io/",
+					"https://maria-gamedev.itch.io/",
+					"https://alejandro-gamedev.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 18,
+				"score": 3.744,
+				"t_publish_diff": -47472000
+			}
+		]
+	},
+	{
+		"jammer": "Alejandro_gamedev",
+		"jammer_link": "https://alejandro-gamedev.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"title": "Oasisles",
+				"title_link": "https://skopjie.itch.io/oasisles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592268",
+				"by": [
+					"Skopjie",
+					"Maria GameDev",
+					"Alejandro_gamedev"
+				],
+				"by_link": [
+					"https://skopjie.itch.io/",
+					"https://maria-gamedev.itch.io/",
+					"https://alejandro-gamedev.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 18,
+				"score": 3.744,
+				"t_publish_diff": -47472000
+			}
+		]
+	},
+	{
+		"jammer": "evldandy",
+		"jammer_link": "https://evldandy.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 26,
+				"jam_name": "Storms",
+				"jam_link": "https://itch.io/jam/mini-jam-26-storms",
+				"title": "Refuge",
+				"title_link": "https://evldandy.itch.io/refuge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-26-storms/rate/409604",
+				"by": [
+					"evldandy"
+				],
+				"by_link": [
+					"https://evldandy.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 3.743,
+				"t_publish_diff": -1738000
+			}
+		]
+	},
+	{
 		"jammer": "Josh Larminay",
 		"jammer_link": "https://jlarminay.itch.io/",
 		"list_game_sorted": [

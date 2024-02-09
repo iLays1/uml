@@ -1,5 +1,54 @@
 [
 	{
+		"jammer": "Super8BitRafa",
+		"jammer_link": "https://super8bitrafa.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 19,
+				"jam_name": "Mysteries",
+				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
+				"title": "do robots dream?",
+				"title_link": "https://super8bitrafa.itch.io/m",
+				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/356092",
+				"by": [
+					"Super8BitRafa"
+				],
+				"by_link": [
+					"https://super8bitrafa.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.381
+			}
+		]
+	},
+	{
+		"jammer": "sadgirls",
+		"jammer_link": "https://sadgirls.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"title": "MEGALODON DATING SIMULATOR",
+				"title_link": "https://sadgirls.itch.io/megladon-dating-simulator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459860",
+				"by": [
+					"sadgirls"
+				],
+				"by_link": [
+					"https://sadgirls.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 17,
+				"score": 4.368,
+				"t_publish_diff": -6888000
+			}
+		]
+	},
+	{
 		"jammer": "Kelsala",
 		"jammer_link": "https://kelsala.itch.io/",
 		"list_game_sorted": [
@@ -2165,6 +2214,31 @@
 		]
 	},
 	{
+		"jammer": "Aletuno",
+		"jammer_link": "https://alejandroaceytunogonzalez.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon Hoarder",
+				"title_link": "https://alejandroaceytunogonzalez.itch.io/dragon-hoarder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512110",
+				"by": [
+					"Aletuno"
+				],
+				"by_link": [
+					"https://alejandroaceytunogonzalez.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.321,
+				"t_publish_diff": -33863000
+			}
+		]
+	},
+	{
 		"jammer": "YouDoYouBuddy",
 		"jammer_link": "https://youdoyoubuddy.itch.io/",
 		"list_game_sorted": [
@@ -2619,91 +2693,6 @@
 				"ratings": 18,
 				"score": 4.194,
 				"t_publish_diff": -19814000
-			}
-		]
-	},
-	{
-		"jammer": "ggg10wr",
-		"jammer_link": "https://ggg10wr.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"title": "Heart and Soul",
-				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
-				"by": [
-					"The_Hat_Guy",
-					"ggg10wr"
-				],
-				"by_link": [
-					"https://the-hat-guy.itch.io/",
-					"https://ggg10wr.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 16,
-				"score": 4.188,
-				"t_publish_diff": -19058000
-			}
-		]
-	},
-	{
-		"jammer": "Old-World-Bird",
-		"jammer_link": "https://old-world-bird.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "Vampire's hunt",
-				"title_link": "https://flavedogame.itch.io/vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1765848",
-				"by": [
-					"flavedogame",
-					"Old-World-Bird",
-					"diago.music"
-				],
-				"by_link": [
-					"https://flavedogame.itch.io/",
-					"https://old-world-bird.itch.io/",
-					"https://diagomusic.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 4.182,
-				"t_publish_diff": -16710000
-			}
-		]
-	},
-	{
-		"jammer": "diago.music",
-		"jammer_link": "https://diagomusic.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "Vampire's hunt",
-				"title_link": "https://flavedogame.itch.io/vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1765848",
-				"by": [
-					"flavedogame",
-					"Old-World-Bird",
-					"diago.music"
-				],
-				"by_link": [
-					"https://flavedogame.itch.io/",
-					"https://old-world-bird.itch.io/",
-					"https://diagomusic.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 4.182,
-				"t_publish_diff": -16710000
 			}
 		]
 	}

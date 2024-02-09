@@ -1,5 +1,134 @@
 [
 	{
+		"jammer": "Beta",
+		"jammer_link": "https://beta.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 93,
+				"jam_name": "Vacation",
+				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
+				"title": "You are the level",
+				"title_link": "https://beta.itch.io/you-are-the-level",
+				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1277516",
+				"by": [
+					"Beta"
+				],
+				"by_link": [
+					"https://beta.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 16,
+				"score": 3.797,
+				"t_publish_diff": -34134000
+			}
+		]
+	},
+	{
+		"jammer": "Star Banner Games",
+		"jammer_link": "https://starbannergames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"title": "SNOCKER",
+				"title_link": "https://starbannergames.itch.io/snocker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153273",
+				"by": [
+					"Star Banner Games"
+				],
+				"by_link": [
+					"https://starbannergames.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 12,
+				"score": 3.792,
+				"t_publish_diff": -375000
+			}
+		]
+	},
+	{
+		"jammer": "Static gamin",
+		"jammer_link": "https://static-gamin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"title": "STAGNANT TOWER",
+				"title_link": "https://static-gamin.itch.io/stagnant-tower",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2362532",
+				"by": [
+					"Static gamin"
+				],
+				"by_link": [
+					"https://static-gamin.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 6,
+				"score": 3.78,
+				"t_publish_diff": -116309000
+			}
+		]
+	},
+	{
+		"jammer": "dobydigital",
+		"jammer_link": "https://dobydigital.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 36,
+				"jam_name": "Nature",
+				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
+				"title": "The Green Thumb",
+				"title_link": "https://dobydigital.itch.io/the-green-thumb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480745",
+				"by": [
+					"dobydigital",
+					"renderbydavid"
+				],
+				"by_link": [
+					"https://dobydigital.itch.io/",
+					"https://renderbydavid.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 13,
+				"score": 3.769,
+				"t_publish_diff": -38537000
+			}
+		]
+	},
+	{
+		"jammer": "renderbydavid",
+		"jammer_link": "https://renderbydavid.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 36,
+				"jam_name": "Nature",
+				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
+				"title": "The Green Thumb",
+				"title_link": "https://dobydigital.itch.io/the-green-thumb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480745",
+				"by": [
+					"dobydigital",
+					"renderbydavid"
+				],
+				"by_link": [
+					"https://dobydigital.itch.io/",
+					"https://renderbydavid.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 13,
+				"score": 3.769,
+				"t_publish_diff": -38537000
+			}
+		]
+	},
+	{
 		"jammer": "niraami",
 		"jammer_link": "https://niraami.itch.io/",
 		"list_game_sorted": [
@@ -2472,137 +2601,6 @@
 				"ratings": 14,
 				"score": 3.911,
 				"t_publish_diff": -22369000
-			}
-		]
-	},
-	{
-		"jammer": "TheRealReynold",
-		"jammer_link": "https://therealreynold.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"title": "Blood(loss) is lethal",
-				"title_link": "https://loddisjourney.itch.io/bloodloss-is-lethal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1767898",
-				"by": [
-					"loddisjourney",
-					"TheRealReynold"
-				],
-				"by_link": [
-					"https://loddisjourney.itch.io/",
-					"https://therealreynold.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 14,
-				"score": 3.911,
-				"t_publish_diff": -22369000
-			}
-		]
-	},
-	{
-		"jammer": "AceDegenerate",
-		"jammer_link": "https://acedegenerate.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 63,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-63-future",
-				"title": "De_Sync",
-				"title_link": "https://acedegenerate.itch.io/de-sync",
-				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763696",
-				"by": [
-					"AceDegenerate",
-					"DefectiveMelon"
-				],
-				"by_link": [
-					"https://acedegenerate.itch.io/",
-					"https://defectivemelon.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.908,
-				"t_publish_diff": -670000
-			}
-		]
-	},
-	{
-		"jammer": "DefectiveMelon",
-		"jammer_link": "https://defectivemelon.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 63,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-63-future",
-				"title": "De_Sync",
-				"title_link": "https://acedegenerate.itch.io/de-sync",
-				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763696",
-				"by": [
-					"AceDegenerate",
-					"DefectiveMelon"
-				],
-				"by_link": [
-					"https://acedegenerate.itch.io/",
-					"https://defectivemelon.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 19,
-				"score": 3.908,
-				"t_publish_diff": -670000
-			}
-		]
-	},
-	{
-		"jammer": "coincidentally",
-		"jammer_link": "https://coincidentally.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 6,
-				"jam_name": "Major Jam 6: Life",
-				"jam_link": "https://itch.io/jam/major-jam-6-life",
-				"title": "The 3 Of Life",
-				"title_link": "https://coincidentally.itch.io/the-3-of-life",
-				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196020",
-				"by": [
-					"coincidentally"
-				],
-				"by_link": [
-					"https://coincidentally.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 18,
-				"score": 3.903,
-				"t_publish_diff": -40425000
-			}
-		]
-	},
-	{
-		"jammer": "ZZZZZZTEMA",
-		"jammer_link": "https://zzzzzztema.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"title": "Save the rover!",
-				"title_link": "https://zzzzzztema.itch.io/savetherover",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021206",
-				"by": [
-					"ZZZZZZTEMA"
-				],
-				"by_link": [
-					"https://zzzzzztema.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 7,
-				"score": 3.893,
-				"t_publish_diff": -7856000
 			}
 		]
 	}

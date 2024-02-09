@@ -1,5 +1,55 @@
 [
 	{
+		"jammer": "havana24",
+		"jammer_link": "https://havana24.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 23,
+				"jam_name": "Time",
+				"jam_link": "https://itch.io/jam/mini-jam-23-time",
+				"title": "Hat TV",
+				"title_link": "https://havana24.itch.io/hattv",
+				"submission_page_link": "https://itch.io/jam/mini-jam-23-time/rate/383632",
+				"by": [
+					"havana24"
+				],
+				"by_link": [
+					"https://havana24.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 3.554,
+				"t_publish_diff": -1968000
+			}
+		]
+	},
+	{
+		"jammer": "Gnome Made Games",
+		"jammer_link": "https://apollo.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 2,
+				"jam_name": "NES",
+				"jam_link": "https://itch.io/jam/mini-jam2ndedition",
+				"title": "Balloony",
+				"title_link": "https://apollo.itch.io/balloony",
+				"submission_page_link": "https://itch.io/jam/mini-jam2ndedition/rate/259781",
+				"by": [
+					"Gnome Made Games"
+				],
+				"by_link": [
+					"https://apollo.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 6,
+				"score": 3.548,
+				"t_publish_diff": -38654000
+			}
+		]
+	},
+	{
 		"jammer": "nedryz",
 		"jammer_link": "https://nedryz.itch.io/",
 		"list_game_sorted": [
@@ -453,6 +503,31 @@
 				"ratings": 21,
 				"score": 4.333,
 				"t_publish_diff": -6829000
+			}
+		]
+	},
+	{
+		"jammer": "Aletuno",
+		"jammer_link": "https://alejandroaceytunogonzalez.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon Hoarder",
+				"title_link": "https://alejandroaceytunogonzalez.itch.io/dragon-hoarder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512110",
+				"by": [
+					"Aletuno"
+				],
+				"by_link": [
+					"https://alejandroaceytunogonzalez.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.321,
+				"t_publish_diff": -33863000
 			}
 		]
 	},
@@ -2598,93 +2673,6 @@
 				"ratings": 18,
 				"score": 3.856,
 				"t_publish_diff": -36509000
-			}
-		]
-	},
-	{
-		"jammer": "A Lad",
-		"jammer_link": "https://aladvs.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"title": "Putter",
-				"title_link": "https://aladvs.itch.io/putter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164326",
-				"by": [
-					"A Lad"
-				],
-				"by_link": [
-					"https://aladvs.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 18,
-				"score": 3.847,
-				"t_publish_diff": -1086000
-			}
-		]
-	},
-	{
-		"jammer": "JohnLee Cooper",
-		"jammer_link": "https://ergman.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"title": "Nerd Bus",
-				"title_link": "https://ergman.itch.io/nerd-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
-				"by": [
-					"JohnLee Cooper",
-					"Teal_ish",
-					"guattery",
-					"PuzzSoft"
-				],
-				"by_link": [
-					"https://ergman.itch.io/",
-					"https://teal-ish.itch.io/",
-					"https://guattery.itch.io/",
-					"https://puzzsoft.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.833,
-				"t_publish_diff": -2679000
-			}
-		]
-	},
-	{
-		"jammer": "Teal_ish",
-		"jammer_link": "https://teal-ish.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"title": "Nerd Bus",
-				"title_link": "https://ergman.itch.io/nerd-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
-				"by": [
-					"JohnLee Cooper",
-					"Teal_ish",
-					"guattery",
-					"PuzzSoft"
-				],
-				"by_link": [
-					"https://ergman.itch.io/",
-					"https://teal-ish.itch.io/",
-					"https://guattery.itch.io/",
-					"https://puzzsoft.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.833,
-				"t_publish_diff": -2679000
 			}
 		]
 	}

@@ -1,5 +1,57 @@
 [
 	{
+		"jammer": "tornado cub",
+		"jammer_link": "https://tornadocub.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"title": "NICK OF TIME (jam version)",
+				"title_link": "https://viigames.itch.io/nick-of-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932215",
+				"by": [
+					"Gorethumb",
+					"tornado cub",
+					"Jefferson Toal"
+				],
+				"by_link": [
+					"https://viigames.itch.io/",
+					"https://tornadocub.itch.io/",
+					"https://jeffersontoal.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 22,
+				"score": 4.034,
+				"t_publish_diff": -3071000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 82,
+				"jam_name": "Doodle",
+				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
+				"title": "Action Jackson Pollock",
+				"title_link": "https://viigames.itch.io/minijam-82-test",
+				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1081913",
+				"by": [
+					"Gorethumb",
+					"Nightma12e",
+					"tornado cub"
+				],
+				"by_link": [
+					"https://viigames.itch.io/",
+					"https://nightma12e.itch.io/",
+					"https://tornadocub.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 16,
+				"score": 3.75,
+				"t_publish_diff": -268000
+			}
+		]
+	},
+	{
 		"jammer": "TripleCubes",
 		"jammer_link": "https://triplecubes.itch.io/",
 		"list_game_sorted": [
@@ -899,6 +951,50 @@
 				"ratings": 27,
 				"score": 4.056,
 				"t_publish_diff": -133000
+			}
+		]
+	},
+	{
+		"jammer": "Escada Games",
+		"jammer_link": "https://escada-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Firebreath Realtors",
+				"title_link": "https://escada-games.itch.io/firebreath-realtors",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510690",
+				"by": [
+					"Escada Games"
+				],
+				"by_link": [
+					"https://escada-games.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 4.167,
+				"t_publish_diff": -6521000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Heaven Lost",
+				"title_link": "https://escada-games.itch.io/heaven-lost",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1787926",
+				"by": [
+					"Escada Games"
+				],
+				"by_link": [
+					"https://escada-games.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 16,
+				"score": 3.719,
+				"t_publish_diff": -41348000
 			}
 		]
 	},
@@ -3123,68 +3219,6 @@
 	{
 		"jammer": "Mattaway",
 		"jammer_link": "https://mattaway.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"title": "Hell Outta Here",
-				"title_link": "https://pen-island-games.itch.io/hell-outta-here",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854823",
-				"by": [
-					"Pen Island Games",
-					"Mattaway",
-					"nemsworld",
-					"melabee"
-				],
-				"by_link": [
-					"https://pen-island-games.itch.io/",
-					"https://mattaway.itch.io/",
-					"https://nemsworld.itch.io/",
-					"https://melabee.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 34,
-				"score": 4.265,
-				"t_publish_diff": -523000
-			}
-		]
-	},
-	{
-		"jammer": "nemsworld",
-		"jammer_link": "https://nemsworld.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"title": "Hell Outta Here",
-				"title_link": "https://pen-island-games.itch.io/hell-outta-here",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854823",
-				"by": [
-					"Pen Island Games",
-					"Mattaway",
-					"nemsworld",
-					"melabee"
-				],
-				"by_link": [
-					"https://pen-island-games.itch.io/",
-					"https://mattaway.itch.io/",
-					"https://nemsworld.itch.io/",
-					"https://melabee.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 34,
-				"score": 4.265,
-				"t_publish_diff": -523000
-			}
-		]
-	},
-	{
-		"jammer": "melabee",
-		"jammer_link": "https://melabee.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

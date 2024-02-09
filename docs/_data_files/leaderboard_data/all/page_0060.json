@@ -2278,6 +2278,25 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon Hoard Rush",
+				"title_link": "https://eljacko1.itch.io/dragon-hoard-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512011",
+				"by": [
+					"eljacko1"
+				],
+				"by_link": [
+					"https://eljacko1.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 6,
+				"score": 2.177,
+				"t_publish_diff": -17207000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
@@ -2319,6 +2338,27 @@
 				"ratings": 16,
 				"score": 3.688,
 				"t_publish_diff": -9800000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Draconic Tribute",
+				"title_link": "https://fezumlix.itch.io/draconic-tribute",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512170",
+				"by": [
+					"Fezumlix",
+					"Lukip"
+				],
+				"by_link": [
+					"https://fezumlix.itch.io/",
+					"https://lukip.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 7,
+				"score": 2.992,
+				"t_publish_diff": -1049000
 			},
 			{
 				"jam_type": "mini_jam",

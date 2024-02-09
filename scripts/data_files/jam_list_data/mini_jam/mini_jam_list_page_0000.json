@@ -1,5 +1,321 @@
 [
 	{
+		"id": 151,
+		"jam_name": "Dragons",
+		"link": "https://itch.io/jam/mini-jam-151-dragons",
+		"num_of_game": 99,
+		"num_of_jammer": 131,
+		"num_of_new_jammer": 81,
+		"list": [
+			{
+				"title": "Rotten Egg",
+				"title_link": "https://birdworks.itch.io/dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512232",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 23,
+				"score": 4.38,
+				"t_publish_diff": -9509000
+			},
+			{
+				"title": "Dragon Hoarder",
+				"title_link": "https://alejandroaceytunogonzalez.itch.io/dragon-hoarder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512110",
+				"by": [
+					"Aletuno"
+				],
+				"by_link": [
+					"https://alejandroaceytunogonzalez.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.321,
+				"t_publish_diff": -33863000
+			},
+			{
+				"title": "Problem of wealth",
+				"title_link": "https://jjfcompany.itch.io/problem-of-wealth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512010",
+				"by": [
+					"JJFcompany"
+				],
+				"by_link": [
+					"https://jjfcompany.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 4.184,
+				"t_publish_diff": -34130000
+			},
+			{
+				"title": "Firebreath Realtors",
+				"title_link": "https://escada-games.itch.io/firebreath-realtors",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510690",
+				"by": [
+					"Escada Games"
+				],
+				"by_link": [
+					"https://escada-games.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 4.167,
+				"t_publish_diff": -6521000
+			},
+			{
+				"title": "GOLDSICK",
+				"title_link": "https://jenislav.itch.io/goldsick",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513153",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 4.135,
+				"t_publish_diff": -986000
+			},
+			{
+				"title": "Dragonslair of Greed",
+				"title_link": "https://thetra00.itch.io/dragonslair-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512404",
+				"by": [
+					"Thetra00"
+				],
+				"by_link": [
+					"https://thetra00.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 4.068
+			},
+			{
+				"title": "Le Vol Café",
+				"title_link": "https://fruitsdancer.itch.io/le-vol-cafe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513080",
+				"by": [
+					"fruitsdancer",
+					"ghostpastry",
+					"Matt Manch"
+				],
+				"by_link": [
+					"https://fruitsdancer.itch.io/",
+					"https://ghostpastry.itch.io/",
+					"https://mattmanch.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.039
+			},
+			{
+				"title": "LootScale",
+				"title_link": "https://fmlad.itch.io/lootscale",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513144",
+				"by": [
+					"Fmlad"
+				],
+				"by_link": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 33,
+				"score": 3.977
+			},
+			{
+				"title": "Dragazon",
+				"title_link": "https://henrikpira.itch.io/dragazon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512074",
+				"by": [
+					"Henrik Pira"
+				],
+				"by_link": [
+					"https://henrikpira.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 22,
+				"score": 3.92,
+				"t_publish_diff": -40721000
+			},
+			{
+				"title": "Hoard of Greed",
+				"title_link": "https://alexflowers.itch.io/hoard-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510279",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 18,
+				"score": 3.833
+			},
+			{
+				"title": "Gus The Greedy Dragon",
+				"title_link": "https://harold-hirn.itch.io/gus-the-greedy-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510884",
+				"by": [
+					"Harold Hirn"
+				],
+				"by_link": [
+					"https://harold-hirn.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 12,
+				"score": 3.833,
+				"t_publish_diff": -104639000
+			},
+			{
+				"title": "Ecaroh's Dragon",
+				"title_link": "https://ecaroh.itch.io/ecaroh-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2509239",
+				"by": [
+					"ecaroh.games"
+				],
+				"by_link": [
+					"https://ecaroh.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 27,
+				"score": 3.787,
+				"t_publish_diff": -1332000
+			},
+			{
+				"title": "Idle Income",
+				"title_link": "https://bluemango.itch.io/idle-income-dragon-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512773",
+				"by": [
+					"BlueMango"
+				],
+				"by_link": [
+					"https://bluemango.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 21,
+				"score": 3.762,
+				"t_publish_diff": -7777000
+			},
+			{
+				"title": "Dragon's Destruction",
+				"title_link": "https://silvyger.itch.io/dragons-destruction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2507840",
+				"by": [
+					"Silvyger",
+					"Kalathea",
+					"Kensingtonw"
+				],
+				"by_link": [
+					"https://silvyger.itch.io/",
+					"https://kalathea.itch.io/",
+					"https://kensingtonw.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 19,
+				"score": 3.724,
+				"t_publish_diff": 703000
+			},
+			{
+				"title": "Dragonic Defender",
+				"title_link": "https://persomatey.itch.io/dragonic-defender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513050",
+				"by": [
+					"Persomatey"
+				],
+				"by_link": [
+					"https://persomatey.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 13,
+				"score": 3.712,
+				"t_publish_diff": -4829000
+			},
+			{
+				"title": "Kobold Lunch Rush",
+				"title_link": "https://normkoto.itch.io/kobold-lunch-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513089",
+				"by": [
+					"Normkoto"
+				],
+				"by_link": [
+					"https://normkoto.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.696,
+				"t_publish_diff": -1125000
+			},
+			{
+				"title": "Midas' Maw",
+				"title_link": "https://dreadware-games.itch.io/midas-maw",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513136",
+				"by": [
+					"Dreadware Games"
+				],
+				"by_link": [
+					"https://dreadware-games.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.614,
+				"t_publish_diff": -642000
+			},
+			{
+				"title": "Dragon scales hunter",
+				"title_link": "https://catlaiya.itch.io/dragonsscaleshunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2514832",
+				"by": [
+					"Catlaiya",
+					"WrysIlia"
+				],
+				"by_link": [
+					"https://catlaiya.itch.io/",
+					"https://wrysilia.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.614,
+				"t_publish_diff": 133666000
+			},
+			{
+				"title": "深い",
+				"title_link": "https://ourdungeon.itch.io/the-deep",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512686",
+				"by": [
+					"OURダンジョン"
+				],
+				"by_link": [
+					"https://ourdungeon.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 9,
+				"score": 3.611,
+				"t_publish_diff": -6522000
+			},
+			{
+				"title": "The Light Dragon",
+				"title_link": "https://r-goulart.itch.io/the-light-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512269",
+				"by": [
+					"R_Goulart"
+				],
+				"by_link": [
+					"https://r-goulart.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.575,
+				"t_publish_diff": -10889000
+			}
+		]
+	},
+	{
 		"id": 150,
 		"jam_name": "Magic",
 		"link": "https://itch.io/jam/mini-jam-150-magic",
@@ -2899,319 +3215,6 @@
 				"ratings": 11,
 				"score": 2.955,
 				"t_publish_diff": -47587000
-			}
-		]
-	},
-	{
-		"id": 141,
-		"jam_name": "Stories",
-		"link": "https://itch.io/jam/mini-jam-141-stories",
-		"num_of_game": 43,
-		"num_of_jammer": 49,
-		"num_of_new_jammer": 28,
-		"list": [
-			{
-				"title": "Cheat Codes",
-				"title_link": "https://jnwjchannel.itch.io/cheat-codes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266878",
-				"by": [
-					"Jax"
-				],
-				"by_link": [
-					"https://jnwjchannel.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 29,
-				"score": 4.069,
-				"t_publish_diff": -45195000
-			},
-			{
-				"title": "Overtoasted",
-				"title_link": "https://fortyvszero.itch.io/overtoasted",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267805",
-				"by": [
-					"FortyVsZero"
-				],
-				"by_link": [
-					"https://fortyvszero.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 19,
-				"score": 3.763,
-				"t_publish_diff": -30486000
-			},
-			{
-				"title": "The Queen is OP",
-				"title_link": "https://triplecubes.itch.io/the-queen-is-op",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2269137",
-				"by": [
-					"TripleCubes"
-				],
-				"by_link": [
-					"https://triplecubes.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 16,
-				"score": 3.734,
-				"t_publish_diff": 33023000
-			},
-			{
-				"title": "Goldilocks: Genisys",
-				"title_link": "https://clapmonster.itch.io/goldilocks-genisys",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268548",
-				"by": [
-					"Clapmonster"
-				],
-				"by_link": [
-					"https://clapmonster.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 10,
-				"score": 3.671,
-				"t_publish_diff": -1740000
-			},
-			{
-				"title": "Combustum",
-				"title_link": "https://aerial301.itch.io/combustum",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266414",
-				"by": [
-					"aerial301"
-				],
-				"by_link": [
-					"https://aerial301.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 11,
-				"score": 3.614
-			},
-			{
-				"title": "need for exp",
-				"title_link": "https://in-haze.itch.io/need-for-exp",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2265867",
-				"by": [
-					"In Haze Games"
-				],
-				"by_link": [
-					"https://in-haze.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 8,
-				"score": 3.438
-			},
-			{
-				"title": "A Headless Story",
-				"title_link": "https://thenyx.itch.io/a-headless-story",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268319",
-				"by": [
-					"Nyx_Dev"
-				],
-				"by_link": [
-					"https://thenyx.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 14,
-				"score": 3.411,
-				"t_publish_diff": -12019000
-			},
-			{
-				"title": "Over 9000!",
-				"title_link": "https://lord-pillows.itch.io/9000",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268459",
-				"by": [
-					"Piellow"
-				],
-				"by_link": [
-					"https://lord-pillows.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 13,
-				"score": 3.404
-			},
-			{
-				"title": "The Sky is Grey Today",
-				"title_link": "https://hgyvtfgc.itch.io/the-sky-is-grey-today",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268456",
-				"by": [
-					"Name"
-				],
-				"by_link": [
-					"https://hgyvtfgc.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 13,
-				"score": 3.365,
-				"t_publish_diff": -5841000
-			},
-			{
-				"title": "N.U.K.E.",
-				"title_link": "https://matharoo.itch.io/nuke",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268117",
-				"by": [
-					"Gurpreet Singh Matharoo"
-				],
-				"by_link": [
-					"https://matharoo.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 7,
-				"score": 3.305,
-				"t_publish_diff": -21476000
-			},
-			{
-				"title": "The Great Elder",
-				"title_link": "https://belfarfinoli.itch.io/the-great-elder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268453",
-				"by": [
-					"Belfar &amp; Finoli",
-					"Eduardo \"mrtheduts\" Souza",
-					"Matheus"
-				],
-				"by_link": [
-					"https://belfarfinoli.itch.io/",
-					"https://mrtheduts.itch.io/",
-					"https://theusbrz.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 10,
-				"score": 3.289,
-				"t_publish_diff": -6505000
-			},
-			{
-				"title": "Dragon Party",
-				"title_link": "https://dgeisert.itch.io/dragon-party",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268408",
-				"by": [
-					"dg"
-				],
-				"by_link": [
-					"https://dgeisert.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 13,
-				"score": 3.231,
-				"t_publish_diff": -8572000
-			},
-			{
-				"title": "Knife Runner",
-				"title_link": "https://gazzola.itch.io/knife-runner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2262483",
-				"by": [
-					"Tiago Gazzola",
-					"Igor Flores"
-				],
-				"by_link": [
-					"https://gazzola.itch.io/",
-					"https://igorflores.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 10,
-				"score": 3.218,
-				"t_publish_diff": -3330000
-			},
-			{
-				"title": "Bookworm",
-				"title_link": "https://ryanlaycock.itch.io/bookworm",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266245",
-				"by": [
-					"ryanlaycock"
-				],
-				"by_link": [
-					"https://ryanlaycock.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 12,
-				"score": 3.208,
-				"t_publish_diff": -213000
-			},
-			{
-				"title": "Booreau",
-				"title_link": "https://telathion.itch.io/booreau",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268313",
-				"by": [
-					"telathion"
-				],
-				"by_link": [
-					"https://telathion.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 10,
-				"score": 3.099
-			},
-			{
-				"title": "How do you live like this ?",
-				"title_link": "https://zhanko.itch.io/how-do-you-live-like-this",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2269190",
-				"by": [
-					"Zhanko"
-				],
-				"by_link": [
-					"https://zhanko.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 14,
-				"score": 3.071,
-				"t_publish_diff": 34060000
-			},
-			{
-				"title": "Cats Are Over Powered",
-				"title_link": "https://777theultra.itch.io/cats-are-over-powered",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268534",
-				"by": [
-					"777theultra"
-				],
-				"by_link": [
-					"https://777theultra.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 18,
-				"score": 3.056,
-				"t_publish_diff": -1200000
-			},
-			{
-				"title": "Booma",
-				"title_link": "https://addsense.itch.io/champ",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268578",
-				"by": [
-					"addsense"
-				],
-				"by_link": [
-					"https://addsense.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 14,
-				"score": 3.018
-			},
-			{
-				"title": "My Sweet Library",
-				"title_link": "https://kivenkojulia.itch.io/my-sweet-library",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267500",
-				"by": [
-					"Julia Kivenko"
-				],
-				"by_link": [
-					"https://kivenkojulia.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 12,
-				"score": 3,
-				"t_publish_diff": -37777000
-			},
-			{
-				"title": "Take Over",
-				"title_link": "https://therealreynold.itch.io/take-over",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268204",
-				"by": [
-					"TheRealReynold",
-					"loddisjourney"
-				],
-				"by_link": [
-					"https://therealreynold.itch.io/",
-					"https://loddisjourney.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 13,
-				"score": 2.981,
-				"t_publish_diff": -17441000
 			}
 		]
 	}

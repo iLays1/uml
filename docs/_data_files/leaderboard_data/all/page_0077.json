@@ -2545,6 +2545,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragonslair of Greed",
+				"title_link": "https://thetra00.itch.io/dragonslair-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512404",
+				"by": [
+					"Thetra00"
+				],
+				"by_link": [
+					"https://thetra00.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 4.068
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",

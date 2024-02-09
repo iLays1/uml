@@ -1,5 +1,105 @@
 [
 	{
+		"jammer": "Dandelion Garden",
+		"jammer_link": "https://dandelion-garden.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"title": "A Daydream",
+				"title_link": "https://dandelion-garden.itch.io/a-daydream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1611480",
+				"by": [
+					"Dandelion Garden"
+				],
+				"by_link": [
+					"https://dandelion-garden.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 15,
+				"score": 4.167,
+				"t_publish_diff": 131986000
+			}
+		]
+	},
+	{
+		"jammer": "draketrought",
+		"jammer_link": "https://draketrought.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"title": "The Fruit of the Spirit",
+				"title_link": "https://draketrought.itch.io/the-fruit-of-the-spirit",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599423",
+				"by": [
+					"draketrought"
+				],
+				"by_link": [
+					"https://draketrought.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 5,
+				"score": 4.1,
+				"t_publish_diff": -42441000
+			}
+		]
+	},
+	{
+		"jammer": "Checkster",
+		"jammer_link": "https://mrcheckster.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"title": "PixelBox",
+				"title_link": "https://mrcheckster.itch.io/pixelbox",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889183",
+				"by": [
+					"Checkster"
+				],
+				"by_link": [
+					"https://mrcheckster.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 20,
+				"score": 4.1,
+				"t_publish_diff": -34152000
+			}
+		]
+	},
+	{
+		"jammer": "Marcos Fuchter",
+		"jammer_link": "https://marcosfuchter.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 66,
+				"jam_name": "Sweets",
+				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
+				"title": "Explosive Candy",
+				"title_link": "https://marcosfuchter.itch.io/explosive-candy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/806702",
+				"by": [
+					"Marcos Fuchter"
+				],
+				"by_link": [
+					"https://marcosfuchter.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 26,
+				"score": 4.096,
+				"t_publish_diff": -30194000
+			}
+		]
+	},
+	{
 		"jammer": "Piroporopi",
 		"jammer_link": "https://piroporopi.itch.io/",
 		"list_game_sorted": [
@@ -707,30 +807,6 @@
 				"ratings": 17,
 				"score": 4,
 				"t_publish_diff": -9848000
-			}
-		]
-	},
-	{
-		"jammer": "BirdWorks",
-		"jammer_link": "https://birdworks.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Eat, Prey, Belay",
-				"title_link": "https://birdworks.itch.io/web",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1866551",
-				"by": [
-					"BirdWorks"
-				],
-				"by_link": [
-					"https://birdworks.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 26,
-				"score": 3.971
 			}
 		]
 	},
@@ -1520,31 +1596,6 @@
 				"ratings": 5,
 				"score": 3.743,
 				"t_publish_diff": -1738000
-			}
-		]
-	},
-	{
-		"jammer": "Escada Games",
-		"jammer_link": "https://escada-games.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"title": "Heaven Lost",
-				"title_link": "https://escada-games.itch.io/heaven-lost",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1787926",
-				"by": [
-					"Escada Games"
-				],
-				"by_link": [
-					"https://escada-games.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 16,
-				"score": 3.719,
-				"t_publish_diff": -41348000
 			}
 		]
 	},
@@ -2749,56 +2800,6 @@
 				"ratings": 12,
 				"score": 3.146,
 				"t_publish_diff": -11253000
-			}
-		]
-	},
-	{
-		"jammer": "mappi",
-		"jammer_link": "https://mappi.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 44,
-				"jam_name": "New Year",
-				"jam_link": "https://itch.io/jam/mini-jam-44-new-year",
-				"title": "hatsumōde",
-				"title_link": "https://mappi.itch.io/hatsumde",
-				"submission_page_link": "https://itch.io/jam/mini-jam-44-new-year/rate/542517",
-				"by": [
-					"mappi"
-				],
-				"by_link": [
-					"https://mappi.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 22,
-				"score": 3.091,
-				"t_publish_diff": -4900000
-			}
-		]
-	},
-	{
-		"jammer": "Roxy22",
-		"jammer_link": "https://roxy22.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 17,
-				"jam_name": "Home Alone",
-				"jam_link": "https://itch.io/jam/mini-jam-17-home-alone",
-				"title": "Bathroom Runner",
-				"title_link": "https://roxy22.itch.io/bathroom-runner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-17-home-alone/rate/346599",
-				"by": [
-					"Roxy22"
-				],
-				"by_link": [
-					"https://roxy22.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 7,
-				"score": 2.964,
-				"t_publish_diff": -220000
 			}
 		]
 	}

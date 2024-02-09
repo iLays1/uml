@@ -1,5 +1,193 @@
 [
 	{
+		"jammer": "piirakka",
+		"jammer_link": "https://profiili.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"title": "Fill It Out",
+				"title_link": "https://herof123.itch.io/fill-it-out",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409083",
+				"by": [
+					"Herof123",
+					"Ratainen",
+					"piirakka"
+				],
+				"by_link": [
+					"https://herof123.itch.io/",
+					"https://ratainen.itch.io/",
+					"https://profiili.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 8,
+				"score": 4.344,
+				"t_publish_diff": -30084000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 96,
+				"jam_name": "Fate",
+				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
+				"title": "Failugreen",
+				"title_link": "https://herof123.itch.io/failugreen",
+				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332325",
+				"by": [
+					"Herof123",
+					"Ratainen",
+					"piirakka"
+				],
+				"by_link": [
+					"https://herof123.itch.io/",
+					"https://ratainen.itch.io/",
+					"https://profiili.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 25,
+				"score": 3.46,
+				"t_publish_diff": -29872000
+			}
+		]
+	},
+	{
+		"jammer": "Psonbre",
+		"jammer_link": "https://psonbre.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"title": "Neon Shadows",
+				"title_link": "https://psonbre.itch.io/neon-shadows",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1151564",
+				"by": [
+					"Psonbre",
+					"Philou213"
+				],
+				"by_link": [
+					"https://psonbre.itch.io/",
+					"https://philou213.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.131
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"title": "Blind Bond",
+				"title_link": "https://psonbre.itch.io/blind-bond",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982592",
+				"by": [
+					"Psonbre",
+					"Philou213"
+				],
+				"by_link": [
+					"https://psonbre.itch.io/",
+					"https://philou213.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.659
+			}
+		]
+	},
+	{
+		"jammer": "Philou213",
+		"jammer_link": "https://philou213.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"title": "Neon Shadows",
+				"title_link": "https://psonbre.itch.io/neon-shadows",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1151564",
+				"by": [
+					"Psonbre",
+					"Philou213"
+				],
+				"by_link": [
+					"https://psonbre.itch.io/",
+					"https://philou213.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.131
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"title": "Blind Bond",
+				"title_link": "https://psonbre.itch.io/blind-bond",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982592",
+				"by": [
+					"Psonbre",
+					"Philou213"
+				],
+				"by_link": [
+					"https://psonbre.itch.io/",
+					"https://philou213.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.659
+			}
+		]
+	},
+	{
+		"jammer": "smorrebrot",
+		"jammer_link": "https://smorrebrot.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"title": "Hellcrawler",
+				"title_link": "https://smorrebrot.itch.io/hellcrawler",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854366",
+				"by": [
+					"smorrebrot"
+				],
+				"by_link": [
+					"https://smorrebrot.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 4.156,
+				"t_publish_diff": -27080000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 78,
+				"jam_name": "Bugs",
+				"jam_link": "https://itch.io/jam/mini-jam-78-bugs",
+				"title": "BUGZ",
+				"title_link": "https://smorrebrot.itch.io/bugz",
+				"submission_page_link": "https://itch.io/jam/mini-jam-78-bugs/rate/1002633",
+				"by": [
+					"smorrebrot"
+				],
+				"by_link": [
+					"https://smorrebrot.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 11,
+				"score": 3.545,
+				"t_publish_diff": -20908000
+			}
+		]
+	},
+	{
 		"jammer": "Dmytro Nebesh",
 		"jammer_link": "https://dnebesh.itch.io/",
 		"list_game_sorted": [
@@ -1918,49 +2106,6 @@
 		]
 	},
 	{
-		"jammer": "Thetra00",
-		"jammer_link": "https://thetra00.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"title": "[GameJam]MagicalDungeonGirl",
-				"title_link": "https://thetra00.itch.io/gamejammagicaldungeongirl",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2245876",
-				"by": [
-					"Thetra00"
-				],
-				"by_link": [
-					"https://thetra00.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 10,
-				"score": 3.65
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"title": "[GameJam]Poison Witch",
-				"title_link": "https://thetra00.itch.io/poison-witch",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1998957",
-				"by": [
-					"Thetra00"
-				],
-				"by_link": [
-					"https://thetra00.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 3.825,
-				"t_publish_diff": -45835000
-			}
-		]
-	},
-	{
 		"jammer": "Breaddysticks",
 		"jammer_link": "https://breaddysticks.itch.io/",
 		"list_game_sorted": [
@@ -2521,50 +2666,6 @@
 				"ratings": 13,
 				"score": 3.827,
 				"t_publish_diff": -2701000
-			}
-		]
-	},
-	{
-		"jammer": "Jenislav",
-		"jammer_link": "https://jenislav.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"title": "Deus interim Machina",
-				"title_link": "https://jenislav.itch.io/deus-interim-machina",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449974",
-				"by": [
-					"Jenislav"
-				],
-				"by_link": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 18,
-				"score": 3.361,
-				"t_publish_diff": -540000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"title": "Herding Cats",
-				"title_link": "https://jenislav.itch.io/herding-cats",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
-				"by": [
-					"Jenislav"
-				],
-				"by_link": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 22,
-				"score": 3.966,
-				"t_publish_diff": -1143000
 			}
 		]
 	},
@@ -4122,64 +4223,6 @@
 				"ratings": 31,
 				"score": 4.524,
 				"t_publish_diff": -1003000
-			}
-		]
-	},
-	{
-		"jammer": "saucysaja",
-		"jammer_link": "https://saucysaja.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"title": "Frog Daddy's Dash",
-				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
-				"by": [
-					"Gwelkind",
-					"saucysaja",
-					"alt404"
-				],
-				"by_link": [
-					"https://gwelkind.itch.io/",
-					"https://saucysaja.itch.io/",
-					"https://alt404.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 20,
-				"score": 4.513,
-				"t_publish_diff": 88744000
-			}
-		]
-	},
-	{
-		"jammer": "alt404",
-		"jammer_link": "https://alt404.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"title": "Frog Daddy's Dash",
-				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
-				"by": [
-					"Gwelkind",
-					"saucysaja",
-					"alt404"
-				],
-				"by_link": [
-					"https://gwelkind.itch.io/",
-					"https://saucysaja.itch.io/",
-					"https://alt404.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 20,
-				"score": 4.513,
-				"t_publish_diff": 88744000
 			}
 		]
 	}

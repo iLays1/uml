@@ -1,5 +1,113 @@
 [
 	{
+		"jammer": "Malachi Bance",
+		"jammer_link": "https://moolordking.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"title": "A Holey Planet",
+				"title_link": "https://moolordking.itch.io/a-holey-planet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089613",
+				"by": [
+					"Malachi Bance"
+				],
+				"by_link": [
+					"https://moolordking.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 37,
+				"score": 4.149,
+				"t_publish_diff": -36527000
+			}
+		]
+	},
+	{
+		"jammer": "Sushi",
+		"jammer_link": "https://sushibel.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 66,
+				"jam_name": "Sweets",
+				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
+				"title": "HUNGRY BOI",
+				"title_link": "https://botttos.itch.io/hungry-boi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/807872",
+				"by": [
+					"botttos",
+					"Sushi",
+					"HeladoDePistacho"
+				],
+				"by_link": [
+					"https://botttos.itch.io/",
+					"https://sushibel.itch.io/",
+					"https://heladodepistacho.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 24,
+				"score": 4.146,
+				"t_publish_diff": -15822000
+			}
+		]
+	},
+	{
+		"jammer": "HeladoDePistacho",
+		"jammer_link": "https://heladodepistacho.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 66,
+				"jam_name": "Sweets",
+				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
+				"title": "HUNGRY BOI",
+				"title_link": "https://botttos.itch.io/hungry-boi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/807872",
+				"by": [
+					"botttos",
+					"Sushi",
+					"HeladoDePistacho"
+				],
+				"by_link": [
+					"https://botttos.itch.io/",
+					"https://sushibel.itch.io/",
+					"https://heladodepistacho.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 24,
+				"score": 4.146,
+				"t_publish_diff": -15822000
+			}
+		]
+	},
+	{
+		"jammer": "Olanti",
+		"jammer_link": "https://olanti.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"title": "THE TRIAL",
+				"title_link": "https://olanti.itch.io/the-trial",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459743",
+				"by": [
+					"Olanti"
+				],
+				"by_link": [
+					"https://olanti.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 7,
+				"score": 4.143,
+				"t_publish_diff": -12505000
+			}
+		]
+	},
+	{
 		"jammer": "Tales98",
 		"jammer_link": "https://tales98.itch.io/",
 		"list_game_sorted": [
@@ -2518,106 +2626,6 @@
 				"ratings": 6,
 				"score": 4.208,
 				"t_publish_diff": -193000
-			}
-		]
-	},
-	{
-		"jammer": "Dandelion Garden",
-		"jammer_link": "https://dandelion-garden.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"title": "A Daydream",
-				"title_link": "https://dandelion-garden.itch.io/a-daydream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1611480",
-				"by": [
-					"Dandelion Garden"
-				],
-				"by_link": [
-					"https://dandelion-garden.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 15,
-				"score": 4.167,
-				"t_publish_diff": 131986000
-			}
-		]
-	},
-	{
-		"jammer": "draketrought",
-		"jammer_link": "https://draketrought.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 1,
-				"jam_name": "Major Jam: Isolation",
-				"jam_link": "https://itch.io/jam/major-jam-isolation",
-				"title": "The Fruit of the Spirit",
-				"title_link": "https://draketrought.itch.io/the-fruit-of-the-spirit",
-				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/599423",
-				"by": [
-					"draketrought"
-				],
-				"by_link": [
-					"https://draketrought.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 5,
-				"score": 4.1,
-				"t_publish_diff": -42441000
-			}
-		]
-	},
-	{
-		"jammer": "Checkster",
-		"jammer_link": "https://mrcheckster.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 124,
-				"jam_name": "Warmth",
-				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"title": "PixelBox",
-				"title_link": "https://mrcheckster.itch.io/pixelbox",
-				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889183",
-				"by": [
-					"Checkster"
-				],
-				"by_link": [
-					"https://mrcheckster.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 20,
-				"score": 4.1,
-				"t_publish_diff": -34152000
-			}
-		]
-	},
-	{
-		"jammer": "Marcos Fuchter",
-		"jammer_link": "https://marcosfuchter.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"title": "Explosive Candy",
-				"title_link": "https://marcosfuchter.itch.io/explosive-candy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/806702",
-				"by": [
-					"Marcos Fuchter"
-				],
-				"by_link": [
-					"https://marcosfuchter.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 26,
-				"score": 4.096,
-				"t_publish_diff": -30194000
 			}
 		]
 	}

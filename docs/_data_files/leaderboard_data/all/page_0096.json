@@ -1617,6 +1617,25 @@
 				"ratings": 8,
 				"score": 3.344,
 				"t_publish_diff": 17313000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "DragonPetals",
+				"title_link": "https://antisonon.itch.io/dragonpetals",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2514725",
+				"by": [
+					"Antisonon"
+				],
+				"by_link": [
+					"https://antisonon.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 4,
+				"score": 2.125,
+				"t_publish_diff": 70040000
 			}
 		]
 	},
@@ -1766,6 +1785,33 @@
 				"ratings": 14,
 				"score": 3.054,
 				"t_publish_diff": -696000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Blazing Breakout",
+				"title_link": "https://nlfuser.itch.io/blazing-breakout",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512859",
+				"by": [
+					"Nlfuser",
+					"Calsim",
+					"Picsneyy",
+					"bearrib",
+					"Harcher"
+				],
+				"by_link": [
+					"https://nlfuser.itch.io/",
+					"https://calsim.itch.io/",
+					"https://picsneyy.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://harcherstudio.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 28,
+				"score": 3.348,
+				"t_publish_diff": 1232000
 			}
 		]
 	},

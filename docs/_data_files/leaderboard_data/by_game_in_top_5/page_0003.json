@@ -1,5 +1,83 @@
 [
 	{
+		"jammer": "Louis Dutton",
+		"jammer_link": "https://louisdutton.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "Nom Nom Spaghett",
+				"title_link": "https://louisdutton.itch.io/nom-nom-spaghett",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185406",
+				"by": [
+					"Louis Dutton"
+				],
+				"by_link": [
+					"https://louisdutton.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 11,
+				"score": 4.227
+			}
+		]
+	},
+	{
+		"jammer": "Splattie",
+		"jammer_link": "https://splattie.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"title": "Mayfly PI",
+				"title_link": "https://nothing-d.itch.io/mayfly-pi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1705879",
+				"by": [
+					"Nothing",
+					"Splattie",
+					"unseconds"
+				],
+				"by_link": [
+					"https://nothing-d.itch.io/",
+					"https://splattie.itch.io/",
+					"https://unseconds.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 15,
+				"score": 4.217,
+				"t_publish_diff": -27000
+			}
+		]
+	},
+	{
+		"jammer": "Junebug",
+		"jammer_link": "https://nightshade.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 65,
+				"jam_name": "Abandoned",
+				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
+				"title": "Skill Drop",
+				"title_link": "https://nightshade.itch.io/skill-drop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/792998",
+				"by": [
+					"Junebug"
+				],
+				"by_link": [
+					"https://nightshade.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.207,
+				"t_publish_diff": -147000
+			}
+		]
+	},
+	{
 		"jammer": "wack",
 		"jammer_link": "https://wack13.itch.io/",
 		"list_game_sorted": [
@@ -2603,80 +2681,6 @@
 				"ratings": 6,
 				"score": 3.683,
 				"t_publish_diff": -3835000
-			}
-		]
-	},
-	{
-		"jammer": "captain_breadbeard",
-		"jammer_link": "https://captain-breadbeard.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 41,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
-				"title": "Magical Match-3",
-				"title_link": "https://captain-breadbeard.itch.io/magical-match-3",
-				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/517829",
-				"by": [
-					"captain_breadbeard"
-				],
-				"by_link": [
-					"https://captain-breadbeard.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.667,
-				"t_publish_diff": -50570000
-			}
-		]
-	},
-	{
-		"jammer": "Empty",
-		"jammer_link": "https://emptyprofile.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"title": "Soul &amp; Corpse",
-				"title_link": "https://emptyprofile.itch.io/soulandcorpse",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1447740",
-				"by": [
-					"Empty"
-				],
-				"by_link": [
-					"https://emptyprofile.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 29,
-				"score": 3.664
-			}
-		]
-	},
-	{
-		"jammer": "Bleeding Tapes",
-		"jammer_link": "https://bleeding-tapes.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 7,
-				"jam_name": "Greek Mythology",
-				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
-				"title": "Minitaur's Labyrinth",
-				"title_link": "https://bleeding-tapes.itch.io/minitaurs-labyrinth",
-				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285298",
-				"by": [
-					"Bleeding Tapes"
-				],
-				"by_link": [
-					"https://bleeding-tapes.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 7,
-				"score": 3.633,
-				"t_publish_diff": -3502000
 			}
 		]
 	}

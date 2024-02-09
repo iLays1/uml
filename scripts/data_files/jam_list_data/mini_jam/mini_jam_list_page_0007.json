@@ -1,5 +1,352 @@
 [
 	{
+		"id": 81,
+		"jam_name": "Kaiju",
+		"link": "https://itch.io/jam/mini-jam-81-kaiju",
+		"num_of_game": 78,
+		"num_of_jammer": 106,
+		"num_of_new_jammer": 62,
+		"list": [
+			{
+				"title": "Gamera's Binding",
+				"title_link": "https://devnugget.itch.io/gameras-binding",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062447",
+				"by": [
+					"DevNugget"
+				],
+				"by_link": [
+					"https://devnugget.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 3.857,
+				"t_publish_diff": -44108000
+			},
+			{
+				"title": "Mecha Mayor",
+				"title_link": "https://chase-of-bass.itch.io/mecha-mayor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063268",
+				"by": [
+					"Chase of Bass"
+				],
+				"by_link": [
+					"https://chase-of-bass.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 3.707,
+				"t_publish_diff": -253000
+			},
+			{
+				"title": "Kaiju Walking Simulator",
+				"title_link": "https://thejoun.itch.io/kaiju",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062717",
+				"by": [
+					"thejoun",
+					"Shichimi",
+					"jakooste"
+				],
+				"by_link": [
+					"https://thejoun.itch.io/",
+					"https://shichimi.itch.io/",
+					"https://jakooste.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 3.69,
+				"t_publish_diff": -5961000
+			},
+			{
+				"title": "Cube Lad",
+				"title_link": "https://deltaneverused.itch.io/cube-lad",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063127",
+				"by": [
+					"DeltaNeverUsed"
+				],
+				"by_link": [
+					"https://deltaneverused.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 35,
+				"score": 3.686,
+				"t_publish_diff": -8862000
+			},
+			{
+				"title": "KAI U",
+				"title_link": "https://grimoire-games.itch.io/kai-u",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063196",
+				"by": [
+					"Grimoire Games",
+					"Say.say9",
+					"HassanHellm",
+					"drolejan",
+					"Andrew2115",
+					"NanisZamora",
+					"MrUltraEnder",
+					"Kinckich",
+					"PachucoAtomico"
+				],
+				"by_link": [
+					"https://grimoire-games.itch.io/",
+					"https://saysay9.itch.io/",
+					"https://hassanhellm.itch.io/",
+					"https://drolejan.itch.io/",
+					"https://andrew2115.itch.io/",
+					"https://naniszamora.itch.io/",
+					"https://mrultraender.itch.io/",
+					"https://kinckich.itch.io/",
+					"https://pachucoatomico.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 22,
+				"score": 3.636,
+				"t_publish_diff": -210000
+			},
+			{
+				"title": "The Eternal Queen's Rampage!",
+				"title_link": "https://scarfravenstudios.itch.io/the-eternal-queens-rampage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062857",
+				"by": [
+					"ScarfRavenStudios"
+				],
+				"by_link": [
+					"https://scarfravenstudios.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 14,
+				"score": 3.607,
+				"t_publish_diff": -4424000
+			},
+			{
+				"title": "Afterlife Animate",
+				"title_link": "https://vvulpes0.itch.io/afterlife-animate",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062946",
+				"by": [
+					"Pineberry Fox",
+					"L3mmy"
+				],
+				"by_link": [
+					"https://vvulpes0.itch.io/",
+					"https://l3mmy.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 32,
+				"score": 3.578,
+				"t_publish_diff": -16760000
+			},
+			{
+				"title": "Potato Kaiju Never Die!",
+				"title_link": "https://potatolifeyt.itch.io/potato-kaiju-never-die",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063012",
+				"by": [
+					"PotatoLifeYT"
+				],
+				"by_link": [
+					"https://potatolifeyt.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 22,
+				"score": 3.568,
+				"t_publish_diff": -14521000
+			},
+			{
+				"title": "Kaiju Khaos",
+				"title_link": "https://zenpj.itch.io/kaiju-khaos",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062008",
+				"by": [
+					"zenpj"
+				],
+				"by_link": [
+					"https://zenpj.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.442,
+				"t_publish_diff": -2398000
+			},
+			{
+				"title": "After life defense",
+				"title_link": "https://loricgarde.itch.io/afterlife-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062597",
+				"by": [
+					"LoricGarde"
+				],
+				"by_link": [
+					"https://loricgarde.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 24,
+				"score": 3.385,
+				"t_publish_diff": -39049000
+			},
+			{
+				"title": "Fog and Sea (jam version)",
+				"title_link": "https://unseconds.itch.io/fog-and-sea-jam-version",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063154",
+				"by": [
+					"unseconds"
+				],
+				"by_link": [
+					"https://unseconds.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 3.373
+			},
+			{
+				"title": "Kyodai Man: Kaiju Fighter",
+				"title_link": "https://pokopish.itch.io/kyodai-man",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063964",
+				"by": [
+					"Pokopish",
+					"Breaddysticks",
+					"FunkyRuben"
+				],
+				"by_link": [
+					"https://pokopish.itch.io/",
+					"https://breaddysticks.itch.io/",
+					"https://funkyruben.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 19,
+				"score": 3.368,
+				"t_publish_diff": 51821000
+			},
+			{
+				"title": "Mage Battle!",
+				"title_link": "https://augustapril.itch.io/mage-battle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063123",
+				"by": [
+					"August",
+					"Outer Lives",
+					"Ahmet Kamil Keleş"
+				],
+				"by_link": [
+					"https://augustapril.itch.io/",
+					"https://outer-lives.itch.io/",
+					"https://aslangames.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 18,
+				"score": 3.347,
+				"t_publish_diff": -1485000
+			},
+			{
+				"title": "Time Shift Machina",
+				"title_link": "https://bouncingturtlegames.itch.io/time-shift-machina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063225",
+				"by": [
+					"Bouncing Turtle"
+				],
+				"by_link": [
+					"https://bouncingturtlegames.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 15,
+				"score": 3.333,
+				"t_publish_diff": -1292000
+			},
+			{
+				"title": "Attack On Bop",
+				"title_link": "https://dedjo0.itch.io/attack-on-bop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062904",
+				"by": [
+					"Simon Delavenne",
+					"Kyakune",
+					"Heelio",
+					"at0mium"
+				],
+				"by_link": [
+					"https://dedjo0.itch.io/",
+					"https://kyakune.itch.io/",
+					"https://heelio.itch.io/",
+					"https://at0mium.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 28,
+				"score": 3.321,
+				"t_publish_diff": -10441000
+			},
+			{
+				"title": "Little Starfish",
+				"title_link": "https://skinner-space.itch.io/little-starfish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062854",
+				"by": [
+					"Skinner Space",
+					"Haiyoooo | Artist"
+				],
+				"by_link": [
+					"https://skinner-space.itch.io/",
+					"https://haiyoooo.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 3.294,
+				"t_publish_diff": -5768000
+			},
+			{
+				"title": "Monzilla",
+				"title_link": "https://tank-king.itch.io/monzilla",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063131",
+				"by": [
+					"Tank King"
+				],
+				"by_link": [
+					"https://tank-king.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.286,
+				"t_publish_diff": -8792000
+			},
+			{
+				"title": "Zilla Quest",
+				"title_link": "https://cornfab.itch.io/zilla-quest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063038",
+				"by": [
+					"cornfab"
+				],
+				"by_link": [
+					"https://cornfab.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 15,
+				"score": 3.1,
+				"t_publish_diff": -8790000
+			},
+			{
+				"title": "Hexing Steps. Featuring Atragon.",
+				"title_link": "https://naturestudioz.itch.io/hexing-steps",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063204",
+				"by": [
+					"NatureStudioz"
+				],
+				"by_link": [
+					"https://naturestudioz.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 23,
+				"score": 3.098,
+				"t_publish_diff": -4283000
+			},
+			{
+				"title": "The Worlds Best Kaiju",
+				"title_link": "https://dropmania.itch.io/the-worlds-best-kaiju",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062812",
+				"by": [
+					"DropMania"
+				],
+				"by_link": [
+					"https://dropmania.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 18,
+				"score": 3.083,
+				"t_publish_diff": -25194000
+			}
+		]
+	},
+	{
 		"id": 80,
 		"jam_name": "Cats",
 		"link": "https://itch.io/jam/mini-jam-80-cats",
@@ -2866,325 +3213,6 @@
 				"ratings": 6,
 				"score": 3.326,
 				"t_publish_diff": -15441000
-			}
-		]
-	},
-	{
-		"id": 71,
-		"jam_name": "Puzzles",
-		"link": "https://itch.io/jam/mini-jam-71-puzzles",
-		"num_of_game": 95,
-		"num_of_jammer": 120,
-		"num_of_new_jammer": 84,
-		"list": [
-			{
-				"title": "Blocks",
-				"title_link": "https://chemist02.itch.io/blocks",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880458",
-				"by": [
-					"Chemist02"
-				],
-				"by_link": [
-					"https://chemist02.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 4.475,
-				"t_publish_diff": -3632000
-			},
-			{
-				"title": "Puzzle Reign (a.k.a. Kingdom Tetris)",
-				"title_link": "https://solroo.itch.io/puzzle-reign",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
-				"by": [
-					"Joan Sol ROO",
-					"Camonio"
-				],
-				"by_link": [
-					"https://solroo.itch.io/",
-					"https://camonio.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 44,
-				"score": 4.369,
-				"t_publish_diff": -18158000
-			},
-			{
-				"title": "Tile Knight",
-				"title_link": "https://ilprinni.itch.io/tile-knight-minijam71",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879568",
-				"by": [
-					"ilPrinni"
-				],
-				"by_link": [
-					"https://ilprinni.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 12,
-				"score": 4.354,
-				"t_publish_diff": -14806000
-			},
-			{
-				"title": "b-e-e-t-l-e",
-				"title_link": "https://loafyco.itch.io/b-e-e-t-l-e",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880570",
-				"by": [
-					"loafy co.",
-					"smuckerz"
-				],
-				"by_link": [
-					"https://loafyco.itch.io/",
-					"https://smuckerz.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 29,
-				"score": 4.241,
-				"t_publish_diff": -339000
-			},
-			{
-				"title": "Card Tower Puzzle",
-				"title_link": "https://zactarzero.itch.io/card-tower-puzzle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880503",
-				"by": [
-					"ZactarZero"
-				],
-				"by_link": [
-					"https://zactarzero.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 8,
-				"score": 4.063,
-				"t_publish_diff": -6165000
-			},
-			{
-				"title": "Inverse",
-				"title_link": "https://elvendwarf.itch.io/inverse",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879723",
-				"by": [
-					"Elvendwarf"
-				],
-				"by_link": [
-					"https://elvendwarf.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 22,
-				"score": 3.977,
-				"t_publish_diff": -42561000
-			},
-			{
-				"title": "MATCH MASH",
-				"title_link": "https://luismint.itch.io/match-mash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880262",
-				"by": [
-					"LuisMint",
-					"SubstandardShrimp"
-				],
-				"by_link": [
-					"https://luismint.itch.io/",
-					"https://substandardshrimp.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 16,
-				"score": 3.859,
-				"t_publish_diff": -21087000
-			},
-			{
-				"title": "Slime Grinder",
-				"title_link": "https://polosokam.itch.io/slime-grinder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879746",
-				"by": [
-					"Polosokam"
-				],
-				"by_link": [
-					"https://polosokam.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 10,
-				"score": 3.85
-			},
-			{
-				"title": "Baby Farm",
-				"title_link": "https://atlou.itch.io/baby-farm",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880057",
-				"by": [
-					"atlou",
-					"Xynthala",
-					"Erkador"
-				],
-				"by_link": [
-					"https://atlou.itch.io/",
-					"https://xynthala.itch.io/",
-					"https://erkador.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 13,
-				"score": 3.808,
-				"t_publish_diff": -595000
-			},
-			{
-				"title": "Buildman",
-				"title_link": "https://naramel.itch.io/buildman",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880495",
-				"by": [
-					"naramel"
-				],
-				"by_link": [
-					"https://naramel.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 14,
-				"score": 3.804,
-				"t_publish_diff": -622000
-			},
-			{
-				"title": "TetrisInvaders",
-				"title_link": "https://tomputergames.itch.io/tetrisinvaders",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/871176",
-				"by": [
-					"tomputergames"
-				],
-				"by_link": [
-					"https://tomputergames.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 21,
-				"score": 3.786,
-				"t_publish_diff": -37802000
-			},
-			{
-				"title": "Fyz and Now in Olympic Games of Tartarus",
-				"title_link": "https://the-gaiden.itch.io/fyz-and-now",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880419",
-				"by": [
-					"The Gaiden"
-				],
-				"by_link": [
-					"https://the-gaiden.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 24,
-				"score": 3.781,
-				"t_publish_diff": -14041000
-			},
-			{
-				"title": "Oicana",
-				"title_link": "https://niklme.itch.io/oicana",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880111",
-				"by": [
-					"Nikl",
-					"M1nd0fRafa3l"
-				],
-				"by_link": [
-					"https://niklme.itch.io/",
-					"https://m1nd0frafa3l.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 19,
-				"score": 3.776
-			},
-			{
-				"title": "Flame Boy",
-				"title_link": "https://xenvex.itch.io/flame-boy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879504",
-				"by": [
-					"Xenvex"
-				],
-				"by_link": [
-					"https://xenvex.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 9,
-				"score": 3.722
-			},
-			{
-				"title": "PANIK! At The Bottling Plant!",
-				"title_link": "https://deps.itch.io/panik-at-the-bottling-plant",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880349",
-				"by": [
-					"Deps"
-				],
-				"by_link": [
-					"https://deps.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 6,
-				"score": 3.717,
-				"t_publish_diff": -19294000
-			},
-			{
-				"title": "First Puzzle Shooter",
-				"title_link": "https://akusan.itch.io/first-puzzle-shooter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880365",
-				"by": [
-					"Akusan"
-				],
-				"by_link": [
-					"https://akusan.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 16,
-				"score": 3.688,
-				"t_publish_diff": -18325000
-			},
-			{
-				"title": "Mini Jam 71 - Turtle, Rabbit, Hedgehog",
-				"title_link": "https://k3nzngtn.itch.io/turtle-rabbit-hedgehog",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880002",
-				"by": [
-					"k3nzngtn"
-				],
-				"by_link": [
-					"https://k3nzngtn.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 19,
-				"score": 3.684,
-				"t_publish_diff": -35704000
-			},
-			{
-				"title": "Millennium Maximus",
-				"title_link": "https://gamedevbrook.itch.io/millenium-maximus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880538",
-				"by": [
-					"brook.p8"
-				],
-				"by_link": [
-					"https://gamedevbrook.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 17,
-				"score": 3.676,
-				"t_publish_diff": -2204000
-			},
-			{
-				"title": "Detect miii",
-				"title_link": "https://roroto-sic.itch.io/detect-miii",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880420",
-				"by": [
-					"Roroto_Sic"
-				],
-				"by_link": [
-					"https://roroto-sic.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 9,
-				"score": 3.667,
-				"t_publish_diff": -12829000
-			},
-			{
-				"title": "Hellogical",
-				"title_link": "https://doveon.itch.io/hellogical",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/877795",
-				"by": [
-					"Doveon"
-				],
-				"by_link": [
-					"https://doveon.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 9,
-				"score": 3.667,
-				"t_publish_diff": -2128000
 			}
 		]
 	}

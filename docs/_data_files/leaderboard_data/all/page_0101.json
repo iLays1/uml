@@ -453,6 +453,29 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Draco Slayer",
+				"title_link": "https://rehket.itch.io/draco-slayer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2511082",
+				"by": [
+					"rehket",
+					"dlee4901",
+					"Rawmp"
+				],
+				"by_link": [
+					"https://rehket.itch.io/",
+					"https://dlee4901.itch.io/",
+					"https://rawmp.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 2,
+				"score": 1.237,
+				"t_publish_diff": -1061000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
@@ -480,6 +503,29 @@
 		"jammer": "dlee4901",
 		"jammer_link": "https://dlee4901.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Draco Slayer",
+				"title_link": "https://rehket.itch.io/draco-slayer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2511082",
+				"by": [
+					"rehket",
+					"dlee4901",
+					"Rawmp"
+				],
+				"by_link": [
+					"https://rehket.itch.io/",
+					"https://dlee4901.itch.io/",
+					"https://rawmp.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 2,
+				"score": 1.237,
+				"t_publish_diff": -1061000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
@@ -1742,6 +1788,27 @@
 				"ratings": 6,
 				"score": 3.318,
 				"t_publish_diff": -255716000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Gourmandizer",
+				"title_link": "https://ofthemasses.itch.io/gourmandizer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512942",
+				"by": [
+					"Ofthemasses",
+					"nathanbridgeearney"
+				],
+				"by_link": [
+					"https://ofthemasses.itch.io/",
+					"https://nathanbridgeearney.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 2,
+				"score": 2.18,
+				"t_publish_diff": -11104000
 			}
 		]
 	},
@@ -1800,6 +1867,27 @@
 				"ratings": 6,
 				"score": 3.318,
 				"t_publish_diff": -255716000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Gourmandizer",
+				"title_link": "https://ofthemasses.itch.io/gourmandizer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512942",
+				"by": [
+					"Ofthemasses",
+					"nathanbridgeearney"
+				],
+				"by_link": [
+					"https://ofthemasses.itch.io/",
+					"https://nathanbridgeearney.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 2,
+				"score": 2.18,
+				"t_publish_diff": -11104000
 			}
 		]
 	},
@@ -1807,6 +1895,25 @@
 		"jammer": "tectane",
 		"jammer_link": "https://tectane.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dodge'Ems and Dragons",
+				"title_link": "https://tectane.itch.io/dodgems-and-dragons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2511386",
+				"by": [
+					"tectane"
+				],
+				"by_link": [
+					"https://tectane.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 9,
+				"score": 3.333,
+				"t_publish_diff": 61525000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 150,
@@ -2217,6 +2324,25 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "The Greedy Ones",
+				"title_link": "https://dux-dev-games.itch.io/the-greedy-ones",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512804",
+				"by": [
+					"DuxDevGames"
+				],
+				"by_link": [
+					"https://dux-dev-games.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 9,
+				"score": 2.917,
+				"t_publish_diff": -12555000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
@@ -2277,6 +2403,33 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Blazing Breakout",
+				"title_link": "https://nlfuser.itch.io/blazing-breakout",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512859",
+				"by": [
+					"Nlfuser",
+					"Calsim",
+					"Picsneyy",
+					"bearrib",
+					"Harcher"
+				],
+				"by_link": [
+					"https://nlfuser.itch.io/",
+					"https://calsim.itch.io/",
+					"https://picsneyy.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://harcherstudio.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 28,
+				"score": 3.348,
+				"t_publish_diff": 1232000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
@@ -2310,6 +2463,33 @@
 		"jammer": "Picsneyy",
 		"jammer_link": "https://picsneyy.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Blazing Breakout",
+				"title_link": "https://nlfuser.itch.io/blazing-breakout",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512859",
+				"by": [
+					"Nlfuser",
+					"Calsim",
+					"Picsneyy",
+					"bearrib",
+					"Harcher"
+				],
+				"by_link": [
+					"https://nlfuser.itch.io/",
+					"https://calsim.itch.io/",
+					"https://picsneyy.itch.io/",
+					"https://bearrib.itch.io/",
+					"https://harcherstudio.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 28,
+				"score": 3.348,
+				"t_publish_diff": 1232000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 150,
@@ -2450,6 +2630,25 @@
 		"jammer": "Persomatey",
 		"jammer_link": "https://persomatey.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragonic Defender",
+				"title_link": "https://persomatey.itch.io/dragonic-defender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513050",
+				"by": [
+					"Persomatey"
+				],
+				"by_link": [
+					"https://persomatey.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 13,
+				"score": 3.712,
+				"t_publish_diff": -4829000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 150,

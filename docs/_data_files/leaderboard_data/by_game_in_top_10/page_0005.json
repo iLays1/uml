@@ -1,5 +1,92 @@
 [
 	{
+		"jammer": "A Lad",
+		"jammer_link": "https://aladvs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"title": "Putter",
+				"title_link": "https://aladvs.itch.io/putter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164326",
+				"by": [
+					"A Lad"
+				],
+				"by_link": [
+					"https://aladvs.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 3.847,
+				"t_publish_diff": -1086000
+			}
+		]
+	},
+	{
+		"jammer": "JohnLee Cooper",
+		"jammer_link": "https://ergman.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 9,
+				"jam_name": "Back To School",
+				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+				"title": "Nerd Bus",
+				"title_link": "https://ergman.itch.io/nerd-bus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
+				"by": [
+					"JohnLee Cooper",
+					"Teal_ish",
+					"guattery",
+					"PuzzSoft"
+				],
+				"by_link": [
+					"https://ergman.itch.io/",
+					"https://teal-ish.itch.io/",
+					"https://guattery.itch.io/",
+					"https://puzzsoft.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 3.833,
+				"t_publish_diff": -2679000
+			}
+		]
+	},
+	{
+		"jammer": "Teal_ish",
+		"jammer_link": "https://teal-ish.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 9,
+				"jam_name": "Back To School",
+				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
+				"title": "Nerd Bus",
+				"title_link": "https://ergman.itch.io/nerd-bus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
+				"by": [
+					"JohnLee Cooper",
+					"Teal_ish",
+					"guattery",
+					"PuzzSoft"
+				],
+				"by_link": [
+					"https://ergman.itch.io/",
+					"https://teal-ish.itch.io/",
+					"https://guattery.itch.io/",
+					"https://puzzsoft.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 3.833,
+				"t_publish_diff": -2679000
+			}
+		]
+	},
+	{
 		"jammer": "guattery",
 		"jammer_link": "https://guattery.itch.io/",
 		"list_game_sorted": [
@@ -1342,6 +1429,31 @@
 		]
 	},
 	{
+		"jammer": "JJFcompany",
+		"jammer_link": "https://jjfcompany.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Problem of wealth",
+				"title_link": "https://jjfcompany.itch.io/problem-of-wealth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512010",
+				"by": [
+					"JJFcompany"
+				],
+				"by_link": [
+					"https://jjfcompany.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 4.184,
+				"t_publish_diff": -34130000
+			}
+		]
+	},
+	{
 		"jammer": "Floratoby",
 		"jammer_link": "https://floratoby.itch.io/",
 		"list_game_sorted": [
@@ -2639,112 +2751,6 @@
 				"ratings": 17,
 				"score": 4.015,
 				"t_publish_diff": -7954000
-			}
-		]
-	},
-	{
-		"jammer": "VolumeButton",
-		"jammer_link": "https://volumebutton.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 94,
-				"jam_name": "Baking",
-				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"title": "Rumi's Bakeshop",
-				"title_link": "https://volumebutton.itch.io/rumis-bakeshop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296449",
-				"by": [
-					"VolumeButton",
-					"Saicooo"
-				],
-				"by_link": [
-					"https://volumebutton.itch.io/",
-					"https://saicooo.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 11,
-				"score": 4,
-				"t_publish_diff": -11022000
-			}
-		]
-	},
-	{
-		"jammer": "Saicooo",
-		"jammer_link": "https://saicooo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 94,
-				"jam_name": "Baking",
-				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"title": "Rumi's Bakeshop",
-				"title_link": "https://volumebutton.itch.io/rumis-bakeshop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296449",
-				"by": [
-					"VolumeButton",
-					"Saicooo"
-				],
-				"by_link": [
-					"https://volumebutton.itch.io/",
-					"https://saicooo.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 11,
-				"score": 4,
-				"t_publish_diff": -11022000
-			}
-		]
-	},
-	{
-		"jammer": "Sime Gaming Studios",
-		"jammer_link": "https://sime-gaming-studios.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"title": "Snowy Siege",
-				"title_link": "https://sime-gaming-studios.itch.io/snowy-siege",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364960",
-				"by": [
-					"Sime Gaming Studios"
-				],
-				"by_link": [
-					"https://sime-gaming-studios.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 9,
-				"score": 4,
-				"t_publish_diff": -6880000
-			}
-		]
-	},
-	{
-		"jammer": "jvolonte",
-		"jammer_link": "https://jvolonte.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 35,
-				"jam_name": "Vikings",
-				"jam_link": "https://itch.io/jam/mini-jam-35-vikings",
-				"title": "Nords Odyssey",
-				"title_link": "https://jvolonte.itch.io/nordsodyssey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-35-vikings/rate/473480",
-				"by": [
-					"jvolonte",
-					"dasPanjo"
-				],
-				"by_link": [
-					"https://jvolonte.itch.io/",
-					"https://daspanjo.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 16,
-				"score": 3.984,
-				"t_publish_diff": -18341000
 			}
 		]
 	}

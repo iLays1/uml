@@ -33,6 +33,12 @@
 	],
 	"list_mini_jam": [
 		{
+			"id": 151,
+			"jam_name": "Dragons",
+			"link": "https://itch.io/jam/mini-jam-151-dragons",
+			"image_link": "MJ151.gif"
+		},
+		{
 			"id": 150,
 			"jam_name": "Magic",
 			"link": "https://itch.io/jam/mini-jam-150-magic",

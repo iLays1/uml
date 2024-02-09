@@ -1,5 +1,29 @@
 [
 	{
+		"jammer": "McWolke",
+		"jammer_link": "https://mcwolke.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"title": "Camera Man",
+				"title_link": "https://mcwolke.itch.io/camera-man",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415568",
+				"by": [
+					"McWolke"
+				],
+				"by_link": [
+					"https://mcwolke.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 8,
+				"score": 4.281
+			}
+		]
+	},
+	{
 		"jammer": "D1GITΛL CVTS",
 		"jammer_link": "https://d1gital-cuts.itch.io/",
 		"list_game_sorted": [

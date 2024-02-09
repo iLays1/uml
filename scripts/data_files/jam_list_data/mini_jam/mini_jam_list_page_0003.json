@@ -1,5 +1,329 @@
 [
 	{
+		"id": 121,
+		"jam_name": "Reflection",
+		"link": "https://itch.io/jam/mini-jam-121-reflection",
+		"num_of_game": 120,
+		"num_of_jammer": 147,
+		"num_of_new_jammer": 106,
+		"list": [
+			{
+				"title": "Wodinw 1998",
+				"title_link": "https://hmanhere.itch.io/wodinw-1998",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832453",
+				"by": [
+					"HmanHere"
+				],
+				"by_link": [
+					"https://hmanhere.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.219,
+				"t_publish_diff": -252000
+			},
+			{
+				"title": "Battle of Windows",
+				"title_link": "https://yumehiko.itch.io/battle-of-windows",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1829907",
+				"by": [
+					"yumehiko"
+				],
+				"by_link": [
+					"https://yumehiko.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 4.167,
+				"t_publish_diff": -29564000
+			},
+			{
+				"title": "Hillbilly Highway",
+				"title_link": "https://ethonk.itch.io/hillbilly-highway",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831355",
+				"by": [
+					"ethonk",
+					"ethan_322",
+					"Christian_03",
+					"🦖Deerex",
+					"mrsoda71"
+				],
+				"by_link": [
+					"https://ethonk.itch.io/",
+					"https://ethan-322.itch.io/",
+					"https://christian-03.itch.io/",
+					"https://darrencontreras.itch.io/",
+					"https://mrsoda71.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 29,
+				"score": 4.121,
+				"t_publish_diff": -30745000
+			},
+			{
+				"title": "Window Hopping",
+				"title_link": "https://patbug.itch.io/window-hopping",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1827922",
+				"by": [
+					"Patbug"
+				],
+				"by_link": [
+					"https://patbug.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 29,
+				"score": 4.112,
+				"t_publish_diff": -6288000
+			},
+			{
+				"title": "The Man In The Frame",
+				"title_link": "https://dedreflection.itch.io/the-man-in-the-frame",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832091",
+				"by": [
+					"DedReflection"
+				],
+				"by_link": [
+					"https://dedreflection.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 31,
+				"score": 4.073,
+				"t_publish_diff": -15716000
+			},
+			{
+				"title": "Cargus (demo)",
+				"title_link": "https://almarz.itch.io/cargus-demo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831225",
+				"by": [
+					"almarz"
+				],
+				"by_link": [
+					"https://almarz.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 20,
+				"score": 3.987,
+				"t_publish_diff": -34839000
+			},
+			{
+				"title": "XP Attack",
+				"title_link": "https://blodyx.itch.io/xp-attack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831583",
+				"by": [
+					"Blodyx"
+				],
+				"by_link": [
+					"https://blodyx.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.977
+			},
+			{
+				"title": "Sidewalk Helsing",
+				"title_link": "https://exudias.itch.io/sidewalk-helsing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831698",
+				"by": [
+					"Exudias"
+				],
+				"by_link": [
+					"https://exudias.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 15,
+				"score": 3.967,
+				"t_publish_diff": -33120000
+			},
+			{
+				"title": "Boundary Breakers",
+				"title_link": "https://teljen.itch.io/boundary-breakers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1828986",
+				"by": [
+					"Teljen"
+				],
+				"by_link": [
+					"https://teljen.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 14,
+				"score": 3.964,
+				"t_publish_diff": -53470000
+			},
+			{
+				"title": "NVERSE",
+				"title_link": "https://suitesuit.itch.io/nverse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831996",
+				"by": [
+					"SuiteSuit"
+				],
+				"by_link": [
+					"https://suitesuit.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 15,
+				"score": 3.95,
+				"t_publish_diff": -10243000
+			},
+			{
+				"title": "Reflection",
+				"title_link": "https://artline-st.itch.io/reflrection",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832023",
+				"by": [
+					"ArtlineSt",
+					"Akan"
+				],
+				"by_link": [
+					"https://artline-st.itch.io/",
+					"https://akan123.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 22,
+				"score": 3.943,
+				"t_publish_diff": -9901000
+			},
+			{
+				"title": "Reflection on Mars",
+				"title_link": "https://dominosxpizza.itch.io/refelx",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832053",
+				"by": [
+					"DominosXpizza"
+				],
+				"by_link": [
+					"https://dominosxpizza.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 12,
+				"score": 3.896,
+				"t_publish_diff": -17851000
+			},
+			{
+				"title": "Where is Teddy? &lt;127.0.0.1&gt;",
+				"title_link": "https://quasari.itch.io/where-is-teddy-127001",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831943",
+				"by": [
+					"Quasari"
+				],
+				"by_link": [
+					"https://quasari.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 19,
+				"score": 3.895
+			},
+			{
+				"title": "Desktop Reflections",
+				"title_link": "https://philipnewsham.itch.io/reflections",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832090",
+				"by": [
+					"Philip Newsham"
+				],
+				"by_link": [
+					"https://philipnewsham.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 10,
+				"score": 3.85,
+				"t_publish_diff": -15786000
+			},
+			{
+				"title": "Escape the Mirror",
+				"title_link": "https://sh1co.itch.io/escape-the-mirror",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831910",
+				"by": [
+					"Sh1co"
+				],
+				"by_link": [
+					"https://sh1co.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 12,
+				"score": 3.708,
+				"t_publish_diff": -22940000
+			},
+			{
+				"title": "SeCuria",
+				"title_link": "https://itssmuug.itch.io/securia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832443",
+				"by": [
+					"itssmuug"
+				],
+				"by_link": [
+					"https://itssmuug.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 23,
+				"score": 3.707,
+				"t_publish_diff": 271000
+			},
+			{
+				"title": "Luminous Crucible",
+				"title_link": "https://crass-sandwich.itch.io/luminous-crucible",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832405",
+				"by": [
+					"crass_sandwich"
+				],
+				"by_link": [
+					"https://crass-sandwich.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 11,
+				"score": 3.682,
+				"t_publish_diff": -285000
+			},
+			{
+				"title": "I am...",
+				"title_link": "https://latrop.itch.io/i-am",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832387",
+				"by": [
+					"Latrop"
+				],
+				"by_link": [
+					"https://latrop.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 27,
+				"score": 3.667,
+				"t_publish_diff": -260000
+			},
+			{
+				"title": "Mirrorweald",
+				"title_link": "https://no0801.itch.io/mirrorweald",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1830430",
+				"by": [
+					"Matthis Pillonel",
+					"rhum",
+					"STEVO+"
+				],
+				"by_link": [
+					"https://no0801.itch.io/",
+					"https://rhum.itch.io/",
+					"https://stevoleblanc.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 22,
+				"score": 3.659,
+				"t_publish_diff": -30828000
+			},
+			{
+				"title": "Windows Defense",
+				"title_link": "https://lockd.itch.io/windows-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832094",
+				"by": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 21,
+				"score": 3.595,
+				"t_publish_diff": -16015000
+			}
+		]
+	},
+	{
 		"id": 120,
 		"jam_name": "Hell",
 		"link": "https://itch.io/jam/mini-jam-120-hell",
@@ -2947,324 +3271,6 @@
 				"ratings": 11,
 				"score": 3.75,
 				"t_publish_diff": 34790000
-			}
-		]
-	},
-	{
-		"id": 111,
-		"jam_name": "Colors",
-		"link": "https://itch.io/jam/mini-jam-111-colors",
-		"num_of_game": 391,
-		"num_of_jammer": 464,
-		"num_of_new_jammer": 378,
-		"list": [
-			{
-				"title": "Trip + Trap",
-				"title_link": "https://okai.itch.io/trip-trap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634474",
-				"by": [
-					"okAi"
-				],
-				"by_link": [
-					"https://okai.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 26,
-				"score": 4.423,
-				"t_publish_diff": -19654000
-			},
-			{
-				"title": "SATURA",
-				"title_link": "https://rubr.itch.io/satura",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1637277",
-				"by": [
-					"rubr"
-				],
-				"by_link": [
-					"https://rubr.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 16,
-				"score": 4.328,
-				"t_publish_diff": 152560000
-			},
-			{
-				"title": "The Devil On My Shoulder",
-				"title_link": "https://mycousinjimmy.itch.io/the-devil-on-my-shoulder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634851",
-				"by": [
-					"MyCousinJimmy"
-				],
-				"by_link": [
-					"https://mycousinjimmy.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 24,
-				"score": 4.302,
-				"t_publish_diff": -568000
-			},
-			{
-				"title": "Hall of Palettes",
-				"title_link": "https://wer8888.itch.io/hall-of-palettes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634330",
-				"by": [
-					"wer8888",
-					"Goobeart"
-				],
-				"by_link": [
-					"https://wer8888.itch.io/",
-					"https://goobeart.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 34,
-				"score": 4.294
-			},
-			{
-				"title": "Sink",
-				"title_link": "https://jaxstutz.itch.io/sink",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635047",
-				"by": [
-					"JaxStutz"
-				],
-				"by_link": [
-					"https://jaxstutz.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 4.25,
-				"t_publish_diff": 1621000
-			},
-			{
-				"title": "Color Collect",
-				"title_link": "https://chloethemonke.itch.io/color-collect",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633334",
-				"by": [
-					"chloe"
-				],
-				"by_link": [
-					"https://chloethemonke.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 64,
-				"score": 4.188,
-				"t_publish_diff": -6664000
-			},
-			{
-				"title": "Timelooper",
-				"title_link": "https://benjames171.itch.io/timelooper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634006",
-				"by": [
-					"Ben James"
-				],
-				"by_link": [
-					"https://benjames171.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 49,
-				"score": 4.163,
-				"t_publish_diff": -44979000
-			},
-			{
-				"title": "Cursed Walker",
-				"title_link": "https://sagiii.itch.io/mini-jam-111",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633710",
-				"by": [
-					"SAGIII",
-					"shibii_23"
-				],
-				"by_link": [
-					"https://sagiii.itch.io/",
-					"https://shibii-23.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 59,
-				"score": 4.136,
-				"t_publish_diff": -8742000
-			},
-			{
-				"title": "Not so empty canvas",
-				"title_link": "https://solely-a-natt.itch.io/not-so-empty-canvas",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632774",
-				"by": [
-					"Natt"
-				],
-				"by_link": [
-					"https://solely-a-natt.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 4.125,
-				"t_publish_diff": -27618000
-			},
-			{
-				"title": "MirrorTap",
-				"title_link": "https://shroomius.itch.io/mirrortap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1636045",
-				"by": [
-					"Shroomius"
-				],
-				"by_link": [
-					"https://shroomius.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 4.125,
-				"t_publish_diff": 64545000
-			},
-			{
-				"title": "Ghost Colors",
-				"title_link": "https://bored-cube.itch.io/ghost-colors",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633094",
-				"by": [
-					"Bored Cube"
-				],
-				"by_link": [
-					"https://bored-cube.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 7,
-				"score": 4.076,
-				"t_publish_diff": -117430000
-			},
-			{
-				"title": "Curse of The Nekomancer",
-				"title_link": "https://zera-dev.itch.io/curse-of-the-nekomancer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632326",
-				"by": [
-					"Zera"
-				],
-				"by_link": [
-					"https://zera-dev.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 30,
-				"score": 4.075,
-				"t_publish_diff": -14511000
-			},
-			{
-				"title": "Loose Bits",
-				"title_link": "https://pixelomer.itch.io/loose-bits",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634480",
-				"by": [
-					"pixelomer"
-				],
-				"by_link": [
-					"https://pixelomer.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 18,
-				"score": 4.069
-			},
-			{
-				"title": "Battle Khromatica",
-				"title_link": "https://tis2k.itch.io/grand-battle-khromatica",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1630729",
-				"by": [
-					"tis2k"
-				],
-				"by_link": [
-					"https://tis2k.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 11,
-				"score": 4.068,
-				"t_publish_diff": -207000
-			},
-			{
-				"title": "SUICIDIUM",
-				"title_link": "https://royrosta.itch.io/suicidium",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632363",
-				"by": [
-					"RoyRosta",
-					"Lone Rabbit"
-				],
-				"by_link": [
-					"https://royrosta.itch.io/",
-					"https://lonerabbit.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 11,
-				"score": 4.068,
-				"t_publish_diff": -143060000
-			},
-			{
-				"title": "Spirit Quest",
-				"title_link": "https://thatrandomdeveloper.itch.io/spiritquest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1631829",
-				"by": [
-					"thatrandomdev"
-				],
-				"by_link": [
-					"https://thatrandomdeveloper.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 8,
-				"score": 4.063,
-				"t_publish_diff": -208173000
-			},
-			{
-				"title": "Shadow",
-				"title_link": "https://blurofficial.itch.io/shadow",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633665",
-				"by": [
-					"Blur"
-				],
-				"by_link": [
-					"https://blurofficial.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 9,
-				"score": 4.056,
-				"t_publish_diff": -64022000
-			},
-			{
-				"title": "Achromatopsia",
-				"title_link": "https://nouhidev.itch.io/achromatopsia",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634744",
-				"by": [
-					"nouhidev",
-					"nouhideV2",
-					"Namlit"
-				],
-				"by_link": [
-					"https://nouhidev.itch.io/",
-					"https://nouhidev2.itch.io/",
-					"https://namlit.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 22,
-				"score": 4.023,
-				"t_publish_diff": -9058000
-			},
-			{
-				"title": "Memory Color Grid",
-				"title_link": "https://porkite.itch.io/memory-color-grid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634350",
-				"by": [
-					"Porkite"
-				],
-				"by_link": [
-					"https://porkite.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 15,
-				"score": 4.017,
-				"t_publish_diff": -26551000
-			},
-			{
-				"title": "One Pong Man",
-				"title_link": "https://oneflowman.itch.io/one-pong-man",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634935",
-				"by": [
-					"One Flow Man"
-				],
-				"by_link": [
-					"https://oneflowman.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 21,
-				"score": 4,
-				"t_publish_diff": -700000
 			}
 		]
 	}

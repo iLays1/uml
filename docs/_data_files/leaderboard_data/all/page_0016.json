@@ -1500,6 +1500,25 @@
 				"ratings": 7,
 				"score": 3,
 				"t_publish_diff": -28965000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Greedy Cockatrice",
+				"title_link": "https://ua-koval.itch.io/greedy-cockatrice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2511918",
+				"by": [
+					"Koval"
+				],
+				"by_link": [
+					"https://ua-koval.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 14,
+				"score": 2.732,
+				"t_publish_diff": -43043000
 			}
 		]
 	},

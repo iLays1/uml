@@ -1,5 +1,213 @@
 [
 	{
+		"id": 21,
+		"jam_name": "Stories",
+		"link": "https://itch.io/jam/mini-jam-21-stories",
+		"num_of_game": 13,
+		"num_of_jammer": 16,
+		"num_of_new_jammer": 8,
+		"list": [
+			{
+				"title": "Princess Story",
+				"title_link": "https://readymajor.itch.io/princess-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369100",
+				"by": [
+					"ReadyMajor",
+					"JamesGMarks"
+				],
+				"by_link": [
+					"https://readymajor.itch.io/",
+					"https://revelationgt.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 13,
+				"score": 3.712,
+				"t_publish_diff": -89000
+			},
+			{
+				"title": "Too many mouths",
+				"title_link": "https://caterpillardream.itch.io/too",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368963",
+				"by": [
+					"CaterpillarDream"
+				],
+				"by_link": [
+					"https://caterpillardream.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 11,
+				"score": 3.705,
+				"t_publish_diff": -1096000
+			},
+			{
+				"title": "Hero's Pet",
+				"title_link": "https://ninjaxim.itch.io/heros-pet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368164",
+				"by": [
+					"Ninjaxim"
+				],
+				"by_link": [
+					"https://ninjaxim.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 9,
+				"score": 3.25,
+				"t_publish_diff": -1361000
+			},
+			{
+				"title": "Psychedelic Limbo",
+				"title_link": "https://juunishi-master.itch.io/psychedelic-limbo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369072",
+				"by": [
+					"juunishi master"
+				],
+				"by_link": [
+					"https://juunishi-master.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 6,
+				"score": 3.125
+			},
+			{
+				"title": "Writer's Fantasy",
+				"title_link": "https://43ther.itch.io/writers-fantasy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369028",
+				"by": [
+					"43ther",
+					"Galo"
+				],
+				"by_link": [
+					"https://43ther.itch.io/",
+					"https://ghosthanddev.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 7,
+				"score": 2.679,
+				"t_publish_diff": -948000
+			},
+			{
+				"title": "Aquaticus (Anti-Hero)",
+				"title_link": "https://dk5000p.itch.io/aquaticus-anti-hero",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369094",
+				"by": [
+					"dk5000p"
+				],
+				"by_link": [
+					"https://dk5000p.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 2.667,
+				"t_publish_diff": -1705000
+			},
+			{
+				"title": "Solomon Story",
+				"title_link": "https://zultry.itch.io/solomon-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368990",
+				"by": [
+					"Zultry"
+				],
+				"by_link": [
+					"https://zultry.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 4,
+				"score": 2.603,
+				"t_publish_diff": -5743000
+			},
+			{
+				"title": "You Just Water Flowers, Apparently.",
+				"title_link": "https://redstonie.itch.io/you-just-water-flowers-apparently",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369059",
+				"by": [
+					"redstonie"
+				],
+				"by_link": [
+					"https://redstonie.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 5,
+				"score": 2.602
+			},
+			{
+				"title": "Kevin is not a Dungeoneer",
+				"title_link": "https://kerokerosene.itch.io/kevin-is-not-a-dungeoneer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369017",
+				"by": [
+					"kerokerosene"
+				],
+				"by_link": [
+					"https://kerokerosene.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 8,
+				"score": 2.563
+			},
+			{
+				"title": "Monday the 13th",
+				"title_link": "https://apxstudios.itch.io/monday-the-13th",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368832",
+				"by": [
+					"APXStudios"
+				],
+				"by_link": [
+					"https://apxstudios.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 5,
+				"score": 2.419,
+				"t_publish_diff": -34914000
+			},
+			{
+				"title": "Recursed",
+				"title_link": "https://tesselata.itch.io/recursed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368185",
+				"by": [
+					"Tess"
+				],
+				"by_link": [
+					"https://tesselata.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 5,
+				"score": 2.1,
+				"t_publish_diff": -789000
+			},
+			{
+				"title": "Young Squire",
+				"title_link": "https://amusedsandpaper.itch.io/young-squire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368908",
+				"by": [
+					"AmusedSandpaper"
+				],
+				"by_link": [
+					"https://amusedsandpaper.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 3,
+				"score": 2.003,
+				"t_publish_diff": -24855000
+			},
+			{
+				"title": "Code Hero",
+				"title_link": "https://gamedevbrook.itch.io/code-hero",
+				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/368709",
+				"by": [
+					"brook.p8",
+					"TheJadeRabbit0"
+				],
+				"by_link": [
+					"https://gamedevbrook.itch.io/",
+					"https://thejaderabbit0.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 3,
+				"score": 1.532,
+				"t_publish_diff": -52389000
+			}
+		]
+	},
+	{
 		"id": 20,
 		"jam_name": "Music",
 		"link": "https://itch.io/jam/mini-jam-20-music",
@@ -2221,241 +2429,6 @@
 				"rank": 22,
 				"ratings": 2,
 				"score": 2.309
-			}
-		]
-	},
-	{
-		"id": 11,
-		"jam_name": "Harvest",
-		"link": "https://itch.io/jam/mini-jam-11-",
-		"num_of_game": 15,
-		"num_of_jammer": 17,
-		"num_of_new_jammer": 10,
-		"list": [
-			{
-				"title": "Mini Jam 11 - Harvest",
-				"title_link": "https://ismaelrodriguez.itch.io/harvest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/307864",
-				"by": [
-					"Ismael Rodriguez"
-				],
-				"by_link": [
-					"https://ismaelrodriguez.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 11,
-				"score": 4.333,
-				"t_publish_diff": -24542000
-			},
-			{
-				"title": "Dozen Egg Drop",
-				"title_link": "https://goatboatgames.itch.io/dozen-egg-drop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308132",
-				"by": [
-					"GoatBoatGames"
-				],
-				"by_link": [
-					"https://goatboatgames.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.036,
-				"t_publish_diff": -3017000
-			},
-			{
-				"title": "🌜🌲",
-				"title_link": "https://comigo.itch.io/among-the-wolves",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/307946",
-				"by": [
-					"Cosmo Myzrail Gorynych"
-				],
-				"by_link": [
-					"https://comigo.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 10,
-				"score": 3.9
-			},
-			{
-				"title": "🎃",
-				"title_link": "https://zmcgee.itch.io/pumpkin-toss",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308126",
-				"by": [
-					"zmcgee"
-				],
-				"by_link": [
-					"https://zmcgee.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 3.864
-			},
-			{
-				"title": "Dungeon Reaper",
-				"title_link": "https://horun.itch.io/dungeon-reaper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308474",
-				"by": [
-					"Horun"
-				],
-				"by_link": [
-					"https://horun.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 9,
-				"score": 3.537,
-				"t_publish_diff": -16815000
-			},
-			{
-				"title": "Martian Farming - Original",
-				"title_link": "https://fortynina.itch.io/red-planet-farming",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308555",
-				"by": [
-					"fortynina"
-				],
-				"by_link": [
-					"https://fortynina.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 3.5
-			},
-			{
-				"title": "Kauai",
-				"title_link": "https://phillipp.itch.io/kauai",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308089",
-				"by": [
-					"phillip"
-				],
-				"by_link": [
-					"https://phillipp.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 11,
-				"score": 3.47,
-				"t_publish_diff": -896000
-			},
-			{
-				"title": "(☞ಠ_ಠ)☞",
-				"title_link": "https://akusan.itch.io/caverunner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308597",
-				"by": [
-					"Akusan"
-				],
-				"by_link": [
-					"https://akusan.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 9,
-				"score": 3.13,
-				"t_publish_diff": -21000
-			},
-			{
-				"title": "Click and Harvest 0.1",
-				"title_link": "https://davidlopezdev.itch.io/click-and-harvest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/307842",
-				"by": [
-					"David López"
-				],
-				"by_link": [
-					"https://davidlopezdev.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 3.037,
-				"t_publish_diff": -174544000
-			},
-			{
-				"title": "💀🥕👻👻👻",
-				"title_link": "https://extron.itch.io/grimfarming",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308601",
-				"by": [
-					"Extron"
-				],
-				"by_link": [
-					"https://extron.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 7,
-				"score": 2.751,
-				"t_publish_diff": -660000
-			},
-			{
-				"title": "😠✖🐭",
-				"title_link": "https://guizero.itch.io/protectyourharvest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308566",
-				"by": [
-					"guizero"
-				],
-				"by_link": [
-					"https://guizero.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 7,
-				"score": 2.394,
-				"t_publish_diff": -7613000
-			},
-			{
-				"title": "Unwritten",
-				"title_link": "https://dk5000p.itch.io/unwritten",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308396",
-				"by": [
-					"dk5000p"
-				],
-				"by_link": [
-					"https://dk5000p.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 8,
-				"score": 2.278,
-				"t_publish_diff": -30132000
-			},
-			{
-				"title": "No Title :(",
-				"title_link": "https://trapezoid-games.itch.io/notitle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308532",
-				"by": [
-					"Dot"
-				],
-				"by_link": [
-					"https://trapezoid-games.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 12,
-				"score": 2.264,
-				"t_publish_diff": -9514000
-			},
-			{
-				"title": "Harvest Evacuation",
-				"title_link": "https://retroindiejosh.itch.io/harvest-evacuation",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308342",
-				"by": [
-					"Retro Indie Josh",
-					"katethemakeupmonster"
-				],
-				"by_link": [
-					"https://retroindiejosh.itch.io/",
-					"https://katethemakeupmonster.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 4,
-				"score": 2.25
-			},
-			{
-				"title": "Witches garden",
-				"title_link": "https://cromartin.itch.io/witches-garden",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308437",
-				"by": [
-					"Martin Starešinčić",
-					"Bahototh"
-				],
-				"by_link": [
-					"https://cromartin.itch.io/",
-					"https://bahototh.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 3,
-				"score": 1.957,
-				"t_publish_diff": -23051000
 			}
 		]
 	}

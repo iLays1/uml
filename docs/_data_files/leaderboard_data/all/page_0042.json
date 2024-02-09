@@ -1085,6 +1085,25 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Idle Income",
+				"title_link": "https://bluemango.itch.io/idle-income-dragon-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512773",
+				"by": [
+					"BlueMango"
+				],
+				"by_link": [
+					"https://bluemango.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 21,
+				"score": 3.762,
+				"t_publish_diff": -7777000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 101,
 				"jam_name": "Limit",
 				"jam_link": "https://itch.io/jam/mini-jam-101-limit",

@@ -44,14 +44,14 @@ async function main(in_options) {
 		list_mini_jam = await get_mini_jam_list(await first_mini_jam_in_api_result_available());
 	}
 
-	if (options.list_rewrite_these_files.length == 0) {
-		if (!options.use_jam_list_json && options.create_jam_list_file && options.mini_jam_id_max_cap > 10000) {
-			SF.write_json({
-				list_major_jam: list_major_jam,
-				list_mini_jam: list_mini_jam,
-			}, OUTPUT_JAM_LIST_FOLDER_PATH, 'jam_list.json');
-		}
+	if (!options.use_jam_list_json && options.create_jam_list_file && options.mini_jam_id_max_cap > 10000) {
+		SF.write_json({
+			list_major_jam: list_major_jam,
+			list_mini_jam: list_mini_jam,
+		}, OUTPUT_JAM_LIST_FOLDER_PATH, 'jam_list.json');
+	}
 
+	if (options.list_rewrite_these_files.length == 0) {
 		if (options.create_major_jam_files && options.mini_jam_id_max_cap > 10000) {
 			console.log('creating major jam files');
 			for (let i = 0; i < list_major_jam.length; i++) {

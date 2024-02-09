@@ -1,5 +1,223 @@
 [
 	{
+		"jammer": "ByteCraft",
+		"jammer_link": "https://bytecraft.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Silkstream",
+				"title_link": "https://bytecraft.itch.io/silkstream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869555",
+				"by": [
+					"ByteCraft",
+					"ST0CKCVB3"
+				],
+				"by_link": [
+					"https://bytecraft.itch.io/",
+					"https://st0ckcvb3.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 19,
+				"score": 3.816,
+				"t_publish_diff": -113000
+			}
+		]
+	},
+	{
+		"jammer": "ST0CKCVB3",
+		"jammer_link": "https://st0ckcvb3.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Silkstream",
+				"title_link": "https://bytecraft.itch.io/silkstream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869555",
+				"by": [
+					"ByteCraft",
+					"ST0CKCVB3"
+				],
+				"by_link": [
+					"https://bytecraft.itch.io/",
+					"https://st0ckcvb3.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 19,
+				"score": 3.816,
+				"t_publish_diff": -113000
+			}
+		]
+	},
+	{
+		"jammer": "PeaQueueAre",
+		"jammer_link": "https://peaqueueare.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"title": "Serendipity",
+				"title_link": "https://peaqueueare.itch.io/serendipity",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
+				"by": [
+					"PeaQueueAre",
+					"Anthony",
+					"accessednull"
+				],
+				"by_link": [
+					"https://peaqueueare.itch.io/",
+					"https://anthony-c.itch.io/",
+					"https://accessednull.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 8,
+				"score": 3.813,
+				"t_publish_diff": -1946000
+			}
+		]
+	},
+	{
+		"jammer": "Anthony",
+		"jammer_link": "https://anthony-c.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"title": "Serendipity",
+				"title_link": "https://peaqueueare.itch.io/serendipity",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
+				"by": [
+					"PeaQueueAre",
+					"Anthony",
+					"accessednull"
+				],
+				"by_link": [
+					"https://peaqueueare.itch.io/",
+					"https://anthony-c.itch.io/",
+					"https://accessednull.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 8,
+				"score": 3.813,
+				"t_publish_diff": -1946000
+			}
+		]
+	},
+	{
+		"jammer": "accessednull",
+		"jammer_link": "https://accessednull.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"title": "Serendipity",
+				"title_link": "https://peaqueueare.itch.io/serendipity",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
+				"by": [
+					"PeaQueueAre",
+					"Anthony",
+					"accessednull"
+				],
+				"by_link": [
+					"https://peaqueueare.itch.io/",
+					"https://anthony-c.itch.io/",
+					"https://accessednull.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 8,
+				"score": 3.813,
+				"t_publish_diff": -1946000
+			}
+		]
+	},
+	{
+		"jammer": "CreateLeaf",
+		"jammer_link": "https://createleaf.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "Fool's Gold",
+				"title_link": "https://createleaf.itch.io/miner-cat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185692",
+				"by": [
+					"CreateLeaf",
+					"Bernsteinwolf"
+				],
+				"by_link": [
+					"https://createleaf.itch.io/",
+					"https://bernsteinwolf.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 18,
+				"score": 3.792
+			}
+		]
+	},
+	{
+		"jammer": "Bernsteinwolf",
+		"jammer_link": "https://bernsteinwolf.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "Fool's Gold",
+				"title_link": "https://createleaf.itch.io/miner-cat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185692",
+				"by": [
+					"CreateLeaf",
+					"Bernsteinwolf"
+				],
+				"by_link": [
+					"https://createleaf.itch.io/",
+					"https://bernsteinwolf.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 18,
+				"score": 3.792
+			}
+		]
+	},
+	{
+		"jammer": "ecaroh.games",
+		"jammer_link": "https://ecaroh.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Ecaroh's Dragon",
+				"title_link": "https://ecaroh.itch.io/ecaroh-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2509239",
+				"by": [
+					"ecaroh.games"
+				],
+				"by_link": [
+					"https://ecaroh.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 27,
+				"score": 3.787,
+				"t_publish_diff": -1332000
+			}
+		]
+	},
+	{
 		"jammer": "The Gaiden",
 		"jammer_link": "https://the-gaiden.itch.io/",
 		"list_game_sorted": [
@@ -2431,239 +2649,6 @@
 				"ratings": 24,
 				"score": 3.854,
 				"t_publish_diff": 2769000
-			}
-		]
-	},
-	{
-		"jammer": "Dewott2501",
-		"jammer_link": "https://dewott2501.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"title": "Moon Rat",
-				"title_link": "https://dewott2501.itch.io/moon-rat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020769",
-				"by": [
-					"Dewott2501"
-				],
-				"by_link": [
-					"https://dewott2501.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 22,
-				"score": 3.852
-			}
-		]
-	},
-	{
-		"jammer": "Andre Bacon",
-		"jammer_link": "https://andrebacon2.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"title": "Life's a Beach",
-				"title_link": "https://pepperboi.itch.io/life-a-beach",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2114006",
-				"by": [
-					"PepperBoi",
-					"Andre Bacon",
-					"Tachy Bunker",
-					"Jamal Creates",
-					"Staintocton"
-				],
-				"by_link": [
-					"https://pepperboi.itch.io/",
-					"https://andrebacon2.itch.io/",
-					"https://tachy-bunker.itch.io/",
-					"https://jamalcreates.itch.io/",
-					"https://staintocton.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 18,
-				"score": 3.847,
-				"t_publish_diff": 12000
-			}
-		]
-	},
-	{
-		"jammer": "Tachy Bunker",
-		"jammer_link": "https://tachy-bunker.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"title": "Life's a Beach",
-				"title_link": "https://pepperboi.itch.io/life-a-beach",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2114006",
-				"by": [
-					"PepperBoi",
-					"Andre Bacon",
-					"Tachy Bunker",
-					"Jamal Creates",
-					"Staintocton"
-				],
-				"by_link": [
-					"https://pepperboi.itch.io/",
-					"https://andrebacon2.itch.io/",
-					"https://tachy-bunker.itch.io/",
-					"https://jamalcreates.itch.io/",
-					"https://staintocton.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 18,
-				"score": 3.847,
-				"t_publish_diff": 12000
-			}
-		]
-	},
-	{
-		"jammer": "Jamal Creates",
-		"jammer_link": "https://jamalcreates.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"title": "Life's a Beach",
-				"title_link": "https://pepperboi.itch.io/life-a-beach",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2114006",
-				"by": [
-					"PepperBoi",
-					"Andre Bacon",
-					"Tachy Bunker",
-					"Jamal Creates",
-					"Staintocton"
-				],
-				"by_link": [
-					"https://pepperboi.itch.io/",
-					"https://andrebacon2.itch.io/",
-					"https://tachy-bunker.itch.io/",
-					"https://jamalcreates.itch.io/",
-					"https://staintocton.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 18,
-				"score": 3.847,
-				"t_publish_diff": 12000
-			}
-		]
-	},
-	{
-		"jammer": "Mikke",
-		"jammer_link": "https://mikeunderline.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"title": "Soul Keeper",
-				"title_link": "https://mikeunderline.itch.io/soul-keeper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749444",
-				"by": [
-					"Mikke"
-				],
-				"by_link": [
-					"https://mikeunderline.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 17,
-				"score": 3.838,
-				"t_publish_diff": -14656000
-			}
-		]
-	},
-	{
-		"jammer": "Les Gros Shlags",
-		"jammer_link": "https://abel-graux.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"title": "VISCERA",
-				"title_link": "https://abel-graux.itch.io/viscera",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105292",
-				"by": [
-					"Les Gros Shlags",
-					"DominosXpizza"
-				],
-				"by_link": [
-					"https://abel-graux.itch.io/",
-					"https://dominosxpizza.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 12,
-				"score": 3.833,
-				"t_publish_diff": -5690000
-			}
-		]
-	},
-	{
-		"jammer": "givrox7",
-		"jammer_link": "https://givrox7.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"title": "Flocking Birds",
-				"title_link": "https://givrox7.itch.io/flocking-birds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388714",
-				"by": [
-					"givrox7",
-					"enochianveh",
-					"Carter13"
-				],
-				"by_link": [
-					"https://givrox7.itch.io/",
-					"https://enochianveh.itch.io/",
-					"https://carter13.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 9,
-				"score": 3.833,
-				"t_publish_diff": -12814000
-			}
-		]
-	},
-	{
-		"jammer": "enochianveh",
-		"jammer_link": "https://enochianveh.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"title": "Flocking Birds",
-				"title_link": "https://givrox7.itch.io/flocking-birds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388714",
-				"by": [
-					"givrox7",
-					"enochianveh",
-					"Carter13"
-				],
-				"by_link": [
-					"https://givrox7.itch.io/",
-					"https://enochianveh.itch.io/",
-					"https://carter13.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 9,
-				"score": 3.833,
-				"t_publish_diff": -12814000
 			}
 		]
 	}

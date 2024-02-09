@@ -1,5 +1,55 @@
 [
 	{
+		"jammer": "mappi",
+		"jammer_link": "https://mappi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 44,
+				"jam_name": "New Year",
+				"jam_link": "https://itch.io/jam/mini-jam-44-new-year",
+				"title": "hatsumōde",
+				"title_link": "https://mappi.itch.io/hatsumde",
+				"submission_page_link": "https://itch.io/jam/mini-jam-44-new-year/rate/542517",
+				"by": [
+					"mappi"
+				],
+				"by_link": [
+					"https://mappi.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 22,
+				"score": 3.091,
+				"t_publish_diff": -4900000
+			}
+		]
+	},
+	{
+		"jammer": "Roxy22",
+		"jammer_link": "https://roxy22.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 17,
+				"jam_name": "Home Alone",
+				"jam_link": "https://itch.io/jam/mini-jam-17-home-alone",
+				"title": "Bathroom Runner",
+				"title_link": "https://roxy22.itch.io/bathroom-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-17-home-alone/rate/346599",
+				"by": [
+					"Roxy22"
+				],
+				"by_link": [
+					"https://roxy22.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 7,
+				"score": 2.964,
+				"t_publish_diff": -220000
+			}
+		]
+	},
+	{
 		"jammer": "Zel",
 		"jammer_link": "https://heyimzel.itch.io/",
 		"list_game_sorted": [
@@ -2626,61 +2676,6 @@
 				"rank": 6,
 				"ratings": 11,
 				"score": 3.5
-			}
-		]
-	},
-	{
-		"jammer": "fortynina",
-		"jammer_link": "https://fortynina.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 11,
-				"jam_name": "Harvest",
-				"jam_link": "https://itch.io/jam/mini-jam-11-",
-				"title": "Martian Farming - Original",
-				"title_link": "https://fortynina.itch.io/red-planet-farming",
-				"submission_page_link": "https://itch.io/jam/mini-jam-11-/rate/308555",
-				"by": [
-					"fortynina"
-				],
-				"by_link": [
-					"https://fortynina.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 11,
-				"score": 3.5
-			}
-		]
-	},
-	{
-		"jammer": "Gaby",
-		"jammer_link": "https://gabrimer.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"title": "Wrong Sentence",
-				"title_link": "https://pokopish.itch.io/wrong-sentence",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2183892",
-				"by": [
-					"Pokopish",
-					"Breaddysticks",
-					"Gaby",
-					"Lowtonn"
-				],
-				"by_link": [
-					"https://pokopish.itch.io/",
-					"https://breaddysticks.itch.io/",
-					"https://gabrimer.itch.io/",
-					"https://lowtonn.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 14,
-				"score": 3.482,
-				"t_publish_diff": -20958000
 			}
 		]
 	}

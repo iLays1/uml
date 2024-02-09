@@ -1,5 +1,159 @@
 [
 	{
+		"jammer": "Robin Toller Hovler",
+		"jammer_link": "https://robin-toller-hovler.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"title": "Curse of the Magpie",
+				"title_link": "https://robin-toller-hovler.itch.io/curse-of-the-magpie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137408",
+				"by": [
+					"Robin Toller Hovler",
+					"Edvin Edenhage"
+				],
+				"by_link": [
+					"https://robin-toller-hovler.itch.io/",
+					"https://edvin-edenhage.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 34,
+				"score": 3.669,
+				"t_publish_diff": -11197000
+			}
+		]
+	},
+	{
+		"jammer": "Edvin Edenhage",
+		"jammer_link": "https://edvin-edenhage.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"title": "Curse of the Magpie",
+				"title_link": "https://robin-toller-hovler.itch.io/curse-of-the-magpie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137408",
+				"by": [
+					"Robin Toller Hovler",
+					"Edvin Edenhage"
+				],
+				"by_link": [
+					"https://robin-toller-hovler.itch.io/",
+					"https://edvin-edenhage.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 34,
+				"score": 3.669,
+				"t_publish_diff": -11197000
+			}
+		]
+	},
+	{
+		"jammer": "MASSIVEtinyWorkshop",
+		"jammer_link": "https://massivetinyworkshop.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 40,
+				"jam_name": "Hunters",
+				"jam_link": "https://itch.io/jam/mini-jam-40-hunters",
+				"title": "Shadow Fiends",
+				"title_link": "https://massivetinyworkshop.itch.io/shadow-fiends",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510612",
+				"by": [
+					"MASSIVEtinyWorkshop"
+				],
+				"by_link": [
+					"https://massivetinyworkshop.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 6,
+				"score": 3.667,
+				"t_publish_diff": -2209000
+			}
+		]
+	},
+	{
+		"jammer": "sloppyjoseph",
+		"jammer_link": "https://sloppyjoseph.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"title": "Bathroom Break",
+				"title_link": "https://sloppyjoseph.itch.io/bathroom-break",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169445",
+				"by": [
+					"sloppyjoseph"
+				],
+				"by_link": [
+					"https://sloppyjoseph.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 19,
+				"score": 3.658,
+				"t_publish_diff": -11295000
+			}
+		]
+	},
+	{
+		"jammer": "Nemo",
+		"jammer_link": "https://deanaseraf1.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"title": "Unexpected Turn",
+				"title_link": "https://deanaseraf1.itch.io/unexpected-turn",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647172",
+				"by": [
+					"Nemo"
+				],
+				"by_link": [
+					"https://deanaseraf1.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.65,
+				"t_publish_diff": -23313000
+			}
+		]
+	},
+	{
+		"jammer": "Aurif",
+		"jammer_link": "https://aurif.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Ink.debug",
+				"title_link": "https://aurif.itch.io/inkdebug",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315447",
+				"by": [
+					"Aurif"
+				],
+				"by_link": [
+					"https://aurif.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 7,
+				"score": 3.643,
+				"t_publish_diff": -23898000
+			}
+		]
+	},
+	{
 		"jammer": "DenGra",
 		"jammer_link": "https://dengra.itch.io/",
 		"list_game_sorted": [

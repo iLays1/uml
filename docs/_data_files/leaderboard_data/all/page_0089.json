@@ -578,6 +578,25 @@
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Coin Knight",
+				"title_link": "https://cat-labs.itch.io/coin-knight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512415",
+				"by": [
+					"Cat Labs"
+				],
+				"by_link": [
+					"https://cat-labs.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 9,
+				"score": 2.361,
+				"t_publish_diff": -30984000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 128,
 				"jam_name": "Health",
 				"jam_link": "https://itch.io/jam/mini-jam-128-health",

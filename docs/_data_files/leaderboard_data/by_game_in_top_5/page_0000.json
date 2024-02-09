@@ -5450,6 +5450,49 @@
 		]
 	},
 	{
+		"jammer": "BirdWorks",
+		"jammer_link": "https://birdworks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Rotten Egg",
+				"title_link": "https://birdworks.itch.io/dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512232",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 23,
+				"score": 4.38,
+				"t_publish_diff": -9509000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Eat, Prey, Belay",
+				"title_link": "https://birdworks.itch.io/web",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1866551",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 26,
+				"score": 3.971
+			}
+		]
+	},
+	{
 		"jammer": "Hipton",
 		"jammer_link": "https://hipton.itch.io/",
 		"list_game_sorted": [
@@ -6349,58 +6392,6 @@
 	{
 		"jammer": "Gorethumb",
 		"jammer_link": "https://viigames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"title": "NICK OF TIME (jam version)",
-				"title_link": "https://viigames.itch.io/nick-of-time",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932215",
-				"by": [
-					"Gorethumb",
-					"tornado cub",
-					"Jefferson Toal"
-				],
-				"by_link": [
-					"https://viigames.itch.io/",
-					"https://tornadocub.itch.io/",
-					"https://jeffersontoal.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 22,
-				"score": 4.034,
-				"t_publish_diff": -3071000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 82,
-				"jam_name": "Doodle",
-				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
-				"title": "Action Jackson Pollock",
-				"title_link": "https://viigames.itch.io/minijam-82-test",
-				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1081913",
-				"by": [
-					"Gorethumb",
-					"Nightma12e",
-					"tornado cub"
-				],
-				"by_link": [
-					"https://viigames.itch.io/",
-					"https://nightma12e.itch.io/",
-					"https://tornadocub.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 16,
-				"score": 3.75,
-				"t_publish_diff": -268000
-			}
-		]
-	},
-	{
-		"jammer": "tornado cub",
-		"jammer_link": "https://tornadocub.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

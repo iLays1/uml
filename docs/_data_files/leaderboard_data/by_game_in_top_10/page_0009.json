@@ -1,5 +1,55 @@
 [
 	{
+		"jammer": "mappi",
+		"jammer_link": "https://mappi.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 44,
+				"jam_name": "New Year",
+				"jam_link": "https://itch.io/jam/mini-jam-44-new-year",
+				"title": "hatsumōde",
+				"title_link": "https://mappi.itch.io/hatsumde",
+				"submission_page_link": "https://itch.io/jam/mini-jam-44-new-year/rate/542517",
+				"by": [
+					"mappi"
+				],
+				"by_link": [
+					"https://mappi.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 22,
+				"score": 3.091,
+				"t_publish_diff": -4900000
+			}
+		]
+	},
+	{
+		"jammer": "Roxy22",
+		"jammer_link": "https://roxy22.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 17,
+				"jam_name": "Home Alone",
+				"jam_link": "https://itch.io/jam/mini-jam-17-home-alone",
+				"title": "Bathroom Runner",
+				"title_link": "https://roxy22.itch.io/bathroom-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-17-home-alone/rate/346599",
+				"by": [
+					"Roxy22"
+				],
+				"by_link": [
+					"https://roxy22.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 7,
+				"score": 2.964,
+				"t_publish_diff": -220000
+			}
+		]
+	},
+	{
 		"jammer": "Zel",
 		"jammer_link": "https://heyimzel.itch.io/",
 		"list_game_sorted": [
@@ -2666,56 +2716,6 @@
 				"ratings": 8,
 				"score": 3.65,
 				"t_publish_diff": -5953000
-			}
-		]
-	},
-	{
-		"jammer": "KirPow",
-		"jammer_link": "https://kirpow.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"title": "Crated",
-				"title_link": "https://kirpow.itch.io/crated",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440570",
-				"by": [
-					"KirPow"
-				],
-				"by_link": [
-					"https://kirpow.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 16,
-				"score": 3.641,
-				"t_publish_diff": -18217000
-			}
-		]
-	},
-	{
-		"jammer": "Monswarm",
-		"jammer_link": "https://monswarm.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 82,
-				"jam_name": "Doodle",
-				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
-				"title": "Javi eats noodles",
-				"title_link": "https://monswarm.itch.io/javi-eats-doodles",
-				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1087827",
-				"by": [
-					"Monswarm"
-				],
-				"by_link": [
-					"https://monswarm.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 22,
-				"score": 3.636,
-				"t_publish_diff": -28289000
 			}
 		]
 	}

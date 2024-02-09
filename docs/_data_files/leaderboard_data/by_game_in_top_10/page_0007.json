@@ -1,5 +1,111 @@
 [
 	{
+		"jammer": "The Sailing Frogs",
+		"jammer_link": "https://the-sailing-frogs.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 93,
+				"jam_name": "Vacation",
+				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
+				"title": "Anaon",
+				"title_link": "https://the-sailing-frogs.itch.io/anaon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278630",
+				"by": [
+					"The Sailing Frogs",
+					"Cal"
+				],
+				"by_link": [
+					"https://the-sailing-frogs.itch.io/",
+					"https://drakenaz.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 15,
+				"score": 3.983,
+				"t_publish_diff": -785000
+			}
+		]
+	},
+	{
+		"jammer": "Wysteria Games",
+		"jammer_link": "https://wysteriagames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Squid Shot",
+				"title_link": "https://wysteriagames.itch.io/squid-shot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2311683",
+				"by": [
+					"Wysteria Games",
+					"The.Json"
+				],
+				"by_link": [
+					"https://wysteriagames.itch.io/",
+					"https://iambecomejajin.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 26,
+				"score": 3.981,
+				"t_publish_diff": -63468000
+			}
+		]
+	},
+	{
+		"jammer": "The.Json",
+		"jammer_link": "https://iambecomejajin.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"title": "Squid Shot",
+				"title_link": "https://wysteriagames.itch.io/squid-shot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2311683",
+				"by": [
+					"Wysteria Games",
+					"The.Json"
+				],
+				"by_link": [
+					"https://wysteriagames.itch.io/",
+					"https://iambecomejajin.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 26,
+				"score": 3.981,
+				"t_publish_diff": -63468000
+			}
+		]
+	},
+	{
+		"jammer": "Toaster_on_mass",
+		"jammer_link": "https://toaster-on-mass.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"title": "Begone Candles",
+				"title_link": "https://toaster-on-mass.itch.io/begone-candles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363802",
+				"by": [
+					"Toaster_on_mass"
+				],
+				"by_link": [
+					"https://toaster-on-mass.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 13,
+				"score": 3.981,
+				"t_publish_diff": -46823000
+			}
+		]
+	},
+	{
 		"jammer": "GeorgeLei",
 		"jammer_link": "https://georgelei.itch.io/",
 		"list_game_sorted": [
@@ -2528,110 +2634,6 @@
 				"ratings": 13,
 				"score": 4.077,
 				"t_publish_diff": -1653000
-			}
-		]
-	},
-	{
-		"jammer": "Rob_64",
-		"jammer_link": "https://rob-64.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"title": "Knight Time",
-				"title_link": "https://deepocean.itch.io/knight-time",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653736",
-				"by": [
-					"DeepOcean",
-					"fumo",
-					"Rob_64"
-				],
-				"by_link": [
-					"https://deepocean.itch.io/",
-					"https://ouriel.itch.io/",
-					"https://rob-64.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 4.077,
-				"t_publish_diff": -1653000
-			}
-		]
-	},
-	{
-		"jammer": "railkill",
-		"jammer_link": "https://railkill.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"title": "The Fat Hand",
-				"title_link": "https://railkill.itch.io/the-fat-hand",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188109",
-				"by": [
-					"railkill"
-				],
-				"by_link": [
-					"https://railkill.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 23,
-				"score": 4.076,
-				"t_publish_diff": -9661000
-			}
-		]
-	},
-	{
-		"jammer": "David Byttow",
-		"jammer_link": "https://counterpoint.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 55,
-				"jam_name": "Stealth",
-				"jam_link": "https://itch.io/jam/mini-jam-55-stealth",
-				"title": "Friday Afternoon Escape",
-				"title_link": "https://counterpoint.itch.io/friday-afternoon-escape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-55-stealth/rate/659350",
-				"by": [
-					"David Byttow"
-				],
-				"by_link": [
-					"https://counterpoint.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 24,
-				"score": 4.073,
-				"t_publish_diff": -6244000
-			}
-		]
-	},
-	{
-		"jammer": "ZactarZero",
-		"jammer_link": "https://zactarzero.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"title": "Card Tower Puzzle",
-				"title_link": "https://zactarzero.itch.io/card-tower-puzzle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880503",
-				"by": [
-					"ZactarZero"
-				],
-				"by_link": [
-					"https://zactarzero.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 8,
-				"score": 4.063,
-				"t_publish_diff": -6165000
 			}
 		]
 	}

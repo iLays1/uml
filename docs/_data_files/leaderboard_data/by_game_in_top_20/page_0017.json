@@ -1,5 +1,184 @@
 [
 	{
+		"jammer": "Harold Hirn",
+		"jammer_link": "https://harold-hirn.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Gus The Greedy Dragon",
+				"title_link": "https://harold-hirn.itch.io/gus-the-greedy-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510884",
+				"by": [
+					"Harold Hirn"
+				],
+				"by_link": [
+					"https://harold-hirn.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 12,
+				"score": 3.833,
+				"t_publish_diff": -104639000
+			}
+		]
+	},
+	{
+		"jammer": "Jiaqu Wu",
+		"jammer_link": "https://jiaqu-wu.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"title": "Soul of Rhythm",
+				"title_link": "https://jiaqu-wu.itch.io/soul-of-rhythm",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930220",
+				"by": [
+					"Jiaqu Wu",
+					"Siyuan Wang"
+				],
+				"by_link": [
+					"https://jiaqu-wu.itch.io/",
+					"https://siyuan-wang.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.808,
+				"t_publish_diff": -43257000
+			}
+		]
+	},
+	{
+		"jammer": "Siyuan Wang",
+		"jammer_link": "https://siyuan-wang.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"title": "Soul of Rhythm",
+				"title_link": "https://jiaqu-wu.itch.io/soul-of-rhythm",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930220",
+				"by": [
+					"Jiaqu Wu",
+					"Siyuan Wang"
+				],
+				"by_link": [
+					"https://jiaqu-wu.itch.io/",
+					"https://siyuan-wang.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.808,
+				"t_publish_diff": -43257000
+			}
+		]
+	},
+	{
+		"jammer": "bluegreenwizard",
+		"jammer_link": "https://bluegreenwizard.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 55,
+				"jam_name": "Stealth",
+				"jam_link": "https://itch.io/jam/mini-jam-55-stealth",
+				"title": "Chameleon",
+				"title_link": "https://bluegreenwizard.itch.io/chameleon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-55-stealth/rate/659576",
+				"by": [
+					"bluegreenwizard"
+				],
+				"by_link": [
+					"https://bluegreenwizard.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 14,
+				"score": 3.804,
+				"t_publish_diff": 10997000
+			}
+		]
+	},
+	{
+		"jammer": "Dopamineee",
+		"jammer_link": "https://dopamineee.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"title": "Rush Note",
+				"title_link": "https://dopamineee.itch.io/rush-note",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187638",
+				"by": [
+					"Dopamineee"
+				],
+				"by_link": [
+					"https://dopamineee.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 3.795,
+				"t_publish_diff": -39721000
+			}
+		]
+	},
+	{
+		"jammer": "Banish",
+		"jammer_link": "https://banish.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"title": "MMR (Meteor Moving Robot)",
+				"title_link": "https://banish.itch.io/mmr-meteor-moving-robot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347903",
+				"by": [
+					"Banish"
+				],
+				"by_link": [
+					"https://banish.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 21,
+				"score": 3.774,
+				"t_publish_diff": -4696000
+			}
+		]
+	},
+	{
+		"jammer": "Slaps",
+		"jammer_link": "https://s1aps.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"title": "Bat Out of Hell",
+				"title_link": "https://s1aps.itch.io/bat-outta-hell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854812",
+				"by": [
+					"Slaps"
+				],
+				"by_link": [
+					"https://s1aps.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 3.773,
+				"t_publish_diff": -4409000
+			}
+		]
+	},
+	{
 		"jammer": "Owlrrex",
 		"jammer_link": "https://owlrrex.itch.io/",
 		"list_game_sorted": [
@@ -2508,199 +2687,6 @@
 				"ratings": 35,
 				"score": 3.821,
 				"t_publish_diff": -48696000
-			}
-		]
-	},
-	{
-		"jammer": "ByteCraft",
-		"jammer_link": "https://bytecraft.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Silkstream",
-				"title_link": "https://bytecraft.itch.io/silkstream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869555",
-				"by": [
-					"ByteCraft",
-					"ST0CKCVB3"
-				],
-				"by_link": [
-					"https://bytecraft.itch.io/",
-					"https://st0ckcvb3.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 19,
-				"score": 3.816,
-				"t_publish_diff": -113000
-			}
-		]
-	},
-	{
-		"jammer": "ST0CKCVB3",
-		"jammer_link": "https://st0ckcvb3.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"title": "Silkstream",
-				"title_link": "https://bytecraft.itch.io/silkstream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869555",
-				"by": [
-					"ByteCraft",
-					"ST0CKCVB3"
-				],
-				"by_link": [
-					"https://bytecraft.itch.io/",
-					"https://st0ckcvb3.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 19,
-				"score": 3.816,
-				"t_publish_diff": -113000
-			}
-		]
-	},
-	{
-		"jammer": "PeaQueueAre",
-		"jammer_link": "https://peaqueueare.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Serendipity",
-				"title_link": "https://peaqueueare.itch.io/serendipity",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
-				"by": [
-					"PeaQueueAre",
-					"Anthony",
-					"accessednull"
-				],
-				"by_link": [
-					"https://peaqueueare.itch.io/",
-					"https://anthony-c.itch.io/",
-					"https://accessednull.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 8,
-				"score": 3.813,
-				"t_publish_diff": -1946000
-			}
-		]
-	},
-	{
-		"jammer": "Anthony",
-		"jammer_link": "https://anthony-c.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Serendipity",
-				"title_link": "https://peaqueueare.itch.io/serendipity",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
-				"by": [
-					"PeaQueueAre",
-					"Anthony",
-					"accessednull"
-				],
-				"by_link": [
-					"https://peaqueueare.itch.io/",
-					"https://anthony-c.itch.io/",
-					"https://accessednull.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 8,
-				"score": 3.813,
-				"t_publish_diff": -1946000
-			}
-		]
-	},
-	{
-		"jammer": "accessednull",
-		"jammer_link": "https://accessednull.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"title": "Serendipity",
-				"title_link": "https://peaqueueare.itch.io/serendipity",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/687801",
-				"by": [
-					"PeaQueueAre",
-					"Anthony",
-					"accessednull"
-				],
-				"by_link": [
-					"https://peaqueueare.itch.io/",
-					"https://anthony-c.itch.io/",
-					"https://accessednull.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 8,
-				"score": 3.813,
-				"t_publish_diff": -1946000
-			}
-		]
-	},
-	{
-		"jammer": "CreateLeaf",
-		"jammer_link": "https://createleaf.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"title": "Fool's Gold",
-				"title_link": "https://createleaf.itch.io/miner-cat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185692",
-				"by": [
-					"CreateLeaf",
-					"Bernsteinwolf"
-				],
-				"by_link": [
-					"https://createleaf.itch.io/",
-					"https://bernsteinwolf.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 18,
-				"score": 3.792
-			}
-		]
-	},
-	{
-		"jammer": "Bernsteinwolf",
-		"jammer_link": "https://bernsteinwolf.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"title": "Fool's Gold",
-				"title_link": "https://createleaf.itch.io/miner-cat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185692",
-				"by": [
-					"CreateLeaf",
-					"Bernsteinwolf"
-				],
-				"by_link": [
-					"https://createleaf.itch.io/",
-					"https://bernsteinwolf.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 18,
-				"score": 3.792
 			}
 		]
 	}

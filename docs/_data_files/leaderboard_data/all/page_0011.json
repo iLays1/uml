@@ -3253,6 +3253,29 @@
 				"rank": 52,
 				"ratings": 44,
 				"score": 3.278
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon Tax",
+				"title_link": "https://miumiria.itch.io/dragon-tax",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512582",
+				"by": [
+					"miumiria",
+					"Ledracarnos",
+					"Ray-Yami"
+				],
+				"by_link": [
+					"https://miumiria.itch.io/",
+					"https://ledracarnos.itch.io/",
+					"https://ray-yami.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 11,
+				"score": 2.727,
+				"t_publish_diff": -17749000
 			}
 		]
 	},

@@ -1,5 +1,79 @@
 [
 	{
+		"jammer": "captain_breadbeard",
+		"jammer_link": "https://captain-breadbeard.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 41,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
+				"title": "Magical Match-3",
+				"title_link": "https://captain-breadbeard.itch.io/magical-match-3",
+				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/517829",
+				"by": [
+					"captain_breadbeard"
+				],
+				"by_link": [
+					"https://captain-breadbeard.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 3.667,
+				"t_publish_diff": -50570000
+			}
+		]
+	},
+	{
+		"jammer": "Empty",
+		"jammer_link": "https://emptyprofile.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"title": "Soul &amp; Corpse",
+				"title_link": "https://emptyprofile.itch.io/soulandcorpse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1447740",
+				"by": [
+					"Empty"
+				],
+				"by_link": [
+					"https://emptyprofile.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 29,
+				"score": 3.664
+			}
+		]
+	},
+	{
+		"jammer": "Bleeding Tapes",
+		"jammer_link": "https://bleeding-tapes.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 7,
+				"jam_name": "Greek Mythology",
+				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
+				"title": "Minitaur's Labyrinth",
+				"title_link": "https://bleeding-tapes.itch.io/minitaurs-labyrinth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285298",
+				"by": [
+					"Bleeding Tapes"
+				],
+				"by_link": [
+					"https://bleeding-tapes.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 7,
+				"score": 3.633,
+				"t_publish_diff": -3502000
+			}
+		]
+	},
+	{
 		"jammer": "vye",
 		"jammer_link": "https://hivye.itch.io/",
 		"list_game_sorted": [
@@ -930,6 +1004,31 @@
 				"rank": 3,
 				"ratings": 15,
 				"score": 4.2
+			}
+		]
+	},
+	{
+		"jammer": "JJFcompany",
+		"jammer_link": "https://jjfcompany.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Problem of wealth",
+				"title_link": "https://jjfcompany.itch.io/problem-of-wealth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512010",
+				"by": [
+					"JJFcompany"
+				],
+				"by_link": [
+					"https://jjfcompany.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 4.184,
+				"t_publish_diff": -34130000
 			}
 		]
 	},
@@ -2619,146 +2718,6 @@
 	{
 		"jammer": "Pookitoki",
 		"jammer_link": "https://pookitoki.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "The 64th Cohort",
-				"title_link": "https://balstik.itch.io/the-64th-cohort",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
-				"by": [
-					"Balstik",
-					"Pookitoki",
-					"Catlaiya",
-					"Kimi",
-					"petitc00kie",
-					"Trino"
-				],
-				"by_link": [
-					"https://balstik.itch.io/",
-					"https://pookitoki.itch.io/",
-					"https://catlaiya.itch.io/",
-					"https://kiminako.itch.io/",
-					"https://petitc00kie.itch.io/",
-					"https://trino.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 7,
-				"score": 3.942,
-				"t_publish_diff": -2099000
-			}
-		]
-	},
-	{
-		"jammer": "Catlaiya",
-		"jammer_link": "https://catlaiya.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "The 64th Cohort",
-				"title_link": "https://balstik.itch.io/the-64th-cohort",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
-				"by": [
-					"Balstik",
-					"Pookitoki",
-					"Catlaiya",
-					"Kimi",
-					"petitc00kie",
-					"Trino"
-				],
-				"by_link": [
-					"https://balstik.itch.io/",
-					"https://pookitoki.itch.io/",
-					"https://catlaiya.itch.io/",
-					"https://kiminako.itch.io/",
-					"https://petitc00kie.itch.io/",
-					"https://trino.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 7,
-				"score": 3.942,
-				"t_publish_diff": -2099000
-			}
-		]
-	},
-	{
-		"jammer": "Kimi",
-		"jammer_link": "https://kiminako.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "The 64th Cohort",
-				"title_link": "https://balstik.itch.io/the-64th-cohort",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
-				"by": [
-					"Balstik",
-					"Pookitoki",
-					"Catlaiya",
-					"Kimi",
-					"petitc00kie",
-					"Trino"
-				],
-				"by_link": [
-					"https://balstik.itch.io/",
-					"https://pookitoki.itch.io/",
-					"https://catlaiya.itch.io/",
-					"https://kiminako.itch.io/",
-					"https://petitc00kie.itch.io/",
-					"https://trino.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 7,
-				"score": 3.942,
-				"t_publish_diff": -2099000
-			}
-		]
-	},
-	{
-		"jammer": "petitc00kie",
-		"jammer_link": "https://petitc00kie.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "The 64th Cohort",
-				"title_link": "https://balstik.itch.io/the-64th-cohort",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778366",
-				"by": [
-					"Balstik",
-					"Pookitoki",
-					"Catlaiya",
-					"Kimi",
-					"petitc00kie",
-					"Trino"
-				],
-				"by_link": [
-					"https://balstik.itch.io/",
-					"https://pookitoki.itch.io/",
-					"https://catlaiya.itch.io/",
-					"https://kiminako.itch.io/",
-					"https://petitc00kie.itch.io/",
-					"https://trino.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 7,
-				"score": 3.942,
-				"t_publish_diff": -2099000
-			}
-		]
-	},
-	{
-		"jammer": "Trino",
-		"jammer_link": "https://trino.itch.io/",
 		"list_game_sorted": [
 			{
 				"jam_type": "mini_jam",

@@ -1608,6 +1608,25 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon's greed",
+				"title_link": "https://khokun.itch.io/dragons-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512380",
+				"by": [
+					"khokun"
+				],
+				"by_link": [
+					"https://khokun.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 5,
+				"score": 2.012,
+				"t_publish_diff": -31131000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
@@ -2365,6 +2384,25 @@
 				"ratings": 7,
 				"score": 4.143,
 				"t_publish_diff": -12505000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Town Buster",
+				"title_link": "https://olanti.itch.io/town-buster",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513068",
+				"by": [
+					"Olanti"
+				],
+				"by_link": [
+					"https://olanti.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 10,
+				"score": 2.75,
+				"t_publish_diff": -4907000
 			}
 		]
 	},
@@ -2509,6 +2547,25 @@
 				"ratings": 22,
 				"score": 3.523,
 				"t_publish_diff": -13360000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Mine! Mine! Mine!",
+				"title_link": "https://teammelodies.itch.io/mine-mine-mine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2500248",
+				"by": [
+					"Team Melodies"
+				],
+				"by_link": [
+					"https://teammelodies.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 11,
+				"score": 3.295,
+				"t_publish_diff": 118287000
 			}
 		]
 	},

@@ -2583,6 +2583,31 @@
 		]
 	},
 	{
+		"jammer": "BirdWorks",
+		"jammer_link": "https://birdworks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Rotten Egg",
+				"title_link": "https://birdworks.itch.io/dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512232",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 23,
+				"score": 4.38,
+				"t_publish_diff": -9509000
+			}
+		]
+	},
+	{
 		"jammer": "Gernknod",
 		"jammer_link": "https://gernknod.itch.io/",
 		"list_game_sorted": [
@@ -3295,30 +3320,6 @@
 				"ratings": 14,
 				"score": 4.286,
 				"t_publish_diff": 65731000
-			}
-		]
-	},
-	{
-		"jammer": "McWolke",
-		"jammer_link": "https://mcwolke.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 147,
-				"jam_name": "Cinema",
-				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"title": "Camera Man",
-				"title_link": "https://mcwolke.itch.io/camera-man",
-				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415568",
-				"by": [
-					"McWolke"
-				],
-				"by_link": [
-					"https://mcwolke.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 8,
-				"score": 4.281
 			}
 		]
 	}

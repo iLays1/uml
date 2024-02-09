@@ -1,5 +1,325 @@
 [
 	{
+		"id": 91,
+		"jam_name": "UFO",
+		"link": "https://itch.io/jam/mini-jam-91-ufo",
+		"num_of_game": 138,
+		"num_of_jammer": 166,
+		"num_of_new_jammer": 120,
+		"list": [
+			{
+				"title": "No Fish in the Sea",
+				"title_link": "https://elvendwarf.itch.io/no-fish-in-the-sea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239210",
+				"by": [
+					"Elvendwarf"
+				],
+				"by_link": [
+					"https://elvendwarf.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 41,
+				"score": 4.311,
+				"t_publish_diff": -30212000
+			},
+			{
+				"title": "Fish N' Ships",
+				"title_link": "https://smidge7.itch.io/fishnships",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238592",
+				"by": [
+					"Smidge7"
+				],
+				"by_link": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.048,
+				"t_publish_diff": -75682000
+			},
+			{
+				"title": "PYON PYON",
+				"title_link": "https://yumehiko.itch.io/pyon-pyon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239131",
+				"by": [
+					"yumehiko"
+				],
+				"by_link": [
+					"https://yumehiko.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 22,
+				"score": 4.034,
+				"t_publish_diff": -3778000
+			},
+			{
+				"title": "Farm Fresh Fish",
+				"title_link": "https://readymajor.itch.io/farm-fresh-fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239638",
+				"by": [
+					"ReadyMajor",
+					"rein"
+				],
+				"by_link": [
+					"https://readymajor.itch.io/",
+					"https://heyimrein.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 15,
+				"score": 4.017,
+				"t_publish_diff": -16294000
+			},
+			{
+				"title": "Unidentified Flying Monsters",
+				"title_link": "https://asdonaur.itch.io/unidentified-flying-monsters",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239509",
+				"by": [
+					"Asdonaur"
+				],
+				"by_link": [
+					"https://asdonaur.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 24,
+				"score": 3.99,
+				"t_publish_diff": -16929000
+			},
+			{
+				"title": "Galactic Fish Collector",
+				"title_link": "https://robhoff.itch.io/galactic-fish-collector",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238097",
+				"by": [
+					"Rob Hoff"
+				],
+				"by_link": [
+					"https://robhoff.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 23,
+				"score": 3.989,
+				"t_publish_diff": -778000
+			},
+			{
+				"title": "They came from above (to steal our dang fish)",
+				"title_link": "https://loricgarde.itch.io/they-came-from-above",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239639",
+				"by": [
+					"LoricGarde"
+				],
+				"by_link": [
+					"https://loricgarde.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 33,
+				"score": 3.864,
+				"t_publish_diff": -15816000
+			},
+			{
+				"title": "Breeding fish",
+				"title_link": "https://gernknod.itch.io/breeding-fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239707",
+				"by": [
+					"Gernknod",
+					"evamb"
+				],
+				"by_link": [
+					"https://gernknod.itch.io/",
+					"https://evamb.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 10,
+				"score": 3.85,
+				"t_publish_diff": -11854000
+			},
+			{
+				"title": "EAFO",
+				"title_link": "https://breadroll.itch.io/eafo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238604",
+				"by": [
+					"breadroll"
+				],
+				"by_link": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 27,
+				"score": 3.843,
+				"t_publish_diff": -2540000
+			},
+			{
+				"title": "An extra-fishy love",
+				"title_link": "https://flhu.itch.io/an-extra-fishy-love",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239361",
+				"by": [
+					"HFlorian",
+					"Herrenya",
+					"Quaquoum"
+				],
+				"by_link": [
+					"https://flhu.itch.io/",
+					"https://herrenya.itch.io/",
+					"https://quaquoum.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 12,
+				"score": 3.813
+			},
+			{
+				"title": "UFO puzzle packing!",
+				"title_link": "https://zahranworrell.itch.io/ufopp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239115",
+				"by": [
+					"ZahranW"
+				],
+				"by_link": [
+					"https://zahranworrell.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 19,
+				"score": 3.776,
+				"t_publish_diff": 70905000
+			},
+			{
+				"title": "The day THE FISH arrived!",
+				"title_link": "https://ermdad.itch.io/the-day-the-fish-arrived",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239632",
+				"by": [
+					"Luke"
+				],
+				"by_link": [
+					"https://ermdad.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 14,
+				"score": 3.75
+			},
+			{
+				"title": "UFO Ocean Frenzy",
+				"title_link": "https://vanbark.itch.io/ufo-ocean-frenzy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238785",
+				"by": [
+					"VanBark"
+				],
+				"by_link": [
+					"https://vanbark.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 17,
+				"score": 3.706,
+				"t_publish_diff": -58324000
+			},
+			{
+				"title": "Eco Balance",
+				"title_link": "https://victordelannoy.itch.io/eco-balance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239957",
+				"by": [
+					"victordelannoy",
+					"joaopaul167"
+				],
+				"by_link": [
+					"https://victordelannoy.itch.io/",
+					"https://joaopaul167.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 11,
+				"score": 3.705,
+				"t_publish_diff": 7604000
+			},
+			{
+				"title": "The lost UFO",
+				"title_link": "https://manskage.itch.io/the-lost-ufo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239371",
+				"by": [
+					"manskage"
+				],
+				"by_link": [
+					"https://manskage.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 12,
+				"score": 3.646,
+				"t_publish_diff": -26730000
+			},
+			{
+				"title": "Unidentified Fishing Organization",
+				"title_link": "https://quietbenchzen.itch.io/unidentified-fishing-organization",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239911",
+				"by": [
+					"QuietBenchZen"
+				],
+				"by_link": [
+					"https://quietbenchzen.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 3.632,
+				"t_publish_diff": -207000
+			},
+			{
+				"title": "Unidentified Fishing Object",
+				"title_link": "https://marekrimal.itch.io/ufo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1236925",
+				"by": [
+					"marekrimal"
+				],
+				"by_link": [
+					"https://marekrimal.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 14,
+				"score": 3.625,
+				"t_publish_diff": -21976000
+			},
+			{
+				"title": "Fishes of Titan",
+				"title_link": "https://polumrak.itch.io/fishes-of-titan",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239876",
+				"by": [
+					"polumrak"
+				],
+				"by_link": [
+					"https://polumrak.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 14,
+				"score": 3.589,
+				"t_publish_diff": -3343000
+			},
+			{
+				"title": "Krozok go FISH!",
+				"title_link": "https://sodoj.itch.io/krozok-go-fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239896",
+				"by": [
+					"Sodoj",
+					"TrAceX"
+				],
+				"by_link": [
+					"https://sodoj.itch.io/",
+					"https://tracex.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 13,
+				"score": 3.577,
+				"t_publish_diff": -2885000
+			},
+			{
+				"title": "U.F.I.S.H.",
+				"title_link": "https://pello.itch.io/ufish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239580",
+				"by": [
+					"pello"
+				],
+				"by_link": [
+					"https://pello.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 30,
+				"score": 3.575,
+				"t_publish_diff": -19814000
+			}
+		]
+	},
+	{
 		"id": 90,
 		"jam_name": "Illusion",
 		"link": "https://itch.io/jam/mini-jam-90-illusion",
@@ -2872,353 +3192,6 @@
 				"ratings": 9,
 				"score": 3.306,
 				"t_publish_diff": -25334000
-			}
-		]
-	},
-	{
-		"id": 81,
-		"jam_name": "Kaiju",
-		"link": "https://itch.io/jam/mini-jam-81-kaiju",
-		"num_of_game": 78,
-		"num_of_jammer": 106,
-		"num_of_new_jammer": 62,
-		"list": [
-			{
-				"title": "Gamera's Binding",
-				"title_link": "https://devnugget.itch.io/gameras-binding",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062447",
-				"by": [
-					"DevNugget"
-				],
-				"by_link": [
-					"https://devnugget.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 14,
-				"score": 3.857,
-				"t_publish_diff": -44108000
-			},
-			{
-				"title": "Mecha Mayor",
-				"title_link": "https://chase-of-bass.itch.io/mecha-mayor",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063268",
-				"by": [
-					"Chase of Bass"
-				],
-				"by_link": [
-					"https://chase-of-bass.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 23,
-				"score": 3.707,
-				"t_publish_diff": -253000
-			},
-			{
-				"title": "Kaiju Walking Simulator",
-				"title_link": "https://thejoun.itch.io/kaiju",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062717",
-				"by": [
-					"thejoun",
-					"Shichimi",
-					"jakooste"
-				],
-				"by_link": [
-					"https://thejoun.itch.io/",
-					"https://shichimi.itch.io/",
-					"https://jakooste.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 21,
-				"score": 3.69,
-				"t_publish_diff": -5961000
-			},
-			{
-				"title": "Cube Lad",
-				"title_link": "https://deltaneverused.itch.io/cube-lad",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063127",
-				"by": [
-					"DeltaNeverUsed"
-				],
-				"by_link": [
-					"https://deltaneverused.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 35,
-				"score": 3.686,
-				"t_publish_diff": -8862000
-			},
-			{
-				"title": "KAI U",
-				"title_link": "https://grimoire-games.itch.io/kai-u",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063196",
-				"by": [
-					"Grimoire Games",
-					"Say.say9",
-					"HassanHellm",
-					"drolejan",
-					"Andrew2115",
-					"NanisZamora",
-					"MrUltraEnder",
-					"Kinckich",
-					"PachucoAtomico"
-				],
-				"by_link": [
-					"https://grimoire-games.itch.io/",
-					"https://saysay9.itch.io/",
-					"https://hassanhellm.itch.io/",
-					"https://drolejan.itch.io/",
-					"https://andrew2115.itch.io/",
-					"https://naniszamora.itch.io/",
-					"https://mrultraender.itch.io/",
-					"https://kinckich.itch.io/",
-					"https://pachucoatomico.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 22,
-				"score": 3.636,
-				"t_publish_diff": -210000
-			},
-			{
-				"title": "The Eternal Queen's Rampage!",
-				"title_link": "https://scarfravenstudios.itch.io/the-eternal-queens-rampage",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062857",
-				"by": [
-					"ScarfRavenStudios"
-				],
-				"by_link": [
-					"https://scarfravenstudios.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 14,
-				"score": 3.607,
-				"t_publish_diff": -4424000
-			},
-			{
-				"title": "Afterlife Animate",
-				"title_link": "https://vvulpes0.itch.io/afterlife-animate",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062946",
-				"by": [
-					"Pineberry Fox",
-					"L3mmy"
-				],
-				"by_link": [
-					"https://vvulpes0.itch.io/",
-					"https://l3mmy.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 32,
-				"score": 3.578,
-				"t_publish_diff": -16760000
-			},
-			{
-				"title": "Potato Kaiju Never Die!",
-				"title_link": "https://potatolifeyt.itch.io/potato-kaiju-never-die",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063012",
-				"by": [
-					"PotatoLifeYT"
-				],
-				"by_link": [
-					"https://potatolifeyt.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 22,
-				"score": 3.568,
-				"t_publish_diff": -14521000
-			},
-			{
-				"title": "Kaiju Khaos",
-				"title_link": "https://zenpj.itch.io/kaiju-khaos",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062008",
-				"by": [
-					"zenpj"
-				],
-				"by_link": [
-					"https://zenpj.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 13,
-				"score": 3.442,
-				"t_publish_diff": -2398000
-			},
-			{
-				"title": "After life defense",
-				"title_link": "https://loricgarde.itch.io/afterlife-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062597",
-				"by": [
-					"LoricGarde"
-				],
-				"by_link": [
-					"https://loricgarde.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 24,
-				"score": 3.385,
-				"t_publish_diff": -39049000
-			},
-			{
-				"title": "Fog and Sea (jam version)",
-				"title_link": "https://unseconds.itch.io/fog-and-sea-jam-version",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063154",
-				"by": [
-					"unseconds"
-				],
-				"by_link": [
-					"https://unseconds.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.373
-			},
-			{
-				"title": "Kyodai Man: Kaiju Fighter",
-				"title_link": "https://pokopish.itch.io/kyodai-man",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063964",
-				"by": [
-					"Pokopish",
-					"Breaddysticks",
-					"FunkyRuben"
-				],
-				"by_link": [
-					"https://pokopish.itch.io/",
-					"https://breaddysticks.itch.io/",
-					"https://funkyruben.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 19,
-				"score": 3.368,
-				"t_publish_diff": 51821000
-			},
-			{
-				"title": "Mage Battle!",
-				"title_link": "https://augustapril.itch.io/mage-battle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063123",
-				"by": [
-					"August",
-					"Outer Lives",
-					"Ahmet Kamil Keleş"
-				],
-				"by_link": [
-					"https://augustapril.itch.io/",
-					"https://outer-lives.itch.io/",
-					"https://aslangames.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 18,
-				"score": 3.347,
-				"t_publish_diff": -1485000
-			},
-			{
-				"title": "Time Shift Machina",
-				"title_link": "https://bouncingturtlegames.itch.io/time-shift-machina",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063225",
-				"by": [
-					"Bouncing Turtle"
-				],
-				"by_link": [
-					"https://bouncingturtlegames.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 15,
-				"score": 3.333,
-				"t_publish_diff": -1292000
-			},
-			{
-				"title": "Attack On Bop",
-				"title_link": "https://dedjo0.itch.io/attack-on-bop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062904",
-				"by": [
-					"Simon Delavenne",
-					"Kyakune",
-					"Heelio",
-					"at0mium"
-				],
-				"by_link": [
-					"https://dedjo0.itch.io/",
-					"https://kyakune.itch.io/",
-					"https://heelio.itch.io/",
-					"https://at0mium.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 28,
-				"score": 3.321,
-				"t_publish_diff": -10441000
-			},
-			{
-				"title": "Little Starfish",
-				"title_link": "https://skinner-space.itch.io/little-starfish",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062854",
-				"by": [
-					"Skinner Space",
-					"Haiyoooo | Artist"
-				],
-				"by_link": [
-					"https://skinner-space.itch.io/",
-					"https://haiyoooo.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 17,
-				"score": 3.294,
-				"t_publish_diff": -5768000
-			},
-			{
-				"title": "Monzilla",
-				"title_link": "https://tank-king.itch.io/monzilla",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063131",
-				"by": [
-					"Tank King"
-				],
-				"by_link": [
-					"https://tank-king.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.286,
-				"t_publish_diff": -8792000
-			},
-			{
-				"title": "Zilla Quest",
-				"title_link": "https://cornfab.itch.io/zilla-quest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063038",
-				"by": [
-					"cornfab"
-				],
-				"by_link": [
-					"https://cornfab.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 15,
-				"score": 3.1,
-				"t_publish_diff": -8790000
-			},
-			{
-				"title": "Hexing Steps. Featuring Atragon.",
-				"title_link": "https://naturestudioz.itch.io/hexing-steps",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063204",
-				"by": [
-					"NatureStudioz"
-				],
-				"by_link": [
-					"https://naturestudioz.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 23,
-				"score": 3.098,
-				"t_publish_diff": -4283000
-			},
-			{
-				"title": "The Worlds Best Kaiju",
-				"title_link": "https://dropmania.itch.io/the-worlds-best-kaiju",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062812",
-				"by": [
-					"DropMania"
-				],
-				"by_link": [
-					"https://dropmania.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 18,
-				"score": 3.083,
-				"t_publish_diff": -25194000
 			}
 		]
 	}

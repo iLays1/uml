@@ -581,6 +581,33 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Triad of Greed",
+				"title_link": "https://rodasfodas.itch.io/triad-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513173",
+				"by": [
+					"rodasFodas",
+					"Magiron",
+					"Puppetz75",
+					"ruivas1",
+					"Paulitchos"
+				],
+				"by_link": [
+					"https://rodasfodas.itch.io/",
+					"https://magiron.itch.io/",
+					"https://puppetz75.itch.io/",
+					"https://ruivas1.itch.io/",
+					"https://paulitchos.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 10,
+				"score": 2.85,
+				"t_publish_diff": 153000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
@@ -609,6 +636,33 @@
 		"jammer": "Magiron",
 		"jammer_link": "https://magiron.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Triad of Greed",
+				"title_link": "https://rodasfodas.itch.io/triad-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513173",
+				"by": [
+					"rodasFodas",
+					"Magiron",
+					"Puppetz75",
+					"ruivas1",
+					"Paulitchos"
+				],
+				"by_link": [
+					"https://rodasfodas.itch.io/",
+					"https://magiron.itch.io/",
+					"https://puppetz75.itch.io/",
+					"https://ruivas1.itch.io/",
+					"https://paulitchos.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 10,
+				"score": 2.85,
+				"t_publish_diff": 153000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 111,
@@ -669,6 +723,33 @@
 		"jammer": "Puppetz75",
 		"jammer_link": "https://puppetz75.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Triad of Greed",
+				"title_link": "https://rodasfodas.itch.io/triad-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513173",
+				"by": [
+					"rodasFodas",
+					"Magiron",
+					"Puppetz75",
+					"ruivas1",
+					"Paulitchos"
+				],
+				"by_link": [
+					"https://rodasfodas.itch.io/",
+					"https://magiron.itch.io/",
+					"https://puppetz75.itch.io/",
+					"https://ruivas1.itch.io/",
+					"https://paulitchos.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 10,
+				"score": 2.85,
+				"t_publish_diff": 153000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 111,

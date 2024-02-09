@@ -1,5 +1,136 @@
 [
 	{
+		"jammer": "TheRealReynold",
+		"jammer_link": "https://therealreynold.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"title": "Blood(loss) is lethal",
+				"title_link": "https://loddisjourney.itch.io/bloodloss-is-lethal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1767898",
+				"by": [
+					"loddisjourney",
+					"TheRealReynold"
+				],
+				"by_link": [
+					"https://loddisjourney.itch.io/",
+					"https://therealreynold.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 14,
+				"score": 3.911,
+				"t_publish_diff": -22369000
+			}
+		]
+	},
+	{
+		"jammer": "AceDegenerate",
+		"jammer_link": "https://acedegenerate.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"title": "De_Sync",
+				"title_link": "https://acedegenerate.itch.io/de-sync",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763696",
+				"by": [
+					"AceDegenerate",
+					"DefectiveMelon"
+				],
+				"by_link": [
+					"https://acedegenerate.itch.io/",
+					"https://defectivemelon.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 19,
+				"score": 3.908,
+				"t_publish_diff": -670000
+			}
+		]
+	},
+	{
+		"jammer": "DefectiveMelon",
+		"jammer_link": "https://defectivemelon.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"title": "De_Sync",
+				"title_link": "https://acedegenerate.itch.io/de-sync",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763696",
+				"by": [
+					"AceDegenerate",
+					"DefectiveMelon"
+				],
+				"by_link": [
+					"https://acedegenerate.itch.io/",
+					"https://defectivemelon.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 19,
+				"score": 3.908,
+				"t_publish_diff": -670000
+			}
+		]
+	},
+	{
+		"jammer": "coincidentally",
+		"jammer_link": "https://coincidentally.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"title": "The 3 Of Life",
+				"title_link": "https://coincidentally.itch.io/the-3-of-life",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196020",
+				"by": [
+					"coincidentally"
+				],
+				"by_link": [
+					"https://coincidentally.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 18,
+				"score": 3.903,
+				"t_publish_diff": -40425000
+			}
+		]
+	},
+	{
+		"jammer": "ZZZZZZTEMA",
+		"jammer_link": "https://zzzzzztema.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"title": "Save the rover!",
+				"title_link": "https://zzzzzztema.itch.io/savetherover",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021206",
+				"by": [
+					"ZZZZZZTEMA"
+				],
+				"by_link": [
+					"https://zzzzzztema.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 7,
+				"score": 3.893,
+				"t_publish_diff": -7856000
+			}
+		]
+	},
+	{
 		"jammer": "squareSquared",
 		"jammer_link": "https://squaresquared.itch.io/",
 		"list_game_sorted": [
@@ -2481,139 +2612,6 @@
 				"ratings": 28,
 				"score": 3.982,
 				"t_publish_diff": -3701000
-			}
-		]
-	},
-	{
-		"jammer": "Monnettie",
-		"jammer_link": "https://monnettie.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"title": "Hellhound Heresy",
-				"title_link": "https://monnettie.itch.io/hellhoundheresy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854070",
-				"by": [
-					"Monnettie",
-					"Puffles",
-					"MD Wade"
-				],
-				"by_link": [
-					"https://monnettie.itch.io/",
-					"https://puffles.itch.io/",
-					"https://md-wade.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 11,
-				"score": 3.977,
-				"t_publish_diff": 3068000
-			}
-		]
-	},
-	{
-		"jammer": "Puffles",
-		"jammer_link": "https://puffles.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"title": "Hellhound Heresy",
-				"title_link": "https://monnettie.itch.io/hellhoundheresy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854070",
-				"by": [
-					"Monnettie",
-					"Puffles",
-					"MD Wade"
-				],
-				"by_link": [
-					"https://monnettie.itch.io/",
-					"https://puffles.itch.io/",
-					"https://md-wade.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 11,
-				"score": 3.977,
-				"t_publish_diff": 3068000
-			}
-		]
-	},
-	{
-		"jammer": "LittleDevGames",
-		"jammer_link": "https://littledevgames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"title": "Swap Jumper",
-				"title_link": "https://littledevgames.itch.io/swap-jumper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1652769",
-				"by": [
-					"LittleDevGames"
-				],
-				"by_link": [
-					"https://littledevgames.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 21,
-				"score": 3.976,
-				"t_publish_diff": -41541000
-			}
-		]
-	},
-	{
-		"jammer": "Timothy Makes Games",
-		"jammer_link": "https://timothymakesgames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"title": "Die Head",
-				"title_link": "https://timothymakesgames.itch.io/die-head",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105473",
-				"by": [
-					"Timothy Makes Games"
-				],
-				"by_link": [
-					"https://timothymakesgames.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 8,
-				"score": 3.969
-			}
-		]
-	},
-	{
-		"jammer": "Thirim",
-		"jammer_link": "https://thirim.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"title": "Birthday Strike",
-				"title_link": "https://drakenaz.itch.io/birthday-strike",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673159",
-				"by": [
-					"Cal",
-					"Thirim"
-				],
-				"by_link": [
-					"https://drakenaz.itch.io/",
-					"https://thirim.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 7,
-				"score": 3.964
 			}
 		]
 	}

@@ -1276,6 +1276,25 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Card Flight: Dragon's Duel",
+				"title_link": "https://crazedmonkey231.itch.io/card-flight-dragons-duel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512902",
+				"by": [
+					"crazedmonkey231"
+				],
+				"by_link": [
+					"https://crazedmonkey231.itch.io/"
+				],
+				"rank": 96,
+				"ratings": 1,
+				"score": 1.083,
+				"t_publish_diff": -11735000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",

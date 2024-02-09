@@ -1,5 +1,63 @@
 [
 	{
+		"jammer": "saucysaja",
+		"jammer_link": "https://saucysaja.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"title": "Frog Daddy's Dash",
+				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
+				"by": [
+					"Gwelkind",
+					"saucysaja",
+					"alt404"
+				],
+				"by_link": [
+					"https://gwelkind.itch.io/",
+					"https://saucysaja.itch.io/",
+					"https://alt404.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.513,
+				"t_publish_diff": 88744000
+			}
+		]
+	},
+	{
+		"jammer": "alt404",
+		"jammer_link": "https://alt404.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"title": "Frog Daddy's Dash",
+				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
+				"by": [
+					"Gwelkind",
+					"saucysaja",
+					"alt404"
+				],
+				"by_link": [
+					"https://gwelkind.itch.io/",
+					"https://saucysaja.itch.io/",
+					"https://alt404.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.513,
+				"t_publish_diff": 88744000
+			}
+		]
+	},
+	{
 		"jammer": "onl1ner",
 		"jammer_link": "https://onl1ner.itch.io/",
 		"list_game_sorted": [
@@ -2654,56 +2712,6 @@
 				"ratings": 7,
 				"score": 3.643,
 				"t_publish_diff": 39000
-			}
-		]
-	},
-	{
-		"jammer": "havana24",
-		"jammer_link": "https://havana24.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 23,
-				"jam_name": "Time",
-				"jam_link": "https://itch.io/jam/mini-jam-23-time",
-				"title": "Hat TV",
-				"title_link": "https://havana24.itch.io/hattv",
-				"submission_page_link": "https://itch.io/jam/mini-jam-23-time/rate/383632",
-				"by": [
-					"havana24"
-				],
-				"by_link": [
-					"https://havana24.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 14,
-				"score": 3.554,
-				"t_publish_diff": -1968000
-			}
-		]
-	},
-	{
-		"jammer": "Gnome Made Games",
-		"jammer_link": "https://apollo.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 2,
-				"jam_name": "NES",
-				"jam_link": "https://itch.io/jam/mini-jam2ndedition",
-				"title": "Balloony",
-				"title_link": "https://apollo.itch.io/balloony",
-				"submission_page_link": "https://itch.io/jam/mini-jam2ndedition/rate/259781",
-				"by": [
-					"Gnome Made Games"
-				],
-				"by_link": [
-					"https://apollo.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 6,
-				"score": 3.548,
-				"t_publish_diff": -38654000
 			}
 		]
 	}

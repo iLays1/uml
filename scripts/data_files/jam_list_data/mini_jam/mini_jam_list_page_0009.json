@@ -1,5 +1,343 @@
 [
 	{
+		"id": 61,
+		"jam_name": "Ancient Egypt",
+		"link": "https://itch.io/jam/mini-jam-61",
+		"num_of_game": 53,
+		"num_of_jammer": 70,
+		"num_of_new_jammer": 51,
+		"list": [
+			{
+				"title": "Sphinx: Half-Cat/Half-Man",
+				"title_link": "https://mustachelincoln.itch.io/sphinx-half-cat-half-man",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736482",
+				"by": [
+					"MustacheLincoln",
+					"Fredison"
+				],
+				"by_link": [
+					"https://mustachelincoln.itch.io/",
+					"https://fredison.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 15,
+				"score": 4.217,
+				"t_publish_diff": -9314000
+			},
+			{
+				"title": "UFO: Scorpion's Curse",
+				"title_link": "https://munro.itch.io/ufo-pyramid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736386",
+				"by": [
+					"Munro",
+					"Onygox",
+					"jmmusic"
+				],
+				"by_link": [
+					"https://munro.itch.io/",
+					"https://onygox.itch.io/",
+					"https://jmmusic.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 16,
+				"score": 3.891,
+				"t_publish_diff": -51608000
+			},
+			{
+				"title": "Saprophagous Shepherd",
+				"title_link": "https://boffingames.itch.io/saprophagous-shepherd",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738853",
+				"by": [
+					"Boffin"
+				],
+				"by_link": [
+					"https://boffingames.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 3.79,
+				"t_publish_diff": -2421000
+			},
+			{
+				"title": "ReCursed",
+				"title_link": "https://reedsx20.itch.io/recursed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738672",
+				"by": [
+					"Reeds"
+				],
+				"by_link": [
+					"https://reedsx20.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 3.729,
+				"t_publish_diff": -1070000
+			},
+			{
+				"title": "Paintings Don't Move",
+				"title_link": "https://tehvict.itch.io/paintings-dont-move",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738836",
+				"by": [
+					"tehvict",
+					"drigowitz",
+					"giogiorgio",
+					"Valhalla Hero"
+				],
+				"by_link": [
+					"https://tehvict.itch.io/",
+					"https://drigowitz.itch.io/",
+					"https://giogiorgio.itch.io/",
+					"https://valhalla-hero.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 3.692,
+				"t_publish_diff": -741000
+			},
+			{
+				"title": "Choupyramid",
+				"title_link": "https://kiminako.itch.io/choupyramid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738401",
+				"by": [
+					"Kimi",
+					"Trino",
+					"Pookitoki",
+					"doctortee6",
+					"Lugrim",
+					"Raza6",
+					"Catlaiya",
+					"Rileran"
+				],
+				"by_link": [
+					"https://kiminako.itch.io/",
+					"https://trino.itch.io/",
+					"https://pookitoki.itch.io/",
+					"https://doctortee6.itch.io/",
+					"https://lugrim.itch.io/",
+					"https://raza6.itch.io/",
+					"https://catlaiya.itch.io/",
+					"https://rileran.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 16,
+				"score": 3.688
+			},
+			{
+				"title": "Old Gods",
+				"title_link": "https://therhombus.itch.io/old-gods",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738734",
+				"by": [
+					"therhombus"
+				],
+				"by_link": [
+					"https://therhombus.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.682,
+				"t_publish_diff": -7454000
+			},
+			{
+				"title": "Gunpowder Farmer",
+				"title_link": "https://substandardshrimp.itch.io/gunpowder-farmer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736998",
+				"by": [
+					"SubstandardShrimp"
+				],
+				"by_link": [
+					"https://substandardshrimp.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 16,
+				"score": 3.656,
+				"t_publish_diff": -29251000
+			},
+			{
+				"title": "Scripts of the Ancients",
+				"title_link": "https://lopar.itch.io/scripts-of-the-ancients",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738760",
+				"by": [
+					"lopar"
+				],
+				"by_link": [
+					"https://lopar.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.639,
+				"t_publish_diff": -126000
+			},
+			{
+				"title": "ANCIENT",
+				"title_link": "https://solroo.itch.io/codename-ancient-aliens",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736941",
+				"by": [
+					"Joan Sol ROO"
+				],
+				"by_link": [
+					"https://solroo.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 22,
+				"score": 3.523,
+				"t_publish_diff": -30608000
+			},
+			{
+				"title": "Curse of Imset",
+				"title_link": "https://enzogray.itch.io/curse-of-imset",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736850",
+				"by": [
+					"enzo gray"
+				],
+				"by_link": [
+					"https://enzogray.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 9,
+				"score": 3.444
+			},
+			{
+				"title": "Super Mummy Blitz",
+				"title_link": "https://wormjuice.itch.io/super-mummy-blitz",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736860",
+				"by": [
+					"WormJuice"
+				],
+				"by_link": [
+					"https://wormjuice.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 12,
+				"score": 3.375,
+				"t_publish_diff": -586000
+			},
+			{
+				"title": "ArtifactEscape",
+				"title_link": "https://crychair.itch.io/artifactescape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/737333",
+				"by": [
+					"Crychair",
+					"Crase da Crise",
+					"Emmitt Spliff"
+				],
+				"by_link": [
+					"https://crychair.itch.io/",
+					"https://crasedacrise.itch.io/",
+					"https://emmitt-spliff.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 15,
+				"score": 3.35,
+				"t_publish_diff": -8237000
+			},
+			{
+				"title": "Pixel Mural RPG 2K2D",
+				"title_link": "https://cormorant42.itch.io/pixel-mural-rpg-2k2d",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738919",
+				"by": [
+					"Cormorant42"
+				],
+				"by_link": [
+					"https://cormorant42.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 13,
+				"score": 3.346,
+				"t_publish_diff": 384000
+			},
+			{
+				"title": "Giovanni &amp; Lorenzo",
+				"title_link": "https://mathik.itch.io/giovanniandlorenzo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738414",
+				"by": [
+					"mathik"
+				],
+				"by_link": [
+					"https://mathik.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 8,
+				"score": 3.335,
+				"t_publish_diff": -22185000
+			},
+			{
+				"title": "Ancient Uprising",
+				"title_link": "https://zaplee.itch.io/ancient-uprising",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738298",
+				"by": [
+					"Zaplee"
+				],
+				"by_link": [
+					"https://zaplee.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 15,
+				"score": 3.3,
+				"t_publish_diff": -23327000
+			},
+			{
+				"title": "Rob My Tomb",
+				"title_link": "https://jamja-ri.itch.io/rob-my-tomb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738170",
+				"by": [
+					"jamja_ri"
+				],
+				"by_link": [
+					"https://jamja-ri.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 3.25,
+				"t_publish_diff": -34007000
+			},
+			{
+				"title": "Wordbullet",
+				"title_link": "https://glas-0.itch.io/wordbullet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/737008",
+				"by": [
+					"glas"
+				],
+				"by_link": [
+					"https://glas-0.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 8,
+				"score": 3.244,
+				"t_publish_diff": -7764000
+			},
+			{
+				"title": "Beat Runner",
+				"title_link": "https://snowyboi.itch.io/beat-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738096",
+				"by": [
+					"Snowyboi"
+				],
+				"by_link": [
+					"https://snowyboi.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 8,
+				"score": 3.244,
+				"t_publish_diff": -36796000
+			},
+			{
+				"title": "Monkey Ninja",
+				"title_link": "https://code15.itch.io/monkey-ninja",
+				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738162",
+				"by": [
+					"Code 15 games"
+				],
+				"by_link": [
+					"https://code15.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 20,
+				"score": 3.237,
+				"t_publish_diff": -32557000
+			}
+		]
+	},
+	{
 		"id": 60,
 		"jam_name": "Crime",
 		"link": "https://itch.io/jam/mini-jam-60",
@@ -2863,324 +3201,6 @@
 				"ratings": 14,
 				"score": 3.414,
 				"t_publish_diff": -50203000
-			}
-		]
-	},
-	{
-		"id": 51,
-		"jam_name": "Rome",
-		"link": "https://itch.io/jam/mini-jam-51-rome",
-		"num_of_game": 23,
-		"num_of_jammer": 28,
-		"num_of_new_jammer": 25,
-		"list": [
-			{
-				"title": "Spectacle",
-				"title_link": "https://jakob.itch.io/spectacle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604082",
-				"by": [
-					"Jakob",
-					"Zenry"
-				],
-				"by_link": [
-					"https://jakob.itch.io/",
-					"https://zenry.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 6,
-				"score": 4.7,
-				"t_publish_diff": -242000
-			},
-			{
-				"title": "A Story of Evil",
-				"title_link": "https://manurgamedev.itch.io/a-story-of-evil",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603832",
-				"by": [
-					"Manuel Rincón",
-					"dessketch"
-				],
-				"by_link": [
-					"https://manurgamedev.itch.io/",
-					"https://dessketch.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 5,
-				"score": 4,
-				"t_publish_diff": -334000
-			},
-			{
-				"title": "Brutus Goes Back in Time",
-				"title_link": "https://md-wade.itch.io/brutus-goes-back-in-time",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604077",
-				"by": [
-					"MD Wade"
-				],
-				"by_link": [
-					"https://md-wade.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 13,
-				"score": 3.923,
-				"t_publish_diff": -1434000
-			},
-			{
-				"title": "Hero? U Dead",
-				"title_link": "https://highleapstudios.itch.io/hero-u-dead",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/602709",
-				"by": [
-					"High Leap Studios"
-				],
-				"by_link": [
-					"https://highleapstudios.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 6,
-				"score": 3.9,
-				"t_publish_diff": -87049000
-			},
-			{
-				"title": "Destroy Rome",
-				"title_link": "https://barney25052.itch.io/destroy-rome",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603577",
-				"by": [
-					"Barney"
-				],
-				"by_link": [
-					"https://barney25052.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 6,
-				"score": 3.667,
-				"t_publish_diff": -37271000
-			},
-			{
-				"title": "Rome Rush",
-				"title_link": "https://fishinthebox.itch.io/rome-rush",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603991",
-				"by": [
-					"FishInTheBox"
-				],
-				"by_link": [
-					"https://fishinthebox.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 8,
-				"score": 3.65,
-				"t_publish_diff": -5953000
-			},
-			{
-				"title": "Niro",
-				"title_link": "https://kourtnie.itch.io/niro",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604046",
-				"by": [
-					"fey.earth"
-				],
-				"by_link": [
-					"https://kourtnie.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 5,
-				"score": 3.48
-			},
-			{
-				"title": "Pick a wish",
-				"title_link": "https://heavyboson.itch.io/pick-a-wish",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603998",
-				"by": [
-					"heavyboson"
-				],
-				"by_link": [
-					"https://heavyboson.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 7,
-				"score": 3.429,
-				"t_publish_diff": -7351000
-			},
-			{
-				"title": "Et Tu?",
-				"title_link": "https://cheekylions.itch.io/et-tu",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604039",
-				"by": [
-					"Cheeky Lions"
-				],
-				"by_link": [
-					"https://cheekylions.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 5,
-				"score": 3.32,
-				"t_publish_diff": -3474000
-			},
-			{
-				"title": "Romans took my house",
-				"title_link": "https://coelhonix.itch.io/romans-took-my-house",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604071",
-				"by": [
-					"Coelhonix",
-					"Showva",
-					"bunnyzitto"
-				],
-				"by_link": [
-					"https://coelhonix.itch.io/",
-					"https://showva.itch.io/",
-					"https://bunnyzitto.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 9,
-				"score": 3.244,
-				"t_publish_diff": -1469000
-			},
-			{
-				"title": "Gladiator Tycoon (MJ51)",
-				"title_link": "https://chrisashtear.itch.io/gladiator-tycoon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604094",
-				"by": [
-					"Chris Ashtear"
-				],
-				"by_link": [
-					"https://chrisashtear.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 5,
-				"score": 3.2,
-				"t_publish_diff": -371000
-			},
-			{
-				"title": "CULOSSEUM",
-				"title_link": "https://koffi-duck.itch.io/culosseum",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604087",
-				"by": [
-					"Koffy"
-				],
-				"by_link": [
-					"https://koffi-duck.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 8,
-				"score": 3.175,
-				"t_publish_diff": -279000
-			},
-			{
-				"title": "The traitor from ancient Rome",
-				"title_link": "https://klauss.itch.io/the-traitor-from-ancient-rome",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603867",
-				"by": [
-					"KlauSs"
-				],
-				"by_link": [
-					"https://klauss.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 6,
-				"score": 3.1,
-				"t_publish_diff": -13661000
-			},
-			{
-				"title": "Rage of Anubis",
-				"title_link": "https://hoondrok.itch.io/rageofanubis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603798",
-				"by": [
-					"Hoondrok"
-				],
-				"by_link": [
-					"https://hoondrok.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 4,
-				"score": 3.086,
-				"t_publish_diff": -12393000
-			},
-			{
-				"title": "Unfortunate Gladiator",
-				"title_link": "https://crysaac.itch.io/unfortunate-gladiator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604074",
-				"by": [
-					"Crysaac"
-				],
-				"by_link": [
-					"https://crysaac.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 12,
-				"score": 2.933,
-				"t_publish_diff": -1153000
-			},
-			{
-				"title": "QRPS - Quorrupt Roman Politician Sum",
-				"title_link": "https://lucasmolina.itch.io/qrps-quorrupt-roman-politician-sum",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603984",
-				"by": [
-					"Lucas Molina"
-				],
-				"by_link": [
-					"https://lucasmolina.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 5,
-				"score": 2.8,
-				"t_publish_diff": -8712000
-			},
-			{
-				"title": "Gladiators",
-				"title_link": "https://phansonloc1999.itch.io/gladiators",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604078",
-				"by": [
-					"phansonloc1999",
-					"Rumis"
-				],
-				"by_link": [
-					"https://phansonloc1999.itch.io/",
-					"https://rumis.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 4,
-				"score": 2.773,
-				"t_publish_diff": -1247000
-			},
-			{
-				"title": "WitchSlayer",
-				"title_link": "https://edouard-touch.itch.io/witchslayer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/604079",
-				"by": [
-					"edouard touch"
-				],
-				"by_link": [
-					"https://edouard-touch.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 6,
-				"score": 2.667
-			},
-			{
-				"title": "Are You A Villain?",
-				"title_link": "https://utilicious.itch.io/are-you-a-villain",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603645",
-				"by": [
-					"Utilicious"
-				],
-				"by_link": [
-					"https://utilicious.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 7,
-				"score": 2.571,
-				"t_publish_diff": -32588000
-			},
-			{
-				"title": "The Ides of March",
-				"title_link": "https://jnho228.itch.io/the-ides-of-march",
-				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/601685",
-				"by": [
-					"ちばち"
-				],
-				"by_link": [
-					"https://jnho228.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 4,
-				"score": 2.46,
-				"t_publish_diff": -20416000
 			}
 		]
 	}

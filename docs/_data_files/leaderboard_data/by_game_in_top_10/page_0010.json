@@ -1,5 +1,55 @@
 [
 	{
+		"jammer": "KirPow",
+		"jammer_link": "https://kirpow.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 148,
+				"jam_name": "Connections",
+				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
+				"title": "Crated",
+				"title_link": "https://kirpow.itch.io/crated",
+				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440570",
+				"by": [
+					"KirPow"
+				],
+				"by_link": [
+					"https://kirpow.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 16,
+				"score": 3.641,
+				"t_publish_diff": -18217000
+			}
+		]
+	},
+	{
+		"jammer": "Monswarm",
+		"jammer_link": "https://monswarm.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 82,
+				"jam_name": "Doodle",
+				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
+				"title": "Javi eats noodles",
+				"title_link": "https://monswarm.itch.io/javi-eats-doodles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1087827",
+				"by": [
+					"Monswarm"
+				],
+				"by_link": [
+					"https://monswarm.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 22,
+				"score": 3.636,
+				"t_publish_diff": -28289000
+			}
+		]
+	},
+	{
 		"jammer": "sssemendyaev",
 		"jammer_link": "https://sssemendyaev.itch.io/",
 		"list_game_sorted": [
@@ -1520,6 +1570,90 @@
 		]
 	},
 	{
+		"jammer": "fruitsdancer",
+		"jammer_link": "https://fruitsdancer.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Le Vol Café",
+				"title_link": "https://fruitsdancer.itch.io/le-vol-cafe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513080",
+				"by": [
+					"fruitsdancer",
+					"ghostpastry",
+					"Matt Manch"
+				],
+				"by_link": [
+					"https://fruitsdancer.itch.io/",
+					"https://ghostpastry.itch.io/",
+					"https://mattmanch.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.039
+			}
+		]
+	},
+	{
+		"jammer": "ghostpastry",
+		"jammer_link": "https://ghostpastry.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Le Vol Café",
+				"title_link": "https://fruitsdancer.itch.io/le-vol-cafe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513080",
+				"by": [
+					"fruitsdancer",
+					"ghostpastry",
+					"Matt Manch"
+				],
+				"by_link": [
+					"https://fruitsdancer.itch.io/",
+					"https://ghostpastry.itch.io/",
+					"https://mattmanch.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.039
+			}
+		]
+	},
+	{
+		"jammer": "Matt Manch",
+		"jammer_link": "https://mattmanch.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Le Vol Café",
+				"title_link": "https://fruitsdancer.itch.io/le-vol-cafe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513080",
+				"by": [
+					"fruitsdancer",
+					"ghostpastry",
+					"Matt Manch"
+				],
+				"by_link": [
+					"https://fruitsdancer.itch.io/",
+					"https://ghostpastry.itch.io/",
+					"https://mattmanch.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.039
+			}
+		]
+	},
+	{
 		"jammer": "GammaFoxTBG",
 		"jammer_link": "https://gammafoxtbg.itch.io/",
 		"list_game_sorted": [
@@ -2543,135 +2677,6 @@
 				"rank": 7,
 				"ratings": 11,
 				"score": 3.8
-			}
-		]
-	},
-	{
-		"jammer": "Beta",
-		"jammer_link": "https://beta.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"title": "You are the level",
-				"title_link": "https://beta.itch.io/you-are-the-level",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1277516",
-				"by": [
-					"Beta"
-				],
-				"by_link": [
-					"https://beta.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 16,
-				"score": 3.797,
-				"t_publish_diff": -34134000
-			}
-		]
-	},
-	{
-		"jammer": "Star Banner Games",
-		"jammer_link": "https://starbannergames.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"title": "SNOCKER",
-				"title_link": "https://starbannergames.itch.io/snocker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153273",
-				"by": [
-					"Star Banner Games"
-				],
-				"by_link": [
-					"https://starbannergames.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 12,
-				"score": 3.792,
-				"t_publish_diff": -375000
-			}
-		]
-	},
-	{
-		"jammer": "Static gamin",
-		"jammer_link": "https://static-gamin.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"title": "STAGNANT TOWER",
-				"title_link": "https://static-gamin.itch.io/stagnant-tower",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2362532",
-				"by": [
-					"Static gamin"
-				],
-				"by_link": [
-					"https://static-gamin.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 6,
-				"score": 3.78,
-				"t_publish_diff": -116309000
-			}
-		]
-	},
-	{
-		"jammer": "dobydigital",
-		"jammer_link": "https://dobydigital.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 36,
-				"jam_name": "Nature",
-				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
-				"title": "The Green Thumb",
-				"title_link": "https://dobydigital.itch.io/the-green-thumb",
-				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480745",
-				"by": [
-					"dobydigital",
-					"renderbydavid"
-				],
-				"by_link": [
-					"https://dobydigital.itch.io/",
-					"https://renderbydavid.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 13,
-				"score": 3.769,
-				"t_publish_diff": -38537000
-			}
-		]
-	},
-	{
-		"jammer": "renderbydavid",
-		"jammer_link": "https://renderbydavid.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 36,
-				"jam_name": "Nature",
-				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
-				"title": "The Green Thumb",
-				"title_link": "https://dobydigital.itch.io/the-green-thumb",
-				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480745",
-				"by": [
-					"dobydigital",
-					"renderbydavid"
-				],
-				"by_link": [
-					"https://dobydigital.itch.io/",
-					"https://renderbydavid.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 13,
-				"score": 3.769,
-				"t_publish_diff": -38537000
 			}
 		]
 	}

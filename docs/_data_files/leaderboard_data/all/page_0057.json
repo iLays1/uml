@@ -2760,6 +2760,29 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon's Destruction",
+				"title_link": "https://silvyger.itch.io/dragons-destruction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2507840",
+				"by": [
+					"Silvyger",
+					"Kalathea",
+					"Kensingtonw"
+				],
+				"by_link": [
+					"https://silvyger.itch.io/",
+					"https://kalathea.itch.io/",
+					"https://kensingtonw.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 19,
+				"score": 3.724,
+				"t_publish_diff": 703000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
@@ -3347,6 +3370,25 @@
 				"ratings": 13,
 				"score": 3.519,
 				"t_publish_diff": -640000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "2024: The Year Of The Dragon",
+				"title_link": "https://feraswheel.itch.io/2024theyearofthedragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2508385",
+				"by": [
+					"feraswheel"
+				],
+				"by_link": [
+					"https://feraswheel.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 6,
+				"score": 2.586,
+				"t_publish_diff": -77248000
 			},
 			{
 				"jam_type": "mini_jam",

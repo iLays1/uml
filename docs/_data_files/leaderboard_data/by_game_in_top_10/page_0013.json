@@ -1,5 +1,138 @@
 [
 	{
+		"jammer": "Monnettie",
+		"jammer_link": "https://monnettie.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"title": "Hellhound Heresy",
+				"title_link": "https://monnettie.itch.io/hellhoundheresy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854070",
+				"by": [
+					"Monnettie",
+					"Puffles",
+					"MD Wade"
+				],
+				"by_link": [
+					"https://monnettie.itch.io/",
+					"https://puffles.itch.io/",
+					"https://md-wade.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.977,
+				"t_publish_diff": 3068000
+			}
+		]
+	},
+	{
+		"jammer": "Puffles",
+		"jammer_link": "https://puffles.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"title": "Hellhound Heresy",
+				"title_link": "https://monnettie.itch.io/hellhoundheresy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854070",
+				"by": [
+					"Monnettie",
+					"Puffles",
+					"MD Wade"
+				],
+				"by_link": [
+					"https://monnettie.itch.io/",
+					"https://puffles.itch.io/",
+					"https://md-wade.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.977,
+				"t_publish_diff": 3068000
+			}
+		]
+	},
+	{
+		"jammer": "LittleDevGames",
+		"jammer_link": "https://littledevgames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"title": "Swap Jumper",
+				"title_link": "https://littledevgames.itch.io/swap-jumper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1652769",
+				"by": [
+					"LittleDevGames"
+				],
+				"by_link": [
+					"https://littledevgames.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 21,
+				"score": 3.976,
+				"t_publish_diff": -41541000
+			}
+		]
+	},
+	{
+		"jammer": "Timothy Makes Games",
+		"jammer_link": "https://timothymakesgames.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"title": "Die Head",
+				"title_link": "https://timothymakesgames.itch.io/die-head",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105473",
+				"by": [
+					"Timothy Makes Games"
+				],
+				"by_link": [
+					"https://timothymakesgames.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 8,
+				"score": 3.969
+			}
+		]
+	},
+	{
+		"jammer": "Thirim",
+		"jammer_link": "https://thirim.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"title": "Birthday Strike",
+				"title_link": "https://drakenaz.itch.io/birthday-strike",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673159",
+				"by": [
+					"Cal",
+					"Thirim"
+				],
+				"by_link": [
+					"https://drakenaz.itch.io/",
+					"https://thirim.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 7,
+				"score": 3.964
+			}
+		]
+	},
+	{
 		"jammer": "Teljen",
 		"jammer_link": "https://teljen.itch.io/",
 		"list_game_sorted": [
@@ -179,6 +312,31 @@
 				"ratings": 19,
 				"score": 3.921,
 				"t_publish_diff": -990000
+			}
+		]
+	},
+	{
+		"jammer": "Henrik Pira",
+		"jammer_link": "https://henrikpira.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragazon",
+				"title_link": "https://henrikpira.itch.io/dragazon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512074",
+				"by": [
+					"Henrik Pira"
+				],
+				"by_link": [
+					"https://henrikpira.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 22,
+				"score": 3.92,
+				"t_publish_diff": -40721000
 			}
 		]
 	},
@@ -2503,162 +2661,6 @@
 				"ratings": 10,
 				"score": 3.275,
 				"t_publish_diff": -5463000
-			}
-		]
-	},
-	{
-		"jammer": "AlekKef",
-		"jammer_link": "https://alekkef.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 23,
-				"jam_name": "Time",
-				"jam_link": "https://itch.io/jam/mini-jam-23-time",
-				"title": "22 H",
-				"title_link": "https://flywolfe.itch.io/22-h",
-				"submission_page_link": "https://itch.io/jam/mini-jam-23-time/rate/383596",
-				"by": [
-					"Mathew Sherry",
-					"isalich",
-					"AlekKef"
-				],
-				"by_link": [
-					"https://flywolfe.itch.io/",
-					"https://isalich.itch.io/",
-					"https://alekkef.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 3.275,
-				"t_publish_diff": -5463000
-			}
-		]
-	},
-	{
-		"jammer": "Cyberek",
-		"jammer_link": "https://cyberek.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 41,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
-				"title": "RoboZone",
-				"title_link": "https://cyberek.itch.io/robozone",
-				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/518444",
-				"by": [
-					"Cyberek"
-				],
-				"by_link": [
-					"https://cyberek.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 10,
-				"score": 3.225,
-				"t_publish_diff": -32135000
-			}
-		]
-	},
-	{
-		"jammer": "BlueEagle421",
-		"jammer_link": "https://blueeagle421.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"title": "Tooth Fairy",
-				"title_link": "https://blueeagle421.itch.io/tooth-fairy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2227360",
-				"by": [
-					"BlueEagle421"
-				],
-				"by_link": [
-					"https://blueeagle421.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 17,
-				"score": 3.206
-			}
-		]
-	},
-	{
-		"jammer": "RATURE",
-		"jammer_link": "https://rature.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 28,
-				"jam_name": "Pirates",
-				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
-				"title": "thirsty pirate",
-				"title_link": "https://rature.itch.io/thirsty-pirate",
-				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/424537",
-				"by": [
-					"RATURE"
-				],
-				"by_link": [
-					"https://rature.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 12,
-				"score": 3.188,
-				"t_publish_diff": -214361000
-			}
-		]
-	},
-	{
-		"jammer": "Dhouglas",
-		"jammer_link": "https://dhouglas-pedruzzi.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 28,
-				"jam_name": "Pirates",
-				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
-				"title": "Pirate Vs. Deep",
-				"title_link": "https://dhouglas-pedruzzi.itch.io/pirate-vs-deep",
-				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/425508",
-				"by": [
-					"Dhouglas"
-				],
-				"by_link": [
-					"https://dhouglas-pedruzzi.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 24,
-				"score": 3.188
-			}
-		]
-	},
-	{
-		"jammer": "ShadyLeeGamer",
-		"jammer_link": "https://shadyleegamer.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"title": "Skate For Speed",
-				"title_link": "https://shadyleegamer.itch.io/skate-for-speed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778383",
-				"by": [
-					"ShadyLeeGamer",
-					"Belu123mm",
-					"L3mmy"
-				],
-				"by_link": [
-					"https://shadyleegamer.itch.io/",
-					"https://belu123mm.itch.io/",
-					"https://l3mmy.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 3.111,
-				"t_publish_diff": -1278000
 			}
 		]
 	}

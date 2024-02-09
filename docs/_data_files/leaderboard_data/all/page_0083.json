@@ -1787,6 +1787,25 @@
 				"ratings": 8,
 				"score": 1.866,
 				"t_publish_diff": -8311000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Carnival Dragons",
+				"title_link": "https://soulinvestor.itch.io/carnival-dragons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512831",
+				"by": [
+					"SoulInvestor"
+				],
+				"by_link": [
+					"https://soulinvestor.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 7,
+				"score": 2.488,
+				"t_publish_diff": -14965000
 			}
 		]
 	},
@@ -2361,6 +2380,25 @@
 		"jammer": "BirdWorks",
 		"jammer_link": "https://birdworks.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Rotten Egg",
+				"title_link": "https://birdworks.itch.io/dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512232",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 23,
+				"score": 4.38,
+				"t_publish_diff": -9509000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 123,

@@ -1,5 +1,98 @@
 [
 	{
+		"jammer": "KingW",
+		"jammer_link": "https://kingw.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 20,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-20-music",
+				"title": "Rhythm OwO",
+				"title_link": "https://kingw.itch.io/rhythm-owo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362436",
+				"by": [
+					"KingW",
+					"ZahranW"
+				],
+				"by_link": [
+					"https://kingw.itch.io/",
+					"https://zahranworrell.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 13,
+				"score": 4,
+				"t_publish_diff": -9806000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 36,
+				"jam_name": "Nature",
+				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
+				"title": "Dryad",
+				"title_link": "https://kingw.itch.io/dryad",
+				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480690",
+				"by": [
+					"KingW"
+				],
+				"by_link": [
+					"https://kingw.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4,
+				"t_publish_diff": -2870000
+			}
+		]
+	},
+	{
+		"jammer": "Jens Steenmetz",
+		"jammer_link": "https://j3ns-00.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 17,
+				"jam_name": "Home Alone",
+				"jam_link": "https://itch.io/jam/mini-jam-17-home-alone",
+				"title": "Imagine",
+				"title_link": "https://j3ns-00.itch.io/imagine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-17-home-alone/rate/346533",
+				"by": [
+					"Jens Steenmetz"
+				],
+				"by_link": [
+					"https://j3ns-00.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.107,
+				"t_publish_diff": -14374000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 31,
+				"jam_name": "Movies",
+				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
+				"title": "ZooM",
+				"title_link": "https://j3ns-00.itch.io/zoom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444333",
+				"by": [
+					"Jens Steenmetz",
+					"Rowen Horbach",
+					"Mufaya"
+				],
+				"by_link": [
+					"https://j3ns-00.itch.io/",
+					"https://rowenh.itch.io/",
+					"https://mufaya.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 10,
+				"score": 3.875
+			}
+		]
+	},
+	{
 		"jammer": "Kuang-Yu",
 		"jammer_link": "https://cheng8141.itch.io/",
 		"list_game_sorted": [
@@ -1039,6 +1132,49 @@
 				"ratings": 42,
 				"score": 4.196,
 				"t_publish_diff": -20139000
+			}
+		]
+	},
+	{
+		"jammer": "BirdWorks",
+		"jammer_link": "https://birdworks.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Rotten Egg",
+				"title_link": "https://birdworks.itch.io/dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512232",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 23,
+				"score": 4.38,
+				"t_publish_diff": -9509000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "Eat, Prey, Belay",
+				"title_link": "https://birdworks.itch.io/web",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1866551",
+				"by": [
+					"BirdWorks"
+				],
+				"by_link": [
+					"https://birdworks.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 26,
+				"score": 3.971
 			}
 		]
 	},
@@ -2923,6 +3059,50 @@
 		]
 	},
 	{
+		"jammer": "Escada Games",
+		"jammer_link": "https://escada-games.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Firebreath Realtors",
+				"title_link": "https://escada-games.itch.io/firebreath-realtors",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510690",
+				"by": [
+					"Escada Games"
+				],
+				"by_link": [
+					"https://escada-games.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 4.167,
+				"t_publish_diff": -6521000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"title": "Heaven Lost",
+				"title_link": "https://escada-games.itch.io/heaven-lost",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1787926",
+				"by": [
+					"Escada Games"
+				],
+				"by_link": [
+					"https://escada-games.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 16,
+				"score": 3.719,
+				"t_publish_diff": -41348000
+			}
+		]
+	},
+	{
 		"jammer": "Trino",
 		"jammer_link": "https://trino.itch.io/",
 		"list_game_sorted": [
@@ -4570,194 +4750,6 @@
 				"ratings": 25,
 				"score": 3.46,
 				"t_publish_diff": -29872000
-			}
-		]
-	},
-	{
-		"jammer": "piirakka",
-		"jammer_link": "https://profiili.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"title": "Fill It Out",
-				"title_link": "https://herof123.itch.io/fill-it-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409083",
-				"by": [
-					"Herof123",
-					"Ratainen",
-					"piirakka"
-				],
-				"by_link": [
-					"https://herof123.itch.io/",
-					"https://ratainen.itch.io/",
-					"https://profiili.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 8,
-				"score": 4.344,
-				"t_publish_diff": -30084000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 96,
-				"jam_name": "Fate",
-				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"title": "Failugreen",
-				"title_link": "https://herof123.itch.io/failugreen",
-				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332325",
-				"by": [
-					"Herof123",
-					"Ratainen",
-					"piirakka"
-				],
-				"by_link": [
-					"https://herof123.itch.io/",
-					"https://ratainen.itch.io/",
-					"https://profiili.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 25,
-				"score": 3.46,
-				"t_publish_diff": -29872000
-			}
-		]
-	},
-	{
-		"jammer": "Psonbre",
-		"jammer_link": "https://psonbre.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"title": "Neon Shadows",
-				"title_link": "https://psonbre.itch.io/neon-shadows",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1151564",
-				"by": [
-					"Psonbre",
-					"Philou213"
-				],
-				"by_link": [
-					"https://psonbre.itch.io/",
-					"https://philou213.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 21,
-				"score": 4.131
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"title": "Blind Bond",
-				"title_link": "https://psonbre.itch.io/blind-bond",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982592",
-				"by": [
-					"Psonbre",
-					"Philou213"
-				],
-				"by_link": [
-					"https://psonbre.itch.io/",
-					"https://philou213.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 11,
-				"score": 3.659
-			}
-		]
-	},
-	{
-		"jammer": "Philou213",
-		"jammer_link": "https://philou213.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"title": "Neon Shadows",
-				"title_link": "https://psonbre.itch.io/neon-shadows",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1151564",
-				"by": [
-					"Psonbre",
-					"Philou213"
-				],
-				"by_link": [
-					"https://psonbre.itch.io/",
-					"https://philou213.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 21,
-				"score": 4.131
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"title": "Blind Bond",
-				"title_link": "https://psonbre.itch.io/blind-bond",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982592",
-				"by": [
-					"Psonbre",
-					"Philou213"
-				],
-				"by_link": [
-					"https://psonbre.itch.io/",
-					"https://philou213.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 11,
-				"score": 3.659
-			}
-		]
-	},
-	{
-		"jammer": "smorrebrot",
-		"jammer_link": "https://smorrebrot.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"title": "Hellcrawler",
-				"title_link": "https://smorrebrot.itch.io/hellcrawler",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854366",
-				"by": [
-					"smorrebrot"
-				],
-				"by_link": [
-					"https://smorrebrot.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 8,
-				"score": 4.156,
-				"t_publish_diff": -27080000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 78,
-				"jam_name": "Bugs",
-				"jam_link": "https://itch.io/jam/mini-jam-78-bugs",
-				"title": "BUGZ",
-				"title_link": "https://smorrebrot.itch.io/bugz",
-				"submission_page_link": "https://itch.io/jam/mini-jam-78-bugs/rate/1002633",
-				"by": [
-					"smorrebrot"
-				],
-				"by_link": [
-					"https://smorrebrot.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 11,
-				"score": 3.545,
-				"t_publish_diff": -20908000
 			}
 		]
 	}

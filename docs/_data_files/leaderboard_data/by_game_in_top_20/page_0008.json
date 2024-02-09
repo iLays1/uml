@@ -1,5 +1,105 @@
 [
 	{
+		"jammer": "JJFcompany",
+		"jammer_link": "https://jjfcompany.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Problem of wealth",
+				"title_link": "https://jjfcompany.itch.io/problem-of-wealth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512010",
+				"by": [
+					"JJFcompany"
+				],
+				"by_link": [
+					"https://jjfcompany.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 4.184,
+				"t_publish_diff": -34130000
+			}
+		]
+	},
+	{
+		"jammer": "Floratoby",
+		"jammer_link": "https://floratoby.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"title": "Cube's Journey",
+				"title_link": "https://floratoby.itch.io/cubes-journey",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1709195",
+				"by": [
+					"Floratoby"
+				],
+				"by_link": [
+					"https://floratoby.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 20,
+				"score": 4.175,
+				"t_publish_diff": -8776000
+			}
+		]
+	},
+	{
+		"jammer": "Anogrm",
+		"jammer_link": "https://anogrm.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"title": "No Internet?",
+				"title_link": "https://anogrm.itch.io/no-internet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869255",
+				"by": [
+					"Anogrm"
+				],
+				"by_link": [
+					"https://anogrm.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 23,
+				"score": 4.163,
+				"t_publish_diff": -4838000
+			}
+		]
+	},
+	{
+		"jammer": "Tommy Lian",
+		"jammer_link": "https://tommy-lian.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"title": "Energy Drifter",
+				"title_link": "https://tommy-lian.itch.io/energy-drifter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590996",
+				"by": [
+					"Tommy Lian"
+				],
+				"by_link": [
+					"https://tommy-lian.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 11,
+				"score": 4.159,
+				"t_publish_diff": -27161000
+			}
+		]
+	},
+	{
 		"jammer": "Noh",
 		"jammer_link": "https://noh-kinda.itch.io/",
 		"list_game_sorted": [
@@ -2633,114 +2733,6 @@
 				"ratings": 8,
 				"score": 4.156,
 				"t_publish_diff": -53197000
-			}
-		]
-	},
-	{
-		"jammer": "Malachi Bance",
-		"jammer_link": "https://moolordking.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"title": "A Holey Planet",
-				"title_link": "https://moolordking.itch.io/a-holey-planet",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089613",
-				"by": [
-					"Malachi Bance"
-				],
-				"by_link": [
-					"https://moolordking.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 37,
-				"score": 4.149,
-				"t_publish_diff": -36527000
-			}
-		]
-	},
-	{
-		"jammer": "Sushi",
-		"jammer_link": "https://sushibel.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"title": "HUNGRY BOI",
-				"title_link": "https://botttos.itch.io/hungry-boi",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/807872",
-				"by": [
-					"botttos",
-					"Sushi",
-					"HeladoDePistacho"
-				],
-				"by_link": [
-					"https://botttos.itch.io/",
-					"https://sushibel.itch.io/",
-					"https://heladodepistacho.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 24,
-				"score": 4.146,
-				"t_publish_diff": -15822000
-			}
-		]
-	},
-	{
-		"jammer": "HeladoDePistacho",
-		"jammer_link": "https://heladodepistacho.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"title": "HUNGRY BOI",
-				"title_link": "https://botttos.itch.io/hungry-boi",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/807872",
-				"by": [
-					"botttos",
-					"Sushi",
-					"HeladoDePistacho"
-				],
-				"by_link": [
-					"https://botttos.itch.io/",
-					"https://sushibel.itch.io/",
-					"https://heladodepistacho.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 24,
-				"score": 4.146,
-				"t_publish_diff": -15822000
-			}
-		]
-	},
-	{
-		"jammer": "Olanti",
-		"jammer_link": "https://olanti.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"title": "THE TRIAL",
-				"title_link": "https://olanti.itch.io/the-trial",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459743",
-				"by": [
-					"Olanti"
-				],
-				"by_link": [
-					"https://olanti.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 7,
-				"score": 4.143,
-				"t_publish_diff": -12505000
 			}
 		]
 	}

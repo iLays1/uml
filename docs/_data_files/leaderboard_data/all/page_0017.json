@@ -461,6 +461,25 @@
 				"ratings": 6,
 				"score": 2.233,
 				"t_publish_diff": -846000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Drake Coin Attack",
+				"title_link": "https://jeanstkng.itch.io/drake-coin-attack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512975",
+				"by": [
+					"jeanstkng"
+				],
+				"by_link": [
+					"https://jeanstkng.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 9,
+				"score": 1.917,
+				"t_publish_diff": -6082000
 			}
 		]
 	},

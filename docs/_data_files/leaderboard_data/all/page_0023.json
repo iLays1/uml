@@ -95,6 +95,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragon scales hunter",
+				"title_link": "https://catlaiya.itch.io/dragonsscaleshunter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2514832",
+				"by": [
+					"Catlaiya",
+					"WrysIlia"
+				],
+				"by_link": [
+					"https://catlaiya.itch.io/",
+					"https://wrysilia.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.614,
+				"t_publish_diff": 133666000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 63,
 				"jam_name": "Future",
 				"jam_link": "https://itch.io/jam/mini-jam-63-future",

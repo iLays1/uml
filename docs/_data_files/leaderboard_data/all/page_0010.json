@@ -4049,6 +4049,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "LootScale",
+				"title_link": "https://fmlad.itch.io/lootscale",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513144",
+				"by": [
+					"Fmlad"
+				],
+				"by_link": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 33,
+				"score": 3.977
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 98,
 				"jam_name": "Empty",
 				"jam_link": "https://itch.io/jam/mini-jam-98-empty",

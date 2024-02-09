@@ -1,5 +1,157 @@
 [
 	{
+		"jammer": "Misterm",
+		"jammer_link": "https://misterm.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"title": "The Last Hole Cutter",
+				"title_link": "https://misterm.itch.io/the-last-hole-cutter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/670972",
+				"by": [
+					"Misterm"
+				],
+				"by_link": [
+					"https://misterm.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 15,
+				"score": 3.733
+			}
+		]
+	},
+	{
+		"jammer": "GameDev-DZ",
+		"jammer_link": "https://gamedev-dz.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"title": "How You Start",
+				"title_link": "https://gamedev-dz.itch.io/how-you-start",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1152756",
+				"by": [
+					"GameDev-DZ"
+				],
+				"by_link": [
+					"https://gamedev-dz.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 17,
+				"score": 3.706
+			}
+		]
+	},
+	{
+		"jammer": "Robin Toller Hovler",
+		"jammer_link": "https://robin-toller-hovler.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"title": "Curse of the Magpie",
+				"title_link": "https://robin-toller-hovler.itch.io/curse-of-the-magpie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137408",
+				"by": [
+					"Robin Toller Hovler",
+					"Edvin Edenhage"
+				],
+				"by_link": [
+					"https://robin-toller-hovler.itch.io/",
+					"https://edvin-edenhage.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 34,
+				"score": 3.669,
+				"t_publish_diff": -11197000
+			}
+		]
+	},
+	{
+		"jammer": "Edvin Edenhage",
+		"jammer_link": "https://edvin-edenhage.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"title": "Curse of the Magpie",
+				"title_link": "https://robin-toller-hovler.itch.io/curse-of-the-magpie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137408",
+				"by": [
+					"Robin Toller Hovler",
+					"Edvin Edenhage"
+				],
+				"by_link": [
+					"https://robin-toller-hovler.itch.io/",
+					"https://edvin-edenhage.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 34,
+				"score": 3.669,
+				"t_publish_diff": -11197000
+			}
+		]
+	},
+	{
+		"jammer": "sloppyjoseph",
+		"jammer_link": "https://sloppyjoseph.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"title": "Bathroom Break",
+				"title_link": "https://sloppyjoseph.itch.io/bathroom-break",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169445",
+				"by": [
+					"sloppyjoseph"
+				],
+				"by_link": [
+					"https://sloppyjoseph.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 19,
+				"score": 3.658,
+				"t_publish_diff": -11295000
+			}
+		]
+	},
+	{
+		"jammer": "Nemo",
+		"jammer_link": "https://deanaseraf1.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"title": "Unexpected Turn",
+				"title_link": "https://deanaseraf1.itch.io/unexpected-turn",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647172",
+				"by": [
+					"Nemo"
+				],
+				"by_link": [
+					"https://deanaseraf1.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.65,
+				"t_publish_diff": -23313000
+			}
+		]
+	},
+	{
 		"jammer": "Aurif",
 		"jammer_link": "https://aurif.itch.io/",
 		"list_game_sorted": [
@@ -2633,160 +2785,6 @@
 				"ratings": 8,
 				"score": 3.844,
 				"t_publish_diff": -184000
-			}
-		]
-	},
-	{
-		"jammer": "Jiaqu Wu",
-		"jammer_link": "https://jiaqu-wu.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"title": "Soul of Rhythm",
-				"title_link": "https://jiaqu-wu.itch.io/soul-of-rhythm",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930220",
-				"by": [
-					"Jiaqu Wu",
-					"Siyuan Wang"
-				],
-				"by_link": [
-					"https://jiaqu-wu.itch.io/",
-					"https://siyuan-wang.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 13,
-				"score": 3.808,
-				"t_publish_diff": -43257000
-			}
-		]
-	},
-	{
-		"jammer": "Siyuan Wang",
-		"jammer_link": "https://siyuan-wang.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"title": "Soul of Rhythm",
-				"title_link": "https://jiaqu-wu.itch.io/soul-of-rhythm",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930220",
-				"by": [
-					"Jiaqu Wu",
-					"Siyuan Wang"
-				],
-				"by_link": [
-					"https://jiaqu-wu.itch.io/",
-					"https://siyuan-wang.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 13,
-				"score": 3.808,
-				"t_publish_diff": -43257000
-			}
-		]
-	},
-	{
-		"jammer": "bluegreenwizard",
-		"jammer_link": "https://bluegreenwizard.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 55,
-				"jam_name": "Stealth",
-				"jam_link": "https://itch.io/jam/mini-jam-55-stealth",
-				"title": "Chameleon",
-				"title_link": "https://bluegreenwizard.itch.io/chameleon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-55-stealth/rate/659576",
-				"by": [
-					"bluegreenwizard"
-				],
-				"by_link": [
-					"https://bluegreenwizard.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 14,
-				"score": 3.804,
-				"t_publish_diff": 10997000
-			}
-		]
-	},
-	{
-		"jammer": "Dopamineee",
-		"jammer_link": "https://dopamineee.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"title": "Rush Note",
-				"title_link": "https://dopamineee.itch.io/rush-note",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187638",
-				"by": [
-					"Dopamineee"
-				],
-				"by_link": [
-					"https://dopamineee.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.795,
-				"t_publish_diff": -39721000
-			}
-		]
-	},
-	{
-		"jammer": "Banish",
-		"jammer_link": "https://banish.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"title": "MMR (Meteor Moving Robot)",
-				"title_link": "https://banish.itch.io/mmr-meteor-moving-robot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347903",
-				"by": [
-					"Banish"
-				],
-				"by_link": [
-					"https://banish.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 21,
-				"score": 3.774,
-				"t_publish_diff": -4696000
-			}
-		]
-	},
-	{
-		"jammer": "Slaps",
-		"jammer_link": "https://s1aps.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"title": "Bat Out of Hell",
-				"title_link": "https://s1aps.itch.io/bat-outta-hell",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854812",
-				"by": [
-					"Slaps"
-				],
-				"by_link": [
-					"https://s1aps.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.773,
-				"t_publish_diff": -4409000
 			}
 		]
 	}

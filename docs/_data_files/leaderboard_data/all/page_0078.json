@@ -184,6 +184,24 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Lemon Dragon- pocket",
+				"title_link": "https://lides.itch.io/lemon-dragon-pocket",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512678",
+				"by": [
+					"CrazyInocentGames"
+				],
+				"by_link": [
+					"https://lides.itch.io/"
+				],
+				"rank": 95,
+				"ratings": 2,
+				"score": 1.179
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
@@ -842,6 +860,25 @@
 		"jammer": "R_Goulart",
 		"jammer_link": "https://r-goulart.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "The Light Dragon",
+				"title_link": "https://r-goulart.itch.io/the-light-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512269",
+				"by": [
+					"R_Goulart"
+				],
+				"by_link": [
+					"https://r-goulart.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.575,
+				"t_publish_diff": -10889000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 117,
@@ -3030,6 +3067,25 @@
 		"jammer": "jhcanti",
 		"jammer_link": "https://jhcanti.itch.io/",
 		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Rescue in the Dragon's Maze",
+				"title_link": "https://jhcanti.itch.io/rescue-in-the-dragons-maze",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512656",
+				"by": [
+					"jhcanti"
+				],
+				"by_link": [
+					"https://jhcanti.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 12,
+				"score": 2.208,
+				"t_publish_diff": -20548000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 117,

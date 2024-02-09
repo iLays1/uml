@@ -382,6 +382,24 @@
 				"ratings": 16,
 				"score": 4,
 				"t_publish_diff": -17617000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "LootScale",
+				"title_link": "https://fmlad.itch.io/lootscale",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513144",
+				"by": [
+					"Fmlad"
+				],
+				"by_link": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 33,
+				"score": 3.977
 			}
 		]
 	},
@@ -3439,6 +3457,102 @@
 		]
 	},
 	{
+		"jammer": "Alex Flowers",
+		"jammer_link": "https://alexflowers.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 59,
+				"jam_name": "Fortress",
+				"jam_link": "https://itch.io/jam/mini-jam-59",
+				"title": "Trim Rush",
+				"title_link": "https://alexflowers.itch.io/trimrush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/712487",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 13,
+				"score": 3.692
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 58,
+				"jam_name": "Neon",
+				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
+				"title": "Medipill Store",
+				"title_link": "https://alexflowers.itch.io/medipill",
+				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701313",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 3.194
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"title": "Alientique",
+				"title_link": "https://alexflowers.itch.io/alientique",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457821",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 22,
+				"score": 4.068
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 68,
+				"jam_name": "Sleep",
+				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
+				"title": "GhostCare",
+				"title_link": "https://alexflowers.itch.io/ghostcare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/836275",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 25,
+				"score": 3.82
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Hoard of Greed",
+				"title_link": "https://alexflowers.itch.io/hoard-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510279",
+				"by": [
+					"Alex Flowers"
+				],
+				"by_link": [
+					"https://alexflowers.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 18,
+				"score": 3.833
+			}
+		]
+	},
+	{
 		"jammer": "SubstandardShrimp",
 		"jammer_link": "https://substandardshrimp.itch.io/",
 		"list_game_sorted": [
@@ -4451,84 +4565,6 @@
 				"ratings": 11,
 				"score": 3.932,
 				"t_publish_diff": -1486000
-			}
-		]
-	},
-	{
-		"jammer": "Alex Flowers",
-		"jammer_link": "https://alexflowers.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 59,
-				"jam_name": "Fortress",
-				"jam_link": "https://itch.io/jam/mini-jam-59",
-				"title": "Trim Rush",
-				"title_link": "https://alexflowers.itch.io/trimrush",
-				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/712487",
-				"by": [
-					"Alex Flowers"
-				],
-				"by_link": [
-					"https://alexflowers.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 13,
-				"score": 3.692
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 58,
-				"jam_name": "Neon",
-				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
-				"title": "Medipill Store",
-				"title_link": "https://alexflowers.itch.io/medipill",
-				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701313",
-				"by": [
-					"Alex Flowers"
-				],
-				"by_link": [
-					"https://alexflowers.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.194
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"title": "Alientique",
-				"title_link": "https://alexflowers.itch.io/alientique",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457821",
-				"by": [
-					"Alex Flowers"
-				],
-				"by_link": [
-					"https://alexflowers.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 22,
-				"score": 4.068
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 68,
-				"jam_name": "Sleep",
-				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"title": "GhostCare",
-				"title_link": "https://alexflowers.itch.io/ghostcare",
-				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/836275",
-				"by": [
-					"Alex Flowers"
-				],
-				"by_link": [
-					"https://alexflowers.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 25,
-				"score": 3.82
 			}
 		]
 	},
@@ -7620,6 +7656,130 @@
 		]
 	},
 	{
+		"jammer": "Thetra00",
+		"jammer_link": "https://thetra00.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "[GameJam]MagicalDungeonGirl",
+				"title_link": "https://thetra00.itch.io/gamejammagicaldungeongirl",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2245876",
+				"by": [
+					"Thetra00"
+				],
+				"by_link": [
+					"https://thetra00.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 3.65
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "Dragonslair of Greed",
+				"title_link": "https://thetra00.itch.io/dragonslair-of-greed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512404",
+				"by": [
+					"Thetra00"
+				],
+				"by_link": [
+					"https://thetra00.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 11,
+				"score": 4.068
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"title": "[GameJam]Poison Witch",
+				"title_link": "https://thetra00.itch.io/poison-witch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1998957",
+				"by": [
+					"Thetra00"
+				],
+				"by_link": [
+					"https://thetra00.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 10,
+				"score": 3.825,
+				"t_publish_diff": -45835000
+			}
+		]
+	},
+	{
+		"jammer": "Jenislav",
+		"jammer_link": "https://jenislav.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"title": "GOLDSICK",
+				"title_link": "https://jenislav.itch.io/goldsick",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513153",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 4.135,
+				"t_publish_diff": -986000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"title": "Deus interim Machina",
+				"title_link": "https://jenislav.itch.io/deus-interim-machina",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449974",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 18,
+				"score": 3.361,
+				"t_publish_diff": -540000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"title": "Herding Cats",
+				"title_link": "https://jenislav.itch.io/herding-cats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
+				"by": [
+					"Jenislav"
+				],
+				"by_link": [
+					"https://jenislav.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 22,
+				"score": 3.966,
+				"t_publish_diff": -1143000
+			}
+		]
+	},
+	{
 		"jammer": "Akusan",
 		"jammer_link": "https://akusan.itch.io/",
 		"list_game_sorted": [
@@ -8728,99 +8888,6 @@
 				"ratings": 9,
 				"score": 4.185,
 				"t_publish_diff": -31768000
-			}
-		]
-	},
-	{
-		"jammer": "KingW",
-		"jammer_link": "https://kingw.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 20,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-20-music",
-				"title": "Rhythm OwO",
-				"title_link": "https://kingw.itch.io/rhythm-owo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362436",
-				"by": [
-					"KingW",
-					"ZahranW"
-				],
-				"by_link": [
-					"https://kingw.itch.io/",
-					"https://zahranworrell.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4,
-				"t_publish_diff": -9806000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 36,
-				"jam_name": "Nature",
-				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
-				"title": "Dryad",
-				"title_link": "https://kingw.itch.io/dryad",
-				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480690",
-				"by": [
-					"KingW"
-				],
-				"by_link": [
-					"https://kingw.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 12,
-				"score": 4,
-				"t_publish_diff": -2870000
-			}
-		]
-	},
-	{
-		"jammer": "Jens Steenmetz",
-		"jammer_link": "https://j3ns-00.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 17,
-				"jam_name": "Home Alone",
-				"jam_link": "https://itch.io/jam/mini-jam-17-home-alone",
-				"title": "Imagine",
-				"title_link": "https://j3ns-00.itch.io/imagine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-17-home-alone/rate/346533",
-				"by": [
-					"Jens Steenmetz"
-				],
-				"by_link": [
-					"https://j3ns-00.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 4.107,
-				"t_publish_diff": -14374000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 31,
-				"jam_name": "Movies",
-				"jam_link": "https://itch.io/jam/mini-jam-31-movies",
-				"title": "ZooM",
-				"title_link": "https://j3ns-00.itch.io/zoom",
-				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444333",
-				"by": [
-					"Jens Steenmetz",
-					"Rowen Horbach",
-					"Mufaya"
-				],
-				"by_link": [
-					"https://j3ns-00.itch.io/",
-					"https://rowenh.itch.io/",
-					"https://mufaya.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 10,
-				"score": 3.875
 			}
 		]
 	}

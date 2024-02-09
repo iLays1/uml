@@ -1,5 +1,105 @@
 [
 	{
+		"jammer": "Teamaich",
+		"jammer_link": "https://teamaich.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"title": "The Snowball Spirit",
+				"title_link": "https://teamaich.itch.io/the-snowball-spirit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364810",
+				"by": [
+					"Teamaich"
+				],
+				"by_link": [
+					"https://teamaich.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 12,
+				"score": 3.729,
+				"t_publish_diff": -9270000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"title": "Sakara's Fear",
+				"title_link": "https://teamaich.itch.io/sakaras-fear",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1471312",
+				"by": [
+					"Teamaich"
+				],
+				"by_link": [
+					"https://teamaich.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 8,
+				"score": 3.75,
+				"t_publish_diff": 50895000
+			}
+		]
+	},
+	{
+		"jammer": "josefnpat",
+		"jammer_link": "https://josefnpat.itch.io/",
+		"list_game_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"title": "YOKO REDUX",
+				"title_link": "https://josefnpat.itch.io/yoko-redux",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912995",
+				"by": [
+					"josefnpat",
+					"ThreadOne",
+					"MKK SOUND LAB",
+					"ohyanakis"
+				],
+				"by_link": [
+					"https://josefnpat.itch.io/",
+					"https://threadone.itch.io/",
+					"https://soundchefkim.itch.io/",
+					"https://ohyanakis.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 30,
+				"score": 4,
+				"t_publish_diff": -5009000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"title": "Useless Mage",
+				"title_link": "https://lpso-re-dev.itch.io/useless-mage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247545",
+				"by": [
+					"LPSO: Revived!",
+					"Jadebrew",
+					"vflour",
+					"josefnpat"
+				],
+				"by_link": [
+					"https://lpso-re-dev.itch.io/",
+					"https://jadebrew.itch.io/",
+					"https://vflour.itch.io/",
+					"https://josefnpat.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.214,
+				"t_publish_diff": -19648000
+			}
+		]
+	},
+	{
 		"jammer": "Jadebrew",
 		"jammer_link": "https://jadebrew.itch.io/",
 		"list_game_sorted": [
@@ -3922,55 +4022,6 @@
 				"ratings": 12,
 				"score": 4.396,
 				"t_publish_diff": -13847000
-			}
-		]
-	},
-	{
-		"jammer": "Super8BitRafa",
-		"jammer_link": "https://super8bitrafa.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 19,
-				"jam_name": "Mysteries",
-				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
-				"title": "do robots dream?",
-				"title_link": "https://super8bitrafa.itch.io/m",
-				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/356092",
-				"by": [
-					"Super8BitRafa"
-				],
-				"by_link": [
-					"https://super8bitrafa.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 4.381
-			}
-		]
-	},
-	{
-		"jammer": "sadgirls",
-		"jammer_link": "https://sadgirls.itch.io/",
-		"list_game_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"title": "MEGALODON DATING SIMULATOR",
-				"title_link": "https://sadgirls.itch.io/megladon-dating-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459860",
-				"by": [
-					"sadgirls"
-				],
-				"by_link": [
-					"https://sadgirls.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 17,
-				"score": 4.368,
-				"t_publish_diff": -6888000
 			}
 		]
 	}
