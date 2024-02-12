@@ -206,6 +206,8 @@ function html_early_tag(str) {
 
 function html_time_unknown_tag() {
 	return '<span class="time_unknown"></span>';
+}
+
 function calculate_ilscore(game, entrants) {
 	let base = ((entrants - game.rank) + 1) * 2
 	let rating_percent = (game.score / 5.0)
