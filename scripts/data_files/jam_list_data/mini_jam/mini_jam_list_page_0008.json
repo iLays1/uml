@@ -20,6 +20,7 @@
 				"rank": 1,
 				"ratings": 10,
 				"score": 4.475,
+				"ilscore": 170,
 				"t_publish_diff": -3632000
 			},
 			{
@@ -37,6 +38,7 @@
 				"rank": 2,
 				"ratings": 44,
 				"score": 4.369,
+				"ilscore": 164,
 				"t_publish_diff": -18158000
 			},
 			{
@@ -52,6 +54,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 4.354,
+				"ilscore": 161,
 				"t_publish_diff": -14806000
 			},
 			{
@@ -69,6 +72,7 @@
 				"rank": 4,
 				"ratings": 29,
 				"score": 4.241,
+				"ilscore": 156,
 				"t_publish_diff": -339000
 			},
 			{
@@ -84,6 +88,7 @@
 				"rank": 5,
 				"ratings": 8,
 				"score": 4.063,
+				"ilscore": 147,
 				"t_publish_diff": -6165000
 			},
 			{
@@ -99,6 +104,7 @@
 				"rank": 6,
 				"ratings": 22,
 				"score": 3.977,
+				"ilscore": 143,
 				"t_publish_diff": -42561000
 			},
 			{
@@ -116,6 +122,7 @@
 				"rank": 7,
 				"ratings": 16,
 				"score": 3.859,
+				"ilscore": 137,
 				"t_publish_diff": -21087000
 			},
 			{
@@ -130,7 +137,8 @@
 				],
 				"rank": 8,
 				"ratings": 10,
-				"score": 3.85
+				"score": 3.85,
+				"ilscore": 135
 			},
 			{
 				"title": "Baby Farm",
@@ -149,6 +157,7 @@
 				"rank": 9,
 				"ratings": 13,
 				"score": 3.808,
+				"ilscore": 132,
 				"t_publish_diff": -595000
 			},
 			{
@@ -164,6 +173,7 @@
 				"rank": 10,
 				"ratings": 14,
 				"score": 3.804,
+				"ilscore": 130,
 				"t_publish_diff": -622000
 			},
 			{
@@ -179,6 +189,7 @@
 				"rank": 11,
 				"ratings": 21,
 				"score": 3.786,
+				"ilscore": 128,
 				"t_publish_diff": -37802000
 			},
 			{
@@ -194,6 +205,7 @@
 				"rank": 12,
 				"ratings": 24,
 				"score": 3.781,
+				"ilscore": 127,
 				"t_publish_diff": -14041000
 			},
 			{
@@ -210,7 +222,8 @@
 				],
 				"rank": 13,
 				"ratings": 19,
-				"score": 3.776
+				"score": 3.776,
+				"ilscore": 125
 			},
 			{
 				"title": "Flame Boy",
@@ -224,7 +237,8 @@
 				],
 				"rank": 14,
 				"ratings": 9,
-				"score": 3.722
+				"score": 3.722,
+				"ilscore": 122
 			},
 			{
 				"title": "PANIK! At The Bottling Plant!",
@@ -239,6 +253,7 @@
 				"rank": 15,
 				"ratings": 6,
 				"score": 3.717,
+				"ilscore": 120,
 				"t_publish_diff": -19294000
 			},
 			{
@@ -254,6 +269,7 @@
 				"rank": 16,
 				"ratings": 16,
 				"score": 3.688,
+				"ilscore": 118,
 				"t_publish_diff": -18325000
 			},
 			{
@@ -269,6 +285,7 @@
 				"rank": 17,
 				"ratings": 19,
 				"score": 3.684,
+				"ilscore": 116,
 				"t_publish_diff": -35704000
 			},
 			{
@@ -284,6 +301,7 @@
 				"rank": 18,
 				"ratings": 17,
 				"score": 3.676,
+				"ilscore": 114,
 				"t_publish_diff": -2204000
 			},
 			{
@@ -299,6 +317,7 @@
 				"rank": 19,
 				"ratings": 9,
 				"score": 3.667,
+				"ilscore": 112,
 				"t_publish_diff": -12829000
 			},
 			{
@@ -314,6 +333,7 @@
 				"rank": 20,
 				"ratings": 9,
 				"score": 3.667,
+				"ilscore": 111,
 				"t_publish_diff": -2128000
 			}
 		]
@@ -338,7 +358,8 @@
 				],
 				"rank": 1,
 				"ratings": 24,
-				"score": 3.958
+				"score": 3.958,
+				"ilscore": 106
 			},
 			{
 				"title": "Heaven's Ring",
@@ -353,6 +374,7 @@
 				"rank": 2,
 				"ratings": 22,
 				"score": 3.83,
+				"ilscore": 101,
 				"t_publish_diff": -2410000
 			},
 			{
@@ -368,6 +390,7 @@
 				"rank": 3,
 				"ratings": 16,
 				"score": 3.813,
+				"ilscore": 99,
 				"t_publish_diff": -3162000
 			},
 			{
@@ -383,6 +406,7 @@
 				"rank": 4,
 				"ratings": 17,
 				"score": 3.75,
+				"ilscore": 96,
 				"t_publish_diff": -27248000
 			},
 			{
@@ -397,7 +421,8 @@
 				],
 				"rank": 5,
 				"ratings": 27,
-				"score": 3.713
+				"score": 3.713,
+				"ilscore": 93
 			},
 			{
 				"title": "Toss Box",
@@ -412,6 +437,7 @@
 				"rank": 6,
 				"ratings": 12,
 				"score": 3.667,
+				"ilscore": 90,
 				"t_publish_diff": -26877000
 			},
 			{
@@ -427,6 +453,7 @@
 				"rank": 7,
 				"ratings": 11,
 				"score": 3.656,
+				"ilscore": 89,
 				"t_publish_diff": -271000
 			},
 			{
@@ -441,7 +468,8 @@
 				],
 				"rank": 8,
 				"ratings": 19,
-				"score": 3.592
+				"score": 3.592,
+				"ilscore": 86
 			},
 			{
 				"title": "Sheep go to Heaven",
@@ -456,6 +484,7 @@
 				"rank": 9,
 				"ratings": 14,
 				"score": 3.571,
+				"ilscore": 84,
 				"t_publish_diff": -25615000
 			},
 			{
@@ -470,7 +499,8 @@
 				],
 				"rank": 10,
 				"ratings": 15,
-				"score": 3.55
+				"score": 3.55,
+				"ilscore": 82
 			},
 			{
 				"title": "Vroomgo the Robot Vacuum",
@@ -485,6 +515,7 @@
 				"rank": 11,
 				"ratings": 14,
 				"score": 3.536,
+				"ilscore": 80,
 				"t_publish_diff": -3388000
 			},
 			{
@@ -500,6 +531,7 @@
 				"rank": 11,
 				"ratings": 14,
 				"score": 3.536,
+				"ilscore": 80,
 				"t_publish_diff": -12417000
 			},
 			{
@@ -515,6 +547,7 @@
 				"rank": 13,
 				"ratings": 16,
 				"score": 3.531,
+				"ilscore": 77,
 				"t_publish_diff": -5874000
 			},
 			{
@@ -530,6 +563,7 @@
 				"rank": 14,
 				"ratings": 23,
 				"score": 3.511,
+				"ilscore": 75,
 				"t_publish_diff": -6364000
 			},
 			{
@@ -545,6 +579,7 @@
 				"rank": 15,
 				"ratings": 13,
 				"score": 3.385,
+				"ilscore": 71,
 				"t_publish_diff": -61166000
 			},
 			{
@@ -560,6 +595,7 @@
 				"rank": 16,
 				"ratings": 17,
 				"score": 3.324,
+				"ilscore": 69,
 				"t_publish_diff": -38576000
 			},
 			{
@@ -577,6 +613,7 @@
 				"rank": 17,
 				"ratings": 21,
 				"score": 3.298,
+				"ilscore": 67,
 				"t_publish_diff": -456000
 			},
 			{
@@ -592,6 +629,7 @@
 				"rank": 18,
 				"ratings": 24,
 				"score": 3.292,
+				"ilscore": 65,
 				"t_publish_diff": -50291000
 			},
 			{
@@ -607,6 +645,7 @@
 				"rank": 19,
 				"ratings": 12,
 				"score": 3.271,
+				"ilscore": 64,
 				"t_publish_diff": -4234000
 			},
 			{
@@ -622,6 +661,7 @@
 				"rank": 20,
 				"ratings": 18,
 				"score": 3.264,
+				"ilscore": 62,
 				"t_publish_diff": -107786000
 			}
 		]
@@ -653,6 +693,7 @@
 				"rank": 1,
 				"ratings": 34,
 				"score": 4.265,
+				"ilscore": 168,
 				"t_publish_diff": -523000
 			},
 			{
@@ -668,6 +709,7 @@
 				"rank": 2,
 				"ratings": 8,
 				"score": 4.188,
+				"ilscore": 164,
 				"t_publish_diff": 8990000
 			},
 			{
@@ -683,6 +725,7 @@
 				"rank": 3,
 				"ratings": 8,
 				"score": 4.156,
+				"ilscore": 161,
 				"t_publish_diff": -27080000
 			},
 			{
@@ -698,6 +741,7 @@
 				"rank": 4,
 				"ratings": 43,
 				"score": 4.145,
+				"ilscore": 159,
 				"t_publish_diff": -70774000
 			},
 			{
@@ -712,7 +756,8 @@
 				],
 				"rank": 5,
 				"ratings": 13,
-				"score": 4.077
+				"score": 4.077,
+				"ilscore": 154
 			},
 			{
 				"title": "Card Combat",
@@ -727,6 +772,7 @@
 				"rank": 6,
 				"ratings": 23,
 				"score": 4.022,
+				"ilscore": 151,
 				"t_publish_diff": -18742000
 			},
 			{
@@ -742,6 +788,7 @@
 				"rank": 7,
 				"ratings": 34,
 				"score": 4,
+				"ilscore": 148,
 				"t_publish_diff": -7653000
 			},
 			{
@@ -761,6 +808,7 @@
 				"rank": 8,
 				"ratings": 11,
 				"score": 3.977,
+				"ilscore": 146,
 				"t_publish_diff": -31161000
 			},
 			{
@@ -780,6 +828,7 @@
 				"rank": 9,
 				"ratings": 11,
 				"score": 3.977,
+				"ilscore": 144,
 				"t_publish_diff": 3068000
 			},
 			{
@@ -795,6 +844,7 @@
 				"rank": 10,
 				"ratings": 9,
 				"score": 3.944,
+				"ilscore": 141,
 				"t_publish_diff": -83000
 			},
 			{
@@ -810,6 +860,7 @@
 				"rank": 11,
 				"ratings": 11,
 				"score": 3.773,
+				"ilscore": 134,
 				"t_publish_diff": -4409000
 			},
 			{
@@ -827,6 +878,7 @@
 				"rank": 12,
 				"ratings": 16,
 				"score": 3.734,
+				"ilscore": 131,
 				"t_publish_diff": -24245000
 			},
 			{
@@ -842,6 +894,7 @@
 				"rank": 13,
 				"ratings": 19,
 				"score": 3.724,
+				"ilscore": 129,
 				"t_publish_diff": -18289000
 			},
 			{
@@ -856,7 +909,8 @@
 				],
 				"rank": 14,
 				"ratings": 12,
-				"score": 3.708
+				"score": 3.708,
+				"ilscore": 127
 			},
 			{
 				"title": "Purgatory, Inc.",
@@ -871,6 +925,7 @@
 				"rank": 15,
 				"ratings": 17,
 				"score": 3.647,
+				"ilscore": 123,
 				"t_publish_diff": -4966000
 			},
 			{
@@ -886,6 +941,7 @@
 				"rank": 16,
 				"ratings": 14,
 				"score": 3.643,
+				"ilscore": 122,
 				"t_publish_diff": -1343000
 			},
 			{
@@ -901,6 +957,7 @@
 				"rank": 17,
 				"ratings": 19,
 				"score": 3.618,
+				"ilscore": 120,
 				"t_publish_diff": -24447000
 			},
 			{
@@ -916,6 +973,7 @@
 				"rank": 18,
 				"ratings": 8,
 				"score": 3.594,
+				"ilscore": 117,
 				"t_publish_diff": -7576000
 			},
 			{
@@ -931,6 +989,7 @@
 				"rank": 19,
 				"ratings": 18,
 				"score": 3.542,
+				"ilscore": 114,
 				"t_publish_diff": -21581000
 			},
 			{
@@ -948,6 +1007,7 @@
 				"rank": 20,
 				"ratings": 8,
 				"score": 3.531,
+				"ilscore": 112,
 				"t_publish_diff": -21192000
 			}
 		]
@@ -973,6 +1033,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.268,
+				"ilscore": 114,
 				"t_publish_diff": -21029000
 			},
 			{
@@ -990,6 +1051,7 @@
 				"rank": 2,
 				"ratings": 18,
 				"score": 3.986,
+				"ilscore": 105,
 				"t_publish_diff": -94617000
 			},
 			{
@@ -1004,7 +1066,8 @@
 				],
 				"rank": 3,
 				"ratings": 21,
-				"score": 3.964
+				"score": 3.964,
+				"ilscore": 103
 			},
 			{
 				"title": "Mini Jam 68: Sleep (No Text)",
@@ -1019,6 +1082,7 @@
 				"rank": 4,
 				"ratings": 16,
 				"score": 3.906,
+				"ilscore": 99,
 				"t_publish_diff": -914000
 			},
 			{
@@ -1034,6 +1098,7 @@
 				"rank": 5,
 				"ratings": 19,
 				"score": 3.882,
+				"ilscore": 97,
 				"t_publish_diff": -48843000
 			},
 			{
@@ -1049,6 +1114,7 @@
 				"rank": 6,
 				"ratings": 8,
 				"score": 3.875,
+				"ilscore": 96,
 				"t_publish_diff": -7098000
 			},
 			{
@@ -1064,6 +1130,7 @@
 				"rank": 7,
 				"ratings": 20,
 				"score": 3.85,
+				"ilscore": 93,
 				"t_publish_diff": -2933000
 			},
 			{
@@ -1078,7 +1145,8 @@
 				],
 				"rank": 8,
 				"ratings": 25,
-				"score": 3.82
+				"score": 3.82,
+				"ilscore": 91
 			},
 			{
 				"title": "Nightmare Catcher",
@@ -1093,6 +1161,7 @@
 				"rank": 9,
 				"ratings": 12,
 				"score": 3.708,
+				"ilscore": 87,
 				"t_publish_diff": -27480000
 			},
 			{
@@ -1108,6 +1177,7 @@
 				"rank": 10,
 				"ratings": 8,
 				"score": 3.625,
+				"ilscore": 84,
 				"t_publish_diff": -15731000
 			},
 			{
@@ -1123,6 +1193,7 @@
 				"rank": 11,
 				"ratings": 19,
 				"score": 3.605,
+				"ilscore": 82,
 				"t_publish_diff": -181801000
 			},
 			{
@@ -1137,7 +1208,8 @@
 				],
 				"rank": 12,
 				"ratings": 8,
-				"score": 3.563
+				"score": 3.563,
+				"ilscore": 79
 			},
 			{
 				"title": "I Had to Have a Name Here",
@@ -1152,6 +1224,7 @@
 				"rank": 13,
 				"ratings": 11,
 				"score": 3.545,
+				"ilscore": 77,
 				"t_publish_diff": -31700000
 			},
 			{
@@ -1167,6 +1240,7 @@
 				"rank": 14,
 				"ratings": 13,
 				"score": 3.462,
+				"ilscore": 74,
 				"t_publish_diff": -40236000
 			},
 			{
@@ -1181,7 +1255,8 @@
 				],
 				"rank": 15,
 				"ratings": 7,
-				"score": 3.441
+				"score": 3.441,
+				"ilscore": 72
 			},
 			{
 				"title": "Wagey Wakey",
@@ -1200,6 +1275,7 @@
 				"rank": 16,
 				"ratings": 14,
 				"score": 3.429,
+				"ilscore": 71,
 				"t_publish_diff": -899000
 			},
 			{
@@ -1215,6 +1291,7 @@
 				"rank": 17,
 				"ratings": 11,
 				"score": 3.409,
+				"ilscore": 69,
 				"t_publish_diff": -33132000
 			},
 			{
@@ -1229,7 +1306,8 @@
 				],
 				"rank": 18,
 				"ratings": 13,
-				"score": 3.385
+				"score": 3.385,
+				"ilscore": 67
 			},
 			{
 				"title": "I Sleepwalk",
@@ -1244,6 +1322,7 @@
 				"rank": 19,
 				"ratings": 11,
 				"score": 3.364,
+				"ilscore": 65,
 				"t_publish_diff": -34549000
 			},
 			{
@@ -1259,6 +1338,7 @@
 				"rank": 20,
 				"ratings": 8,
 				"score": 3.344,
+				"ilscore": 64,
 				"t_publish_diff": -12456000
 			}
 		]
@@ -1284,6 +1364,7 @@
 				"rank": 1,
 				"ratings": 17,
 				"score": 4.221,
+				"ilscore": 99,
 				"t_publish_diff": -17895000
 			},
 			{
@@ -1299,6 +1380,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.109,
+				"ilscore": 95,
 				"t_publish_diff": -11193000
 			},
 			{
@@ -1314,6 +1396,7 @@
 				"rank": 3,
 				"ratings": 19,
 				"score": 4.039,
+				"ilscore": 92,
 				"t_publish_diff": -106573000
 			},
 			{
@@ -1329,6 +1412,7 @@
 				"rank": 4,
 				"ratings": 16,
 				"score": 4.016,
+				"ilscore": 89,
 				"t_publish_diff": -7071000
 			},
 			{
@@ -1344,6 +1428,7 @@
 				"rank": 5,
 				"ratings": 20,
 				"score": 4,
+				"ilscore": 88,
 				"t_publish_diff": -15756000
 			},
 			{
@@ -1360,7 +1445,8 @@
 				],
 				"rank": 6,
 				"ratings": 10,
-				"score": 4
+				"score": 4,
+				"ilscore": 86
 			},
 			{
 				"title": "FEED ME",
@@ -1375,6 +1461,7 @@
 				"rank": 7,
 				"ratings": 18,
 				"score": 3.986,
+				"ilscore": 84,
 				"t_publish_diff": 92826000
 			},
 			{
@@ -1390,6 +1477,7 @@
 				"rank": 8,
 				"ratings": 24,
 				"score": 3.875,
+				"ilscore": 80,
 				"t_publish_diff": -26365000
 			},
 			{
@@ -1405,6 +1493,7 @@
 				"rank": 9,
 				"ratings": 13,
 				"score": 3.827,
+				"ilscore": 78,
 				"t_publish_diff": -2701000
 			},
 			{
@@ -1420,6 +1509,7 @@
 				"rank": 10,
 				"ratings": 16,
 				"score": 3.813,
+				"ilscore": 76,
 				"t_publish_diff": 19258000
 			},
 			{
@@ -1435,6 +1525,7 @@
 				"rank": 11,
 				"ratings": 16,
 				"score": 3.734,
+				"ilscore": 73,
 				"t_publish_diff": -37813000
 			},
 			{
@@ -1450,6 +1541,7 @@
 				"rank": 12,
 				"ratings": 13,
 				"score": 3.654,
+				"ilscore": 70,
 				"t_publish_diff": -9396000
 			},
 			{
@@ -1465,6 +1557,7 @@
 				"rank": 13,
 				"ratings": 16,
 				"score": 3.625,
+				"ilscore": 68,
 				"t_publish_diff": -30153000
 			},
 			{
@@ -1480,6 +1573,7 @@
 				"rank": 14,
 				"ratings": 17,
 				"score": 3.603,
+				"ilscore": 66,
 				"t_publish_diff": -31798000
 			},
 			{
@@ -1495,6 +1589,7 @@
 				"rank": 15,
 				"ratings": 32,
 				"score": 3.586,
+				"ilscore": 64,
 				"t_publish_diff": -16211000
 			},
 			{
@@ -1510,6 +1605,7 @@
 				"rank": 16,
 				"ratings": 27,
 				"score": 3.574,
+				"ilscore": 62,
 				"t_publish_diff": -13233000
 			},
 			{
@@ -1524,7 +1620,8 @@
 				],
 				"rank": 17,
 				"ratings": 15,
-				"score": 3.567
+				"score": 3.567,
+				"ilscore": 61
 			},
 			{
 				"title": "The Void Tome",
@@ -1539,6 +1636,7 @@
 				"rank": 18,
 				"ratings": 8,
 				"score": 3.522,
+				"ilscore": 59,
 				"t_publish_diff": -121535000
 			},
 			{
@@ -1558,6 +1656,7 @@
 				"rank": 19,
 				"ratings": 23,
 				"score": 3.5,
+				"ilscore": 57,
 				"t_publish_diff": -33906000
 			},
 			{
@@ -1573,6 +1672,7 @@
 				"rank": 20,
 				"ratings": 7,
 				"score": 3.466,
+				"ilscore": 55,
 				"t_publish_diff": -41894000
 			}
 		]
@@ -1598,6 +1698,7 @@
 				"rank": 1,
 				"ratings": 12,
 				"score": 4.292,
+				"ilscore": 175,
 				"t_publish_diff": -6055000
 			},
 			{
@@ -1613,6 +1714,7 @@
 				"rank": 2,
 				"ratings": 38,
 				"score": 4.257,
+				"ilscore": 171,
 				"t_publish_diff": -3343000
 			},
 			{
@@ -1628,6 +1730,7 @@
 				"rank": 3,
 				"ratings": 20,
 				"score": 4.25,
+				"ilscore": 170,
 				"t_publish_diff": -162000
 			},
 			{
@@ -1647,6 +1750,7 @@
 				"rank": 4,
 				"ratings": 24,
 				"score": 4.146,
+				"ilscore": 164,
 				"t_publish_diff": -15822000
 			},
 			{
@@ -1662,6 +1766,7 @@
 				"rank": 5,
 				"ratings": 26,
 				"score": 4.096,
+				"ilscore": 160,
 				"t_publish_diff": -30194000
 			},
 			{
@@ -1677,6 +1782,7 @@
 				"rank": 6,
 				"ratings": 11,
 				"score": 4.068,
+				"ilscore": 157,
 				"t_publish_diff": -6039000
 			},
 			{
@@ -1694,6 +1800,7 @@
 				"rank": 7,
 				"ratings": 19,
 				"score": 3.987,
+				"ilscore": 153,
 				"t_publish_diff": -20525000
 			},
 			{
@@ -1713,6 +1820,7 @@
 				"rank": 8,
 				"ratings": 11,
 				"score": 3.955,
+				"ilscore": 150,
 				"t_publish_diff": -16678000
 			},
 			{
@@ -1728,6 +1836,7 @@
 				"rank": 9,
 				"ratings": 12,
 				"score": 3.896,
+				"ilscore": 146,
 				"t_publish_diff": -37616000
 			},
 			{
@@ -1743,6 +1852,7 @@
 				"rank": 10,
 				"ratings": 8,
 				"score": 3.889,
+				"ilscore": 144,
 				"t_publish_diff": -1166000
 			},
 			{
@@ -1758,6 +1868,7 @@
 				"rank": 11,
 				"ratings": 9,
 				"score": 3.889,
+				"ilscore": 143,
 				"t_publish_diff": -6127000
 			},
 			{
@@ -1772,7 +1883,8 @@
 				],
 				"rank": 12,
 				"ratings": 11,
-				"score": 3.841
+				"score": 3.841,
+				"ilscore": 139
 			},
 			{
 				"title": "SweetSpace",
@@ -1787,6 +1899,7 @@
 				"rank": 13,
 				"ratings": 28,
 				"score": 3.839,
+				"ilscore": 138,
 				"t_publish_diff": -7427000
 			},
 			{
@@ -1802,6 +1915,7 @@
 				"rank": 14,
 				"ratings": 18,
 				"score": 3.806,
+				"ilscore": 135,
 				"t_publish_diff": -94556000
 			},
 			{
@@ -1817,6 +1931,7 @@
 				"rank": 15,
 				"ratings": 29,
 				"score": 3.802,
+				"ilscore": 133,
 				"t_publish_diff": -55498000
 			},
 			{
@@ -1832,6 +1947,7 @@
 				"rank": 16,
 				"ratings": 11,
 				"score": 3.773,
+				"ilscore": 131,
 				"t_publish_diff": -6087000
 			},
 			{
@@ -1849,6 +1965,7 @@
 				"rank": 17,
 				"ratings": 29,
 				"score": 3.741,
+				"ilscore": 128,
 				"t_publish_diff": -33861000
 			},
 			{
@@ -1868,6 +1985,7 @@
 				"rank": 18,
 				"ratings": 13,
 				"score": 3.712,
+				"ilscore": 126,
 				"t_publish_diff": -16479000
 			},
 			{
@@ -1883,6 +2001,7 @@
 				"rank": 19,
 				"ratings": 13,
 				"score": 3.712,
+				"ilscore": 124,
 				"t_publish_diff": -11880000
 			},
 			{
@@ -1898,6 +2017,7 @@
 				"rank": 20,
 				"ratings": 12,
 				"score": 3.667,
+				"ilscore": 121,
 				"t_publish_diff": -147537000
 			}
 		]
@@ -1923,6 +2043,7 @@
 				"rank": 1,
 				"ratings": 7,
 				"score": 4.214,
+				"ilscore": 99,
 				"t_publish_diff": -540000
 			},
 			{
@@ -1938,6 +2059,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 4.207,
+				"ilscore": 97,
 				"t_publish_diff": -147000
 			},
 			{
@@ -1953,6 +2075,7 @@
 				"rank": 3,
 				"ratings": 16,
 				"score": 4.125,
+				"ilscore": 94,
 				"t_publish_diff": -32439000
 			},
 			{
@@ -1968,6 +2091,7 @@
 				"rank": 3,
 				"ratings": 10,
 				"score": 4.125,
+				"ilscore": 94,
 				"t_publish_diff": -1947000
 			},
 			{
@@ -1983,6 +2107,7 @@
 				"rank": 3,
 				"ratings": 20,
 				"score": 4.125,
+				"ilscore": 94,
 				"t_publish_diff": -17742000
 			},
 			{
@@ -1997,7 +2122,8 @@
 				],
 				"rank": 6,
 				"ratings": 22,
-				"score": 3.955
+				"score": 3.955,
+				"ilscore": 85
 			},
 			{
 				"title": "Need Love to not be an abandoned!",
@@ -2012,6 +2138,7 @@
 				"rank": 7,
 				"ratings": 7,
 				"score": 3.929,
+				"ilscore": 83,
 				"t_publish_diff": -11972000
 			},
 			{
@@ -2027,6 +2154,7 @@
 				"rank": 8,
 				"ratings": 13,
 				"score": 3.923,
+				"ilscore": 81,
 				"t_publish_diff": -27069000
 			},
 			{
@@ -2042,6 +2170,7 @@
 				"rank": 9,
 				"ratings": 19,
 				"score": 3.921,
+				"ilscore": 79,
 				"t_publish_diff": -990000
 			},
 			{
@@ -2057,6 +2186,7 @@
 				"rank": 10,
 				"ratings": 18,
 				"score": 3.806,
+				"ilscore": 76,
 				"t_publish_diff": -105315000
 			},
 			{
@@ -2072,6 +2202,7 @@
 				"rank": 11,
 				"ratings": 15,
 				"score": 3.733,
+				"ilscore": 73,
 				"t_publish_diff": -39553000
 			},
 			{
@@ -2087,6 +2218,7 @@
 				"rank": 12,
 				"ratings": 8,
 				"score": 3.625,
+				"ilscore": 69,
 				"t_publish_diff": 31000
 			},
 			{
@@ -2102,6 +2234,7 @@
 				"rank": 13,
 				"ratings": 9,
 				"score": 3.611,
+				"ilscore": 67,
 				"t_publish_diff": -5981000
 			},
 			{
@@ -2117,6 +2250,7 @@
 				"rank": 14,
 				"ratings": 14,
 				"score": 3.607,
+				"ilscore": 66,
 				"t_publish_diff": -821000
 			},
 			{
@@ -2134,6 +2268,7 @@
 				"rank": 15,
 				"ratings": 11,
 				"score": 3.545,
+				"ilscore": 63,
 				"t_publish_diff": -35136000
 			},
 			{
@@ -2159,6 +2294,7 @@
 				"rank": 16,
 				"ratings": 4,
 				"score": 3.496,
+				"ilscore": 61,
 				"t_publish_diff": -16163000
 			},
 			{
@@ -2174,6 +2310,7 @@
 				"rank": 17,
 				"ratings": 20,
 				"score": 3.45,
+				"ilscore": 59,
 				"t_publish_diff": -7694000
 			},
 			{
@@ -2189,6 +2326,7 @@
 				"rank": 18,
 				"ratings": 17,
 				"score": 3.412,
+				"ilscore": 57,
 				"t_publish_diff": -9965000
 			},
 			{
@@ -2204,6 +2342,7 @@
 				"rank": 19,
 				"ratings": 4,
 				"score": 3.402,
+				"ilscore": 55,
 				"t_publish_diff": -4317000
 			},
 			{
@@ -2218,7 +2357,8 @@
 				],
 				"rank": 20,
 				"ratings": 12,
-				"score": 3.333
+				"score": 3.333,
+				"ilscore": 53
 			}
 		]
 	},
@@ -2243,6 +2383,7 @@
 				"rank": 1,
 				"ratings": 8,
 				"score": 4.656,
+				"ilscore": 27,
 				"t_publish_diff": -754000
 			},
 			{
@@ -2262,6 +2403,7 @@
 				"rank": 2,
 				"ratings": 7,
 				"score": 4.343,
+				"ilscore": 24,
 				"t_publish_diff": -811000
 			},
 			{
@@ -2287,6 +2429,7 @@
 				"rank": 3,
 				"ratings": 7,
 				"score": 3.942,
+				"ilscore": 20,
 				"t_publish_diff": -2099000
 			},
 			{
@@ -2302,6 +2445,7 @@
 				"rank": 4,
 				"ratings": 10,
 				"score": 3.45,
+				"ilscore": 16,
 				"t_publish_diff": -10155000
 			},
 			{
@@ -2317,6 +2461,7 @@
 				"rank": 5,
 				"ratings": 7,
 				"score": 3.408,
+				"ilscore": 14,
 				"t_publish_diff": -28471000
 			},
 			{
@@ -2331,7 +2476,8 @@
 				],
 				"rank": 6,
 				"ratings": 8,
-				"score": 3.406
+				"score": 3.406,
+				"ilscore": 13
 			},
 			{
 				"title": "Magicon Stadium",
@@ -2346,6 +2492,7 @@
 				"rank": 7,
 				"ratings": 8,
 				"score": 3.344,
+				"ilscore": 12,
 				"t_publish_diff": -12036000
 			},
 			{
@@ -2361,6 +2508,7 @@
 				"rank": 8,
 				"ratings": 8,
 				"score": 3.188,
+				"ilscore": 10,
 				"t_publish_diff": -5064000
 			},
 			{
@@ -2380,6 +2528,7 @@
 				"rank": 9,
 				"ratings": 9,
 				"score": 3.111,
+				"ilscore": 8,
 				"t_publish_diff": -1278000
 			},
 			{
@@ -2395,6 +2544,7 @@
 				"rank": 10,
 				"ratings": 7,
 				"score": 3.074,
+				"ilscore": 7,
 				"t_publish_diff": -126122000
 			},
 			{
@@ -2410,6 +2560,7 @@
 				"rank": 11,
 				"ratings": 11,
 				"score": 3.068,
+				"ilscore": 6,
 				"t_publish_diff": -1373000
 			},
 			{
@@ -2424,7 +2575,8 @@
 				],
 				"rank": 12,
 				"ratings": 7,
-				"score": 2.873
+				"score": 2.873,
+				"ilscore": 4
 			},
 			{
 				"title": "Schoolworks Go Online",
@@ -2438,7 +2590,8 @@
 				],
 				"rank": 13,
 				"ratings": 8,
-				"score": 2.781
+				"score": 2.781,
+				"ilscore": 3
 			},
 			{
 				"title": "Roller Master",
@@ -2452,7 +2605,8 @@
 				],
 				"rank": 14,
 				"ratings": 7,
-				"score": 2.639
+				"score": 2.639,
+				"ilscore": 2
 			},
 			{
 				"title": "Sofaboy, and the search for superglue",
@@ -2466,7 +2620,8 @@
 				],
 				"rank": 15,
 				"ratings": 4,
-				"score": 2.607
+				"score": 2.607,
+				"ilscore": 1
 			}
 		]
 	},
@@ -2491,6 +2646,7 @@
 				"rank": 1,
 				"ratings": 21,
 				"score": 4.429,
+				"ilscore": 216,
 				"t_publish_diff": -7702000
 			},
 			{
@@ -2508,6 +2664,7 @@
 				"rank": 2,
 				"ratings": 18,
 				"score": 4.194,
+				"ilscore": 202,
 				"t_publish_diff": -19814000
 			},
 			{
@@ -2523,6 +2680,7 @@
 				"rank": 3,
 				"ratings": 14,
 				"score": 4.179,
+				"ilscore": 200,
 				"t_publish_diff": -24318000
 			},
 			{
@@ -2544,6 +2702,7 @@
 				"rank": 4,
 				"ratings": 22,
 				"score": 4.102,
+				"ilscore": 195,
 				"t_publish_diff": -1930000
 			},
 			{
@@ -2558,7 +2717,8 @@
 				],
 				"rank": 5,
 				"ratings": 34,
-				"score": 4.037
+				"score": 4.037,
+				"ilscore": 190
 			},
 			{
 				"title": "The Long Road",
@@ -2577,6 +2737,7 @@
 				"rank": 6,
 				"ratings": 18,
 				"score": 3.986,
+				"ilscore": 186,
 				"t_publish_diff": -5041000
 			},
 			{
@@ -2592,6 +2753,7 @@
 				"rank": 7,
 				"ratings": 17,
 				"score": 3.912,
+				"ilscore": 181,
 				"t_publish_diff": -101382000
 			},
 			{
@@ -2609,6 +2771,7 @@
 				"rank": 8,
 				"ratings": 19,
 				"score": 3.908,
+				"ilscore": 179,
 				"t_publish_diff": -670000
 			},
 			{
@@ -2624,6 +2787,7 @@
 				"rank": 9,
 				"ratings": 25,
 				"score": 3.87,
+				"ilscore": 176,
 				"t_publish_diff": -20999000
 			},
 			{
@@ -2639,6 +2803,7 @@
 				"rank": 10,
 				"ratings": 23,
 				"score": 3.859,
+				"ilscore": 174,
 				"t_publish_diff": -11773000
 			},
 			{
@@ -2662,6 +2827,7 @@
 				"rank": 11,
 				"ratings": 8,
 				"score": 3.844,
+				"ilscore": 172,
 				"t_publish_diff": -184000
 			},
 			{
@@ -2677,6 +2843,7 @@
 				"rank": 12,
 				"ratings": 35,
 				"score": 3.821,
+				"ilscore": 169,
 				"t_publish_diff": -48696000
 			},
 			{
@@ -2691,7 +2858,8 @@
 				],
 				"rank": 13,
 				"ratings": 19,
-				"score": 3.763
+				"score": 3.763,
+				"ilscore": 165
 			},
 			{
 				"title": "NO MORE FUN After Space Parties",
@@ -2706,6 +2874,7 @@
 				"rank": 14,
 				"ratings": 18,
 				"score": 3.736,
+				"ilscore": 162,
 				"t_publish_diff": -7838000
 			},
 			{
@@ -2721,6 +2890,7 @@
 				"rank": 15,
 				"ratings": 8,
 				"score": 3.719,
+				"ilscore": 160,
 				"t_publish_diff": -873000
 			},
 			{
@@ -2736,6 +2906,7 @@
 				"rank": 16,
 				"ratings": 24,
 				"score": 3.708,
+				"ilscore": 158,
 				"t_publish_diff": -20116000
 			},
 			{
@@ -2751,6 +2922,7 @@
 				"rank": 17,
 				"ratings": 8,
 				"score": 3.656,
+				"ilscore": 155,
 				"t_publish_diff": -10066000
 			},
 			{
@@ -2765,7 +2937,8 @@
 				],
 				"rank": 18,
 				"ratings": 26,
-				"score": 3.644
+				"score": 3.644,
+				"ilscore": 153
 			},
 			{
 				"title": "Life - The Game",
@@ -2780,6 +2953,7 @@
 				"rank": 19,
 				"ratings": 18,
 				"score": 3.625,
+				"ilscore": 150,
 				"t_publish_diff": -1031000
 			},
 			{
@@ -2797,6 +2971,7 @@
 				"rank": 19,
 				"ratings": 10,
 				"score": 3.625,
+				"ilscore": 150,
 				"t_publish_diff": -4815000
 			}
 		]
@@ -2826,6 +3001,7 @@
 				"rank": 1,
 				"ratings": 10,
 				"score": 4.525,
+				"ilscore": 280,
 				"t_publish_diff": -1922000
 			},
 			{
@@ -2841,6 +3017,7 @@
 				"rank": 2,
 				"ratings": 7,
 				"score": 4.429,
+				"ilscore": 272,
 				"t_publish_diff": -1746000
 			},
 			{
@@ -2860,6 +3037,7 @@
 				"rank": 3,
 				"ratings": 10,
 				"score": 4.4,
+				"ilscore": 269,
 				"t_publish_diff": 3447000
 			},
 			{
@@ -2874,7 +3052,8 @@
 				],
 				"rank": 4,
 				"ratings": 8,
-				"score": 4.156
+				"score": 4.156,
+				"ilscore": 252
 			},
 			{
 				"title": "Slimbing Up !",
@@ -2889,6 +3068,7 @@
 				"rank": 5,
 				"ratings": 29,
 				"score": 4.086,
+				"ilscore": 246,
 				"t_publish_diff": -2436000
 			},
 			{
@@ -2904,6 +3084,7 @@
 				"rank": 6,
 				"ratings": 18,
 				"score": 4.056,
+				"ilscore": 243,
 				"t_publish_diff": -9112000
 			},
 			{
@@ -2921,6 +3102,7 @@
 				"rank": 7,
 				"ratings": 15,
 				"score": 4.05,
+				"ilscore": 241,
 				"t_publish_diff": -36987000
 			},
 			{
@@ -2936,6 +3118,7 @@
 				"rank": 8,
 				"ratings": 11,
 				"score": 4.045,
+				"ilscore": 239,
 				"t_publish_diff": -39965000
 			},
 			{
@@ -2950,7 +3133,8 @@
 				],
 				"rank": 9,
 				"ratings": 36,
-				"score": 4.007
+				"score": 4.007,
+				"ilscore": 235
 			},
 			{
 				"title": "Colorguard",
@@ -2965,6 +3149,7 @@
 				"rank": 10,
 				"ratings": 9,
 				"score": 4,
+				"ilscore": 233,
 				"t_publish_diff": -11738000
 			},
 			{
@@ -2980,6 +3165,7 @@
 				"rank": 11,
 				"ratings": 11,
 				"score": 3.955,
+				"ilscore": 229,
 				"t_publish_diff": -22606000
 			},
 			{
@@ -2997,6 +3183,7 @@
 				"rank": 12,
 				"ratings": 10,
 				"score": 3.95,
+				"ilscore": 227,
 				"t_publish_diff": -243000
 			},
 			{
@@ -3012,6 +3199,7 @@
 				"rank": 13,
 				"ratings": 10,
 				"score": 3.925,
+				"ilscore": 224,
 				"t_publish_diff": -41521000
 			},
 			{
@@ -3033,6 +3221,7 @@
 				"rank": 14,
 				"ratings": 15,
 				"score": 3.917,
+				"ilscore": 222,
 				"t_publish_diff": -704000
 			},
 			{
@@ -3052,6 +3241,7 @@
 				"rank": 15,
 				"ratings": 6,
 				"score": 3.896,
+				"ilscore": 219,
 				"t_publish_diff": -8243000
 			},
 			{
@@ -3067,6 +3257,7 @@
 				"rank": 16,
 				"ratings": 23,
 				"score": 3.891,
+				"ilscore": 217,
 				"t_publish_diff": -32581000
 			},
 			{
@@ -3082,6 +3273,7 @@
 				"rank": 17,
 				"ratings": 5,
 				"score": 3.803,
+				"ilscore": 211,
 				"t_publish_diff": -20582000
 			},
 			{
@@ -3099,6 +3291,7 @@
 				"rank": 18,
 				"ratings": 11,
 				"score": 3.773,
+				"ilscore": 208,
 				"t_publish_diff": -189000
 			},
 			{
@@ -3113,7 +3306,8 @@
 				],
 				"rank": 19,
 				"ratings": 14,
-				"score": 3.732
+				"score": 3.732,
+				"ilscore": 204
 			},
 			{
 				"title": "Swap Dungeon",
@@ -3128,6 +3322,7 @@
 				"rank": 20,
 				"ratings": 11,
 				"score": 3.727,
+				"ilscore": 202,
 				"t_publish_diff": -35125000
 			}
 		]

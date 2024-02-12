@@ -22,6 +22,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4,
+				"ilscore": 43,
 				"t_publish_diff": -9806000
 			},
 			{
@@ -41,6 +42,7 @@
 				"rank": 2,
 				"ratings": 12,
 				"score": 4,
+				"ilscore": 60,
 				"t_publish_diff": -2870000
 			}
 		]
@@ -66,6 +68,7 @@
 				"rank": 1,
 				"ratings": 7,
 				"score": 4.107,
+				"ilscore": 11,
 				"t_publish_diff": -14374000
 			},
 			{
@@ -88,7 +91,8 @@
 				],
 				"rank": 2,
 				"ratings": 10,
-				"score": 3.875
+				"score": 3.875,
+				"ilscore": 24
 			}
 		]
 	},
@@ -115,6 +119,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 4.25,
+				"ilscore": 20,
 				"t_publish_diff": -1473000
 			},
 			{
@@ -138,6 +143,7 @@
 				"rank": 2,
 				"ratings": 25,
 				"score": 3.47,
+				"ilscore": 73,
 				"t_publish_diff": -12331000
 			}
 		]
@@ -163,6 +169,7 @@
 				"rank": 1,
 				"ratings": 16,
 				"score": 4.219,
+				"ilscore": 202,
 				"t_publish_diff": -252000
 			},
 			{
@@ -184,6 +191,7 @@
 				"rank": 3,
 				"ratings": 21,
 				"score": 4.298,
+				"ilscore": 240,
 				"t_publish_diff": -10857000
 			}
 		]
@@ -209,6 +217,7 @@
 				"rank": 2,
 				"ratings": 31,
 				"score": 4.185,
+				"ilscore": 97,
 				"t_publish_diff": -188588000
 			},
 			{
@@ -228,6 +237,7 @@
 				"rank": 2,
 				"ratings": 21,
 				"score": 4.048,
+				"ilscore": 221,
 				"t_publish_diff": -75682000
 			}
 		]
@@ -255,6 +265,7 @@
 				"rank": 1,
 				"ratings": 31,
 				"score": 4.363,
+				"ilscore": 375,
 				"t_publish_diff": 12411000
 			},
 			{
@@ -274,6 +285,7 @@
 				"rank": 3,
 				"ratings": 31,
 				"score": 3.855,
+				"ilscore": 151,
 				"t_publish_diff": 194000
 			}
 		]
@@ -301,6 +313,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 3.944,
+				"ilscore": 78,
 				"t_publish_diff": 196000
 			},
 			{
@@ -324,6 +337,7 @@
 				"rank": 3,
 				"ratings": 28,
 				"score": 4.089,
+				"ilscore": 245,
 				"t_publish_diff": -5781000
 			}
 		]
@@ -351,6 +365,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 3.944,
+				"ilscore": 78,
 				"t_publish_diff": 196000
 			},
 			{
@@ -374,6 +389,7 @@
 				"rank": 3,
 				"ratings": 28,
 				"score": 4.089,
+				"ilscore": 245,
 				"t_publish_diff": -5781000
 			}
 		]
@@ -403,6 +419,7 @@
 				"rank": 1,
 				"ratings": 6,
 				"score": 3.875,
+				"ilscore": 86,
 				"t_publish_diff": -2095000
 			},
 			{
@@ -428,6 +445,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 3.833,
+				"ilscore": 58,
 				"t_publish_diff": -5758000
 			}
 		]
@@ -457,6 +475,7 @@
 				"rank": 1,
 				"ratings": 6,
 				"score": 3.875,
+				"ilscore": 86,
 				"t_publish_diff": -2095000
 			},
 			{
@@ -482,6 +501,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 3.833,
+				"ilscore": 58,
 				"t_publish_diff": -5758000
 			}
 		]
@@ -511,6 +531,7 @@
 				"rank": 1,
 				"ratings": 6,
 				"score": 3.875,
+				"ilscore": 86,
 				"t_publish_diff": -2095000
 			},
 			{
@@ -536,6 +557,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 3.833,
+				"ilscore": 58,
 				"t_publish_diff": -5758000
 			}
 		]
@@ -561,6 +583,7 @@
 				"rank": 2,
 				"ratings": 25,
 				"score": 4.05,
+				"ilscore": 286,
 				"t_publish_diff": -53326000
 			},
 			{
@@ -584,6 +607,7 @@
 				"rank": 2,
 				"ratings": 6,
 				"score": 3.588,
+				"ilscore": 33,
 				"t_publish_diff": -106000
 			}
 		]
@@ -613,6 +637,7 @@
 				"rank": 2,
 				"ratings": 24,
 				"score": 3.875,
+				"ilscore": 108,
 				"t_publish_diff": -11598000
 			},
 			{
@@ -636,6 +661,7 @@
 				"rank": 2,
 				"ratings": 6,
 				"score": 3.588,
+				"ilscore": 33,
 				"t_publish_diff": -106000
 			}
 		]
@@ -663,6 +689,7 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 4.185,
+				"ilscore": 43,
 				"t_publish_diff": -31768000
 			},
 			{
@@ -682,6 +709,7 @@
 				"rank": 2,
 				"ratings": null,
 				"score": null,
+				"ilscore": 0,
 				"t_publish_diff": -30573000
 			}
 		]
@@ -711,6 +739,7 @@
 				"rank": 2,
 				"ratings": 30,
 				"score": 4.117,
+				"ilscore": 151,
 				"t_publish_diff": -12417000
 			},
 			{
@@ -734,6 +763,7 @@
 				"rank": 3,
 				"ratings": 20,
 				"score": 4.088,
+				"ilscore": 70,
 				"t_publish_diff": -10352000
 			}
 		]
@@ -765,6 +795,7 @@
 				"rank": 2,
 				"ratings": 19,
 				"score": 4.211,
+				"ilscore": 67,
 				"t_publish_diff": -89000
 			},
 			{
@@ -794,6 +825,7 @@
 				"rank": 3,
 				"ratings": 8,
 				"score": 3.844,
+				"ilscore": 59,
 				"t_publish_diff": -9664000
 			}
 		]
@@ -825,6 +857,7 @@
 				"rank": 2,
 				"ratings": 19,
 				"score": 4.211,
+				"ilscore": 67,
 				"t_publish_diff": -89000
 			},
 			{
@@ -854,6 +887,7 @@
 				"rank": 3,
 				"ratings": 8,
 				"score": 3.844,
+				"ilscore": 59,
 				"t_publish_diff": -9664000
 			}
 		]
@@ -879,6 +913,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.278,
+				"ilscore": 66,
 				"t_publish_diff": 423000
 			},
 			{
@@ -897,7 +932,8 @@
 				],
 				"rank": 4,
 				"ratings": 8,
-				"score": 3.714
+				"score": 3.714,
+				"ilscore": 25
 			}
 		]
 	},
@@ -921,7 +957,8 @@
 				],
 				"rank": 2,
 				"ratings": 13,
-				"score": 4.288
+				"score": 4.288,
+				"ilscore": 61
 			},
 			{
 				"jam_type": "mini_jam",
@@ -939,7 +976,8 @@
 				],
 				"rank": 3,
 				"ratings": 11,
-				"score": 3.659
+				"score": 3.659,
+				"ilscore": 33
 			}
 		]
 	},
@@ -968,6 +1006,7 @@
 				"rank": 2,
 				"ratings": 15,
 				"score": 4.217,
+				"ilscore": 62,
 				"t_publish_diff": -27000
 			},
 			{
@@ -989,6 +1028,7 @@
 				"rank": 3,
 				"ratings": 10,
 				"score": 3.5,
+				"ilscore": 18,
 				"t_publish_diff": -1815000
 			}
 		]
@@ -1016,6 +1056,7 @@
 				"rank": 2,
 				"ratings": 10,
 				"score": 3.74,
+				"ilscore": 65,
 				"t_publish_diff": -5877000
 			},
 			{
@@ -1035,6 +1076,7 @@
 				"rank": 3,
 				"ratings": 4,
 				"score": 3.938,
+				"ilscore": 58,
 				"t_publish_diff": -26020000
 			}
 		]
@@ -1060,6 +1102,7 @@
 				"rank": 2,
 				"ratings": 12,
 				"score": 3.604,
+				"ilscore": 37,
 				"t_publish_diff": -39807000
 			},
 			{
@@ -1083,6 +1126,7 @@
 				"rank": 3,
 				"ratings": 21,
 				"score": 3.69,
+				"ilscore": 112,
 				"t_publish_diff": -5961000
 			}
 		]
@@ -1108,6 +1152,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.444,
+				"ilscore": 305,
 				"t_publish_diff": -16961000
 			},
 			{
@@ -1131,6 +1176,7 @@
 				"rank": 5,
 				"ratings": 42,
 				"score": 4.196,
+				"ilscore": 481,
 				"t_publish_diff": -20139000
 			}
 		]
@@ -1156,6 +1202,7 @@
 				"rank": 1,
 				"ratings": 23,
 				"score": 4.38,
+				"ilscore": 173,
 				"t_publish_diff": -9509000
 			},
 			{
@@ -1174,7 +1221,8 @@
 				],
 				"rank": 5,
 				"ratings": 26,
-				"score": 3.971
+				"score": 3.971,
+				"ilscore": 335
 			}
 		]
 	},
@@ -1199,6 +1247,7 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 4.194,
+				"ilscore": 181,
 				"t_publish_diff": -6000
 			},
 			{
@@ -1218,6 +1267,7 @@
 				"rank": 4,
 				"ratings": 9,
 				"score": 4.111,
+				"ilscore": 248,
 				"t_publish_diff": -1786000
 			}
 		]
@@ -1243,6 +1293,7 @@
 				"rank": 3,
 				"ratings": 22,
 				"score": 4.148,
+				"ilscore": 235,
 				"t_publish_diff": 7730000
 			},
 			{
@@ -1262,6 +1313,7 @@
 				"rank": 3,
 				"ratings": 22,
 				"score": 4.148,
+				"ilscore": 194,
 				"t_publish_diff": -4841000
 			}
 		]
@@ -1289,6 +1341,7 @@
 				"rank": 3,
 				"ratings": 27,
 				"score": 4.13,
+				"ilscore": 239,
 				"t_publish_diff": -4916000
 			},
 			{
@@ -1310,6 +1363,7 @@
 				"rank": 3,
 				"ratings": 29,
 				"score": 4.103,
+				"ilscore": 182,
 				"t_publish_diff": -8250000
 			}
 		]
@@ -1337,6 +1391,7 @@
 				"rank": 3,
 				"ratings": 27,
 				"score": 4.13,
+				"ilscore": 239,
 				"t_publish_diff": -4916000
 			},
 			{
@@ -1358,6 +1413,7 @@
 				"rank": 3,
 				"ratings": 29,
 				"score": 4.103,
+				"ilscore": 182,
 				"t_publish_diff": -8250000
 			}
 		]
@@ -1382,7 +1438,8 @@
 				],
 				"rank": 1,
 				"ratings": 29,
-				"score": 4.216
+				"score": 4.216,
+				"ilscore": 247
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1401,6 +1458,7 @@
 				"rank": 5,
 				"ratings": 24,
 				"score": 3.99,
+				"ilscore": 213,
 				"t_publish_diff": -16929000
 			}
 		]
@@ -1426,6 +1484,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 4.011,
+				"ilscore": 88,
 				"t_publish_diff": -26587000
 			},
 			{
@@ -1445,6 +1504,7 @@
 				"rank": 4,
 				"ratings": 30,
 				"score": 4.142,
+				"ilscore": 192,
 				"t_publish_diff": -31503000
 			}
 		]
@@ -1470,6 +1530,7 @@
 				"rank": 2,
 				"ratings": 15,
 				"score": 4.317,
+				"ilscore": 143,
 				"t_publish_diff": -113379000
 			},
 			{
@@ -1489,6 +1550,7 @@
 				"rank": 4,
 				"ratings": 19,
 				"score": 3.803,
+				"ilscore": 94,
 				"t_publish_diff": -163915000
 			}
 		]
@@ -1516,6 +1578,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.286,
+				"ilscore": 133,
 				"t_publish_diff": -1315000
 			},
 			{
@@ -1535,6 +1598,7 @@
 				"rank": 5,
 				"ratings": 13,
 				"score": 3.808,
+				"ilscore": 56,
 				"t_publish_diff": 42896000
 			}
 		]
@@ -1563,7 +1627,8 @@
 				],
 				"rank": 1,
 				"ratings": 7,
-				"score": 3.643
+				"score": 3.643,
+				"ilscore": 21
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1582,6 +1647,7 @@
 				"rank": 5,
 				"ratings": 6,
 				"score": 3.665,
+				"ilscore": 36,
 				"t_publish_diff": -29400000
 			}
 		]
@@ -1607,6 +1673,7 @@
 				"rank": 3,
 				"ratings": 13,
 				"score": 4.269,
+				"ilscore": 179,
 				"t_publish_diff": -4194000
 			},
 			{
@@ -1626,6 +1693,7 @@
 				"rank": 4,
 				"ratings": 7,
 				"score": 4.214,
+				"ilscore": 79,
 				"t_publish_diff": -3411000
 			}
 		]
@@ -1650,7 +1718,8 @@
 				],
 				"rank": 3,
 				"ratings": 21,
-				"score": 3.964
+				"score": 3.964,
+				"ilscore": 103
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1671,6 +1740,7 @@
 				"rank": 4,
 				"ratings": 40,
 				"score": 4.269,
+				"ilscore": 252,
 				"t_publish_diff": -9711000
 			}
 		]
@@ -1696,6 +1766,7 @@
 				"rank": 2,
 				"ratings": 13,
 				"score": 4.135,
+				"ilscore": 362,
 				"t_publish_diff": 1525000
 			},
 			{
@@ -1715,6 +1786,7 @@
 				"rank": 5,
 				"ratings": 7,
 				"score": 3.964,
+				"ilscore": 95,
 				"t_publish_diff": 36314000
 			}
 		]
@@ -1740,6 +1812,7 @@
 				"rank": 2,
 				"ratings": 21,
 				"score": 3.726,
+				"ilscore": 81,
 				"t_publish_diff": -13436000
 			},
 			{
@@ -1759,6 +1832,7 @@
 				"rank": 5,
 				"ratings": 31,
 				"score": 4.073,
+				"ilscore": 188,
 				"t_publish_diff": -15716000
 			}
 		]
@@ -1788,6 +1862,7 @@
 				"rank": 2,
 				"ratings": 22,
 				"score": 4.034,
+				"ilscore": 127,
 				"t_publish_diff": -3071000
 			},
 			{
@@ -1811,6 +1886,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.75,
+				"ilscore": 91,
 				"t_publish_diff": -268000
 			}
 		]
@@ -1840,6 +1916,7 @@
 				"rank": 2,
 				"ratings": 22,
 				"score": 4.034,
+				"ilscore": 127,
 				"t_publish_diff": -3071000
 			},
 			{
@@ -1863,6 +1940,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.75,
+				"ilscore": 91,
 				"t_publish_diff": -268000
 			}
 		]
@@ -1890,6 +1968,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 3.875,
+				"ilscore": 41,
 				"t_publish_diff": -8333000
 			},
 			{
@@ -1913,6 +1992,7 @@
 				"rank": 4,
 				"ratings": 6,
 				"score": 3.75,
+				"ilscore": 57,
 				"t_publish_diff": -3237000
 			}
 		]
@@ -1940,6 +2020,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 3.875,
+				"ilscore": 41,
 				"t_publish_diff": -8333000
 			},
 			{
@@ -1963,6 +2044,7 @@
 				"rank": 4,
 				"ratings": 6,
 				"score": 3.75,
+				"ilscore": 57,
 				"t_publish_diff": -3237000
 			}
 		]
@@ -1988,6 +2070,7 @@
 				"rank": 2,
 				"ratings": 5,
 				"score": 3.9,
+				"ilscore": 32,
 				"t_publish_diff": -25437000
 			},
 			{
@@ -2007,6 +2090,7 @@
 				"rank": 5,
 				"ratings": 9,
 				"score": 3.537,
+				"ilscore": 15,
 				"t_publish_diff": -16815000
 			}
 		]
@@ -2032,6 +2116,7 @@
 				"rank": 2,
 				"ratings": 11,
 				"score": 0.558,
+				"ilscore": 1,
 				"t_publish_diff": -42738000
 			},
 			{
@@ -2051,6 +2136,7 @@
 				"rank": 5,
 				"ratings": 8,
 				"score": 3.646,
+				"ilscore": 26,
 				"t_publish_diff": -36928000
 			}
 		]
@@ -2080,6 +2166,7 @@
 				"rank": 1,
 				"ratings": 20,
 				"score": 4.513,
+				"ilscore": 525,
 				"t_publish_diff": 88744000
 			},
 			{
@@ -2103,6 +2190,7 @@
 				"rank": 7,
 				"ratings": 27,
 				"score": 4.046,
+				"ilscore": 346,
 				"t_publish_diff": 37477000
 			}
 		]
@@ -2131,7 +2219,8 @@
 				],
 				"rank": 2,
 				"ratings": 12,
-				"score": 4.146
+				"score": 4.146,
+				"ilscore": 104
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2156,6 +2245,7 @@
 				"rank": 6,
 				"ratings": 23,
 				"score": 4.207,
+				"ilscore": 245,
 				"t_publish_diff": -2890000
 			}
 		]
@@ -2184,7 +2274,8 @@
 				],
 				"rank": 2,
 				"ratings": 12,
-				"score": 4.146
+				"score": 4.146,
+				"ilscore": 104
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2209,6 +2300,7 @@
 				"rank": 6,
 				"ratings": 23,
 				"score": 4.207,
+				"ilscore": 245,
 				"t_publish_diff": -2890000
 			}
 		]
@@ -2237,7 +2329,8 @@
 				],
 				"rank": 2,
 				"ratings": 12,
-				"score": 4.146
+				"score": 4.146,
+				"ilscore": 104
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2262,6 +2355,7 @@
 				"rank": 6,
 				"ratings": 23,
 				"score": 4.207,
+				"ilscore": 245,
 				"t_publish_diff": -2890000
 			}
 		]
@@ -2291,6 +2385,7 @@
 				"rank": 2,
 				"ratings": 11,
 				"score": 4.182,
+				"ilscore": 239,
 				"t_publish_diff": -16710000
 			},
 			{
@@ -2316,6 +2411,7 @@
 				"rank": 6,
 				"ratings": 15,
 				"score": 3.967,
+				"ilscore": 115,
 				"t_publish_diff": -59000
 			}
 		]
@@ -2341,6 +2437,7 @@
 				"rank": 3,
 				"ratings": 27,
 				"score": 3.981,
+				"ilscore": 176,
 				"t_publish_diff": -4454000
 			},
 			{
@@ -2362,6 +2459,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 4.016,
+				"ilscore": 186,
 				"t_publish_diff": -656000
 			}
 		]
@@ -2389,6 +2487,7 @@
 				"rank": 2,
 				"ratings": 18,
 				"score": 4.139,
+				"ilscore": 105,
 				"t_publish_diff": -195000
 			},
 			{
@@ -2410,6 +2509,7 @@
 				"rank": 6,
 				"ratings": 15,
 				"score": 3.833,
+				"ilscore": 134,
 				"t_publish_diff": -30110000
 			}
 		]
@@ -2437,6 +2537,7 @@
 				"rank": 2,
 				"ratings": 18,
 				"score": 4.139,
+				"ilscore": 105,
 				"t_publish_diff": -195000
 			},
 			{
@@ -2458,6 +2559,7 @@
 				"rank": 6,
 				"ratings": 15,
 				"score": 3.833,
+				"ilscore": 134,
 				"t_publish_diff": -30110000
 			}
 		]
@@ -2485,6 +2587,7 @@
 				"rank": 3,
 				"ratings": 17,
 				"score": 4.074,
+				"ilscore": 63,
 				"t_publish_diff": 792000
 			},
 			{
@@ -2506,6 +2609,7 @@
 				"rank": 5,
 				"ratings": 10,
 				"score": 3.8,
+				"ilscore": 91,
 				"t_publish_diff": 5881000
 			}
 		]
@@ -2533,6 +2637,7 @@
 				"rank": 3,
 				"ratings": 17,
 				"score": 4.074,
+				"ilscore": 63,
 				"t_publish_diff": 792000
 			},
 			{
@@ -2554,6 +2659,7 @@
 				"rank": 5,
 				"ratings": 10,
 				"score": 3.8,
+				"ilscore": 91,
 				"t_publish_diff": 5881000
 			}
 		]
@@ -2578,7 +2684,8 @@
 				],
 				"rank": 2,
 				"ratings": 41,
-				"score": 4.11
+				"score": 4.11,
+				"ilscore": 228
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2597,6 +2704,7 @@
 				"rank": 6,
 				"ratings": 19,
 				"score": 3.737,
+				"ilscore": 88,
 				"t_publish_diff": -27864000
 			}
 		]
@@ -2622,6 +2730,7 @@
 				"rank": 4,
 				"ratings": 13,
 				"score": 3.923,
+				"ilscore": 53,
 				"t_publish_diff": -23559000
 			},
 			{
@@ -2641,6 +2750,7 @@
 				"rank": 4,
 				"ratings": 10,
 				"score": 3.695,
+				"ilscore": 28,
 				"t_publish_diff": -26737000
 			}
 		]
@@ -2665,7 +2775,8 @@
 				],
 				"rank": 4,
 				"ratings": 14,
-				"score": 4
+				"score": 4,
+				"ilscore": 46
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2683,7 +2794,8 @@
 				],
 				"rank": 4,
 				"ratings": 8,
-				"score": 3.583
+				"score": 3.583,
+				"ilscore": 34
 			}
 		]
 	},
@@ -2707,7 +2819,8 @@
 				],
 				"rank": 2,
 				"ratings": 13,
-				"score": 4.096
+				"score": 4.096,
+				"ilscore": 50
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2726,6 +2839,7 @@
 				"rank": 6,
 				"ratings": 14,
 				"score": 3.464,
+				"ilscore": 26,
 				"t_publish_diff": -50064000
 			}
 		]
@@ -2753,6 +2867,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 4.125,
+				"ilscore": 75,
 				"t_publish_diff": -21453000
 			},
 			{
@@ -2773,7 +2888,8 @@
 				],
 				"rank": 5,
 				"ratings": 14,
-				"score": 3.229
+				"score": 3.229,
+				"ilscore": 19
 			}
 		]
 	},
@@ -2798,6 +2914,7 @@
 				"rank": 3,
 				"ratings": 10,
 				"score": 3.5,
+				"ilscore": 30,
 				"t_publish_diff": -17371000
 			},
 			{
@@ -2817,6 +2934,7 @@
 				"rank": 5,
 				"ratings": 12,
 				"score": 3.208,
+				"ilscore": 17,
 				"t_publish_diff": -123063000
 			}
 		]
@@ -2846,6 +2964,7 @@
 				"rank": 2,
 				"ratings": 7,
 				"score": 4.343,
+				"ilscore": 24,
 				"t_publish_diff": -811000
 			},
 			{
@@ -2867,6 +2986,7 @@
 				"rank": 7,
 				"ratings": 16,
 				"score": 3.859,
+				"ilscore": 137,
 				"t_publish_diff": -21087000
 			}
 		]
@@ -2894,6 +3014,7 @@
 				"rank": 1,
 				"ratings": 20,
 				"score": 4.35,
+				"ilscore": 149,
 				"t_publish_diff": -15609000
 			},
 			{
@@ -2913,6 +3034,7 @@
 				"rank": 8,
 				"ratings": 13,
 				"score": 3.846,
+				"ilscore": 155,
 				"t_publish_diff": -15328000
 			}
 		]
@@ -2938,6 +3060,7 @@
 				"rank": 4,
 				"ratings": 41,
 				"score": 4.03,
+				"ilscore": 183,
 				"t_publish_diff": -18010000
 			},
 			{
@@ -2957,6 +3080,7 @@
 				"rank": 5,
 				"ratings": 27,
 				"score": 4.056,
+				"ilscore": 240,
 				"t_publish_diff": -133000
 			}
 		]
@@ -2984,6 +3108,7 @@
 				"rank": 1,
 				"ratings": 23,
 				"score": 4.348,
+				"ilscore": 111,
 				"t_publish_diff": -392000
 			},
 			{
@@ -3003,6 +3128,7 @@
 				"rank": 8,
 				"ratings": 9,
 				"score": 3.639,
+				"ilscore": 97,
 				"t_publish_diff": -285000
 			}
 		]
@@ -3034,6 +3160,7 @@
 				"rank": 3,
 				"ratings": 6,
 				"score": 4.125,
+				"ilscore": 168,
 				"t_publish_diff": -164416000
 			},
 			{
@@ -3054,7 +3181,8 @@
 				],
 				"rank": 6,
 				"ratings": 28,
-				"score": 3.814
+				"score": 3.814,
+				"ilscore": 137
 			}
 		]
 	},
@@ -3079,6 +3207,7 @@
 				"rank": 4,
 				"ratings": 12,
 				"score": 4.167,
+				"ilscore": 160,
 				"t_publish_diff": -6521000
 			},
 			{
@@ -3098,6 +3227,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.719,
+				"ilscore": 142,
 				"t_publish_diff": -41348000
 			}
 		]
@@ -3133,6 +3263,7 @@
 				"rank": 3,
 				"ratings": 7,
 				"score": 3.942,
+				"ilscore": 20,
 				"t_publish_diff": -2099000
 			},
 			{
@@ -3165,7 +3296,8 @@
 				],
 				"rank": 6,
 				"ratings": 16,
-				"score": 3.688
+				"score": 3.688,
+				"ilscore": 70
 			}
 		]
 	},
@@ -3200,6 +3332,7 @@
 				"rank": 3,
 				"ratings": 7,
 				"score": 3.942,
+				"ilscore": 20,
 				"t_publish_diff": -2099000
 			},
 			{
@@ -3232,7 +3365,8 @@
 				],
 				"rank": 6,
 				"ratings": 16,
-				"score": 3.688
+				"score": 3.688,
+				"ilscore": 70
 			}
 		]
 	},
@@ -3267,6 +3401,7 @@
 				"rank": 3,
 				"ratings": 7,
 				"score": 3.942,
+				"ilscore": 20,
 				"t_publish_diff": -2099000
 			},
 			{
@@ -3299,7 +3434,8 @@
 				],
 				"rank": 6,
 				"ratings": 16,
-				"score": 3.688
+				"score": 3.688,
+				"ilscore": 70
 			}
 		]
 	},
@@ -3328,6 +3464,7 @@
 				"rank": 4,
 				"ratings": 24,
 				"score": 4.146,
+				"ilscore": 164,
 				"t_publish_diff": -15822000
 			},
 			{
@@ -3347,6 +3484,7 @@
 				"rank": 5,
 				"ratings": 5,
 				"score": 3.16,
+				"ilscore": 5,
 				"t_publish_diff": -3628000
 			}
 		]
@@ -3372,6 +3510,7 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 3.667,
+				"ilscore": 42,
 				"t_publish_diff": -50570000
 			},
 			{
@@ -3391,6 +3530,7 @@
 				"rank": 7,
 				"ratings": 7,
 				"score": 3.536,
+				"ilscore": 32,
 				"t_publish_diff": -50048000
 			}
 		]
@@ -3415,7 +3555,8 @@
 				],
 				"rank": 1,
 				"ratings": 6,
-				"score": 3.642
+				"score": 3.642,
+				"ilscore": 27
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3433,7 +3574,8 @@
 				],
 				"rank": 8,
 				"ratings": 7,
-				"score": 3.466
+				"score": 3.466,
+				"ilscore": 58
 			}
 		]
 	},
@@ -3462,6 +3604,7 @@
 				"rank": 3,
 				"ratings": 10,
 				"score": 4.4,
+				"ilscore": 269,
 				"t_publish_diff": 3447000
 			},
 			{
@@ -3481,6 +3624,7 @@
 				"rank": 7,
 				"ratings": 18,
 				"score": 3.986,
+				"ilscore": 84,
 				"t_publish_diff": 92826000
 			}
 		]
@@ -3508,6 +3652,7 @@
 				"rank": 1,
 				"ratings": 8,
 				"score": 4.438,
+				"ilscore": 273,
 				"t_publish_diff": -16955000
 			},
 			{
@@ -3529,6 +3674,7 @@
 				"rank": 9,
 				"ratings": 8,
 				"score": 3.624,
+				"ilscore": 43,
 				"t_publish_diff": -1349000
 			}
 		]
@@ -3556,6 +3702,7 @@
 				"rank": 1,
 				"ratings": 8,
 				"score": 4.438,
+				"ilscore": 273,
 				"t_publish_diff": -16955000
 			},
 			{
@@ -3577,6 +3724,7 @@
 				"rank": 9,
 				"ratings": 8,
 				"score": 3.624,
+				"ilscore": 43,
 				"t_publish_diff": -1349000
 			}
 		]
@@ -3602,6 +3750,7 @@
 				"rank": 3,
 				"ratings": 20,
 				"score": 4.125,
+				"ilscore": 94,
 				"t_publish_diff": -17742000
 			},
 			{
@@ -3621,6 +3770,7 @@
 				"rank": 7,
 				"ratings": 17,
 				"score": 3.912,
+				"ilscore": 181,
 				"t_publish_diff": -101382000
 			}
 		]
@@ -3646,6 +3796,7 @@
 				"rank": 3,
 				"ratings": 22,
 				"score": 3.977,
+				"ilscore": 209,
 				"t_publish_diff": -7576000
 			},
 			{
@@ -3665,6 +3816,7 @@
 				"rank": 7,
 				"ratings": 12,
 				"score": 3.979,
+				"ilscore": 176,
 				"t_publish_diff": -20011000
 			}
 		]
@@ -3690,6 +3842,7 @@
 				"rank": 1,
 				"ratings": 22,
 				"score": 4.307,
+				"ilscore": 175,
 				"t_publish_diff": -25889000
 			},
 			{
@@ -3709,6 +3862,7 @@
 				"rank": 9,
 				"ratings": 14,
 				"score": 3.571,
+				"ilscore": 84,
 				"t_publish_diff": -25615000
 			}
 		]
@@ -3734,6 +3888,7 @@
 				"rank": 4,
 				"ratings": 15,
 				"score": 4.083,
+				"ilscore": 235,
 				"t_publish_diff": -41000
 			},
 			{
@@ -3753,6 +3908,7 @@
 				"rank": 6,
 				"ratings": 13,
 				"score": 3.75,
+				"ilscore": 112,
 				"t_publish_diff": -4415000
 			}
 		]
@@ -3778,6 +3934,7 @@
 				"rank": 3,
 				"ratings": 28,
 				"score": 3.829,
+				"ilscore": 81,
 				"t_publish_diff": -12228000
 			},
 			{
@@ -3797,6 +3954,7 @@
 				"rank": 7,
 				"ratings": 34,
 				"score": 4,
+				"ilscore": 148,
 				"t_publish_diff": -7653000
 			}
 		]
@@ -3826,6 +3984,7 @@
 				"rank": 3,
 				"ratings": 25,
 				"score": 4.15,
+				"ilscore": 265,
 				"t_publish_diff": -58000
 			},
 			{
@@ -3847,6 +4006,7 @@
 				"rank": 7,
 				"ratings": 12,
 				"score": 3.625,
+				"ilscore": 73,
 				"t_publish_diff": 619000
 			}
 		]
@@ -3872,6 +4032,7 @@
 				"rank": 1,
 				"ratings": 7,
 				"score": 4.2,
+				"ilscore": 42,
 				"t_publish_diff": -102712000
 			},
 			{
@@ -3891,6 +4052,7 @@
 				"rank": 9,
 				"ratings": 14,
 				"score": 3.518,
+				"ilscore": 36,
 				"t_publish_diff": -13887000
 			}
 		]
@@ -3916,6 +4078,7 @@
 				"rank": 4,
 				"ratings": 35,
 				"score": 3.686,
+				"ilscore": 110,
 				"t_publish_diff": -8862000
 			},
 			{
@@ -3935,6 +4098,7 @@
 				"rank": 6,
 				"ratings": 30,
 				"score": 4.008,
+				"ilscore": 184,
 				"t_publish_diff": -17695000
 			}
 		]
@@ -3960,6 +4124,7 @@
 				"rank": 4,
 				"ratings": 16,
 				"score": 3.906,
+				"ilscore": 99,
 				"t_publish_diff": -914000
 			},
 			{
@@ -3979,6 +4144,7 @@
 				"rank": 6,
 				"ratings": 15,
 				"score": 3.583,
+				"ilscore": 24,
 				"t_publish_diff": -5758000
 			}
 		]
@@ -4006,6 +4172,7 @@
 				"rank": 5,
 				"ratings": 6,
 				"score": 3.833,
+				"ilscore": 53,
 				"t_publish_diff": -51000
 			},
 			{
@@ -4025,6 +4192,7 @@
 				"rank": 5,
 				"ratings": 18,
 				"score": 3.653,
+				"ilscore": 26,
 				"t_publish_diff": -21897000
 			}
 		]
@@ -4050,6 +4218,7 @@
 				"rank": 4,
 				"ratings": 16,
 				"score": 4.016,
+				"ilscore": 89,
 				"t_publish_diff": -7071000
 			},
 			{
@@ -4071,6 +4240,7 @@
 				"rank": 6,
 				"ratings": 14,
 				"score": 3.375,
+				"ilscore": 68,
 				"t_publish_diff": -6126000
 			}
 		]
@@ -4096,6 +4266,7 @@
 				"rank": 2,
 				"ratings": 6,
 				"score": 3.683,
+				"ilscore": 8,
 				"t_publish_diff": -3835000
 			},
 			{
@@ -4115,6 +4286,7 @@
 				"rank": 8,
 				"ratings": 8,
 				"score": 3.425,
+				"ilscore": 52,
 				"t_publish_diff": -6960000
 			}
 		]
@@ -4140,6 +4312,7 @@
 				"rank": 2,
 				"ratings": 8,
 				"score": 3.875,
+				"ilscore": 37,
 				"t_publish_diff": -11897000
 			},
 			{
@@ -4159,6 +4332,7 @@
 				"rank": 8,
 				"ratings": 10,
 				"score": 3.2,
+				"ilscore": 42,
 				"t_publish_diff": -35794000
 			}
 		]
@@ -4184,6 +4358,7 @@
 				"rank": 3,
 				"ratings": 10,
 				"score": 0.543,
+				"ilscore": 2,
 				"t_publish_diff": -22956000
 			},
 			{
@@ -4202,7 +4377,8 @@
 				],
 				"rank": 7,
 				"ratings": 9,
-				"score": 0.444
+				"score": 0.444,
+				"ilscore": 0
 			}
 		]
 	},
@@ -4227,6 +4403,7 @@
 				"rank": 5,
 				"ratings": 12,
 				"score": 4.146,
+				"ilscore": 67,
 				"t_publish_diff": -400000
 			},
 			{
@@ -4246,6 +4423,7 @@
 				"rank": 6,
 				"ratings": 64,
 				"score": 4.188,
+				"ilscore": 646,
 				"t_publish_diff": -6664000
 			}
 		]
@@ -4271,6 +4449,7 @@
 				"rank": 1,
 				"ratings": 26,
 				"score": 4.423,
+				"ilscore": 691,
 				"t_publish_diff": -19654000
 			},
 			{
@@ -4290,6 +4469,7 @@
 				"rank": 10,
 				"ratings": 20,
 				"score": 3.862,
+				"ilscore": 205,
 				"t_publish_diff": -1319000
 			}
 		]
@@ -4315,6 +4495,7 @@
 				"rank": 1,
 				"ratings": 38,
 				"score": 4.237,
+				"ilscore": 144,
 				"t_publish_diff": -14018000
 			},
 			{
@@ -4334,6 +4515,7 @@
 				"rank": 10,
 				"ratings": 24,
 				"score": 3.896,
+				"ilscore": 148,
 				"t_publish_diff": -32885000
 			}
 		]
@@ -4361,6 +4543,7 @@
 				"rank": 3,
 				"ratings": 24,
 				"score": 4.073,
+				"ilscore": 136,
 				"t_publish_diff": -39608000
 			},
 			{
@@ -4380,6 +4563,7 @@
 				"rank": 8,
 				"ratings": 24,
 				"score": 4.042,
+				"ilscore": 273,
 				"t_publish_diff": -95682000
 			}
 		]
@@ -4405,6 +4589,7 @@
 				"rank": 2,
 				"ratings": 26,
 				"score": 4.26,
+				"ilscore": 219,
 				"t_publish_diff": 12529000
 			},
 			{
@@ -4424,6 +4609,7 @@
 				"rank": 9,
 				"ratings": 27,
 				"score": 3.843,
+				"ilscore": 199,
 				"t_publish_diff": -2540000
 			}
 		]
@@ -4449,6 +4635,7 @@
 				"rank": 5,
 				"ratings": 19,
 				"score": 4,
+				"ilscore": 166,
 				"t_publish_diff": -87890000
 			},
 			{
@@ -4468,6 +4655,7 @@
 				"rank": 6,
 				"ratings": 17,
 				"score": 4,
+				"ilscore": 172,
 				"t_publish_diff": -50584000
 			}
 		]
@@ -4493,6 +4681,7 @@
 				"rank": 5,
 				"ratings": 14,
 				"score": 3.946,
+				"ilscore": 145,
 				"t_publish_diff": 1193000
 			},
 			{
@@ -4512,6 +4701,7 @@
 				"rank": 6,
 				"ratings": 14,
 				"score": 4.054,
+				"ilscore": 225,
 				"t_publish_diff": 55096000
 			}
 		]
@@ -4537,6 +4727,7 @@
 				"rank": 4,
 				"ratings": 9,
 				"score": 3.861,
+				"ilscore": 81,
 				"t_publish_diff": -54427000
 			},
 			{
@@ -4556,6 +4747,7 @@
 				"rank": 7,
 				"ratings": 37,
 				"score": 4.007,
+				"ilscore": 298,
 				"t_publish_diff": -159575000
 			}
 		]
@@ -4582,7 +4774,8 @@
 				],
 				"rank": 5,
 				"ratings": 21,
-				"score": 4.083
+				"score": 4.083,
+				"ilscore": 228
 			},
 			{
 				"jam_type": "mini_jam",
@@ -4601,6 +4794,7 @@
 				"rank": 6,
 				"ratings": 9,
 				"score": 3.75,
+				"ilscore": 76,
 				"t_publish_diff": 111386000
 			}
 		]
@@ -4626,6 +4820,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.922,
+				"ilscore": 136,
 				"t_publish_diff": -63642000
 			},
 			{
@@ -4645,6 +4840,7 @@
 				"rank": 6,
 				"ratings": 19,
 				"score": 3.895,
+				"ilscore": 141,
 				"t_publish_diff": -35000000
 			}
 		]
@@ -4674,6 +4870,7 @@
 				"rank": 4,
 				"ratings": 8,
 				"score": 4.344,
+				"ilscore": 293,
 				"t_publish_diff": -30084000
 			},
 			{
@@ -4697,6 +4894,7 @@
 				"rank": 7,
 				"ratings": 25,
 				"score": 3.46,
+				"ilscore": 80,
 				"t_publish_diff": -29872000
 			}
 		]
@@ -4726,6 +4924,7 @@
 				"rank": 4,
 				"ratings": 8,
 				"score": 4.344,
+				"ilscore": 293,
 				"t_publish_diff": -30084000
 			},
 			{
@@ -4749,6 +4948,7 @@
 				"rank": 7,
 				"ratings": 25,
 				"score": 3.46,
+				"ilscore": 80,
 				"t_publish_diff": -29872000
 			}
 		]
