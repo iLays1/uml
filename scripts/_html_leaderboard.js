@@ -55,8 +55,6 @@ async function create_html_file(page, num_of_page, num_of_jammer_per_page, jamme
 
 		str_html += SF.html_tag('a', 'Total ilScore:' + jammer.total_ilscore, 'class="total_ilscore"', 3);
 
-		str_html += html_rank_list(jammer.list_game_sorted);
-
 		str_html += html_game_list(jammer.list_game_sorted);
 	}
 
@@ -147,7 +145,7 @@ function html_table_title_row() {
 	str_html += SF.html_tag('span', 'Rk', 'class="rank" title="Rank"', 5);
 	str_html += SF.html_tag('span', 'Rt', 'class="ratings" title="Number of ratings"', 5);
 	str_html += SF.html_tag('span', 'Score', 'class="score"', 5);
-	str_html += SF.html_tag('span', 'ilScore', 'class="ilscore"', tabs);
+	str_html += SF.html_tag('span', 'ilScore', 'class="ilscore"', 5);
 	
 	return SF.html_tag('span', str_html, 'class="game"', 4, true);
 }
