@@ -122,12 +122,10 @@ function html_game_list(game_list) {
 
 		let ratings_html = SF.html_tag('span', game.ratings, 'class="ratings"', 6);
 
-		let score_html = SF.html_tag('span', game.score, 'class="score"', 6);
-
 		let ilscore_html = SF.html_tag('span', game.ilscore, 'class="ilscore"', 6);
 
 		let game_html = SF.html_tag('span', title_html + time_tag_html + by_list_html + jam_html 
-											+ rank_html + ratings_html + score_html + ilscore_html,
+											+ rank_html + ratings_html + ilscore_html,
 											'class="game"', 4, true);
 
 		game_list_inner_html += game_html;
@@ -144,7 +142,6 @@ function html_table_title_row() {
 	str_html += SF.html_tag('span', 'Jam', 'class="jam"', 5);
 	str_html += SF.html_tag('span', 'Rk', 'class="rank" title="Rank"', 5);
 	str_html += SF.html_tag('span', 'Rt', 'class="ratings" title="Number of ratings"', 5);
-	str_html += SF.html_tag('span', 'Score', 'class="score"', 5);
 	str_html += SF.html_tag('span', 'ilScore', 'class="ilscore"', 5);
 	
 	return SF.html_tag('span', str_html, 'class="game"', 4, true);
