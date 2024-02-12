@@ -112,11 +112,11 @@ function html_game_list(game_list) {
 
 function html_table_title_row() {
 	let str_html = '';
-	str_html += SF.html_tag('span', 'Rank', 'class="rank"', 5);
+	str_html += SF.html_tag('span', 'Rk', 'class="rank" title="Rank"', 5);
 	str_html += SF.html_tag('span', 'Title', 'class="title"', 5);
 	str_html += SF.html_tag('span', 'Time', 'class="time_tag"', 5);
 	str_html += SF.html_tag('span', 'By', 'class="by_list"', 5);
-	str_html += SF.html_tag('span', 'Rts', 'class="ratings" title="Number of ratings"', 5);
+	str_html += SF.html_tag('span', 'Rt', 'class="ratings" title="Number of ratings"', 5);
 	str_html += SF.html_tag('span', 'Score', 'class="score"', 5);
 	return SF.html_tag('span', str_html, 'class="game"', 4, true);
 }

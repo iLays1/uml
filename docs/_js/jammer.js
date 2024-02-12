@@ -94,8 +94,8 @@ function game_list_first_row(game_list) {
 	game.append(span('Time', 'time_tag'));
 	game.append(span('By', 'by_list'));
 	game.append(span('Jam', 'jam'));
-	game.append(span('Rnk', 'rank', 'Rank'));
-	game.append(span('Rts', 'ratings', 'Number of ratings'));
+	game.append(span('Rk', 'rank', 'Rank'));
+	game.append(span('Rt', 'ratings', 'Number of ratings'));
 	game.append(span('Score', 'score'));
 
 	game_list.append(game);

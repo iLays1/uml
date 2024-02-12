@@ -117,7 +117,7 @@ body {
 	display: inline-block;
 	border-radius: 2px;
 	box-shadow: rgba(0, 0, 0, 0.192) 0px 3px 5px;
-	left: calc(50vw - 1px);
+	left: calc(50vw);
 	transform: translateX(-50%);
 	padding-bottom: 15px;
 	padding-left: 20px;
@@ -220,6 +220,18 @@ body {
 	max-width: 35px;
 	min-width: 35px;
 	padding-right: 14px;
+}
+
+.game_list > .game:first-child .rank:after,
+.game_list > .game:first-child .ratings:after {
+	content: "🛈";
+	font-weight: normal;
+}
+
+.game_list > .game:first-child .rank,
+.game_list > .game:first-child .ratings {
+	position: relative;
+	bottom: 2px;
 }
 
 .score {

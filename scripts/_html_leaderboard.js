@@ -139,8 +139,8 @@ function html_table_title_row() {
 	str_html += SF.html_tag('span', 'Time', 'class="time_tag"', 5);
 	str_html += SF.html_tag('span', 'By', 'class="by_list"', 5);
 	str_html += SF.html_tag('span', 'Jam', 'class="jam"', 5);
-	str_html += SF.html_tag('span', 'Rnk', 'class="rank" title="Rank"', 5);
-	str_html += SF.html_tag('span', 'Rts', 'class="ratings" title="Number of ratings"', 5);
+	str_html += SF.html_tag('span', 'Rk', 'class="rank" title="Rank"', 5);
+	str_html += SF.html_tag('span', 'Rt', 'class="ratings" title="Number of ratings"', 5);
 	str_html += SF.html_tag('span', 'Score', 'class="score"', 5);
 	return SF.html_tag('span', str_html, 'class="game"', 4, true);
 }
